@@ -1,9 +1,9 @@
 ---
 name: John Bosco
+summary: "Priest of Turin who founded the Salesians and the oratories of Valdocco, educating poor and abandoned boys through reason, religion, and kindness."
 stub: false
 honorific: Saint
 title: Priest, Founder
-summary: ''
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Don_Bosco_%2540_Torino%252C_1880_%2528original%2529.jpg?width=600
 imageAlt: Portrait of John Bosco
 imageCredit: >-

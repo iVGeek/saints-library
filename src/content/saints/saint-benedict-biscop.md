@@ -30,11 +30,7 @@ religiousOrder: Benedictine
 patronage:
   - musicians
   - painters
-  - –
-  - |-
-    in England
-
-    English Benedictines
+  - English Benedictines
   - Jarrow
   - Monkwearmouth
   - Sunderland

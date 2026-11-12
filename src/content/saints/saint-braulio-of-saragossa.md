@@ -25,10 +25,7 @@ vocation:
   - Deacon
   - Confessor
 patronage:
-  - |-
-    in Spain
-
-    Aragon
+  - Aragon
   - Saragossa
   - University of Zaragoza
 martyr: false

@@ -10,9 +10,8 @@ image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Aimée-Adèle-
 searchAliases:
   - Amata Adele
   - Marta
-  - |-
-    Martha
-    Marthe
+  - Martha
+  - Marthe
 birthYear: 1816
 deathYear: 1883
 born: 2 December 1816 in Percy, France as Aimée-Adèle

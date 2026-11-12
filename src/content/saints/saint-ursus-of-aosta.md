@@ -28,17 +28,12 @@ patronage:
   - against rheumatism
   - children who die before Baptism
   - invoked in childbirth
-  - –
   - against abuse by the powerful
   - against drought
   - against floods
   - against livestock diseases
   - against storms
-  - –
-  - |-
-    in France
-
-    Barcelonnette
+  - Barcelonnette
 martyr: false
 prayers: []
 ---

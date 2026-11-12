@@ -44,17 +44,12 @@ patronage:
   - grain
   - harvested crops
   - husbandmen
-  - —
   - Cattaro, Dalmatia
   - Iznik, Turkey
   - Kotor, Montenegro
   - Moscow, Russia
   - Nicaea, Bithynia
-  - –
-  - |-
-    in Italy
-
-    Adelfia
+  - Adelfia
   - Alessandria
   - Alessano
   - Borgo Libertà

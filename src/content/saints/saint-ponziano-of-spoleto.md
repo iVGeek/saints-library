@@ -19,7 +19,6 @@ vocation:
   - Monk
 patronage:
   - against earthquakes
-  - —
   - Spoleto, Italy
   - Utrecht, Netherlands
 martyr: true

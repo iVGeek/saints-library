@@ -31,9 +31,7 @@ patronage:
   - candlemakers
   - chandlers
   - wax-melters
-  - |-
-    wax refiners
-    –
+  - wax refiners
   - Gibraltar
   - Binangonan, Rizal, Philippines
   - Cistercian Order
@@ -43,11 +41,7 @@ patronage:
   - Pelplin, Poland, diocese of
   - Queens College, Cambridge, England
   - Speyer Cathedral
-  - –
-  - |-
-    in France
-
-    Burgundy
+  - Burgundy
   - Pontigny
 martyr: false
 prayers: []

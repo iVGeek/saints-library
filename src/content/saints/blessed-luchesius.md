@@ -26,9 +26,8 @@ vocation:
 religiousOrder: Franciscan
 patronage:
   - death of children
-  - |-
-    lost vocations
-    Poggibonsi, Italy
+  - lost vocations
+  - Poggibonsi, Italy
 martyr: false
 prayers: []
 ---

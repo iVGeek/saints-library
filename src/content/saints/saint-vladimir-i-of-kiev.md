@@ -30,9 +30,7 @@ patronage:
   - converts
   - parents of large families
   - reformed and penitent murderers
-  - —
   - Russia
-  - –
   - Kiev, Ukraine
   - Ukrainian Catholic Diocese of Stamford, Connecticut, United States
   - Winnipeg, Manitoba, archeparchy of

@@ -37,11 +37,7 @@ patronage:
   - children learning to walk
   - fishermen
   - newborn babies
-  - —
-  - |-
-    in Italy
-
-    Ambivere
+  - Ambivere
   - Aviano
   - Bolbeno
   - Boldeniga

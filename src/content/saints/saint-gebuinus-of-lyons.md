@@ -16,7 +16,6 @@ vocation:
   - Bishop
 patronage:
   - against kidney stones
-  - –
   - cathedral chapter of Langres
 martyr: false
 prayers: []

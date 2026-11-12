@@ -25,10 +25,7 @@ vocation:
   - Confessor
 religiousOrder: Franciscan
 patronage:
-  - |-
-    in England
-
-    Evesham
+  - Evesham
   - Worcester
 martyr: false
 prayers: []

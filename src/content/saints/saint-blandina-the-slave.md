@@ -26,11 +26,7 @@ patronage:
   - girls
   - servants
   - torture victims
-  - –
-  - |-
-    in France
-
-    Lyon
+  - Lyon
   - Vienne
 martyr: true
 prayers: []

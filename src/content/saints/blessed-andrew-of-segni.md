@@ -29,7 +29,6 @@ vocation:
 religiousOrder: Franciscan
 patronage:
   - against demons
-  - –
   - Villamagna, Bagno a Ripoli, Italy
 martyr: false
 prayers: []

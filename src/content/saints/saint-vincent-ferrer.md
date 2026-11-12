@@ -26,22 +26,15 @@ vocation:
 religiousOrder: Franciscan
 patronage:
   - against epilepsy
-  - –
   - brick makers
   - builders
   - construction workers
   - pavement workers
   - plumbers
-  - |-
-    tile makers
-    –
+  - tile makers
   - Bayombong, Philippines, diocese of
   - Orihuela-Alicante, Spain, diocese of
-  - –
-  - |-
-    in France
-
-    Vannes
+  - Vannes
 martyr: false
 prayers: []
 ---

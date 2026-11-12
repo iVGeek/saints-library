@@ -32,7 +32,6 @@ patronage:
   - against evil spirits
   - Crusaders
   - soldiers
-  - –
   - Belgrade, Serbia
   - Salonica, Greece
   - Thessaloniki, Greece

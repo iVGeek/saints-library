@@ -23,10 +23,7 @@ vocation:
   - Monk
 patronage:
   - betrayal victims (his location was betrayed to his murders by a one of his supposedly loyal nobles)
-  - |-
-    in England
-
-    Gilling Abbey
+  - Gilling Abbey
   - Newcastle
   - Tynemouth
 martyr: false

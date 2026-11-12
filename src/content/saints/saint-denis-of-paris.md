@@ -33,11 +33,9 @@ patronage:
   - against rabies
   - against strife
   - possessed people
-  - –
   - France
   - Paris, France, archdiocese of
   - Paris, France, city of
-  - –
   - Crotone, Italy
 martyr: true
 prayers: []

@@ -27,7 +27,6 @@ vocation:
   - Missionary
 patronage:
   - Bobbio, Italy (proclaimed on 7 December 1963 by Pope Paul VI)
-  - –
   - Missionaries of Saint Alphonsus
   - Oblates of Saint Alphonsus
   - Sisters of Our Lady of the Garden

@@ -39,10 +39,7 @@ vocation:
   - Priest
   - Hermit
 patronage:
-  - |-
-    in France
-
-    Ivry-sur-Seine
+  - Ivry-sur-Seine
   - Saint-Fraimbault-de-Prières
 martyr: false
 prayers: []

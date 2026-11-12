@@ -29,12 +29,8 @@ religiousOrder: Franciscan
 patronage:
   - against floods
   - motorcyclists
-  - –
   - Missionary Society of Saint Columban
-  - |-
-    in France
-
-    Luxeuil Abbey
+  - Luxeuil Abbey
   - Luxeuil-les-Bains
 martyr: false
 prayers: []

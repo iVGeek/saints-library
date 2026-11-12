@@ -23,11 +23,7 @@ vocation:
 religiousOrder: Dominican
 patronage:
   - first communicants (named by Pope Saint Pius X)
-  - –
-  - |-
-    in Italy
-
-    Bologna
+  - Bologna
   - Valdipietra
 martyr: false
 prayers: []

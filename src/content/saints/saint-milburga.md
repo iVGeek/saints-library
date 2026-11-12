@@ -29,11 +29,7 @@ vocation:
 religiousOrder: Benedictine
 patronage:
   - birds
-  - –
-  - |-
-    in England
-
-    Much Wenlock
+  - Much Wenlock
   - Stoke St. Milborough
 martyr: false
 prayers: []

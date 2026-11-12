@@ -20,7 +20,6 @@ patronage:
   - vintners
   - wine growers
   - wine makers
-  - –
   - Cluny, France
 martyr: false
 prayers: []

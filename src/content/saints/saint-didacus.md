@@ -32,7 +32,6 @@ religiousOrder: Franciscan
 patronage:
   - Franciscan laity
   - Franciscan lay brothers
-  - –
   - Alcalá, Spain
   - Gumaca, Philippines, diocese of
   - San Diego, California, diocese of

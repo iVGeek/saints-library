@@ -40,9 +40,7 @@ patronage:
   - stone masons
   - stonecutters
   - surveyors
-  - |-
-    theologians
-    –
+  - theologians
   - Ceylon
   - East Indies
   - India
@@ -52,10 +50,7 @@ patronage:
   - Singapore
   - Sri Lanka
   - Saint Thomas the Apostle of Melbourne, Syro-Malabar diocese of
-  - |-
-    in India
-
-    Bathery, India, diocese of
+  - Bathery, India, diocese of
   - Belthangady, diocese of
   - Kottapuram, diocese of
 martyr: true

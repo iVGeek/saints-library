@@ -19,10 +19,7 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - |-
-    in France
-
-    Avignon
+  - Avignon
   - Die
 martyr: false
 prayers: []

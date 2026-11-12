@@ -18,7 +18,6 @@ vocation:
   - Soldier
 patronage:
   - soldiers
-  - –
 martyr: true
 prayers: []
 ---

@@ -24,7 +24,6 @@ vocation:
 patronage:
   - computer programmers
   - computer users
-  - –
   - World Youth Day 2023
 martyr: false
 prayers: []

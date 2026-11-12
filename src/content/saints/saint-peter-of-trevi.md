@@ -18,7 +18,6 @@ vocation:
   - Monk
 patronage:
   - against wolves
-  - –
   - Subiaco, Italy
   - Trevi, Italy
 martyr: false

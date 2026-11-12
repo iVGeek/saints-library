@@ -24,7 +24,6 @@ vocation:
   - Virgin
 patronage:
   - against fever
-  - —
   - Sainte-Verge, France
 martyr: false
 prayers: []

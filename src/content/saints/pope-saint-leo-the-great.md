@@ -24,11 +24,7 @@ religiousOrder: Franciscan
 patronage:
   - choristers
   - musicians
-  - –
-  - |-
-    in Italy
-
-    Castellana Grotte
+  - Castellana Grotte
   - Ponteginori
   - Volterra, diocese of
 martyr: false

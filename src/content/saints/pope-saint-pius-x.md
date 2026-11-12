@@ -34,7 +34,6 @@ religiousOrder: Franciscan
 patronage:
   - first communicants
   - pilgrims
-  - –
   - Aracaju, Brazil, archdiocese of
   - Atlanta, Georgia, archdiocese of
   - Des Moines, Iowa, diocese of
@@ -44,12 +43,8 @@ patronage:
   - Springfield-Cape Girardeau, Missouri, diocese of
   - Treviso, Italy, diocese of
   - Zamboanga, Philippines, archdiocese of
-  - –
   - Santa Lucija, Malta
-  - |-
-    in Italy
-
-    Piragineti
+  - Piragineti
   - Venice
 martyr: false
 prayers: []

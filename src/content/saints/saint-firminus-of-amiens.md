@@ -31,11 +31,7 @@ vocation:
 patronage:
   - against erysipelas
   - barrel makers, coopers
-  - –
-  - |-
-    in France
-
-    Amiens, city of
+  - Amiens, city of
   - Amiens, diocese of
 martyr: true
 prayers: []

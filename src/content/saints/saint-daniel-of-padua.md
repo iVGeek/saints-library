@@ -23,7 +23,6 @@ patronage:
   - lost articles
   - prisoners
   - women whose husbands are at war
-  - –
   - Padua, Italy
 martyr: false
 prayers: []

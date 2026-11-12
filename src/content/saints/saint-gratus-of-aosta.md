@@ -31,12 +31,8 @@ patronage:
   - insectophobics
   - vineyards
   - vintners
-  - —
   - Albertville, France
-  - |-
-    in Italy
-
-    Ala di Stura
+  - Ala di Stura
   - Aosta, city of
   - Aosta, diocese of
   - Conflans

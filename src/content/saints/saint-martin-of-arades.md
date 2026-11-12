@@ -21,11 +21,7 @@ vocation:
 patronage:
   - against gout
   - against paralysis
-  - –
-  - |-
-    in France
-
-    Aixe-sur-Vienne
+  - Aixe-sur-Vienne
   - Saint-Priest-sous-Aixe
 martyr: false
 prayers: []

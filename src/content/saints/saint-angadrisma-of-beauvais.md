@@ -34,7 +34,6 @@ patronage:
   - against drought
   - against fire
   - against slander
-  - —
   - Beauvais, France, city of
   - Beauvais-Noyon-Senlis, France, Diocese of
 martyr: false

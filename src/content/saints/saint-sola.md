@@ -25,10 +25,7 @@ vocation:
   - Monk
   - Hermit
 patronage:
-  - |-
-    in Germany
-
-    Eichstätt
+  - Eichstätt
   - Solnhofen
 martyr: false
 prayers: []

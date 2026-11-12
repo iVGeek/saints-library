@@ -30,15 +30,11 @@ patronage:
   - linen weavers
   - prisoners
   - vineyards
-  - –
   - Austria
-  - –
   - Bavaria, Germany
   - Linz, Austria, diocese of
-  - |-
-    Italy
-
-    Naples
+  - Italy
+  - Naples
   - San Severino, Centola
   - San Severo
 martyr: false

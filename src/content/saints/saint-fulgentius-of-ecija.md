@@ -24,10 +24,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 patronage:
-  - |-
-    in Spain
-
-    Cartagena, diocese of
+  - Cartagena, diocese of
   - San Fulgencio
   - Seville
 martyr: false

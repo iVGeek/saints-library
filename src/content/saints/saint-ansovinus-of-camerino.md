@@ -29,7 +29,6 @@ vocation:
 patronage:
   - gardeners
   - protection of crops
-  - –
   - Camerino, Italy, city of
   - Camerino-San Severino Marche, Italy, diocese of
 martyr: false

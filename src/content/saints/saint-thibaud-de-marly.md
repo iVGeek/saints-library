@@ -21,10 +21,7 @@ vocation:
   - Monk
   - Soldier
 patronage:
-  - |-
-    in England
-
-    Hemel Hempstead
+  - Hemel Hempstead
 martyr: false
 prayers: []
 ---

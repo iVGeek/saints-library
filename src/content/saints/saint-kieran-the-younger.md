@@ -34,10 +34,7 @@ vocation:
   - Monk
   - Hermit
 patronage:
-  - |-
-    in Ireland
-
-    Clonmacnoise Abbey
+  - Clonmacnoise Abbey
   - Clonmacnoise, diocese of
 martyr: false
 prayers: []

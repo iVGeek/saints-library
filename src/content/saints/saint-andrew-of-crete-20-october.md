@@ -8,9 +8,8 @@ summary: >-
   before the emperor himself. Martyr.
 searchAliases:
   - Andrew the Calybite
-  - |-
-    Andrea il Calibita
-    Andrea in Crisi
+  - Andrea il Calibita
+  - Andrea in Crisi
 deathYear: 763
 born: Crete
 died: tortured and flogged to death c.763 in Constantinople

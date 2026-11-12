@@ -25,15 +25,11 @@ vocation:
 religiousOrder: Franciscan
 patronage:
   - against intestinal problems
-  - –
   - Banja Luka, Bosnia and Herzegovina
   - Cochiti Indian Pueblo
   - Lyon, France
   - Saint Bonaventure University, New York
-  - |-
-    in Italy
-
-    Bagnoregio
+  - Bagnoregio
   - Viterbo
 martyr: false
 prayers: []

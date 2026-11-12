@@ -25,10 +25,7 @@ vocation:
   - Monk
 religiousOrder: Benedictine
 patronage:
-  - |-
-    in Germany
-
-    Constance
+  - Constance
   - Sankt-Blasien
 martyr: false
 prayers: []

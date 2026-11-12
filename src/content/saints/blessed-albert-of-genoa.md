@@ -28,7 +28,6 @@ vocation:
 religiousOrder: Benedictine
 patronage:
   - barrel makers, coopers
-  - –
   - Sestri Ponente, Italy
 martyr: false
 prayers: []

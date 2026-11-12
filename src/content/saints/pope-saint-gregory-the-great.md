@@ -51,10 +51,8 @@ patronage:
   - Legazpi, Philippines, diocese of
   - Order of Knights of Saint Gregory
   - Kercem, Malta
-  - |-
-    locations in Italy
-
-    Consiglio di Rumo
+  - locations in Italy
+  - Consiglio di Rumo
   - Manduria
   - Montone
   - San Gregorio nelle Alpi

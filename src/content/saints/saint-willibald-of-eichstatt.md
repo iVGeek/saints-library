@@ -26,10 +26,7 @@ vocation:
   - Confessor
 religiousOrder: Jesuit
 patronage:
-  - |-
-    in England
-
-    Bishop's Waltham
+  - Bishop's Waltham
   - Wimborne
 martyr: false
 prayers: []

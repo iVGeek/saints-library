@@ -21,7 +21,6 @@ patronage:
   - against colic
   - against gout
   - against toothache
-  - –
   - cattle
   - for peace in the family
 martyr: false

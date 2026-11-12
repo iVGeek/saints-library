@@ -50,10 +50,7 @@ patronage:
   - to obtain lodging while travelling
   - travellers
   - widows
-  - |-
-    in Belgium
-
-    Landen
+  - Landen
   - Nivelles
   - Wetteren
   - Zandvliet

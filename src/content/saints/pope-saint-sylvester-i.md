@@ -28,13 +28,8 @@ patronage:
   - animals
   - for good harvests
   - stone masons
-  - —
   - Order of Saint Sylvester
-  - —
-  - |-
-    in Italy
-
-    Barberino di Mugello
+  - Barberino di Mugello
   - Branca
   - Calvisano
   - Castroreale

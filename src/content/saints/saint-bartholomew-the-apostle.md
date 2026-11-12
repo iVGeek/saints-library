@@ -31,7 +31,6 @@ patronage:
   - against neurological diseases
   - against skin diseases
   - against twitching
-  - –
   - bakers
   - bookbinders
   - butchers
@@ -54,17 +53,13 @@ patronage:
   - trappers
   - winemakers
   - whiteners
-  - —
   - Aeolian Islands
   - Armenia
   - Azerbaijan
   - Merksem, Belgium
   - Potosí, Bolivia
   - Plzen, Czech Republic
-  - |-
-    in Germany
-
-    Altenburg
+  - Altenburg
   - Frankfurt am Main
 martyr: true
 prayers: []

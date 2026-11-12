@@ -42,7 +42,6 @@ vocation:
 religiousOrder: Benedictine
 patronage:
   - salmon
-  - –
   - Carlisle, England
   - Glasgow, Scotland
   - Liverpool, England, archdiocese of

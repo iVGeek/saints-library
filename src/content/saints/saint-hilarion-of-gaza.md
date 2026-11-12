@@ -22,7 +22,6 @@ vocation:
 religiousOrder: Franciscan
 patronage:
   - hermits
-  - –
   - Caulonia, Italy
   - Cyprus
 martyr: false

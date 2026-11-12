@@ -24,7 +24,6 @@ patronage:
   - against epilepsy
   - against plague
   - epileptics
-  - –
   - arms dealers
   - arms manufacturers
   - blacksmiths
@@ -33,9 +32,7 @@ patronage:
   - prison guards
   - royal guards, palace guards
   - soldiers
-  - –
   - Germany
-  - –
   - Flanders, Belgium
   - Lisbon, Portugal
   - Metalica, Italy

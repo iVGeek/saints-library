@@ -30,7 +30,6 @@ patronage:
   - clergy
   - missionaries
   - parish missions (proclaimed on 17 March 1923 by Pope Pius XI)
-  - –
   - Imperia, Italy
 martyr: false
 prayers: []

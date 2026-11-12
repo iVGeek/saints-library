@@ -20,10 +20,7 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - |-
-    in Italy
-
-    Bizzarone
+  - Bizzarone
   - Casale Monferrato, city of
   - Casale Monferrato, diocese of
   - Pedrengo

@@ -19,7 +19,6 @@ vocation:
 patronage:
   - against diseases of cattle
   - against theft
-  - —
   - Edigna Association
   - Edigna Games event
   - Puch, Germany

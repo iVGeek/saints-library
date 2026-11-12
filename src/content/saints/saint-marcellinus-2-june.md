@@ -20,10 +20,7 @@ vocation:
   - Monk
 religiousOrder: Franciscan
 patronage:
-  - |-
-    in Germany
-
-    Seligenstadt
+  - Seligenstadt
 martyr: true
 prayers: []
 ---

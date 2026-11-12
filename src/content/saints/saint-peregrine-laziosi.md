@@ -36,7 +36,6 @@ patronage:
   - AIDS patients
   - cancer patients
   - sick people
-  - —
   - Forli-Bertinoro, Italy, diocese of
   - Forli, Italy
 martyr: false

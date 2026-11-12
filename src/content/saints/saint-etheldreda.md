@@ -34,11 +34,7 @@ patronage:
   - neck ailments
   - throat ailments
   - widows
-  - –
-  - |-
-    in England
-
-    Cambridge, city of
+  - Cambridge, city of
   - Ely
   - University of Cambridge
 martyr: false

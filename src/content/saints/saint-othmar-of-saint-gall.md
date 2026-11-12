@@ -26,7 +26,6 @@ vocation:
 religiousOrder: Benedictine
 patronage:
   - against slander
-  - –
   - St Gallen, Switzerland
 martyr: false
 prayers: []

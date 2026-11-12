@@ -23,10 +23,7 @@ vocation:
   - Monk
   - Religious
 patronage:
-  - |-
-    in Italy
-
-    Ischia
+  - Ischia
   - Lacco Ameno
   - Naples
 martyr: true

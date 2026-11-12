@@ -28,10 +28,7 @@ vocation:
   - Monk
   - Confessor
 patronage:
-  - |-
-    in Ireland
-
-    Dromore, city of
+  - Dromore, city of
   - Dromore, diocese of
 martyr: false
 prayers: []

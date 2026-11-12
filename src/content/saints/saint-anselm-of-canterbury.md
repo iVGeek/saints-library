@@ -30,10 +30,7 @@ vocation:
 religiousOrder: Franciscan
 patronage:
   - Canterbury, England
-  - |-
-    in Italy
-
-    Aosta
+  - Aosta
   - Turin
 martyr: false
 prayers: []

@@ -31,7 +31,6 @@ vocation:
 patronage:
   - converts
   - torture victims
-  - –
   - Riva presso Chieri, Italy
 martyr: true
 prayers: []

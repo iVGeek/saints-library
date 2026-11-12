@@ -8,9 +8,8 @@ summary: >-
   villagers prayed for the protection of their lost sons.
 image: https://catholicsaints.info/wp-content/uploads/img-Nino-de-Atocha.jpg
 searchAliases:
-  - |-
-    Child of Atocha
-    Infant of Atocha
+  - Child of Atocha
+  - Infant of Atocha
 region: Mexico
 feastDay:
   month: 1

@@ -22,7 +22,6 @@ patronage:
   - for the healing of livestock
   - musicians
   - musical instrument makers
-  - –
   - Arnoldsweiler, Germany
 martyr: false
 prayers: []

@@ -19,10 +19,8 @@ canonizationStatus: Saint
 vocation:
   - Hermit
 patronage:
-  - |-
-    Dioceses
-
-    Sant'Angelo dei Lombardi–Conza–Nusco–Bisaccia, Italy
+  - Dioceses
+  - Sant'Angelo dei Lombardi–Conza–Nusco–Bisaccia, Italy
   - Sulmona-Valva, Italy
 martyr: true
 prayers: []

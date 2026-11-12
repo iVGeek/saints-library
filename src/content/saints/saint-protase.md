@@ -23,11 +23,7 @@ vocation:
 patronage:
   - for the discovery of thieves
   - haymakers
-  - —
-  - |-
-    in France
-
-    Soissons, diocese of
+  - Soissons, diocese of
 martyr: true
 prayers: []
 ---

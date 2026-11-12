@@ -47,16 +47,11 @@ patronage:
   - prisoners
   - sick people
   - tertiaries
-  - –
   - New Oleans, Louisiana, archdiocese of
   - Québec, Québec, archdiocese of
   - Saint Louis, Missouri, archdiocese of
   - Versailles, France, diocese of
-  - –
-  - |-
-    in Argentina
-
-    San Luis
+  - San Luis
 martyr: false
 prayers: []
 ---

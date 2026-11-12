@@ -20,11 +20,7 @@ vocation:
   - Missionary
 patronage:
   - against epidemics
-  - –
-  - |-
-    in France
-
-    Avignon
+  - Avignon
   - Cahors
   - Limoges
 martyr: false

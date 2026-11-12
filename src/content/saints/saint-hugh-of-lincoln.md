@@ -29,7 +29,6 @@ patronage:
   - sick children
   - sick people
   - swans
-  - –
   - Avalon, France
   - Lincoln, England
   - Nottingham, England, diocese of

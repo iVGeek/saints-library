@@ -39,7 +39,6 @@ patronage:
   - maids
   - manservants
   - servants
-  - –
   - Burgos, Spain
   - La Chaise-Dieu, France
 martyr: false

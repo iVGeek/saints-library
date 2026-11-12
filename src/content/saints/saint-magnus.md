@@ -21,10 +21,7 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - |-
-    in Italy
-
-    Citta Nuova
+  - Citta Nuova
   - Oderzo
   - Venice
 martyr: false

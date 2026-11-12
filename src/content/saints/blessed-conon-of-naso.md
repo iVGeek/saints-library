@@ -29,7 +29,6 @@ vocation:
 patronage:
   - against ear problems
   - against nose problems
-  - —
   - Naso, Italy
   - San Cono, Italy
 martyr: false

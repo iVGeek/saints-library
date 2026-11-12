@@ -22,7 +22,6 @@ vocation:
   - Monk
 patronage:
   - conscientious objectors
-  - –
   - León, Spain (an early version of his story gave this as the site of his martyrdom)
 martyr: false
 prayers: []

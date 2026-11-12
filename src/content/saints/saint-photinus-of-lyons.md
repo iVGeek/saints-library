@@ -25,10 +25,7 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - |-
-    in France
-
-    Lyon, archdiocese of
+  - Lyon, archdiocese of
   - Lyon, city of
 martyr: false
 prayers: []

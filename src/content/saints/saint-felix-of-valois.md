@@ -26,11 +26,7 @@ vocation:
 religiousOrder: Dominican
 patronage:
   - captives; prisoners
-  - –
-  - |-
-    in France
-
-    Meaux
+  - Meaux
   - Valois
 martyr: false
 prayers: []

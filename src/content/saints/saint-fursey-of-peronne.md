@@ -32,10 +32,7 @@ vocation:
   - Monk
 religiousOrder: Benedictine
 patronage:
-  - |-
-    in England
-
-    Burgh Castle Abbey
+  - Burgh Castle Abbey
 martyr: false
 prayers: []
 ---

@@ -24,10 +24,7 @@ vocation:
   - Deacon
   - Confessor
 patronage:
-  - |-
-    in Italy
-
-    Asolo
+  - Asolo
   - Cittadella
   - Padua, city of
   - Padua, diocese of

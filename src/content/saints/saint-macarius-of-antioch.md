@@ -31,7 +31,6 @@ vocation:
 religiousOrder: Benedictine
 patronage:
   - against plague
-  - —
   - Andorra
   - Ghent, Belgium
 martyr: false

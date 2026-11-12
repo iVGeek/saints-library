@@ -40,7 +40,6 @@ patronage:
   - sick people
   - skaters
   - skating
-  - —
   - Schiedam, Netherlands
 martyr: false
 prayers: []

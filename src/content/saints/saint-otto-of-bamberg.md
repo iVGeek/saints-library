@@ -33,11 +33,7 @@ patronage:
   - against hydrophobia
   - against mad dogs
   - against rabies
-  - –
-  - |-
-    in Germany
-
-    Bamberg, archdiocese of
+  - Bamberg, archdiocese of
   - Bamberg, city of
 martyr: false
 prayers: []

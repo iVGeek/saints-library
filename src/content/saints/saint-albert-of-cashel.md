@@ -25,7 +25,6 @@ vocation:
   - Monk
 patronage:
   - against arthritis
-  - —
   - Cashel, Ireland
   - Cashel and Emly, Ireland, Archdiocese of
 martyr: false

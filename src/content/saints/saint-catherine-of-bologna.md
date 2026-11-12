@@ -32,11 +32,7 @@ patronage:
   - artists
   - liberal arts
   - painters
-  - –
-  - |-
-    in Italy
-
-    Bologna, city of
+  - Bologna, city of
   - Bologna Academy of Art
 martyr: false
 prayers: []

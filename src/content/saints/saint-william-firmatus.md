@@ -22,11 +22,7 @@ vocation:
   - Hermit
 patronage:
   - against headache
-  - –
-  - |-
-    in France
-
-    Mantilly
+  - Mantilly
   - Savigny, Manche
 martyr: false
 prayers: []

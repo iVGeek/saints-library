@@ -31,11 +31,7 @@ patronage:
   - nurses
   - poor people
   - ship captains
-  - –
-  - |-
-    in Switzerland
-
-    Basel, diocese of
+  - Basel, diocese of
   - Zurich
 martyr: true
 prayers: []

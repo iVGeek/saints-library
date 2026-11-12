@@ -40,7 +40,6 @@ patronage:
   - printers
   - stenographers
   - torture victims
-  - –
   - Sint-Genesius-Rode, Belgium
 martyr: true
 prayers: []

@@ -27,10 +27,7 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - |-
-    in Italy
-
-    Cittanova, Veneto
+  - Cittanova, Veneto
   - Oderzo, city of
   - Oderzo, diocese of
   - Vittorio Veneto, city of

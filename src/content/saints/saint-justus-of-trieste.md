@@ -19,10 +19,7 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - |-
-    in Croatia
-
-    Albona
+  - Albona
 martyr: true
 prayers: []
 ---

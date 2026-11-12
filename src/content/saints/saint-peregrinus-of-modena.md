@@ -22,11 +22,7 @@ vocation:
   - Hermit
 patronage:
   - pilgrims
-  - –
-  - |-
-    in Italy
-
-    Casola in Lunigiana
+  - Casola in Lunigiana
   - Lucca
   - Modena
 martyr: false

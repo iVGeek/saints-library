@@ -25,7 +25,6 @@ vocation:
 patronage:
   - carters
   - wheelwrights
-  - –
   - Schöningen, Germany
 martyr: false
 prayers: []

@@ -44,10 +44,7 @@ patronage:
   - Azores
   - Badajoz, Spain
   - Saint-Bonnet-de-Vieille-Vigne, France
-  - |-
-    in Italy
-
-    Aci Castello
+  - Aci Castello
   - Casoria
   - Castelnuovo Parano
   - Cesena

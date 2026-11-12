@@ -29,7 +29,6 @@ patronage:
   - cooks
   - Eucharistic congresses, confraternities and organizations (proclaimed by Pope Leo XIII on 28 November 1897)
   - shepherds
-  - –
   - Bisenti, Italy
   - Castelnuovo, Assisi, Italy
   - Montebello, Orciano di Pesaro, Italy

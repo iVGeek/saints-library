@@ -31,7 +31,6 @@ patronage:
   - sawyers
   - tanners
   - woodcutters
-  - —
   - Cartigliano, Italy
   - Marostica, Italy
   - Monterchi, Italy

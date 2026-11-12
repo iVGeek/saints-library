@@ -22,10 +22,7 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - |-
-    in Italy
-
-    Cuneo-Fossano, diocese of
+  - Cuneo-Fossano, diocese of
   - Fossano, city of
   - Narni, city of
   - Terni-Narni-Amelia, diocese of

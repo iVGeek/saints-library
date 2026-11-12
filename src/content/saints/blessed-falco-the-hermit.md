@@ -5,9 +5,8 @@ honorific: Blessed
 summary: Hermit in the Abruzzi region of Italy.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Falco-the-Hermit.jpg
 searchAliases:
-  - |-
-    Falco of Palena
-    Falcon…
+  - Falco of Palena
+  - Falcon…
 deathYear: 1440
 born: in the Calabria region of Italy
 died: 1440 of natural causes

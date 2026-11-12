@@ -16,10 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 patronage:
-  - |-
-    in Italy
-
-    Giglio Island
+  - Giglio Island
   - Palermo, archdiocese of
   - Pitigliano-Sovana-Orbetello, diocese of
 martyr: false

@@ -29,7 +29,6 @@ patronage:
   - exiles
   - people rejected by religious orders
   - tertiaries
-  - –
   - Alcolea, Spain
   - Viterbo, Italy
 martyr: false

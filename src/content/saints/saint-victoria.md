@@ -23,11 +23,7 @@ patronage:
   - against earthquakes
   - against lightning
   - against severe weather
-  - —
-  - |-
-    in Italy
-
-    Aggius
+  - Aggius
   - Anticoli Corrado
   - Carsoli
   - Castilenti

@@ -26,10 +26,7 @@ vocation:
   - Religious
   - Hermit
 patronage:
-  - |-
-    in Italy
-
-    Faenza
+  - Faenza
   - Vallombrosa
 martyr: false
 prayers: []

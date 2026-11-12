@@ -25,11 +25,7 @@ patronage:
   - dairymaids
   - lepers
   - servants
-  - –
-  - |-
-    in Germany
-
-    Biberbach
+  - Biberbach
   - Eichstätt
   - Suffersheim
 martyr: false

@@ -27,7 +27,6 @@ patronage:
   - against dizziness, dizzy spells, or vertigo
   - against head problems
   - deaf people
-  - –
   - German Lorraine
   - German Moselle
 martyr: false

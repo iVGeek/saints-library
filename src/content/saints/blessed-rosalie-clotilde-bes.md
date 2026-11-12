@@ -5,9 +5,8 @@ honorific: Blessed
 summary: Sacramentine nun. Martyred in the French Revolution.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
 searchAliases:
-  - |-
-    Rosalia Clotilde di S. Pelagia Bès
-    Sister Saint Pelagia of Saint John the Baptist
+  - Rosalia Clotilde di S. Pelagia Bès
+  - Sister Saint Pelagia of Saint John the Baptist
 birthYear: 1753
 deathYear: 1794
 born: 30 June 1753 in Beaume-de-Transit, Drôme, France

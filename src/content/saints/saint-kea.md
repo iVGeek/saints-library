@@ -39,7 +39,6 @@ vocation:
 patronage:
   - against toothaches
   - cattle
-  - –
   - Landkey, England
 martyr: false
 prayers: []

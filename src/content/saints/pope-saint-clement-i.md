@@ -32,16 +32,11 @@ patronage:
   - sailors
   - sick children
   - stonecutters
-  - |-
-    watermen
-    —
+  - watermen
   - Aarhus, Denmark, diocese of
   - Dundee, Scotland
   - Steenwijk, Netherlands
-  - |-
-    in England
-
-    Worshipful Company of Bakers
+  - Worshipful Company of Bakers
   - Worshipful Company of Founders
 martyr: true
 prayers: []

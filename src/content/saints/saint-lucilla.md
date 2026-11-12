@@ -20,10 +20,7 @@ vocation:
   - Monk
   - Religious
 patronage:
-  - |-
-    in Italy
-
-    Arezzo
+  - Arezzo
   - Monte Amiata
   - Ostia
   - Torrita di Siena

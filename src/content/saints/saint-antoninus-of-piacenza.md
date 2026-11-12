@@ -20,10 +20,7 @@ vocation:
   - Monk
   - Soldier
 patronage:
-  - |-
-    in Italy
-
-    Bedonia
+  - Bedonia
   - Piacenza
   - Sant'Antonino
   - Travo

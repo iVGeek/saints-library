@@ -34,7 +34,6 @@ patronage:
   - kings
   - torture victims
   - wolves
-  - –
   - East Anglia, England
   - East Anglia, England, diocese of
   - England (former tradition)

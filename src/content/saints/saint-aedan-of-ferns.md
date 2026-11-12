@@ -36,10 +36,7 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - |-
-    in Ireland
-
-    Ferns, city of
+  - Ferns, city of
   - Ferns, diocese of
   - Wexford
 martyr: false

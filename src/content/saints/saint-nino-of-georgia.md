@@ -33,7 +33,6 @@ vocation:
   - Hermit
 patronage:
   - Congregation of the Sisters of Saint Christiana
-  - –
   - Georgia
   - Azov region of Russia
   - Caspian region of Russia

@@ -27,10 +27,7 @@ vocation:
   - Confessor
 religiousOrder: Franciscan
 patronage:
-  - |-
-    in England
-
-    Birmingham, archdiocese of
+  - Birmingham, archdiocese of
   - Lichfield, city of
   - Lichfield, diocese of
 martyr: true

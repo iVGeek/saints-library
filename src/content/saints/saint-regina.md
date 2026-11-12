@@ -26,7 +26,6 @@ patronage:
   - poor people
   - shepherdesses
   - torture victims
-  - –
   - Autun, France
 martyr: true
 prayers: []

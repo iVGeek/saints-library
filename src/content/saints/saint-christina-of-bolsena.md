@@ -24,11 +24,7 @@ patronage:
   - archers
   - mariners
   - millers
-  - –
-  - |-
-    in Italy
-
-    Bolsena
+  - Bolsena
   - Gallipoli
 martyr: true
 prayers: []

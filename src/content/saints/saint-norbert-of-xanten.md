@@ -29,13 +29,9 @@ religiousOrder: Franciscan
 patronage:
   - against birth complication
   - for peace
-  - –
   - Bohemia
   - Czech Republic
-  - |-
-    in Germany
-
-    Magdeburg, archdiocese of
+  - Magdeburg, archdiocese of
   - Magdeburg, city of
 martyr: false
 prayers: []

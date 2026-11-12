@@ -30,7 +30,6 @@ religiousOrder: Franciscan
 patronage:
   - for rain
   - Scicli, Italy
-  - –
   - for healing from hernia (local to Scicli)
   - against plague (local to Scicli)
 martyr: false

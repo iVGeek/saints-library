@@ -36,12 +36,8 @@ patronage:
   - lawyers
   - military chaplains (given by Pope John Paul II on 10 February 1984)
   - military ordinariate of the Philippines
-  - —
   - Belgrade, Serbia
-  - |-
-    in Italy
-
-    Capestrano
+  - Capestrano
   - Capistrano
 martyr: false
 prayers: []

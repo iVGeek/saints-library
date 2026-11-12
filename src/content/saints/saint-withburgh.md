@@ -26,10 +26,7 @@ vocation:
   - Monk
   - Religious
 patronage:
-  - |-
-    in England
-
-    Barsham
+  - Barsham
   - Burlingham
   - Burlingham Saint Andrew
   - East Dereham

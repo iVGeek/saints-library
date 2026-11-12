@@ -23,10 +23,7 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - |-
-    in Italy
-
-    Castel Volturno
+  - Castel Volturno
   - Marano di Napoli
   - Monreale, city of
   - Monreale, archdiocese of

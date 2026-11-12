@@ -24,7 +24,6 @@ vocation:
   - Religious
 patronage:
   - martyrs
-  - –
   - Córdoba, Spain
 martyr: true
 prayers: []

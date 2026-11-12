@@ -29,11 +29,7 @@ religiousOrder: Benedictine
 patronage:
   - for rain
   - musicians
-  - –
-  - |-
-    in France
-
-    Cluny
+  - Cluny
   - Tours
 martyr: false
 prayers: []

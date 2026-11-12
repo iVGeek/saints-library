@@ -29,11 +29,7 @@ vocation:
   - Priest
 patronage:
   - against cholera (his intercession ended an outbreak in 1851)
-  - —
-  - |-
-    in Italy
-
-    Acaya
+  - Acaya
   - Botrugno
   - Brindisi-Ostuni, diocese of
   - Campi Salentina

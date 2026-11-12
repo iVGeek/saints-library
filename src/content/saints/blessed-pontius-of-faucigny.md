@@ -8,9 +8,8 @@ summary: >-
   Augustinian rule. Founded a religious house in Sixt, Sa
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Pontius-of-Faucigny.jpg
 searchAliases:
-  - |-
-    Pontius of Sixt
-    Ponzio…
+  - Pontius of Sixt
+  - Ponzio…
 birthYear: 1100
 deathYear: 1179
 born: c.1100 in Faucigny, Savoy (in modern France)

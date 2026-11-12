@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Nowogrodek
+summary: "Eleven Sisters of the Holy Family of Nazareth executed by the Gestapo near Nowogródek in 1943 and beatified in 2000."
 stub: false
 honorific: Venerable
 image: https://catholicsaints.info/wp-content/uploads/img-martyrs-of-nowogrodek.jpg

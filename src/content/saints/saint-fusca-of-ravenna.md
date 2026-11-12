@@ -21,10 +21,8 @@ vocation:
   - Virgin
   - Monk
 patronage:
-  - |-
-    locations in Italy
-
-    Agrons, Ovaro
+  - locations in Italy
+  - Agrons, Ovaro
   - Altivole
   - Basaldella, Vivaro
   - Borgnano, Cormons

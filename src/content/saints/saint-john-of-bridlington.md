@@ -28,7 +28,6 @@ vocation:
 religiousOrder: Augustinian
 patronage:
   - women in difficult labour
-  - –
   - Bridlington, England
 martyr: false
 prayers: []

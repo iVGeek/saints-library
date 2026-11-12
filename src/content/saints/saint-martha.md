@@ -34,14 +34,9 @@ patronage:
   - servers
   - single laywomen
   - travellers
-  - –
   - Congregation of Martha and Mary (founded in 1979)
   - Worshipful Company of Environmental Cleaners
-  - –
-  - |-
-    in France
-
-    Aix-en-Provence
+  - Aix-en-Provence
   - Marseilles
   - Tarascon
 martyr: false

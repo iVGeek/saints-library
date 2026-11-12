@@ -65,11 +65,7 @@ patronage:
   - relief from pestilence
   - swineherds
   - Hospitallers
-  - –
-  - |-
-    in Brazil
-
-    Canas
+  - Canas
 martyr: false
 prayers: []
 ---

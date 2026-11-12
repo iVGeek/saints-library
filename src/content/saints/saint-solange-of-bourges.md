@@ -31,7 +31,6 @@ patronage:
   - rape victims
   - shepherdesses
   - shepherds
-  - –
   - Berry, France
   - Bourges, France, archdiocese of
   - Bourges, France, city of

@@ -37,11 +37,7 @@ patronage:
   - canonists
   - lawyers
   - medical record librarians
-  - –
-  - |-
-    in Spain
-
-    Barcelona
+  - Barcelona
   - Majorca
   - Navarre
 martyr: false

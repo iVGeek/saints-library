@@ -19,10 +19,7 @@ feastDay:
 canonizationStatus: Saint
 vocation: []
 patronage:
-  - |-
-    in Italy
-
-    Otranto, archdiocese
+  - Otranto, archdiocese
   - Otranto, city of
 martyr: true
 prayers: []

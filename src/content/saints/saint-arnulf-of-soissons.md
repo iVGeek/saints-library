@@ -35,7 +35,6 @@ patronage:
   - millers
   - music
   - to find lost articles
-  - –
   - Oudenburg, Belgium
 martyr: false
 prayers: []

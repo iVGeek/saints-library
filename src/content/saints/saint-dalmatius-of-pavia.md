@@ -23,10 +23,8 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - |-
-    locations in Italy
-
-    Castellinaldo d'Alba
+  - locations in Italy
+  - Castellinaldo d'Alba
   - Castiglione Torinese
   - Cogliate
   - Cuneo-Fossano, diocese of

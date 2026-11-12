@@ -25,7 +25,6 @@ vocation:
   - Confessor
 patronage:
   - against fire
-  - –
   - Aix-Arles, France, archdiocese of
   - Arles, France
   - Chalon-sur-Saône

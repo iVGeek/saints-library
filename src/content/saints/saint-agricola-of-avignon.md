@@ -31,7 +31,6 @@ patronage:
   - for rain
   - for good weather
   - storks
-  - —
   - Avignon, France, city of (proclaimed in 1647)
   - Avignon, France, archdiocese of
 martyr: false

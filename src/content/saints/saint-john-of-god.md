@@ -44,7 +44,6 @@ patronage:
   - publishers
   - printers
   - sick people (proclaimed on 22 June 1886 by Pope Leo XIII)
-  - –
   - Granada, Spain
   - Montemor-o-Novo, Portugal
   - Tultepec, Mexico

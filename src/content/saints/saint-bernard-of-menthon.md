@@ -38,7 +38,6 @@ patronage:
   - mountaineers
   - skiers
   - travellers in the mountains (proclaimed by Pope Pius XI on 20 August 1923)
-  - –
   - Alps and the people who live there (proclaimed by Pope Pius XI on 20 August 1923)
   - Campiglia Cervo, Italy
   - Menthon, France

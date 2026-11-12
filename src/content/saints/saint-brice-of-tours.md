@@ -29,12 +29,8 @@ vocation:
 patronage:
   - against colic
   - against stomach diseases
-  - –
   - Tours, France
-  - |-
-    in Italy
-
-    Calimera
+  - Calimera
   - Samperone
 martyr: false
 prayers: []

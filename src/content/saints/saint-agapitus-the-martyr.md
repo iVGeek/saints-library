@@ -22,13 +22,8 @@ vocation:
   - Priest
 religiousOrder: Jesuit
 patronage:
-  - |-
-    against colic
-    –
-  - |-
-    in Italy
-
-    Lombardore
+  - against colic
+  - Lombardore
   - Maggiora
   - Palestrina
   - Rocca Sinibalda

@@ -19,7 +19,6 @@ patronage:
   - martyrs
   - weavers
   - widows
-  - –
   - Borgorose, Italy
 martyr: true
 prayers: []

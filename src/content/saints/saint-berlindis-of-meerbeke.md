@@ -31,7 +31,6 @@ patronage:
   - cattle
   - gardeners
   - trees
-  - –
   - Meerbeke, Belgium
 martyr: false
 prayers: []

@@ -20,7 +20,6 @@ vocation:
   - Monk
 patronage:
   - against migraines
-  - –
   - Naples, Italy, archdiocese of
 martyr: false
 prayers: []

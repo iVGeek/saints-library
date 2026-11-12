@@ -35,7 +35,6 @@ patronage:
   - children
   - children late learning to walk
   - disabled people
-  - –
   - Arras, France, city of
   - Arras, Boulogne and Saint-Omer, France, diocese of
 martyr: false

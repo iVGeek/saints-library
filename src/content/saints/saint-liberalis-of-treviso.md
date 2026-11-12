@@ -25,10 +25,7 @@ vocation:
   - Hermit
   - Soldier
 patronage:
-  - |-
-    in Italy
-
-    Castelfranco Veneto
+  - Castelfranco Veneto
   - Treviso, city of
   - Treviso, diocese of
 martyr: false

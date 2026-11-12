@@ -34,7 +34,6 @@ patronage:
   - children
   - sick people
   - widows
-  - –
   - Chelles, France
 martyr: false
 prayers: []

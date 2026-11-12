@@ -10,9 +10,8 @@ image: https://catholicsaints.info/wp-content/uploads/William-of-Eskilsoe.jpg
 searchAliases:
   - William of Aebelhold
   - William of Aebelholt
-  - |-
-    William of &AElig;belholt
-    William of Ebelholt
+  - William of &AElig;belholt
+  - William of Ebelholt
   - William of Eskhill
   - William of Eskyll
   - William of Ise Fjord

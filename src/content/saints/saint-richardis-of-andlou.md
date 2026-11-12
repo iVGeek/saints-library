@@ -33,7 +33,6 @@ vocation:
 religiousOrder: Benedictine
 patronage:
   - against fire
-  - –
   - Andlau, France
 martyr: false
 prayers: []

@@ -20,10 +20,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 patronage:
-  - |-
-    in Italy
-
-    Ascoli Satriano, city of
+  - Ascoli Satriano, city of
   - Cerignola-Ascoli Satriano, diocese of
   - San Potito Sannitico
   - San Potito Ultra

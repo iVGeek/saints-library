@@ -26,7 +26,6 @@ religiousOrder: Franciscan
 patronage:
   - Alife-Caiazzo, Italy, diocese of
   - Anagni-Alatri, Italy, diocese of
-  - —
   - Alatri, Italy
   - Alife, Italy
 martyr: true

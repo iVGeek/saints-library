@@ -17,11 +17,8 @@ vocation:
   - Monk
 patronage:
   - Hermagor-Pressegger See, Austria
-  - –
-  - |-
-    locations in Italy
-
-    Aquileia
+  - locations in Italy
+  - Aquileia
   - Friuli-Venezia Giulia
   - Udine, archdiocese of
   - Udine, city of

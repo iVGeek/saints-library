@@ -19,10 +19,7 @@ feastDay:
 canonizationStatus: Saint
 vocation: []
 patronage:
-  - |-
-    in England
-
-    Bawburgh, Norfolk
+  - Bawburgh, Norfolk
   - North Tuddenham
   - Norwich
   - Taverham, Norfolk

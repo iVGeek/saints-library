@@ -21,10 +21,7 @@ vocation:
   - Confessor
 religiousOrder: Franciscan
 patronage:
-  - |-
-    in England
-
-    Ramsey Abbey
+  - Ramsey Abbey
   - Worcester
   - York
 martyr: false

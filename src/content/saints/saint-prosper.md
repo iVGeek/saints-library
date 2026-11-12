@@ -26,10 +26,7 @@ vocation:
   - Monk
   - Confessor
 patronage:
-  - |-
-    in Italy
-
-    Borgo Valsugana
+  - Borgo Valsugana
   - Ceretolo
   - Reggio Emilia
   - Romano Canavese

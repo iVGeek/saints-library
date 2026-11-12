@@ -43,7 +43,6 @@ patronage:
   - victims of jealousy
   - victims of unfaithfulness
   - widows
-  - –
   - Saragossa, Spain
 martyr: false
 prayers: []

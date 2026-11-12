@@ -29,7 +29,6 @@ vocation:
 patronage:
   - abandoned people
   - torture victims
-  - —
   - Castro Urdiales, Spain
   - Córdoba, Spain
   - Muina, Ovaro, Italy

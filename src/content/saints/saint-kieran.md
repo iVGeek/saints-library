@@ -43,10 +43,7 @@ vocation:
   - Confessor
 patronage:
   - Cornish miners
-  - |-
-    in Ireland
-
-    Ossory, city of
+  - Ossory, city of
   - Ossory, diocese of
 martyr: false
 prayers: []

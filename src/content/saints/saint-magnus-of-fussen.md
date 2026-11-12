@@ -37,7 +37,6 @@ patronage:
   - against snakes
   - against vermin
   - protection of crops
-  - –
   - Füssen, Germany
 martyr: false
 prayers: []

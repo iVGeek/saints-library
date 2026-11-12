@@ -28,11 +28,7 @@ vocation:
   - Hermit
 patronage:
   - weavers
-  - –
-  - |-
-    in Italy
-
-    Centrache, Catanzaro
+  - Centrache, Catanzaro
   - Paterno, Avezzano
   - Siena
   - Sutera

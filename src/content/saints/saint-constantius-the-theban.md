@@ -22,10 +22,7 @@ vocation:
   - Bishop
   - Soldier
 patronage:
-  - |-
-    in Italy
-
-    Saluzzo, Italy, city of
+  - Saluzzo, Italy, city of
   - Saluzzo, Italy, diocese of (declared by Bishop Tornabuoni in 1516)
   - Villar San Costanzo
 martyr: true

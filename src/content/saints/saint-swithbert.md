@@ -38,9 +38,7 @@ patronage:
   - against angina
   - against throat ailments
   - angina sufferers
-  - –
   - Germany
-  - –
   - Drevenack, Germany
   - Friesland, Netherlands
   - Ripon, England

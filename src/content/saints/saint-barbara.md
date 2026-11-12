@@ -81,15 +81,9 @@ patronage:
   - sudden death
   - tilers
   - warehouses
-  - |-
-    watermen
-    –
+  - watermen
   - Syria
-  - –
-  - |-
-    in Belgium
-
-    Villers-la-Bonne-Eau
+  - Villers-la-Bonne-Eau
 martyr: false
 prayers:
   - name: Novena to Saint Saint Barbara

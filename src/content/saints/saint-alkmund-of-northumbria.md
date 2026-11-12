@@ -29,10 +29,7 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - |-
-    in England
-
-    Derby
+  - Derby
   - Lilleshall
 martyr: false
 prayers: []

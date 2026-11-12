@@ -49,7 +49,6 @@ patronage:
   - against syphilis
   - bullfighters
   - smallpox patients
-  - —
   - Burgo de San Cernin, Navarra, Spain
   - Minderau, Germany
   - Motte-Saint-Jean, Burgundy, France

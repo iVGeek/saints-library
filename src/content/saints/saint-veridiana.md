@@ -27,10 +27,7 @@ vocation:
   - Hermit
 religiousOrder: Franciscan
 patronage:
-  - |-
-    in Italy
-
-    Castelfiorentino
+  - Castelfiorentino
   - Florence
 martyr: false
 prayers: []

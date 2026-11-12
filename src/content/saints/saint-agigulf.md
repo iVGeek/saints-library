@@ -26,10 +26,7 @@ vocation:
   - Monk
 religiousOrder: Benedictine
 patronage:
-  - |-
-    in Belgium
-
-    Malmedy
+  - Malmedy
   - Stavelot
 martyr: true
 prayers: []

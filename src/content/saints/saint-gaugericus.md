@@ -31,10 +31,7 @@ vocation:
   - Deacon
   - Confessor
 patronage:
-  - |-
-    in Belgium
-
-    Braine-le-Comte
+  - Braine-le-Comte
   - Brussels
 martyr: false
 prayers: []

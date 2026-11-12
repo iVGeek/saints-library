@@ -16,10 +16,7 @@ feastDay:
 canonizationStatus: Saint
 vocation: []
 patronage:
-  - |-
-    in Italy
-
-    Catenanuova (chosen in 1736)
+  - Catenanuova (chosen in 1736)
   - Faeto
 martyr: true
 prayers: []

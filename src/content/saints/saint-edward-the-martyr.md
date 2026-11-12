@@ -24,11 +24,7 @@ vocation:
   - Monk
 patronage:
   - against glandular diseases
-  - –
-  - |-
-    in England
-
-    Abingdon
+  - Abingdon
   - Corge Castle
   - Leominster
   - Shaftesbury

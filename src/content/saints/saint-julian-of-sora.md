@@ -21,10 +21,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 patronage:
-  - |-
-    in Italy
-
-    Accettura
+  - Accettura
   - Sora
 martyr: true
 prayers: []

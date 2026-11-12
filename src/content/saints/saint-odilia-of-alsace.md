@@ -27,11 +27,7 @@ vocation: []
 patronage:
   - against eye disease
   - against eye problems
-  - –
-  - |-
-    in France
-
-    Alsace (proclaimed in 1807 by Pope Pius VII)
+  - Alsace (proclaimed in 1807 by Pope Pius VII)
   - Hohenburg Abbey
   - Mont Sainte-Odile
 martyr: false

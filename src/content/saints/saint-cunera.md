@@ -24,7 +24,6 @@ patronage:
   - cattle
   - livestock
   - throats
-  - —
   - Rhenen, Netherlands
 martyr: false
 prayers: []

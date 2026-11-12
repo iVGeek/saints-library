@@ -23,10 +23,7 @@ vocation:
   - Monk
   - Hermit
 patronage:
-  - |-
-    in France
-
-    Saint-Aventin
+  - Saint-Aventin
   - Troyes
 martyr: false
 prayers: []

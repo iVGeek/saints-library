@@ -27,7 +27,6 @@ vocation:
 religiousOrder: Benedictine
 patronage:
   - sailors, mariners, watermen
-  - —
   - Castelabbate, Italy
   - Vallo della Lucania, Italy, diocese of
 martyr: false

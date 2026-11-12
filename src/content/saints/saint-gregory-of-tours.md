@@ -24,10 +24,7 @@ vocation:
   - Priest
   - Confessor
 patronage:
-  - |-
-    in France
-
-    Auvergne
+  - Auvergne
   - Tours
 martyr: false
 prayers: []

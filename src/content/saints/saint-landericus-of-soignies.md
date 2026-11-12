@@ -26,10 +26,7 @@ vocation:
   - Soldier
 religiousOrder: Benedictine
 patronage:
-  - |-
-    in Belgium
-
-    Hainault
+  - Hainault
   - Mons
   - Soignies
 martyr: false

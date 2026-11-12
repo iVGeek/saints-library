@@ -21,11 +21,7 @@ vocation: []
 patronage:
   - horses
   - stablemen
-  - –
-  - |-
-    in Italy
-
-    Anversa degli Abruzzi
+  - Anversa degli Abruzzi
   - Montemarzo di Asti
 martyr: true
 prayers: []

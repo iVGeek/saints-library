@@ -19,10 +19,7 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - |-
-    in Italy
-
-    Andria, diocese of
+  - Andria, diocese of
   - Bari
   - Bari-Bitonto, archdiocese of
   - Canosa di Puglia

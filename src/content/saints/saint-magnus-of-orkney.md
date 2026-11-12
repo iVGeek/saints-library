@@ -28,7 +28,6 @@ vocation:
   - Priest
 patronage:
   - fishermen
-  - –
   - Norway (proclaimed on 7 March 1941 by Pope Pius XII)
   - Orkney Islands
 martyr: true

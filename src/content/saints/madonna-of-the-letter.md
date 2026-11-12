@@ -20,10 +20,7 @@ canonizationStatus: Saint
 vocation:
   - Virgin
 patronage:
-  - |-
-    in Italy
-
-    Finale, Pollina
+  - Finale, Pollina
   - Messina
   - Palmi
   - Pannaconi, Cessaniti

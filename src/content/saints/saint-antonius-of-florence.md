@@ -31,11 +31,7 @@ vocation:
 religiousOrder: Dominican
 patronage:
   - against fever
-  - –
-  - |-
-    in Italy
-
-    Filicaja
+  - Filicaja
   - Florence, archdiocese of
   - Florence, city of
   - Toulouse

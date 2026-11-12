@@ -57,7 +57,6 @@ patronage:
   - vintners
   - wine-makers
   - wine merchants
-  - —
   - Flanders, Belgium
   - Maastricht, Netherlands
   - Salzburg, Austria

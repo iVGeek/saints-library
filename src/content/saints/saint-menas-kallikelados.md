@@ -45,7 +45,6 @@ patronage:
   - peddlers
   - pilgrims
   - travelling merchants
-  - –
   - Heraklion, Greece
   - Santomenna, Italy
 martyr: true

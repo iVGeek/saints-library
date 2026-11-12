@@ -27,7 +27,6 @@ vocation:
 religiousOrder: Franciscan
 patronage:
   - against drought
-  - –
   - Urbino, Italy
 martyr: false
 prayers: []

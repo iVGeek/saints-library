@@ -37,13 +37,9 @@ patronage:
   - Spanish military engineers
   - Spanish monarchy
   - tertiaries
-  - –
   - Amagá, Colombia
   - Castile, kingdom of
-  - |-
-    in Spain
-
-    Burgos
+  - Burgos
   - Córdoba
   - Seville
 martyr: false

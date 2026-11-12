@@ -22,7 +22,6 @@ patronage:
   - against hemorrhages
   - children having trouble walking
   - homemakers
-  - –
   - Avezzano, Italy, diocese of
 martyr: true
 prayers: []

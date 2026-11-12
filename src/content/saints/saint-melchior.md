@@ -22,7 +22,6 @@ patronage:
   - sawyers
   - travellers
   - travelling merchants
-  - —
   - Cologne, Germany
   - Saxony
 martyr: false

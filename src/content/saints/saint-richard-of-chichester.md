@@ -33,11 +33,7 @@ vocation:
 religiousOrder: Franciscan
 patronage:
   - coachmen
-  - –
-  - |-
-    in England
-
-    Chichester, city of
+  - Chichester, city of
   - Chichester, diocese of
   - Sussex
 martyr: false

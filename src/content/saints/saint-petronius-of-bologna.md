@@ -24,10 +24,7 @@ vocation:
   - Monk
   - Confessor
 patronage:
-  - |-
-    in Italy
-
-    Bologna, archdiocese of
+  - Bologna, archdiocese of
   - Bologna, city of
   - Castel Bolognese
 martyr: false

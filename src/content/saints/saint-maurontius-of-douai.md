@@ -36,10 +36,7 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - |-
-    in France
-
-    Breuil-sur-Lys
+  - Breuil-sur-Lys
   - Douai
 martyr: false
 prayers: []

@@ -25,10 +25,7 @@ vocation:
   - Missionary
   - Confessor
 patronage:
-  - |-
-    in Switzerland
-
-    Beatenberg
+  - Beatenberg
   - Thun
 martyr: false
 prayers: []

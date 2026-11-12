@@ -39,11 +39,7 @@ patronage:
   - against gout
   - against hailstorms
   - travelling merchants
-  - –
-  - |-
-    in Germany
-
-    Gotha
+  - Gotha
   - Hildesheim, diocese of
 martyr: false
 prayers: []

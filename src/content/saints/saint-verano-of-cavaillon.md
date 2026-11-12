@@ -29,10 +29,7 @@ vocation:
   - Monk
   - Hermit
 patronage:
-  - |-
-    in France
-
-    Cavaillon
+  - Cavaillon
   - Saint-Veran
 martyr: false
 prayers: []

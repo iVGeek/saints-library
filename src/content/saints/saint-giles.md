@@ -54,11 +54,7 @@ patronage:
   - rams
   - spur makers
   - woods
-  - —
-  - |-
-    in Austria
-
-    Graz
+  - Graz
   - Klagenfurt
 martyr: true
 prayers: []

@@ -22,11 +22,7 @@ vocation:
 patronage:
   - against eye trouble
   - against toothache
-  - –
-  - |-
-    in Belgium
-
-    Brussels
+  - Brussels
   - Vorst
 martyr: true
 image: >-

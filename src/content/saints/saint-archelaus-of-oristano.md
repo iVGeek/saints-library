@@ -20,10 +20,7 @@ canonizationStatus: Saint
 vocation:
   - Priest
 patronage:
-  - |-
-    in Italy
-
-    Oristano, archdiocese of
+  - Oristano, archdiocese of
   - Oristano, city of
 martyr: true
 prayers: []

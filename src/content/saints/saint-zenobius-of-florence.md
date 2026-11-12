@@ -24,10 +24,7 @@ vocation:
   - Deacon
   - Confessor
 patronage:
-  - |-
-    in Italy
-
-    Florence, archdiocese of
+  - Florence, archdiocese of
   - Florence, city of
 martyr: false
 prayers: []

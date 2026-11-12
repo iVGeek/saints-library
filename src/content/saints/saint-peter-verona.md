@@ -30,11 +30,7 @@ patronage:
   - cobblers, shoemakers
   - inquisitors
   - midwives
-  - –
-  - |-
-    in Italy
-
-    Alfedena
+  - Alfedena
   - Castelleone di Suasa
   - Verona, city of
   - Verona, diocese of

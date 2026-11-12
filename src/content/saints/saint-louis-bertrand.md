@@ -32,10 +32,8 @@ patronage:
   - Colombia (proclaimed by Pope Alexander VIII)
   - Panama
   - West Indies
-  - –
   - Caribbean vicariates
   - Dominican novices
-  - –
   - Valencia, Spain
 martyr: true
 prayers: []

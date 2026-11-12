@@ -25,12 +25,8 @@ religiousOrder: Franciscan
 patronage:
   - gravediggers
   - homemakers
-  - –
   - Cyprus
-  - |-
-    in France
-
-    Aix-en-Provence
+  - Aix-en-Provence
   - Autun, city of
   - Autun – Châlon-sur-Saône – Mâcon – Cluny, diocese of
   - Marseille, archdiocese of

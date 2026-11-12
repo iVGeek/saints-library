@@ -26,10 +26,7 @@ vocation:
   - Confessor
 religiousOrder: Benedictine
 patronage:
-  - |-
-    in France
-
-    Luxeuil-les-Bains
+  - Luxeuil-les-Bains
   - Saint-Omer
   - Thérouanne
 martyr: false

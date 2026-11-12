@@ -30,7 +30,6 @@ vocation:
   - Confessor
 patronage:
   - against epilepsy; of epileptics
-  - –
   - Sens, France
 martyr: false
 prayers: []

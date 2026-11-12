@@ -35,7 +35,6 @@ patronage:
   - magistrates
   - parents of large families
   - separated spouses
-  - —
   - Borgiallo, Italy
   - Pontifical Swiss Guards
   - Switzerland (proclaimed on 2 June 1937 by Pope Pius XII)

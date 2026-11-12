@@ -25,7 +25,6 @@ patronage:
   - bodily ills
   - sick people
   - sickness
-  - –
   - Pedrosa de Río Úrbel, Spain
 martyr: true
 prayers: []

@@ -35,10 +35,8 @@ patronage:
   - birds
   - geese
   - poultry
-  - –
   - Sweden
   - Switzerland
-  - –
   - St Gallen, Switzerland
 martyr: false
 prayers: []

@@ -35,15 +35,13 @@ patronage:
   - death of children
   - difficult marriages
   - widows
-  - —
   - G&ouml;rlitz, Germany, diocese of
   - Andechs Abbey, Bavaria, Germany
   - Bavaria, Germany
   - Berlin, Germany
   - Brandenburg, Germany
-  - |-
-    Kraków, Poland
-    Silesia
+  - Kraków, Poland
+  - Silesia
   - Trzebnica, Poland
   - Wroclaw, Poland
 martyr: false

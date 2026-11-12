@@ -28,10 +28,7 @@ vocation:
   - Monk
   - Religious
 patronage:
-  - |-
-    in Belgium
-
-    Frameries
+  - Frameries
   - Hainault
   - Mons
 martyr: false

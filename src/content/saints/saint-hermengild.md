@@ -25,7 +25,6 @@ patronage:
   - against thunderstorms
   - converts
   - Spanish monarchy
-  - —
   - Seville, Spain
 martyr: true
 prayers: []

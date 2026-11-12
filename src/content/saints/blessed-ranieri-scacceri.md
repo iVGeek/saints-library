@@ -35,11 +35,7 @@ vocation:
 religiousOrder: Benedictine
 patronage:
   - hermits
-  - –
-  - |-
-    in Italy
-
-    Pisa, archdiocese of
+  - Pisa, archdiocese of
   - Pisa, city of
 martyr: false
 prayers: []

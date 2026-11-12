@@ -8,9 +8,8 @@ summary: >-
   of his life there, belief in his piety and holin
 image: https://catholicsaints.info/wp-content/uploads/SAN-SENATRO-MONACO.jpg
 searchAliases:
-  - |-
-    Senatro the Calabrian
-    Senator…
+  - Senatro the Calabrian
+  - Senator…
 deathYear: 1000
 born: early 10th century in Demenna, Sicily, Italy
 died: c.1000 of natural causes

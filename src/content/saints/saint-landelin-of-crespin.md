@@ -28,10 +28,7 @@ vocation:
   - Monk
 religiousOrder: Benedictine
 patronage:
-  - |-
-    in Belgium
-
-    Aulne Abbey
+  - Aulne Abbey
   - Lobbes
 martyr: false
 prayers: []

@@ -31,7 +31,6 @@ vocation:
 religiousOrder: Benedictine
 patronage:
   - teachers
-  - –
   - Hungary
   - Zrenjanin, Serbia, diocese of
   - Budapest, Hungary

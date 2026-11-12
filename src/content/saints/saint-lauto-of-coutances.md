@@ -30,7 +30,6 @@ patronage:
   - against blindness
   - blind people
   - eyes
-  - —
   - Coutances, France, diocese of
 martyr: false
 prayers: []

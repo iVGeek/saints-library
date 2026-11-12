@@ -30,7 +30,6 @@ vocation:
 patronage:
   - against infertility
   - against mental illness
-  - –
   - clowns
   - comedians, comics, comic actors, jesters
   - pewtersmiths, pewter workers

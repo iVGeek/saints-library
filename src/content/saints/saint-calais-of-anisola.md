@@ -30,10 +30,7 @@ vocation:
   - Hermit
 religiousOrder: Benedictine
 patronage:
-  - |-
-    in France
-
-    Blois
+  - Blois
   - Saint-Calais
 martyr: false
 image: >-

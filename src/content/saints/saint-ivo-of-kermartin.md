@@ -10,9 +10,8 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/Weyden_Ivo.jpg?width=
 searchAliases:
   - Advocate of the Poor
   - Ivo Helory
-  - |-
-    Ivo Herloi
-    Ivo of Brittany
+  - Ivo Herloi
+  - Ivo of Brittany
   - Ivo of Helory
   - Ives…
   - Yves…
@@ -47,11 +46,7 @@ patronage:
   - notaries
   - orphans
   - poor people
-  - –
-  - |-
-    in England
-
-    Saint Ives, Cornwall
+  - Saint Ives, Cornwall
   - Worshipful Company of Solicitors
 martyr: false
 prayers: []

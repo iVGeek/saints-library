@@ -27,10 +27,7 @@ vocation:
   - Monk
   - Hermit
 patronage:
-  - |-
-    in Italy
-
-    Corigliano-Rossano
+  - Corigliano-Rossano
   - Grottaferrata
   - Rossano
 martyr: false

@@ -22,10 +22,7 @@ canonizationStatus: Saint
 vocation:
   - Priest
 patronage:
-  - |-
-    in England
-
-    Chester
+  - Chester
   - Ely
   - Hanbury
   - Leicester

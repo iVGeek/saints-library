@@ -23,13 +23,9 @@ vocation:
   - Monk
   - Hermit
 patronage:
-  - |-
-    in Italy
-
-    Montaione
+  - Montaione
   - San Regolo, Gaiole in Chianti
   - Vagli Sotto
-  - –
   - Metropolitan Chapter of the Cathedral of Saint Martin in Lucca
 martyr: true
 prayers: []

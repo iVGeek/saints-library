@@ -51,11 +51,7 @@ patronage:
   - sailors
   - watermen
   - women in labour
-  - –
-  - |-
-    in Italy
-
-    Gaeta, archdiocese of
+  - Gaeta, archdiocese of
   - Gaeta, city of
   - Monte Argentario
   - Porto Ercole

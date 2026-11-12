@@ -20,10 +20,7 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - |-
-    in Italy
-
-    Castelliri
+  - Castelliri
   - Veroli
 martyr: false
 prayers: []

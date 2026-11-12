@@ -25,10 +25,7 @@ vocation:
   - Hermit
 patronage:
   - Tongeren, Belgium
-  - |-
-    in Germany
-
-    Cologne
+  - Cologne
   - Trier
 martyr: false
 prayers: []

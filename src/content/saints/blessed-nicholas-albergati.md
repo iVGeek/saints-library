@@ -26,7 +26,6 @@ vocation:
   - Priest
 patronage:
   - learning
-  - –
   - Bologna, Italy
 martyr: false
 prayers: []

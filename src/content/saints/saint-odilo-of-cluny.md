@@ -33,7 +33,6 @@ religiousOrder: Benedictine
 patronage:
   - against jaundice
   - souls in Purgatory
-  - –
   - Cluny, France
 martyr: false
 prayers: []

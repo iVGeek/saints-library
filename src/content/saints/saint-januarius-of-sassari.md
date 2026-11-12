@@ -18,10 +18,7 @@ vocation:
   - Monk
   - Deacon
 patronage:
-  - |-
-    in Italy
-
-    Sassari, archdiocese of
+  - Sassari, archdiocese of
   - Sassari, city of
 martyr: true
 prayers: []

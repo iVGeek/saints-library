@@ -29,13 +29,8 @@ patronage:
   - parents of large families
   - queens
   - widows
-  - –
   - Scotland
-  - –
-  - |-
-    in Scotland
-
-    Dunfermline
+  - Dunfermline
   - Pluscarden Abbey
 martyr: false
 prayers: []

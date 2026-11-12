@@ -30,7 +30,6 @@ patronage:
   - against evil spirits
   - obsession
   - possessed people
-  - —
   - San Quirino, Italy
   - Sisak, Croatia
 martyr: true

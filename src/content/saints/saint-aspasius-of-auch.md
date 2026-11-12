@@ -26,7 +26,6 @@ vocation:
 patronage:
   - against abscesses
   - against headaches
-  - —
   - Melun, France
 martyr: false
 prayers: []

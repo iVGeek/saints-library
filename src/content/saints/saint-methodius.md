@@ -35,7 +35,6 @@ patronage:
   - ecumenism
   - Slavic peoples (given in 1863 by Pope Pius IX
   - unity of the Eastern and Western Churches
-  - —
   - Bohemia
   - Bosnia
   - Bosnia-Herzegovina

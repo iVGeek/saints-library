@@ -32,10 +32,7 @@ vocation:
   - Deacon
 patronage:
   - Alphen aan den Rijn, Netherlands
-  - |-
-    in Germany
-
-    Paderborn, city of
+  - Paderborn, city of
   - Paderborn Cathedral
 martyr: false
 prayers: []

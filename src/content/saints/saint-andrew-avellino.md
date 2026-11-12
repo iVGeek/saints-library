@@ -29,7 +29,6 @@ patronage:
   - against sudden death
   - for a holy death
   - stroke victims
-  - —
   - Badolato, Italy
   - Naples, Italy
   - Sicily, Italy

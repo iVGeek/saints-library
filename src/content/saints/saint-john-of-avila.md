@@ -29,7 +29,6 @@ patronage:
   - clergy in general
   - Spanish secular clergy (proclaimed by Pope Pius XII on 8 March 1946)
   - World Youth Day 2011
-  - –
   - Spain
   - Andalusia, Spain
 martyr: false

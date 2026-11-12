@@ -22,10 +22,7 @@ canonizationStatus: Blessed
 vocation:
   - Confessor
 patronage:
-  - |-
-    in France
-
-    Arbrissel
+  - Arbrissel
   - Renees
 martyr: false
 prayers: []

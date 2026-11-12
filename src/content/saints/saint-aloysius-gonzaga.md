@@ -39,14 +39,9 @@ patronage:
   - teenage children
   - teenagers
   - young people (proclaimed on 21 June 1729 by Pope Benedict XIII, and in 1926 by Pope Pius XI)
-  - —
   - Saint Aloysius College, Mangalore, India
   - Stoneyhurst College, Lancashire, England
-  - –
-  - |-
-    in Italy
-
-    Castiglione delle Stiviere
+  - Castiglione delle Stiviere
   - Muina, Ovaro
   - Valmonte
 martyr: false

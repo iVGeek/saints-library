@@ -35,7 +35,6 @@ patronage:
   - against snake bites
   - against storms
   - against wild beasts
-  - —
   - actors
   - comedians
   - comediennes
@@ -45,17 +44,12 @@ patronage:
   - domestic animals
   - epileptics
   - young people
-  - —
   - Bohemia
   - Czech Republic
   - Serbia
-  - —
   - Sankt Veit im Pongau, Austria
   - St Vith, Belgium
-  - |-
-    in Croatia
-
-    Rijeka, city of
+  - Rijeka, city of
   - Rijeka, diocese of
 martyr: false
 prayers: []

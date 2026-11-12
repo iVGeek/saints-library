@@ -34,14 +34,10 @@ patronage:
   - against epilepsy
   - convulsives
   - epileptics
-  - –
   - Belgium
   - Luxembourg
   - Netherlands (proclaimed on 29 November 1950 by Pope Pius XII)
-  - |-
-    in Belgium
-
-    Heusden
+  - Heusden
   - Olmen
 martyr: false
 prayers: []

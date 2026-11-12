@@ -29,7 +29,6 @@ patronage:
   - cattle
   - livestock
   - shepherds
-  - –
   - Trier, Germany
 martyr: false
 prayers: []

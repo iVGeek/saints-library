@@ -20,10 +20,7 @@ vocation:
   - Priest
   - Soldier
 patronage:
-  - |-
-    in Germany
-
-    Bad Karlshafen
+  - Bad Karlshafen
   - Dülmen
   - Magdeburg
 martyr: true

@@ -24,10 +24,7 @@ vocation:
   - Bishop
   - Priest
 patronage:
-  - |-
-    in Italy
-
-    Baratti, Piombino
+  - Baratti, Piombino
   - Massa Marittima
   - Massa Marittima-Piombino, diocese of
   - Piombino

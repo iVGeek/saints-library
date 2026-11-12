@@ -17,7 +17,6 @@ vocation:
   - Soldier
 patronage:
   - martyrs
-  - –
   - Bonn, Germany
 martyr: true
 prayers: []

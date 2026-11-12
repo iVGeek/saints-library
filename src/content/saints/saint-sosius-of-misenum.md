@@ -28,10 +28,7 @@ vocation:
   - Monk
   - Deacon
 patronage:
-  - |-
-    in Italy
-
-    Falvaterra
+  - Falvaterra
   - Frattamaggiore
   - San Sossio Baronia
 martyr: true

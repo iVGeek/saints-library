@@ -33,10 +33,7 @@ vocation:
   - Monk
   - Hermit
 patronage:
-  - |-
-    in France
-
-    Angoulême, city of
+  - Angoulême, city of
   - Angoulême, diocese of
   - Périgord
 martyr: false

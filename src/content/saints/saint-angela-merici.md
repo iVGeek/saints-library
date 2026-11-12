@@ -26,13 +26,8 @@ patronage:
   - against the death of parents
   - disabled, handicapped, or physically challenged people
   - sick people
-  - –
   - Pious Union of Sisters Devoted to Saint Angela Merici
-  - –
-  - |-
-    in Italy
-
-    Brescia, city of
+  - Brescia, city of
   - Brescia, diocese of
   - Desenzano del Garda
 martyr: false

@@ -36,13 +36,8 @@ vocation:
 religiousOrder: Franciscan
 patronage:
   - doves
-  - –
   - Wales
-  - –
-  - |-
-    in Wales
-
-    Bangor
+  - Bangor
   - Llandaff
 martyr: false
 prayers: []

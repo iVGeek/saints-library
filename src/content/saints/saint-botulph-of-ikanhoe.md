@@ -31,13 +31,8 @@ patronage:
   - agricultural workers
   - farm workers
   - sailors
-  - |-
-    travellers
-    –
-  - |-
-    in England
-
-    Bossal, Yorkshire
+  - travellers
+  - Bossal, Yorkshire
   - Boston, Lincolnshire
   - Botesdale, Suffolk
   - Botolph Bridge, Huntingdonshire

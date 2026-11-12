@@ -72,6 +72,7 @@ export const REGIONS = [
   'Belgium',
   'Switzerland',
   'Greece',
+  'Cyprus',
   'Turkey',
   'Syria',
   'Lebanon',

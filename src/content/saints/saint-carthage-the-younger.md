@@ -8,10 +8,9 @@ summary: >-
   Ireland c.590, and served as its abbot. Abbot-Bishop of the
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Carthage-the-Younger.jpg
 searchAliases:
-  - |-
-    Carthage of Lismore
-    Carthage of Mochuda
-    Cartaco…
+  - Carthage of Lismore
+  - Carthage of Mochuda
+  - Cartaco…
   - Carthach…
   - Carthagus…
   - Mo Chutu mac Fínaill

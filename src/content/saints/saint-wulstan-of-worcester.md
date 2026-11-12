@@ -28,11 +28,7 @@ vocation:
 religiousOrder: Benedictine
 patronage:
   - peasants
-  - –
-  - |-
-    in England
-
-    Evesham
+  - Evesham
   - Peterborough
   - Worcester
 martyr: false

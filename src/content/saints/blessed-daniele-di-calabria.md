@@ -22,10 +22,7 @@ vocation:
   - Missionary
 religiousOrder: Franciscan
 patronage:
-  - |-
-    in Italy
-
-    Belvedere Marittimo
+  - Belvedere Marittimo
   - Orani
 martyr: true
 prayers: []

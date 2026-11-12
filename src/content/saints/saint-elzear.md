@@ -30,12 +30,8 @@ vocation:
 religiousOrder: Franciscan
 patronage:
   - tertiaries
-  - –
   - Marseilles, France
-  - |-
-    in Italy
-
-    Ariano Irpino-Lacedonia, diocese of
+  - Ariano Irpino-Lacedonia, diocese of
   - Naples
 martyr: false
 prayers: []

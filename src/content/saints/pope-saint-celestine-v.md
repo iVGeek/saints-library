@@ -27,11 +27,7 @@ vocation:
 religiousOrder: Dominican
 patronage:
   - bookbinders
-  - —
-  - |-
-    in Italy
-
-    Aquila
+  - Aquila
   - Isernia
 martyr: false
 prayers: []

@@ -30,13 +30,8 @@ vocation:
   - Confessor
 patronage:
   - against pertussis or whooping cough
-  - –
   - Netherlands
-  - –
-  - |-
-    in Belgium
-
-    Ghent
+  - Ghent
   - Liege
   - Wilrijk
 martyr: false

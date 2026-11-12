@@ -20,10 +20,7 @@ vocation:
   - Monk
   - Religious
 patronage:
-  - |-
-    in England
-
-    Gloucester
+  - Gloucester
   - Winchcombe
 martyr: true
 prayers: []

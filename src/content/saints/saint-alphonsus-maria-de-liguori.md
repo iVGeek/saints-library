@@ -40,15 +40,9 @@ patronage:
   - moralists (proclaimed on 26 April 1950 by Pope Pius XII)
   - scrupulous people
   - theologians
-  - |-
-    vocations
-    —
+  - vocations
   - Sisters of the Holy Redeemer
-  - —
-  - |-
-    in Italy
-
-    Acerra, diocese of
+  - Acerra, diocese of
   - Agrigento, archdiocese of
   - Agrigento, city of
   - Cerreto Sannita-Telese-Sant'Agata de' Goti, diocese of

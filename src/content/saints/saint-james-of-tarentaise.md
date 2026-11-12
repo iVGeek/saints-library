@@ -27,10 +27,7 @@ vocation:
   - Soldier
   - Missionary
 patronage:
-  - |-
-    in France
-
-    Chambéry
+  - Chambéry
   - Savoy
 martyr: false
 prayers: []

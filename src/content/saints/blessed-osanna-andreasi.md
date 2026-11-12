@@ -29,7 +29,6 @@ vocation:
 religiousOrder: Dominican
 patronage:
   - school girls
-  - –
   - Mantua, Italy
 martyr: false
 prayers: []

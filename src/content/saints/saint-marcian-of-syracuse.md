@@ -22,10 +22,7 @@ vocation:
   - Monk
   - Missionary
 patronage:
-  - |-
-    in Italy
-
-    Gaeta, archdiocese of
+  - Gaeta, archdiocese of
   - Gaeta, city of
   - Syracuse, Sicily, archdiocese of
 martyr: true

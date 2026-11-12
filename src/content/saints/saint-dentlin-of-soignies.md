@@ -22,10 +22,7 @@ vocation:
   - Monk
   - Confessor
 patronage:
-  - |-
-    in Belgium
-
-    Hainault
+  - Hainault
   - Mons
 martyr: false
 prayers: []

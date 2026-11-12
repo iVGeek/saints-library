@@ -32,13 +32,8 @@ patronage:
   - Latin American bishops
   - missionary bishops
   - native rights
-  - –
   - Peru
-  - –
-  - |-
-    in Peru
-
-    Lima, archdiocese of
+  - Lima, archdiocese of
   - Lima, city of
 martyr: false
 prayers: []

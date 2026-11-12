@@ -41,7 +41,6 @@ patronage:
   - difficult marriages
   - potters
   - weavers
-  - —
   - Poitiers, France
 martyr: false
 prayers: []

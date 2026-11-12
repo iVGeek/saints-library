@@ -27,11 +27,7 @@ vocation:
 patronage:
   - cattle
   - horned animals
-  - –
-  - |-
-    in France
-
-    Brittany
+  - Brittany
   - Finistère
   - Plonévez-du-Faou
 martyr: false

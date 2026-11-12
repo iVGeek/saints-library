@@ -31,7 +31,6 @@ vocation:
 patronage:
   - bachelors
   - bridge builders
-  - –
   - Avignon, France
 martyr: false
 prayers: []

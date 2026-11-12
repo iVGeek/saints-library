@@ -29,12 +29,8 @@ religiousOrder: Franciscan
 patronage:
   - brides
   - tertiaries
-  - –
   - Le Puy-en-Velay, France
-  - |-
-    in Italy
-
-    Ariano Irpino-Lacedonia, diocese of
+  - Ariano Irpino-Lacedonia, diocese of
   - Naples
 martyr: false
 prayers: []

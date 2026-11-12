@@ -29,7 +29,6 @@ religiousOrder: Augustinian
 patronage:
   - against fever
   - women in labour
-  - –
   - Nivelles, Belgium
   - Oignies, France
 martyr: false

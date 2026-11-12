@@ -28,7 +28,6 @@ vocation:
   - Confessor
 patronage:
   - choristers
-  - –
   - Paris, France
   - Rimouski, Quebec, archdiocese of
 martyr: false

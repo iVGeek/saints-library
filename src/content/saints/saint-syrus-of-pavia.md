@@ -22,10 +22,7 @@ vocation:
   - Monk
   - Deacon
 patronage:
-  - |-
-    in Italy
-
-    Bionzo, Costigliole d'Asti
+  - Bionzo, Costigliole d'Asti
   - Borgo San Siro
   - Castel Mella
   - Castelletto di Branduzzo

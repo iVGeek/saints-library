@@ -18,10 +18,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 patronage:
-  - |-
-    in Ireland
-
-    Brannockstown
+  - Brannockstown
   - Malahide
 martyr: false
 prayers: []

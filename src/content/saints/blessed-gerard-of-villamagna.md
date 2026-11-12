@@ -27,11 +27,7 @@ patronage:
   - against illness
   - against sickness
   - sick people
-  - –
-  - |-
-    in Italy
-
-    Monza
+  - Monza
   - Villamagna, Bagno a Ripoli
 martyr: false
 prayers: []

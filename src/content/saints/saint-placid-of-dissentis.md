@@ -17,10 +17,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 patronage:
-  - |-
-    in Switzerland
-
-    Chur
+  - Chur
   - Dissentis
 martyr: true
 prayers: []

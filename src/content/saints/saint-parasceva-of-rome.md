@@ -28,12 +28,9 @@ patronage:
   - against volcanic eruptions
   - against eruptions of Mount Etna
   - against earthquakes
-  - –
   - blind people
-  - |-
-    Dioceses
-
-    Acireale, Italy
+  - Dioceses
+  - Acireale, Italy
 martyr: true
 prayers: []
 ---

@@ -29,10 +29,7 @@ vocation:
   - Monk
   - Missionary
 patronage:
-  - |-
-    in France
-
-    Laurenan
+  - Laurenan
   - Locronan
   - Quimper
   - Saint-Renan

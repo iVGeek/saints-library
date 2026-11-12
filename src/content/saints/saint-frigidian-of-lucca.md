@@ -30,10 +30,7 @@ vocation:
   - Priest
   - Confessor
 patronage:
-  - |-
-    in Italy
-
-    Lucca, archdiocese of
+  - Lucca, archdiocese of
   - Lucca, city of
 martyr: false
 prayers: []

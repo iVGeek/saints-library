@@ -32,11 +32,7 @@ patronage:
   - against vermin
   - for happy birth
   - livestock
-  - –
-  - |-
-    in Austria
-
-    Innsbruck
+  - Innsbruck
 martyr: false
 prayers: []
 ---

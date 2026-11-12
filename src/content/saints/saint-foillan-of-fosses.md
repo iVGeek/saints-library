@@ -33,11 +33,7 @@ patronage:
   - dentists
   - surgeons
   - truss makers
-  - –
-  - |-
-    in Belgium
-
-    Fosses
+  - Fosses
   - Nivelles
 martyr: true
 prayers: []

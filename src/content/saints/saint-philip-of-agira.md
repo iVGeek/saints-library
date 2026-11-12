@@ -24,10 +24,7 @@ vocation:
   - Monk
   - Missionary
 patronage:
-  - |-
-    in Italy
-
-    Aci San Filippo, Aci Catena
+  - Aci San Filippo, Aci Catena
   - Agira, Sicily
   - Calatabiano
   - Cessaniti

@@ -23,10 +23,7 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - |-
-    in Italy
-
-    Genola
+  - Genola
   - Tortona, city of
   - Tortona, diocese of
 martyr: true

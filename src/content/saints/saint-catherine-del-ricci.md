@@ -31,7 +31,6 @@ patronage:
   - sick people
   - pipe makers
   - tobacconists
-  - —
   - Prato, Italy
 martyr: false
 prayers: []

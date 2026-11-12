@@ -32,7 +32,6 @@ patronage:
   - bachelors
   - charcoal burners
   - tanners
-  - –
   - Badia Polesine, Italy
   - Sossano, Italy
 martyr: false

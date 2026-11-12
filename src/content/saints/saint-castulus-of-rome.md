@@ -39,7 +39,6 @@ patronage:
   - cowherds
   - farmers
   - shepherds
-  - —
   - Hallertau, Germany
   - Moosburg an der Isar, Germany
 martyr: true

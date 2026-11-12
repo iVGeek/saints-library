@@ -28,11 +28,7 @@ patronage:
   - against toothache
   - dental technicians
   - dentists
-  - —
-  - |-
-    in Belgium
-
-    Achterbos
+  - Achterbos
   - Elst
 martyr: true
 prayers: []

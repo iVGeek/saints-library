@@ -26,10 +26,8 @@ vocation:
   - Monk
   - Soldier
 patronage:
-  - |-
-    locations in Italy
-
-    Cagliari, city of
+  - locations in Italy
+  - Cagliari, city of
   - Cagliari, archdiocese of
   - Capoterra
   - Pisa

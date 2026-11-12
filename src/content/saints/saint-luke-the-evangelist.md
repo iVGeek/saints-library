@@ -43,7 +43,6 @@ patronage:
   - unmarried men
   - Worshipful Company of Butchers
   - Worshipful Company of Painters
-  - —
   - Capena, Italy
   - Hermersdorf, Germany
   - Petrovac, Bosnia and Herzegovina

@@ -26,10 +26,7 @@ vocation:
   - Monk
   - Deacon
 patronage:
-  - |-
-    in Patronage
-
-    Autun
+  - Autun
   - Vienne
 martyr: true
 prayers: []

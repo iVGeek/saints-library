@@ -34,7 +34,6 @@ patronage:
   - convulsive children
   - epileptics
   - sick children
-  - –
   - Mons, Belgium
 martyr: false
 prayers: []

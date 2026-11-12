@@ -29,11 +29,7 @@ vocation:
 religiousOrder: Franciscan
 patronage:
   - lepers; against leprosy
-  - –
-  - |-
-    in Italy
-
-    Peccioli
+  - Peccioli
   - Pisa
   - San Gimignano
   - Volterra

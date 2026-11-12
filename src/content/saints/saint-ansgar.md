@@ -43,11 +43,7 @@ patronage:
   - Iceland
   - Scandinavia
   - Sweden
-  - –
-  - |-
-    in France
-
-    Amiens
+  - Amiens
   - Corbie
 martyr: false
 prayers: []

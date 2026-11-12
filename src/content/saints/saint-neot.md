@@ -22,11 +22,7 @@ vocation:
   - Hermit
 patronage:
   - fish
-  - –
-  - |-
-    in England
-
-    Glastonbury
+  - Glastonbury
   - Malvern
   - St Neots, Cambridgeshire
   - St Neots, Cornwall

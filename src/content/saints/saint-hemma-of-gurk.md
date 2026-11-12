@@ -26,7 +26,6 @@ patronage:
   - against eye problems
   - from disease
   - for a happy birth
-  - –
   - Carinthia, Austria
   - Gurk, Austria, diocese of
 martyr: false

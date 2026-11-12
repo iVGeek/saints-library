@@ -7,9 +7,8 @@ summary: >-
   5th century priest who worked with Saint Patrick who installed him as pastor of the Domnach Mór church at Magh Slécht,
   Templeport, County Cavan, Ireland.
 searchAliases:
-  - |-
-    Banban Sapiens
-    Banbanum
+  - Banban Sapiens
+  - Banbanum
   - Banbanus
   - Banbhanus
   - Banuanus

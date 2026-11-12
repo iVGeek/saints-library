@@ -1,5 +1,6 @@
 ---
 name: Simon the Zealot
+summary: "One of the Twelve Apostles, traditionally identified with the Zealot faction and venerated as a missionary and martyr."
 stub: false
 honorific: Saint
 title: Apostle, Martyr

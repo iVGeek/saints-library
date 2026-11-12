@@ -27,12 +27,8 @@ vocation:
 patronage:
   - girls
   - for peace
-  - –
   - Salonica, Greece
-  - |-
-    in Italy
-
-    Erchie
+  - Erchie
   - Lecce
   - Trentinara
   - Villalfonsina

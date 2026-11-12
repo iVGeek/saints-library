@@ -19,13 +19,9 @@ canonizationStatus: Saint
 vocation:
   - Priest
 patronage:
-  - |-
-    in Italy
-
-    Grumo Nevano
-  - |-
-    San Tammaro
-    Villa Literno
+  - Grumo Nevano
+  - San Tammaro
+  - Villa Literno
 martyr: false
 prayers: []
 ---

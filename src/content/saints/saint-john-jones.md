@@ -10,9 +10,8 @@ searchAliases:
   - Godfrey Maurice
   - Godfrey Jones
   - Griffith Jones
-  - |-
-    Gryffith Jones
-    John Buckley
+  - Gryffith Jones
+  - John Buckley
   - John Griffith
   - Robert Buckley
   - Robertus Jonus

@@ -19,10 +19,7 @@ vocation:
   - Monk
   - Religious
 patronage:
-  - |-
-    in Germany
-
-    Heilbad Heiligenstadt
+  - Heilbad Heiligenstadt
 martyr: true
 prayers: []
 ---

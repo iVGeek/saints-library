@@ -23,7 +23,6 @@ vocation:
   - Priest
 patronage:
   - against famine
-  - —
   - Lanusei, Italy, diocese of
   - Suelli, Italy
 martyr: false

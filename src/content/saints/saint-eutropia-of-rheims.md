@@ -21,7 +21,6 @@ vocation:
   - Religious
 patronage:
   - sick children
-  - –
   - Rheims, France
 martyr: true
 prayers: []

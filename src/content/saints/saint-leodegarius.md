@@ -31,7 +31,6 @@ patronage:
   - against sore eyes
   - blind people
   - millers
-  - —
   - Saint-Léger-en-Gaume, Belgium
   - Autun, France
   - Guebwiller, France

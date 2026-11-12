@@ -19,10 +19,7 @@ vocation:
   - Monk
   - Missionary
 patronage:
-  - |-
-    in Italy
-
-    Atessa
+  - Atessa
   - Brindisi, city of
   - Brindisi-Ostuni, archdiocese of
 martyr: false

@@ -34,10 +34,7 @@ religiousOrder: Benedictine
 patronage:
   - against drought
   - for rain
-  - |-
-    in Germany
-
-    Cologne
+  - Cologne
   - Deutz
 martyr: false
 prayers: []

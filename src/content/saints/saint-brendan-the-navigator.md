@@ -34,11 +34,7 @@ patronage:
   - navigators
   - travellers
   - whales
-  - –
-  - |-
-    in Ireland
-
-    Ardfert, diocese of
+  - Ardfert, diocese of
   - Clonfert, city of
   - Clonfert, diocese of
   - Kerry, diocese of

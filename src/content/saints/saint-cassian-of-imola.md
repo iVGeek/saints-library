@@ -29,11 +29,7 @@ patronage:
   - students
   - teachers
   - typists
-  - —
-  - |-
-    in Italy
-
-    Bibbiena
+  - Bibbiena
   - Cassano Valcuvia
   - Comacchio
   - Imola
@@ -47,7 +43,6 @@ patronage:
   - San Cassiano di Controne
   - San Cassiano di Moriano
   - Trecate
-  - –
   - Bolzano-Bressanone, diocese of
   - Brixen, diocese of
   - Imola, diocese of

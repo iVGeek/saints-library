@@ -24,11 +24,8 @@ religiousOrder: Benedictine
 patronage:
   - against cramps
   - against gout
-  - –
-  - |-
-    alpine troops, proclaimed
-
-    on 22 September 1941 by Pope Pius XII for Italian troops
+  - alpine troops, proclaimed
+  - on 22 September 1941 by Pope Pius XII for Italian troops
   - on 25 January 1952 by Pope Pius XII for French troops
   - on 16 February 1961 by Pope John XXIII for Belgian troops
 martyr: true

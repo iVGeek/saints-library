@@ -26,10 +26,7 @@ vocation:
   - Hermit
 religiousOrder: Benedictine
 patronage:
-  - |-
-    in France
-
-    Lavedan
+  - Lavedan
   - Liguge
   - Poitiers
   - Poncy Aspé

@@ -27,7 +27,6 @@ vocation:
   - Confessor
 patronage:
   - against epizootic disease
-  - –
   - Voghera, Italy
 martyr: false
 prayers: []

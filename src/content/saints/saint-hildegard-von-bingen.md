@@ -28,11 +28,7 @@ religiousOrder: Franciscan
 patronage:
   - Esperantists; Esperanto users or speakers
   - philologists
-  - –
-  - |-
-    in Germany
-
-    Bingen am Rhein
+  - Bingen am Rhein
   - Böckelheim
   - Disibodenberg (Diessenberg)
 martyr: false

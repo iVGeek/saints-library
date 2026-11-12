@@ -32,10 +32,7 @@ vocation:
   - Confessor
 religiousOrder: Franciscan
 patronage:
-  - |-
-    in Italy
-
-    Ancona
+  - Ancona
   - Monteprandone
   - Naples
 martyr: false

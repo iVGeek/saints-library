@@ -49,11 +49,8 @@ patronage:
   - San Marcos de Arica, Chile, diocese of
   - Venice, Florida, diocese of
   - Ionian Islands
-  - –
-  - |-
-    locations in Italy
-
-    Baucina
+  - locations in Italy
+  - Baucina
   - Boretto
   - Buttigliera Alta
   - Caerano di San Marco

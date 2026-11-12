@@ -31,11 +31,9 @@ vocation:
 religiousOrder: Franciscan
 patronage:
   - mountaineers
-  - –
   - Polish-Ukrainian Reconciliation
   - World Meeting of Families 2015
   - World Youth Days
-  - –
   - Uzbekistan, apostolic administration of
   - Vancouver, British Columbia, archdiocese of
 martyr: false

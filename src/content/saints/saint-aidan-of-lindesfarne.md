@@ -10,9 +10,8 @@ image: https://catholicsaints.info/wp-content/uploads/img-Saint-Aidan-of-Lindesf
 searchAliases:
   - Aidan of Lindisfarne
   - Apostle of Northumbria
-  - |-
-    Aedan…
-    Aidano…
+  - Aedan…
+  - Aidano…
 deathYear: 651
 born: Irish
 died: 31 August 651 at Bamburg, England of natural causes
@@ -28,10 +27,7 @@ vocation:
   - Missionary
   - Confessor
 patronage:
-  - |-
-    in England
-
-    Bamburgh
+  - Bamburgh
   - Durham
   - Glastonbury
   - Lindisfarne Island

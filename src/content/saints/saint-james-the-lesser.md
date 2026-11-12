@@ -31,7 +31,6 @@ religiousOrder: Franciscan
 patronage:
   - against pain
   - dying people
-  - —
   - apothecaries
   - druggists
   - fullers
@@ -40,15 +39,9 @@ patronage:
   - milliners
   - pharmacists
   - wool carders or combers
-  - —
   - Uruguay
-  - —
   - Santiago de Cabo Verde, Cape Verde, diocese of
-  - —
-  - |-
-    in Italy
-
-    Andora
+  - Andora
   - Carovigno
   - Castiglione in Teverina
   - Cornaredo

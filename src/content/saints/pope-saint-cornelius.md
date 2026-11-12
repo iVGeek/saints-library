@@ -25,7 +25,6 @@ patronage:
   - domestic animals
   - earache sufferers
   - epileptics
-  - –
   - Albano Sant'Alessandro, Italy
   - Cerro Maggiore, Italy
   - Kornelimünster, Germany

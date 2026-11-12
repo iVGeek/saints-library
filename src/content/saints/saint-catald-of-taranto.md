@@ -42,11 +42,7 @@ patronage:
   - drought relief
   - epileptics
   - paralyzed people
-  - —
-  - |-
-    in Italy
-
-    Brienza
+  - Brienza
   - Cariati
   - Cagnano Varano
   - Corato

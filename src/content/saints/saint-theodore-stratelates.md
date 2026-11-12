@@ -31,12 +31,8 @@ vocation:
 patronage:
   - recovery of lost articles
   - soldiers
-  - –
   - Ottobeuren Abbey
-  - |-
-    in Italy
-
-    Brindisi, city of
+  - Brindisi, city of
   - Brindisi-Ostuni, archdiocese of
   - Venice
 martyr: true

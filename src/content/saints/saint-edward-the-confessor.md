@@ -23,7 +23,6 @@ patronage:
   - English royal family
   - kings
   - separated spouses
-  - —
   - Sestriere, Italy
   - England (former tradition)
   - Westminster, England, archdiocese of

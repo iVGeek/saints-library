@@ -33,11 +33,7 @@ patronage:
   - against eye disease
   - against eye problems
   - blind people
-  - –
-  - |-
-    in France
-
-    Brest
+  - Brest
   - Plouvien
 martyr: false
 prayers: []

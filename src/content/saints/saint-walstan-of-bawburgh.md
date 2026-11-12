@@ -36,11 +36,7 @@ patronage:
   - husbandmen
   - harvesters
   - mowers (of grain)
-  - –
-  - |-
-    in England
-
-    Bawburgh, Norfolk
+  - Bawburgh, Norfolk
   - Norwich
   - Taverham
 martyr: false

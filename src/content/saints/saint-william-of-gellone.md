@@ -31,10 +31,7 @@ vocation:
   - Soldier
 religiousOrder: Benedictine
 patronage:
-  - |-
-    in France
-
-    Aniane
+  - Aniane
   - Aquitaine
   - Saint-Guilhem-le-Désert
 martyr: false

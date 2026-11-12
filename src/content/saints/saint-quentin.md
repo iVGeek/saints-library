@@ -32,14 +32,12 @@ patronage:
   - against coughs
   - against dropsy
   - against sneezing
-  - –
   - bombardiers
   - chaplains
   - locksmiths
   - porters
   - surgeons
   - tailors
-  - –
   - Amiens, France
   - Monticelli Terme, Italy
 martyr: true

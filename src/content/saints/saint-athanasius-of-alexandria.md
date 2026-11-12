@@ -34,9 +34,7 @@ vocation:
 religiousOrder: Franciscan
 patronage:
   - against migraines
-  - |-
-    –
-    Bellante, Italy
+  - Bellante, Italy
 martyr: false
 prayers: []
 ---

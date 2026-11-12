@@ -30,10 +30,7 @@ vocation:
 religiousOrder: Benedictine
 patronage:
   - San Ildefonso Indian Pueblo
-  - |-
-    in Spain
-
-    Agli
+  - Agli
   - Seville
   - Toledo
 martyr: false

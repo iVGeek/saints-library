@@ -30,10 +30,7 @@ vocation:
   - Religious
 religiousOrder: Benedictine
 patronage:
-  - |-
-    in Switzerland
-
-    Fischingen
+  - Fischingen
   - Toggenburg
 martyr: false
 prayers: []

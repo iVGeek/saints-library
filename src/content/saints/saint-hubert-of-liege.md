@@ -48,11 +48,7 @@ patronage:
   - precision instrument makers
   - smelters
   - trappers
-  - –
-  - |-
-    in Belgium
-
-    Liege, city of
+  - Liege, city of
   - Liege, diocese of
   - Saint-Hubert
   - Sint-Huibrechts-Lille

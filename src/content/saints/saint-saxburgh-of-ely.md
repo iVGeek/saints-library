@@ -26,10 +26,7 @@ vocation:
   - Monk
   - Religious
 patronage:
-  - |-
-    in England
-
-    Ely
+  - Ely
   - Isle of Sheppey
   - Milton, Kent
 martyr: false

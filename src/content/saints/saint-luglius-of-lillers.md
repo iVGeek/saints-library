@@ -30,11 +30,7 @@ patronage:
   - against thunder
   - against rain
   - for rain
-  - –
-  - |-
-    in France
-
-    Ferfay
+  - Ferfay
   - Lillers
   - Mondidier
 martyr: true

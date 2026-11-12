@@ -24,10 +24,7 @@ vocation:
   - Bishop
   - Priest
 patronage:
-  - |-
-    in England
-
-    Finchale
+  - Finchale
   - Walpole
 martyr: false
 prayers: []

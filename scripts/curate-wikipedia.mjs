@@ -59,6 +59,15 @@ function stripHonorific(name) {
     .trim();
 }
 
+function stripDescriptor(name) {
+  return name
+    .replace(
+      /[,\s]+the\s+(apostle|evangelist|martyr|virgin|confessor|abbess|abbot|bishop|archbishop|pope|deacon|archdeacon|priest|monk|nun|hermit|widow|founder|foundress|missionary|doctor|mystic|king|queen|emperor|empress|soldier|layman|laywoman|younger|elder|great|stigmatic)\s*$/i,
+      ''
+    )
+    .trim();
+}
+
 function splitLocality(name) {
   const clean = stripHonorific(name);
   const m = clean.match(/^(.+?)\s+of\s+(.+)$/i);
@@ -167,9 +176,9 @@ function scorePage(page, profile) {
   if (extract.length < 150) return null;
   if (!categoryLooksLikeSaint(page)) return null;
 
-  const fullName = norm(stripHonorific(profile.data.name || ''));
+  const fullName = norm(stripDescriptor(stripHonorific(profile.data.name || '')));
   const { base, locality } = splitLocality(profile.data.name || '');
-  const baseN = norm(base);
+  const baseN = norm(stripDescriptor(base));
   const titleN = norm(title.replace(/\s*\([^)]*\)\s*$/, ''));
   const lower = extract.toLowerCase();
 
@@ -202,7 +211,11 @@ async function findMatches(profile) {
   const name = profile.data.name || '';
   const clean = stripHonorific(name);
   const { base } = splitLocality(name);
-  const variants = [...new Set([clean, base, name].filter(Boolean))];
+  const variants = [
+    ...new Set(
+      [clean, base, name, stripDescriptor(clean), stripDescriptor(base)].filter(Boolean)
+    ),
+  ];
 
   let pages = await pagesByTitle(variants);
   let results = pages.map((p) => scorePage(p, profile)).filter(Boolean);

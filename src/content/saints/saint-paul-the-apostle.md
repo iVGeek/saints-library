@@ -54,7 +54,6 @@ patronage:
   - saddlers
   - tent makers
   - writers
-  - —
   - Crete
   - Greece (proclaimed on 16 July 1914 by Pope Pius X)
   - Malta (traditional; confirmed on 27 July 1962 by Pope John XXIII)
@@ -77,10 +76,7 @@ patronage:
   - Saskatoon, Saskatchewan, diocese of
   - Worcester, Massachusetts, diocese of
   - Yakima, Washington, diocese of
-  - |-
-    in Belgium
-
-    Opwijk
+  - Opwijk
 martyr: true
 prayers: []
 ---

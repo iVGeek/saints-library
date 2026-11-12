@@ -36,7 +36,6 @@ patronage:
   - clothing industry
   - hermits
   - weavers
-  - –
   - Order of Saint Paul the First Hermit
 martyr: false
 prayers: []

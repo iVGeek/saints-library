@@ -23,10 +23,7 @@ religiousOrder: Benedictine
 patronage:
   - diocese of Tarnów, Poland
   - Saint Andrew Abbey in Cleveland, Ohio
-  - |-
-    in Slovakia
-
-    Nitra, diocese of
+  - Nitra, diocese of
   - sailors on the River Váh
 martyr: false
 prayers: []

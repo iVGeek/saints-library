@@ -17,10 +17,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 patronage:
-  - |-
-    in Italy
-
-    Chiusi
+  - Chiusi
   - Montepulciano-Chiusi-Pienza, diocese of
   - Scavolino
 martyr: true

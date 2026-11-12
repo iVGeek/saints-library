@@ -18,10 +18,7 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - |-
-    in France
-
-    Nantes, city of
+  - Nantes, city of
   - Nantes, diocese of
 martyr: true
 prayers: []

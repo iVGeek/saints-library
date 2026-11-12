@@ -30,7 +30,6 @@ patronage:
   - against mental illness
   - against nightmares
   - against sickness
-  - –
   - blind people
   - emigrants
   - guardian angels
@@ -41,7 +40,6 @@ patronage:
   - sick people
   - travellers
   - young people
-  - –
   - apothecaries
   - doctors
   - druggists
@@ -51,17 +49,12 @@ patronage:
   - shepherdesses
   - shepherds
   - surgeons
-  - –
   - Auchi, Nigeria, diocese of
   - Dubuque, Iowa, archdiocese of
   - MacKenzie – Fort Smith, Northwest Territories, diocese of
   - Madison, Wisconsin, diocese of
   - Seattle, Washington, archdiocese of
-  - –
-  - |-
-    in France
-
-    Annona
+  - Annona
 martyr: false
 prayers: []
 ---

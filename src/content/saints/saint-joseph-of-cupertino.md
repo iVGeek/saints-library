@@ -39,7 +39,6 @@ patronage:
   - paratroopers
   - students
   - test takers
-  - —
   - Cupertino, Italy
   - Osimo, Italy
 martyr: false

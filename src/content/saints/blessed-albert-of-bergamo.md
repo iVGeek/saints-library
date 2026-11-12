@@ -26,11 +26,7 @@ religiousOrder: Dominican
 patronage:
   - bakers
   - day labourers
-  - –
-  - |-
-    in Italy
-
-    Bergamo
+  - Bergamo
   - Cremona
   - Villa d'Ogna
 martyr: false

@@ -24,7 +24,6 @@ vocation:
 religiousOrder: Franciscan
 patronage:
   - sick people
-  - –
   - Royal Abbey of Longchamp
 martyr: false
 prayers: []

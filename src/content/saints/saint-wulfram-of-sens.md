@@ -41,10 +41,7 @@ vocation:
 religiousOrder: Benedictine
 patronage:
   - against the dangers of the sea
-  - |-
-    in France
-
-    Abbeville
+  - Abbeville
   - Sens
 martyr: false
 prayers: []

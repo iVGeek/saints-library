@@ -37,7 +37,6 @@ patronage:
   - against religious indifference
   - against snakes
   - against throat pain
-  - –
   - France
   - Dhuy, Belgium
   - Rheims, France, archdiocese of

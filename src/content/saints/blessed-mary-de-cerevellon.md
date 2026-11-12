@@ -25,7 +25,6 @@ patronage:
   - abandoned people
   - navigators
   - Spanish sailors
-  - –
   - Barcelona, Spain
 martyr: false
 prayers: []

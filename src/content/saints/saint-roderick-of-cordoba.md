@@ -26,10 +26,7 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - |-
-    in Spain
-
-    Cabra
+  - Cabra
   - Córdoba
 martyr: true
 prayers: []

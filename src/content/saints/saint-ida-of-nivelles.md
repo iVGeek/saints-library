@@ -33,7 +33,6 @@ patronage:
   - against toothache
   - erysipelas patients
   - toothache sufferers
-  - –
   - Nivelles, Belgium
 martyr: false
 prayers: []

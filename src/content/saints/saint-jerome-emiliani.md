@@ -29,11 +29,7 @@ religiousOrder: Franciscan
 patronage:
   - abandoned people
   - orphans (proclaimed by Pope Pius XI on 14 March 1928)
-  - –
-  - |-
-    in Italy
-
-    Somasca
+  - Somasca
   - Venice
 martyr: false
 prayers: []

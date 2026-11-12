@@ -29,7 +29,6 @@ patronage:
   - against blindness
   - against pertussis or whooping cough
   - against pirate attacks
-  - –
   - Angers, France
   - Saint-Aubin, Belgium
 martyr: false

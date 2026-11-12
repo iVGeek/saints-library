@@ -30,7 +30,6 @@ religiousOrder: Dominican
 patronage:
   - Aveiro, Portugal, diocese of
   - Aveiro, Portugal, city of
-  - –
   - World Youth Day 2023
 martyr: false
 prayers: []

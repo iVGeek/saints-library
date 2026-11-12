@@ -40,7 +40,6 @@ patronage:
   - market-gardeners
   - sailors
   - watermen
-  - –
   - Castiglione Marittimo, Italy
   - Smyrna (modern Izmir, Turkey)
 martyr: true

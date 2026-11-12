@@ -28,10 +28,7 @@ vocation:
   - Confessor
 religiousOrder: Jesuit
 patronage:
-  - |-
-    in Spain
-
-    Majorca, city of
+  - Majorca, city of
   - Majorca, island of
   - Segovia
 martyr: false

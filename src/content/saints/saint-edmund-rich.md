@@ -26,10 +26,7 @@ canonizationStatus: Saint
 vocation:
   - Confessor
 patronage:
-  - |-
-    in England
-
-    Abingdon
+  - Abingdon
   - Brentwood, city of
   - Brentwood, diocese of
   - Canterbury, city of

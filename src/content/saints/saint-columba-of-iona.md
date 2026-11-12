@@ -38,14 +38,11 @@ vocation:
 patronage:
   - against fire
   - against floods
-  - –
   - bookbinders
   - poets
-  - —
   - Ireland
   - Scotland
   - Scottish Highlanders
-  - –
   - Argyll and The Isles, Scotland, diocese of
   - Derry, Ireland, diocese of
   - Dunkeld, Scotland, diocese of
@@ -53,7 +50,6 @@ patronage:
   - Pembroke, Ontario, diocese of
   - Raphoe, Ireland, diocese of
   - Youngstown, Ohio, diocese of
-  - —
   - Derry, Ireland, city of
   - Dunkeld, Scotland, city of
   - Pemboke, Ontario, Canada, city of

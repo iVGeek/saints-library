@@ -39,7 +39,6 @@ patronage:
   - poultry
   - victims of abuse
   - widows
-  - —
   - Ghent, Belgium
   - Smetlede, Belgium
   - Bruay, France

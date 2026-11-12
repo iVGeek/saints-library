@@ -26,13 +26,9 @@ vocation:
   - Missionary
 patronage:
   - against earthquakes
-  - –
   - Los Angeles, California, archdiocese of
   - San Francisco, California, archdiocese of
-  - |-
-    in Italy
-
-    Ascoli Piceno, city of
+  - Ascoli Piceno, city of
   - Ascoli Piceno, diocese of
   - Castel Bolognese
   - Guardiagrele

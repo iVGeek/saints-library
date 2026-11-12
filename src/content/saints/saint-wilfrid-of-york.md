@@ -32,10 +32,7 @@ vocation:
   - Confessor
 religiousOrder: Jesuit
 patronage:
-  - |-
-    in England
-
-    Leeds, diocese of
+  - Leeds, diocese of
   - Middlesbrough, diocese of
   - Ripon
   - Sompting

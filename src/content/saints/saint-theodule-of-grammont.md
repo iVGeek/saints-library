@@ -42,16 +42,11 @@ patronage:
   - against livestock diseases
   - against storms
   - against temptations of the devil
-  - –
   - bells
   - cattle (in Vorarlberg region of Austria)
   - weather
   - wine makers (especially in Valais)
-  - –
-  - |-
-    in Germany
-
-    Ehingen
+  - Ehingen
 martyr: false
 prayers: []
 ---

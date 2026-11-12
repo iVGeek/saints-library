@@ -33,10 +33,7 @@ vocation:
   - Priest
   - Deacon
 patronage:
-  - |-
-    in England
-
-    Knaresborough
+  - Knaresborough
   - Newminster
   - York
 martyr: false

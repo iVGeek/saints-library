@@ -36,10 +36,7 @@ vocation:
   - Confessor
 religiousOrder: Benedictine
 patronage:
-  - |-
-    in Austria
-
-    Gurk, diocese of
+  - Gurk, diocese of
   - Klosterneuburg
   - Salzburg, city of
   - Salzburg, province of

@@ -36,10 +36,7 @@ patronage:
   - blacksmiths
   - carpenters
   - for success
-  - |-
-    in Belgium
-
-    Diepenbeek
+  - Diepenbeek
   - Tongeren
 martyr: false
 prayers: []

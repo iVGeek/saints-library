@@ -26,10 +26,7 @@ vocation:
 religiousOrder: Carmelite
 patronage:
   - Siena, Italy
-  - |-
-    in Spain
-
-    Madrid
+  - Madrid
   - Saragossa
   - Toledo
 martyr: false

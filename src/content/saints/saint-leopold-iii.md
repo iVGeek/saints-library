@@ -34,13 +34,8 @@ patronage:
   - large families
   - Lower Austria
   - step-parents
-  - –
   - Austria (since 1663; proclaimed on 17 December 1913 by Pope Pius X)
-  - –
-  - |-
-    in Austria
-
-    Klosterneuburg
+  - Klosterneuburg
   - Mariazell
   - Melk
   - Upper Austria

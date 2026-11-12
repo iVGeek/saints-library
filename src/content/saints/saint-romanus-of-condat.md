@@ -28,7 +28,6 @@ patronage:
   - against mental illness
   - drowning victims
   - mentally ill people
-  - –
   - Leuconne, France
 martyr: false
 prayers: []

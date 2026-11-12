@@ -27,11 +27,7 @@ patronage:
   - pilgrims
   - prisoners
   - soldiers
-  - –
-  - |-
-    in England
-
-    Glastonbury
+  - Glastonbury
   - Newton, Northamptonshire
   - Norwich
 martyr: true

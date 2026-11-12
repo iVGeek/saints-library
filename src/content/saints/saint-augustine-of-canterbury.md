@@ -28,11 +28,7 @@ vocation:
 religiousOrder: Franciscan
 patronage:
   - England
-  - –
-  - |-
-    in England
-
-    Canterbury
+  - Canterbury
   - Salford, diocese of
   - Southwark, archdiocese of
 martyr: false

@@ -26,10 +26,7 @@ vocation:
   - Monk
 religiousOrder: Benedictine
 patronage:
-  - |-
-    in France
-
-    Luxeuil-les-Bains
+  - Luxeuil-les-Bains
   - Remiremont
 martyr: true
 prayers: []

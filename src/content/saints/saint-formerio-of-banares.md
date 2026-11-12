@@ -17,10 +17,8 @@ vocation:
   - Soldier
 patronage:
   - against head diseases
-  - —
   - cattle
   - crops
-  - —
   - Bañares, Spain
   - Condado de Treviño, Spain
 martyr: false

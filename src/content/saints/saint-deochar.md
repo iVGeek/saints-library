@@ -33,7 +33,6 @@ religiousOrder: Benedictine
 patronage:
   - blind people
   - eye patients
-  - –
   - Eichstätt, Germany
 martyr: false
 prayers: []

@@ -31,10 +31,7 @@ vocation:
   - Monk
   - Confessor
 patronage:
-  - |-
-    in France
-
-    Amiens, city of
+  - Amiens, city of
   - Tours, archdiocese of
   - Tours, city of
 martyr: false

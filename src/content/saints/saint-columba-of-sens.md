@@ -25,7 +25,6 @@ patronage:
   - for rain
   - doves
   - pigeons
-  - –
   - Charvensod, Italy
   - Deerlijk, Belgium
   - Meaux, France

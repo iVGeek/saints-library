@@ -32,7 +32,6 @@ patronage:
   - foundry workers
   - goldsmiths
   - sculptors
-  - –
   - Niederaltaich, Germany
 martyr: true
 prayers: []

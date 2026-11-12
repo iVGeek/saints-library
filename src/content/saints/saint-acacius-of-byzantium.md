@@ -35,11 +35,7 @@ patronage:
   - against headaches
   - against migraines
   - soldiers
-  - –
-  - |-
-    in Italy
-
-    Catanzaro-Squillace, archdiocese of
+  - Catanzaro-Squillace, archdiocese of
   - Guardavalle
   - Squillace
 martyr: true

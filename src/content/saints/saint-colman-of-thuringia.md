@@ -23,11 +23,7 @@ patronage:
   - gout
   - rheumatism
   - whitewashers
-  - –
-  - |-
-    in Germany
-
-    Aschaffenburg
+  - Aschaffenburg
   - Würzburg, diocese of
 martyr: true
 prayers: []

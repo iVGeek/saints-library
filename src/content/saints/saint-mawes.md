@@ -38,7 +38,6 @@ patronage:
   - against insects
   - against snakes
   - against worms
-  - –
   - Falmouth, England
 martyr: false
 prayers: []

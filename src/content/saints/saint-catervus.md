@@ -19,10 +19,7 @@ canonizationStatus: Saint
 vocation:
   - Priest
 patronage:
-  - |-
-    in Italy
-
-    Tolentino, city of
+  - Tolentino, city of
   - Tolentino, diocese of
 martyr: true
 prayers: []

@@ -19,7 +19,6 @@ vocation:
   - Hermit
 patronage:
   - bell-founders
-  - –
   - Trim, Ireland
 martyr: false
 prayers: []

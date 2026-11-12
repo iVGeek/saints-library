@@ -35,13 +35,8 @@ patronage:
   - kings
   - people rejected by religious orders
   - physically challenged people
-  - –
   - Benedictine Oblates
-  - –
-  - |-
-    in Germany
-
-    Bamberg, diocese of
+  - Bamberg, diocese of
   - Bamberg, city of
   - Nuremberg
 martyr: false

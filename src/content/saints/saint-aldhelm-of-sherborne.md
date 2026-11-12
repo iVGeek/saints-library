@@ -23,11 +23,7 @@ vocation:
 religiousOrder: Benedictine
 patronage:
   - librarians
-  - –
-  - |-
-    in England
-
-    Doulting
+  - Doulting
   - Malmesbury
   - Sherborne, Dorset
 martyr: false

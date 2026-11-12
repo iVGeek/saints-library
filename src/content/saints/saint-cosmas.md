@@ -45,11 +45,7 @@ patronage:
   - relief from pestilence
   - surgeons
   - Worshipful Company of Barbers
-  - —
-  - |-
-    in Germany
-
-    Essen
+  - Essen
 martyr: true
 prayers: []
 ---

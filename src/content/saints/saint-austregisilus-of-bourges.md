@@ -24,10 +24,7 @@ vocation:
   - Bishop
   - Priest
 patronage:
-  - |-
-    in France
-
-    Bourges
+  - Bourges
   - Lyon
 martyr: false
 prayers: []

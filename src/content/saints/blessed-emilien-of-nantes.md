@@ -30,11 +30,7 @@ patronage:
   - against headaches
   - against hernia
   - against kidney stones
-  - –
-  - |-
-    in France
-
-    Saint-Émiland
+  - Saint-Émiland
   - Saint-Emilien-de-Blain
   - Nantes
 martyr: true

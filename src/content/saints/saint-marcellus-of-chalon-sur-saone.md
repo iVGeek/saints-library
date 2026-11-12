@@ -26,10 +26,7 @@ vocation:
   - Monk
   - Missionary
 patronage:
-  - |-
-    in France
-
-    Chalon-sur-Saône
+  - Chalon-sur-Saône
   - Lyon
 martyr: true
 prayers: []

@@ -32,13 +32,11 @@ religiousOrder: Franciscan
 patronage:
   - altar servers
   - brewers
-  - –
   - Bohemia
   - Czech Republic
   - Czechoslovakia
   - Moravia
   - Slovakia
-  - –
   - Prague, Czech Republic, archdiocese of
   - Prague, Czech Republic, city of
 martyr: true

@@ -20,15 +20,10 @@ vocation:
 patronage:
   - against fever
   - against malaria
-  - –
   - Czech Repubic
-  - –
   - Prague, Czech Republic, city of
   - Freising, Germany
-  - |-
-    in Italy
-
-    Gaiole in Chianti
+  - Gaiole in Chianti
   - Rimini
 martyr: true
 prayers: []

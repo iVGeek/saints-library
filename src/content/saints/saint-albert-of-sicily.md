@@ -30,13 +30,8 @@ vocation:
 religiousOrder: Carmelite
 patronage:
   - against fever
-  - –
   - Carmelite schools
-  - –
-  - |-
-    in Italy
-
-    Erice
+  - Erice
   - Mantua
   - Messina
   - Palermo

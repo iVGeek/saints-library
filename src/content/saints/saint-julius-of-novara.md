@@ -21,10 +21,7 @@ vocation:
   - Monk
   - Missionary
 patronage:
-  - |-
-    in Italy
-
-    Cavenago di Brianza
+  - Cavenago di Brianza
   - Orta San Giulio
 martyr: false
 prayers: []

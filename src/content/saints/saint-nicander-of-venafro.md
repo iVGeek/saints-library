@@ -20,10 +20,7 @@ vocation:
   - Soldier
 religiousOrder: Jesuit
 patronage:
-  - |-
-    in Italy
-
-    Tremensuoli
+  - Tremensuoli
   - Venafro
 martyr: true
 prayers: []

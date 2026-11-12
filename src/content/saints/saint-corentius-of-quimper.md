@@ -22,10 +22,7 @@ vocation:
   - Hermit
   - Confessor
 patronage:
-  - |-
-    in France
-
-    Quimper, city of
+  - Quimper, city of
   - Quimper-Léon, diocese of
 martyr: false
 prayers: []

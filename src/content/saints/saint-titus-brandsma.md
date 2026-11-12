@@ -27,7 +27,6 @@ vocation:
 religiousOrder: Franciscan
 patronage:
   - against cancer
-  - –
   - Philippine Province of the Order of Carmelites
 martyr: true
 prayers: []

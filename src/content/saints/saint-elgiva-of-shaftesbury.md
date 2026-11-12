@@ -25,10 +25,7 @@ vocation:
   - Religious
 religiousOrder: Benedictine
 patronage:
-  - |-
-    in England
-
-    Shaftesbury
+  - Shaftesbury
   - Wareham
 martyr: false
 prayers: []

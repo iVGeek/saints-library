@@ -35,7 +35,6 @@ patronage:
   - catechism writers
   - catechists
   - catechumens
-  - –
   - Capua, Italy, archdiocese of
   - Cincinnati, Ohio, archdiocese of
 martyr: false

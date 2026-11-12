@@ -32,7 +32,6 @@ vocation:
 religiousOrder: Benedictine
 patronage:
   - against fever
-  - –
   - Cluny, France
 martyr: false
 prayers: []

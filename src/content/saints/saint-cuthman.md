@@ -28,7 +28,6 @@ patronage:
   - poor people
   - shepherds
   - single laymen
-  - –
   - Steyning, England
 martyr: false
 prayers: []

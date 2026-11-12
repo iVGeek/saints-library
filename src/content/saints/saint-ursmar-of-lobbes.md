@@ -26,10 +26,7 @@ vocation:
   - Missionary
 religiousOrder: Benedictine
 patronage:
-  - |-
-    in Belgium
-
-    Binche
+  - Binche
   - Lobbes
 martyr: false
 prayers: []

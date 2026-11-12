@@ -23,13 +23,9 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 patronage:
-  - |-
-    in France
-
-    Bayeux
-  - |-
-    Corbeil
-    Evry-Corbeil-Essonnes, diocese of
+  - Bayeux
+  - Corbeil
+  - Evry-Corbeil-Essonnes, diocese of
 martyr: false
 prayers: []
 ---

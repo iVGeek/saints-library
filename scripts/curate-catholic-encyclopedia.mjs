@@ -68,6 +68,21 @@ function stripHonorific(name) {
     .trim();
 }
 
+/**
+ * Drop a trailing descriptive epithet ("the Apostle", "the Hermit") so a
+ * profile like "Saint Barnabas the Apostle" can match the encyclopedia's
+ * "Barnabas, Saint". The feast-day and locality gates still decide whether
+ * the resulting candidate is trustworthy.
+ */
+function stripDescriptor(name) {
+  return name
+    .replace(
+      /[,\s]+the\s+(apostle|evangelist|martyr|virgin|confessor|abbess|abbot|bishop|archbishop|pope|deacon|archdeacon|priest|monk|nun|hermit|widow|founder|foundress|missionary|doctor|mystic|king|queen|emperor|empress|soldier|layman|laywoman|younger|elder|great|stigmatic)\s*$/i,
+      ''
+    )
+    .trim();
+}
+
 function splitLocality(name) {
   const clean = stripHonorific(name);
   const m = clean.match(/^(.+?)\s+of\s+(.+)$/i);
@@ -173,9 +188,9 @@ for (const entry of index) {
 }
 
 function nameCandidates(profile) {
-  const full = norm(stripHonorific(profile.name));
+  const full = norm(stripDescriptor(stripHonorific(profile.name)));
   const { base } = splitLocality(profile.name);
-  const baseN = norm(base);
+  const baseN = norm(stripDescriptor(base));
   const exact = byKey.get(full) ?? [];
   const baseHits = byKey.get(baseN) ?? [];
   const firstHits = byFirstName.get(baseN.split(' ')[0]) ?? [];
@@ -242,8 +257,16 @@ function splitSections(text) {
 
 function looksCollective(text, entry) {
   if (/,\s*Saints$/i.test(entry.title)) return true;
-  const opening = text.slice(0, 900);
-  return /\b(name of (several|many|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve)|(records|mentions|commemorates)\s+(eleven|ten|twelve|several|many|two|three|four|five|six|seven|eight|nine)\s+(saints|martyrs|others)|(several|many|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve) (saints|martyrs|bishops|persons) of (this|the same) name|several persons|bore this name|saints?\s+named|others of (the|this) name|martyrs bearing the name|bore the name of|among the saints)\b/i.test(
+  const opening = text.slice(0, 1600);
+  return /\b(name of (several|many|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve)|(records|mentions|commemorates)\s+(eleven|ten|twelve|several|many|two|three|four|five|six|seven|eight|nine)\s+(saints|martyrs|others)|(several|many|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve)\s+(?:\w+\s+){0,2}(saints|martyrs|bishops|persons)\s+of\s+(this|the same)\s+name|several persons|bore this name|bore the name of|saints?\s+named|others of (the|this) name|martyrs bearing the name|among the saints)\b/i.test(
+    opening
+  );
+}
+
+/** Articles about places, dioceses, and other topics rather than people. */
+function looksTopical(text) {
+  const opening = text.slice(0, 240).trim();
+  return /^(an?|the)\s+(?:[A-Za-z]+\s+){0,3}(archdiocese|diocese|eparchy|bishopric|city|town|village|municipality|province|region|island|river|mountain|titular see|country)\b/i.test(
     opening
   );
 }
@@ -375,8 +398,8 @@ async function main() {
       if (text.length < 250) continue;
 
       const core = titleCore(entry);
-      const fullName = norm(stripHonorific(profile.data.name || ''));
-      const baseName = norm(splitLocality(profile.data.name || '').base);
+      const fullName = norm(stripDescriptor(stripHonorific(profile.data.name || '')));
+      const baseName = norm(stripDescriptor(splitLocality(profile.data.name || '').base));
       const fullTokens = new Set(fullName.split(' ').filter((w) => w.length > 2));
       const coreTokens = core.split(' ').filter((w) => w.length > 2);
       const overlap = coreTokens.filter((w) => fullTokens.has(w)).length;
@@ -390,6 +413,7 @@ async function main() {
       const collective = looksCollective(text, entry);
       const section = pickSection(sections, locality, month, day);
       const subject = section || text;
+      const topical = looksTopical(subject);
 
       const opening = text.slice(0, 900).toLowerCase();
       const subjectLower = subject.toLowerCase();
@@ -423,6 +447,8 @@ async function main() {
         confidence = Math.min(0.6, confidence);
       }
 
+      if (topical) confidence = Math.min(confidence, 0.2);
+
       evaluated.push({
         entry,
         confidence,
@@ -432,6 +458,7 @@ async function main() {
         regionHit,
         collective,
         section,
+        topical,
         text,
       });
       if (!best || confidence > best.confidence) best = evaluated[evaluated.length - 1];

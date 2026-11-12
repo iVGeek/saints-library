@@ -26,7 +26,6 @@ vocation:
 patronage:
   - against abortions
   - against miscarriages
-  - –
   - Vadstena, Sweden
 martyr: false
 prayers: []

@@ -26,10 +26,7 @@ vocation:
   - Confessor
 religiousOrder: Benedictine
 patronage:
-  - |-
-    in England
-
-    Ripon
+  - Ripon
   - York
 martyr: false
 prayers: []

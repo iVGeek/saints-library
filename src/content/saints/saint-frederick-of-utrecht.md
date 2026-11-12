@@ -25,10 +25,7 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - |-
-    in the Netherlands
-
-    Maastricht
+  - Maastricht
   - Utrecht
 martyr: true
 prayers: []

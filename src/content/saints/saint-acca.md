@@ -28,7 +28,6 @@ vocation:
 religiousOrder: Benedictine
 patronage:
   - learning
-  - –
   - Hexham, England
 martyr: false
 prayers: []

@@ -29,11 +29,7 @@ vocation:
 patronage:
   - exiles
   - prisoners
-  - —
-  - |-
-    in Italy
-
-    Aguzzo
+  - Aguzzo
   - Albavilla
   - Arcisate
   - Arsago Seprio

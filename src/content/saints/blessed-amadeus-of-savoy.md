@@ -26,7 +26,6 @@ vocation:
 religiousOrder: Franciscan
 patronage:
   - royal house of Piedmont
-  - –
   - Savoy, France
 martyr: false
 prayers: []

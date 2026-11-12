@@ -25,11 +25,7 @@ vocation:
 patronage:
   - against cholera (a procession in his honour ended a cholera epidemic in Plaines in 1632
   - against drought
-  - –
-  - |-
-    in France
-
-    Châtillon-sur-Seine
+  - Châtillon-sur-Seine
   - Langres
   - Marcenay
 martyr: false

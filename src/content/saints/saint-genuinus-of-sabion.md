@@ -27,7 +27,6 @@ vocation:
 patronage:
   - mines
   - miners
-  - —
   - Bolzano-Bressanone, Italy, diocese of
   - Brixen, Italy, city of
   - Brixen, Italy, diocese of

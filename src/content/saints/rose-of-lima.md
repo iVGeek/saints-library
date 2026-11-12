@@ -1,5 +1,6 @@
 ---
 name: Rose of Lima
+summary: "First saint born in the Americas; a Dominican tertiary of Lima (1586–1617) known for prayer, penance, and her garden hermitage."
 stub: false
 honorific: Saint
 title: Virgin, Religious

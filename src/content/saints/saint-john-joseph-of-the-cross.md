@@ -28,10 +28,7 @@ vocation:
   - Confessor
 religiousOrder: Franciscan
 patronage:
-  - |-
-    in Italy
-
-    Ischia
+  - Ischia
   - Naples
 martyr: false
 prayers: []

@@ -22,11 +22,8 @@ vocation:
   - Monk
 patronage:
   - miners
-  - –
-  - |-
-    locations in Italy
-
-    Atzara
+  - locations in Italy
+  - Atzara
   - Iglesias, diocese of
   - Ozieri, city of
   - Ozieri, diocese of

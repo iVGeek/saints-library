@@ -39,7 +39,6 @@ patronage:
   - castaways
   - fishermen
   - sailors
-  - —
   - Plourin, France
   - Plymouth, England
 martyr: false

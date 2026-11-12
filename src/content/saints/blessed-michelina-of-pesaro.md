@@ -31,7 +31,6 @@ patronage:
   - against mental illness; of mentally ill people
   - in-law problems
   - widows
-  - –
   - Confraternita dell'Annunziata (Confraternity of the Annunciation)
   - Pesaro, Italy
 martyr: false

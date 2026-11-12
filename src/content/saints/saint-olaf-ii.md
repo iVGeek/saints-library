@@ -41,11 +41,7 @@ patronage:
   - difficult marriages
   - kings
   - Norway (proclaimed on 7 March 1941 by Pope Pius XII)
-  - –
-  - |-
-    in England
-
-    East Anglia
+  - East Anglia
   - Barton Turf
 martyr: true
 prayers: []

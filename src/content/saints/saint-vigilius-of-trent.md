@@ -23,10 +23,8 @@ vocation:
   - Priest
   - Missionary
 patronage:
-  - |-
-    locations in Italy
-
-    Bolzano-Bressanone, diocese of
+  - locations in Italy
+  - Bolzano-Bressanone, diocese of
   - Ovaro
   - Trent
   - Tyrol

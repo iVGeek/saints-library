@@ -29,7 +29,6 @@ vocation:
 patronage:
   - basket makers
   - for rain
-  - –
   - Cuenca, Spain, city of
   - Cuenca, Spain, diocese of
 martyr: false

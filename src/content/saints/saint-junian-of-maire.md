@@ -23,10 +23,7 @@ vocation:
   - Hermit
 religiousOrder: Benedictine
 patronage:
-  - |-
-    in France
-
-    ploughmen in the Poitou region
+  - ploughmen in the Poitou region
   - Chaulny
   - Poitiers
 martyr: false

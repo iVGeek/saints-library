@@ -32,7 +32,6 @@ vocation:
 patronage:
   - construction workers
   - engaged couples
-  - –
   - Wimborne, England
 martyr: false
 prayers: []

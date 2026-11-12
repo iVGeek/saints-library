@@ -23,10 +23,7 @@ vocation:
   - Priest
 religiousOrder: Benedictine
 patronage:
-  - |-
-    in Italy
-
-    Fabriano
+  - Fabriano
   - Osimo
 martyr: false
 prayers: []

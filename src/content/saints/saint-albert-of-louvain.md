@@ -29,10 +29,7 @@ vocation:
   - Deacon
 religiousOrder: Carmelite
 patronage:
-  - |-
-    in Belgium
-
-    Leuven
+  - Leuven
   - Liege
 martyr: false
 prayers: []

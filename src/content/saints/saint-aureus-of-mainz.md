@@ -21,10 +21,7 @@ vocation:
   - Monk
   - Religious
 patronage:
-  - |-
-    in Germany
-
-    Heilbad Heiligenstadt
+  - Heilbad Heiligenstadt
   - Mainz
 martyr: true
 prayers: []

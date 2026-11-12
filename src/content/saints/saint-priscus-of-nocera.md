@@ -17,10 +17,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 patronage:
-  - |-
-    in Italy
-
-    Nocera
+  - Nocera
   - Nocera Inferiore-Sarno, diocese of
 martyr: true
 prayers: []

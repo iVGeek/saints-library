@@ -20,14 +20,11 @@ religiousOrder: Franciscan
 patronage:
   - against alcoholism
   - against smallpox
-  - –
   - carpenters
   - reformed alcoholics
   - tailors
-  - –
   - Gary, Indiana, diocese of
   - Great Falls-Billings, Montana, diocese of
-  - –
   - Deliceto, Italy
 martyr: true
 prayers: []

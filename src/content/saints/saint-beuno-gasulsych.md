@@ -31,7 +31,6 @@ patronage:
   - diseased cattle
   - sick animals
   - sick children
-  - –
   - Clynnog Fawr, Wales
 martyr: true
 prayers: []

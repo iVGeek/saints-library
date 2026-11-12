@@ -31,10 +31,8 @@ patronage:
   - duchesses
   - mothers
   - widows
-  - –
   - Bohemia
   - Czech Republic
-  - –
   - Prague, Czech Republic, city of
 martyr: false
 prayers: []

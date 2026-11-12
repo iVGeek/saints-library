@@ -9,9 +9,8 @@ summary: >-
 searchAliases:
   - Anthony Cauleas
   - Antony Cauleas
-  - |-
-    Antony Kauleas
-    Antony II of Constantinople
+  - Antony Kauleas
+  - Antony II of Constantinople
 birthYear: 829
 deathYear: 901
 born: 829 near Constantinople

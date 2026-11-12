@@ -29,9 +29,8 @@ vocation:
 religiousOrder: Benedictine
 patronage:
   - against bodily ills
-  - |-
-    against broken bones,
-    against deafness
+  - against broken bones,
+  - against deafness
   - against dumbness
   - against gall stones
   - against hernias
@@ -55,11 +54,7 @@ patronage:
   - shepherds
   - sick people
   - unattractive people
-  - –
-  - |-
-    in France
-
-    Baume-les-Messieurs
+  - Baume-les-Messieurs
   - Fleury-sur-Loire
 martyr: false
 prayers: []

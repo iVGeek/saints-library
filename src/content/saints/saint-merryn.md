@@ -21,10 +21,7 @@ vocation:
   - Monk
   - Missionary
 patronage:
-  - |-
-    in France
-
-    Lanmerin
+  - Lanmerin
   - Mantalot
   - Plumelin
 martyr: false

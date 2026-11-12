@@ -28,25 +28,18 @@ vocation:
 religiousOrder: Franciscan
 patronage:
   - against fire
-  - –
   - against apoplexy
   - against paralysis
   - against stomach diseases
   - against strokes
   - apoplexics
   - paralysed people
-  - |-
-    stroke victims
-    –
+  - stroke victims
   - carpenters
   - livestock
   - lumberjacks
   - shepherds
-  - –
-  - |-
-    in Germany
-
-    Regensburg, city of
+  - Regensburg, city of
   - Regensburg, diocese of
 martyr: false
 prayers: []

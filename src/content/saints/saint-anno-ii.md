@@ -27,10 +27,7 @@ vocation:
   - Priest
   - Confessor
 patronage:
-  - |-
-    in Germany
-
-    Cologne
+  - Cologne
   - Siegburg
 martyr: false
 prayers: []

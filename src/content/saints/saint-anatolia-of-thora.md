@@ -23,10 +23,7 @@ vocation:
   - Priest
   - Religious
 patronage:
-  - |-
-    in Italy
-
-    Rieti
+  - Rieti
   - Santa Anatolia, Borgorose
 martyr: true
 prayers: []

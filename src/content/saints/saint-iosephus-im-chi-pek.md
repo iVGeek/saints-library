@@ -5,9 +5,8 @@ honorific: Venerable
 summary: Married layman in the apostolic vicariate of Korea. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
 searchAliases:
-  - |-
-    Im Chi-Pek
-    Yosep
+  - Im Chi-Pek
+  - Yosep
 birthYear: 1804
 deathYear: 1846
 born: 1804 in Seoul, South Korea

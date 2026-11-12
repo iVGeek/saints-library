@@ -26,10 +26,7 @@ vocation:
   - Bishop
   - Priest
 patronage:
-  - |-
-    in Italy
-
-    Fossombrone
+  - Fossombrone
   - Sorrivoli
 martyr: false
 prayers: []

@@ -26,11 +26,7 @@ vocation:
 patronage:
   - against eye problems
   - against rabies (which was locally called Saint-Tujan's disease
-  - –
-  - |-
-    in France
-
-    Brasparts
+  - Brasparts
   - FinisterreFinisterre
   - Landujan
 martyr: false

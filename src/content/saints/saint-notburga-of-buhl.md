@@ -27,7 +27,6 @@ patronage:
   - against birth pains
   - against drought
   - for multiple births
-  - –
   - Klettgau, Germany
 martyr: false
 prayers: []

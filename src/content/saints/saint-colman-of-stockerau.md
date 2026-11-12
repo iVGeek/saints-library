@@ -35,9 +35,7 @@ patronage:
   - horsemen
   - horses
   - sick horses
-  - —
   - Austria
-  - —
   - Melk, Austria
 martyr: false
 prayers: []

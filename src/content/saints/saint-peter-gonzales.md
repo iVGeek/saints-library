@@ -37,7 +37,6 @@ patronage:
   - mariners
   - sailors
   - watermen
-  - —
   - Tui, Spain
   - Tui-Vigo, Spain, diocese of
 martyr: false

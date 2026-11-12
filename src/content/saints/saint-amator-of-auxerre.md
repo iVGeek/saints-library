@@ -29,7 +29,6 @@ vocation:
   - Confessor
 patronage:
   - against epilepsy
-  - –
   - Auxerre, France
 martyr: false
 prayers: []

@@ -42,7 +42,6 @@ patronage:
   - against plague
   - against storms
   - against shipwrecks
-  - –
   - bakers
   - blind people
   - boatmen
@@ -54,11 +53,7 @@ patronage:
   - pilgrims
   - sailors
   - watermen
-  - –
-  - |-
-    in France
-
-    Dommartin Abbey
+  - Dommartin Abbey
   - Saint-Josse-sur-Mer
 martyr: false
 prayers: []

@@ -27,7 +27,6 @@ vocation:
 patronage:
   - against mosquitoes
   - against stinging flies
-  - –
   - Augsburg, Germany
   - Gerona, Spain
   - Valencia, Spain

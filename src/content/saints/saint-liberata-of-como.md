@@ -23,7 +23,6 @@ vocation:
 religiousOrder: Benedictine
 patronage:
   - babies
-  - –
   - Cerreto Guidi, Italy
 martyr: false
 prayers: []

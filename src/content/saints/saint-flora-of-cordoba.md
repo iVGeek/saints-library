@@ -28,7 +28,6 @@ patronage:
   - converts
   - martyrs
   - single laywomen
-  - –
   - Córdoba, Spain
 martyr: true
 prayers: []

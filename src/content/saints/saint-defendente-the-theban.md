@@ -22,7 +22,6 @@ vocation:
 patronage:
   - against fire
   - against wolves
-  - —
   - Beccara di Rosazza, Italy
   - Cassolnovo, Italy
   - Castiglione di Asti, Italy

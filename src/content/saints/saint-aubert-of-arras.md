@@ -29,7 +29,6 @@ patronage:
   - bakers
   - confectioners
   - merchants
-  - –
   - Cambrai, France
   - Ghent, Belgium
   - Hainault, Belgium

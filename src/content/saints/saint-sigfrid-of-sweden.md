@@ -28,9 +28,8 @@ vocation:
   - Bishop
   - Priest
 patronage:
-  - |-
-    Sweden
-    Glastonbury, England
+  - Sweden
+  - Glastonbury, England
   - Götaland, Sweden
   - Stoke Orchard, England
 martyr: true

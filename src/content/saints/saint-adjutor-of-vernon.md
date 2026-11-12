@@ -34,7 +34,6 @@ patronage:
   - swimmers
   - swimming
   - yachtsmen
-  - —
   - Vernon, France
 martyr: false
 prayers: []

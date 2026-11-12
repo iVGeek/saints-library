@@ -21,10 +21,7 @@ vocation:
   - Bishop
   - Priest
 patronage:
-  - |-
-    in Germany
-
-    Bautzen
+  - Bautzen
 martyr: true
 prayers: []
 ---

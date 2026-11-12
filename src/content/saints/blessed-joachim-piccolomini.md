@@ -26,11 +26,7 @@ vocation:
   - Confessor
 patronage:
   - against epilepsy
-  - –
-  - |-
-    in Italy
-
-    Arezzo
+  - Arezzo
   - Siena
 martyr: false
 prayers: []

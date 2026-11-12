@@ -25,10 +25,7 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - |-
-    in Italy
-
-    Capranica
+  - Capranica
   - Fraore, Parma
   - Isola, Compiano
   - Mignegno, Pontremoli

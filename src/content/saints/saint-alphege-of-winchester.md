@@ -38,10 +38,7 @@ vocation:
   - Priest
 patronage:
   - kidnap victims
-  - |-
-    in England
-
-    Canterbury, city of
+  - Canterbury, city of
   - Greenwich
   - Solihull
   - Winchester

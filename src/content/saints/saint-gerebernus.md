@@ -27,7 +27,6 @@ vocation:
 patronage:
   - against fever
   - against gout
-  - –
   - Antwerp, Belgium
   - Sonsbeck, Germany
 martyr: false

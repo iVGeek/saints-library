@@ -22,10 +22,8 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - |-
-    locations in Italy
-
-    Abriola
+  - locations in Italy
+  - Abriola
   - Altivole
   - Luint, Ovaro
   - Terni, city of

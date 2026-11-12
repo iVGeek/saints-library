@@ -25,10 +25,8 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - |-
-    locations in Italy
-
-    Baucina
+  - locations in Italy
+  - Baucina
   - Benetutti
   - Bivona
   - Caltagirone, diocese of

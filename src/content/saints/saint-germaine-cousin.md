@@ -47,11 +47,7 @@ patronage:
   - victims of abuse
   - victims of child abuse
   - young country girls
-  - –
-  - |-
-    in France
-
-    Toulouse
+  - Toulouse
   - Pibrac
 martyr: false
 prayers: []

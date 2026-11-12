@@ -32,7 +32,6 @@ vocation:
 religiousOrder: Franciscan
 patronage:
   - against fatigue
-  - –
   - Naples, Italy
   - Valencia, Spain
   - Mission San Luis Obispo de Tolosa, California

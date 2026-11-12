@@ -25,10 +25,7 @@ vocation:
   - Monk
   - Hermit
 patronage:
-  - |-
-    in France
-
-    Orléans
+  - Orléans
   - Perche
 martyr: false
 image: >-

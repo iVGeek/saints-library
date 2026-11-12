@@ -39,7 +39,6 @@ patronage:
   - mentally ill people
   - psychiatrists
   - therapists
-  - –
   - Sint-Truiden, Belgium
 martyr: false
 prayers: []

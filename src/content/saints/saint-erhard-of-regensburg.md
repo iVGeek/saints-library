@@ -48,11 +48,7 @@ patronage:
   - hospitals
   - miners
   - shoemakers
-  - —
-  - |-
-    in Germany
-
-    Regensburg, city of
+  - Regensburg, city of
   - Regensburg, diocese of
 martyr: false
 prayers: []

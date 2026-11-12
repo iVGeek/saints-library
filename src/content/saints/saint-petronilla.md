@@ -35,7 +35,6 @@ patronage:
   - dauphins of France
   - mountain travellers
   - treaties between Popes and Frankish emperors
-  - –
   - Acciano, Italy
 martyr: true
 prayers: []

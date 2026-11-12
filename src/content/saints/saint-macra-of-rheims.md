@@ -25,11 +25,7 @@ vocation:
   - Monk
 patronage:
   - against breast cancer
-  - –
-  - |-
-    in France
-
-    Fismes
+  - Fismes
   - Rheims
 martyr: true
 prayers: []

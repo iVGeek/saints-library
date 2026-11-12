@@ -28,10 +28,8 @@ vocation:
 religiousOrder: Benedictine
 patronage:
   - farmers
-  - –
   - Bohemia
   - Czech Republic
-  - –
   - Prague, Czech Republic, city of
 martyr: false
 prayers: []

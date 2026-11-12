@@ -29,10 +29,7 @@ vocation:
   - Confessor
 religiousOrder: Benedictine
 patronage:
-  - |-
-    in Germany
-
-    Bingen am Rhein
+  - Bingen am Rhein
   - Disenberg (Disibodenberg)
 martyr: false
 prayers: []

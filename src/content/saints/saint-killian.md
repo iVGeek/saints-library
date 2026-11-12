@@ -37,15 +37,10 @@ patronage:
   - against eye problems
   - against gout
   - against rheumatism, rheumatism sufferers
-  - –
   - tinsmiths
   - whitesmiths
   - whitewashers
-  - –
-  - |-
-    in Germany
-
-    Aschaffenburg
+  - Aschaffenburg
   - Bad Heilbrunn
   - Bavaria
   - Franconia

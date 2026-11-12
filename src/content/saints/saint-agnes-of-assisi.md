@@ -22,11 +22,7 @@ vocation:
 religiousOrder: Franciscan
 patronage:
   - Poor Clares
-  - –
-  - |-
-    in Italy
-
-    Assisi
+  - Assisi
   - Monticelli
 martyr: false
 prayers: []

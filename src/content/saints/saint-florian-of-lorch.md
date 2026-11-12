@@ -27,7 +27,6 @@ patronage:
   - against flood
   - drowning victims
   - harvests
-  - –
   - barrel-makers
   - blacksmiths
   - brewers
@@ -40,10 +39,7 @@ patronage:
   - Worshipful Company of Firefighters
   - Austria
   - Poland
-  - |-
-    in Austria
-
-    Linz, Austria, city of
+  - Linz, Austria, city of
   - Linz, Austria, diocese of
   - Sankt Florian, city of
   - Sankt Florian Monastery

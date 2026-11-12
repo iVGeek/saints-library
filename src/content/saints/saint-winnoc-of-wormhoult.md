@@ -34,13 +34,8 @@ religiousOrder: Benedictine
 patronage:
   - against fever
   - against whooping cough
-  - –
   - millers
-  - –
-  - |-
-    in France
-
-    Saint-Omer
+  - Saint-Omer
   - Wormhout
 martyr: false
 prayers: []

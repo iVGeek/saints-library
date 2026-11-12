@@ -29,7 +29,6 @@ patronage:
   - against misfortune
   - against rain
   - for rain
-  - –
   - Arles, France
 martyr: false
 prayers: []

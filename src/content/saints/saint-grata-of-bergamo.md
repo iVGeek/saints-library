@@ -19,10 +19,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 patronage:
-  - |-
-    in Italy
-
-    Bergamo
+  - Bergamo
   - Grassobbio
 martyr: true
 prayers: []

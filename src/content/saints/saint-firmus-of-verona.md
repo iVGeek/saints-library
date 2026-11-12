@@ -19,10 +19,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 patronage:
-  - |-
-    in Italy
-
-    Bergamo, diocese of
+  - Bergamo, diocese of
   - Berzo San Fermo
   - Caravaggio
 martyr: true

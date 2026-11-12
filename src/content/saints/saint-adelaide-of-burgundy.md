@@ -36,7 +36,6 @@ patronage:
   - step-parents
   - victims of abuse
   - widows
-  - –
   - Cluny, France
 martyr: false
 prayers: []

@@ -36,7 +36,6 @@ patronage:
   - silver workers
   - silversmiths
   - swordsmiths
-  - –
   - Charlottetown, Prince Edward Island, Canada, diocese of
   - Canterbury, England
   - Worshipful Company of Goldsmiths

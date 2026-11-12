@@ -33,11 +33,7 @@ patronage:
   - against gravel
   - against kidney disease
   - against kidney stones
-  - –
-  - |-
-    in France
-
-    Le Mans
+  - Le Mans
 martyr: false
 prayers: []
 ---

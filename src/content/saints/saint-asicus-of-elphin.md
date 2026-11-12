@@ -26,10 +26,7 @@ vocation:
   - Monk
   - Hermit
 patronage:
-  - |-
-    in Ireland
-
-    Elphin, city of
+  - Elphin, city of
   - Elphin, diocese of
 martyr: false
 prayers: []

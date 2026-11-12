@@ -34,9 +34,7 @@ patronage:
   - mentally ill people
   - single laywomen
   - torture victims
-  - —
   - Los Angeles, California, archdiocese of
-  - —
   - Bibiana, Italy
 martyr: true
 prayers: []

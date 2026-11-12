@@ -30,7 +30,6 @@ vocation:
   - Confessor
 patronage:
   - fishermen of Folkestone, England
-  - —
   - Brackley, England
   - Buckingham, England
 martyr: false

@@ -32,7 +32,6 @@ patronage:
   - against migraines
   - convulsive children
   - epileptics
-  - –
   - bird dealers
   - cutlers
   - cutters
@@ -44,7 +43,6 @@ patronage:
   - tailors
   - tanners
   - wool carders or combers
-  - –
   - against hail
   - against hailstorms
   - against spasms
@@ -58,10 +56,8 @@ patronage:
   - motorways, highways, roads
   - prisoners
   - singers
-  - –
   - Jordan
   - Puerto Rico
-  - –
   - Almenara, Brazil, diocese of
   - Auchi, Nigeria, diocese of
   - Belley-Ars, France, diocese of
@@ -78,11 +74,7 @@ patronage:
   - Saint John's, Newfoundland, diocese of
   - Savannah, Georgia, diocese of
   - Sora-Cassino-Aquino-Pontecorvo, Italy, diocese of
-  - –
-  - |-
-    in Belgium
-
-    Herve
+  - Herve
   - Molenbeek-Saint-Jean
   - Welkenraedt
 martyr: true

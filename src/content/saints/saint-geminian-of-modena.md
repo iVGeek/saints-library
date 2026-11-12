@@ -24,10 +24,7 @@ vocation:
   - Monk
   - Deacon
 patronage:
-  - |-
-    in Italy
-
-    Careola, Pontremoli
+  - Careola, Pontremoli
   - Modena
   - Pontremoli
   - Sacrofano

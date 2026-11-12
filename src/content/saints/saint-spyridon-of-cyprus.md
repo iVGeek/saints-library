@@ -33,7 +33,6 @@ patronage:
   - against flood
   - potters
   - sailors
-  - —
   - Corfu, Greece
   - Kephalonia, Greece
   - Zakynthos, Greece

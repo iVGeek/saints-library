@@ -20,10 +20,7 @@ vocation:
 patronage:
   - against dog bites
   - against rabid dogs
-  - |-
-    in Italy
-
-    Arce
+  - Arce
   - Rocca d'Arce
 martyr: false
 prayers: []

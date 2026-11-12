@@ -26,11 +26,7 @@ vocation:
   - Confessor
 patronage:
   - brewers
-  - –
-  - |-
-    in France
-
-    Metz
+  - Metz
   - Remiremont
 martyr: false
 prayers: []

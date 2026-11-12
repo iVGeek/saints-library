@@ -23,10 +23,7 @@ vocation:
   - Priest
   - Missionary
 patronage:
-  - |-
-    in Italy
-
-    Foligno, city of
+  - Foligno, city of
   - Foligno, diocese of
 martyr: true
 prayers: []

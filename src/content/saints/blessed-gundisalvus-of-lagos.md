@@ -31,11 +31,7 @@ patronage:
   - young people
   - fishermen
   - sailors, mariners
-  - –
-  - |-
-    in Portugal
-
-    Lagos
+  - Lagos
   - Torres Vedras
 martyr: false
 prayers: []

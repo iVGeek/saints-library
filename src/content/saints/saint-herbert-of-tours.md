@@ -5,9 +5,8 @@ stub: true
 honorific: Saint
 summary: Monk. Abbot at Marmoutier Abbey. Archbishop of Tours, France.
 searchAliases:
-  - |-
-    Herbert of Marmoutier
-    Haberne of….
+  - Herbert of Marmoutier
+  - Haberne of….
   - Herbern of….
 region: France
 feastDay:

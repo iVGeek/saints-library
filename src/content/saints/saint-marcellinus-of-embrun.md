@@ -8,9 +8,8 @@ summary: >-
   to flee into the mountains and care for his dio
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Marcellinus.jpg
 searchAliases:
-  - |-
-    Marcellinus of Ambrun
-    Marcelino….
+  - Marcellinus of Ambrun
+  - Marcelino….
   - Marcellí d'Ambrun
 deathYear: 374
 born: North Africa

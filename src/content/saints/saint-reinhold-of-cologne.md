@@ -32,13 +32,8 @@ patronage:
   - against plague
   - sculptors
   - stone masons
-  - |-
-    stonecutters
-    –
-  - |-
-    in Germany
-
-    Cologne
+  - stonecutters
+  - Cologne
   - Dortmund
 martyr: false
 prayers: []

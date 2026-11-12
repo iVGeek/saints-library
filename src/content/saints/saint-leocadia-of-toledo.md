@@ -23,7 +23,6 @@ vocation:
   - Monk
 patronage:
   - against plague
-  - –
   - Toledo, Spain, city of
   - Toledo, Spain, archdiocese of
 martyr: true

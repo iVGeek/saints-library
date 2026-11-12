@@ -23,10 +23,8 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - |-
-    locations in Italy
-
-    Castagnole, Paese
+  - locations in Italy
+  - Castagnole, Paese
   - Cavarzere
   - Maniago
   - Noventa di Piave

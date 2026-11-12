@@ -24,7 +24,6 @@ vocation:
   - Monk
 patronage:
   - farmers
-  - —
   - Sweden
 martyr: true
 prayers: []

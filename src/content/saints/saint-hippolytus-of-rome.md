@@ -23,11 +23,7 @@ patronage:
   - prison guards
   - prison officers
   - prison workers
-  - —
-  - |-
-    in Austria
-
-    Sankt Pölten
+  - Sankt Pölten
   - Zell am See
 martyr: true
 prayers: []

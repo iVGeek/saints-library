@@ -29,7 +29,6 @@ patronage:
   - against demon possession
   - against epilepsy
   - against paralysis
-  - –
   - Benevento, Italy
   - San Lupo, Italy
   - Troyes, France

@@ -23,7 +23,6 @@ vocation: []
 patronage:
   - against late frosts
   - for the growth of crops
-  - —
   - Albanella, Italy
 martyr: true
 prayers: []

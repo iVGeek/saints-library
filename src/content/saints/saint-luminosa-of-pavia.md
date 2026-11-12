@@ -15,7 +15,6 @@ vocation:
   - Religious
 patronage:
   - book sellers
-  - –
   - Pavia, Italy
 martyr: false
 prayers: []

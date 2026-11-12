@@ -33,7 +33,6 @@ patronage:
   - the Internet
   - schoolchildren
   - students
-  - –
   - Cartagena, Spain
 martyr: false
 prayers: []

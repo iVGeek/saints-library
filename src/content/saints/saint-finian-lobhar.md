@@ -8,9 +8,8 @@ summary: >-
   Swords abbey near Dublin, Ireland. In his later years he retired to Clonmore to spend his last days as a prayerful
   monk. He was called Lobhar (the Leper) because
 searchAliases:
-  - |-
-    Finian Lobur
-    Finian the Leper
+  - Finian Lobur
+  - Finian the Leper
   - Finnian…
   - Fintan…
 deathYear: 560

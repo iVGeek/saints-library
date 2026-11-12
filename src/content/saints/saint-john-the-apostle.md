@@ -35,7 +35,6 @@ patronage:
   - against hailstorms
   - against poisoning
   - burn victims
-  - —
   - arms manufacturers
   - art dealers
   - artists
@@ -78,11 +77,7 @@ patronage:
   - Milwaukee, Wisconsin, archdiocese of
   - Asia Minor (proclaimed on 26 October 1914 by Pope Benedict XV)
   - Turkey
-  - –
-  - |-
-    in Italy
-
-    Borgo Santo Sepolcro
+  - Borgo Santo Sepolcro
   - Brandizzo
   - Castel Focognano
   - Lurago d'Erba

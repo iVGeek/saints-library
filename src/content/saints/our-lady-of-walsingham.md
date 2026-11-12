@@ -20,11 +20,7 @@ vocation:
 religiousOrder: Augustinian
 patronage:
   - England
-  - –
-  - |-
-    in England
-
-    East Anglia
+  - East Anglia
   - East Anglia, diocese of
 martyr: true
 prayers: []

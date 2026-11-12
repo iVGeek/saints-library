@@ -54,7 +54,6 @@ patronage:
   - children learning to walk
   - eyes
   - sick children
-  - —
   - Alken, Belgium
   - Maubeuge, France
   - Zwevezele, Belgium

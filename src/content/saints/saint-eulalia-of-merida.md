@@ -29,11 +29,7 @@ patronage:
   - runaways
   - torture victims
   - widows
-  - —
-  - |-
-    in Spain
-
-    Merida
+  - Merida
   - Oviedo, archdiocese of
   - Oviedo, city of
 martyr: true

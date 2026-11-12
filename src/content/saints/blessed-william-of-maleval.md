@@ -36,12 +36,10 @@ patronage:
   - armourers
   - blacksmiths
   - tinsmiths
-  - —
   - Castiglione della Pescaia, Italy
   - Laoag, Philippines, diocese of
-  - |-
-    San Fernando La Union, Philippines, diocese of
-    Siena, Italy
+  - San Fernando La Union, Philippines, diocese of
+  - Siena, Italy
 martyr: false
 prayers: []
 ---

@@ -39,7 +39,6 @@ patronage:
   - flour merchants
   - oil refiners
   - pastry chefs
-  - –
   - Amiens, France
 martyr: false
 prayers: []

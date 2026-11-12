@@ -25,7 +25,6 @@ vocation: []
 patronage:
   - against asthma
   - against fever
-  - –
   - Füssenich, Germany
 martyr: false
 prayers: []

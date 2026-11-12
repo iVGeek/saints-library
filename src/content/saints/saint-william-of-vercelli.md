@@ -24,10 +24,7 @@ vocation:
   - Hermit
 religiousOrder: Benedictine
 patronage:
-  - |-
-    in Italy
-
-    Irpinia
+  - Irpinia
   - Vercelli
 martyr: false
 prayers: []

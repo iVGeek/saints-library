@@ -31,13 +31,8 @@ patronage:
   - against fever
   - against lameness
   - against wounds of the arms and legs
-  - –
   - Confraternity of Saint Ermelinda (founded 2 April 1849 in Meldaert)
-  - –
-  - |-
-    in Belgium
-
-    Lovenjoel
+  - Lovenjoel
   - Meldaert
 martyr: false
 prayers: []

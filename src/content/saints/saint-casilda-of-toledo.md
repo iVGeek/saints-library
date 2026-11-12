@@ -22,11 +22,7 @@ religiousOrder: Franciscan
 patronage:
   - against hemorrhages
   - against sterility
-  - –
-  - |-
-    in Spain
-
-    Burgos
+  - Burgos
   - Toledo
 martyr: false
 prayers: []

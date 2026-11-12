@@ -60,10 +60,7 @@ patronage:
   - peasants
   - sailors
   - watermen
-  - |-
-    in Belgium
-
-    Antwerp
+  - Antwerp
   - Oudenarde
 martyr: false
 prayers: []

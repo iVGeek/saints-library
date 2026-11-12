@@ -40,7 +40,6 @@ patronage:
   - against syphilis
   - against venereal disease
   - sick people
-  - –
   - box makers
   - brass workers
   - cab drivers
@@ -57,7 +56,6 @@ patronage:
   - taxi drivers
   - tile makers
   - trellis makers
-  - –
   - Saint-Fiacre, Seine-et-Marne, France
 martyr: false
 prayers: []

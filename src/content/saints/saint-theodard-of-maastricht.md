@@ -19,7 +19,6 @@ vocation:
   - Monk
 patronage:
   - cattle dealers
-  - –
   - Maastricht, Netherlands
 martyr: false
 prayers: []

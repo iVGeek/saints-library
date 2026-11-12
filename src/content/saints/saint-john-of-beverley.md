@@ -25,10 +25,7 @@ vocation:
   - Confessor
 religiousOrder: Benedictine
 patronage:
-  - |-
-    in England
-
-    Beverley
+  - Beverley
   - Harpham
   - Hexham
   - Middlesbrough, diocese of

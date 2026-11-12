@@ -39,15 +39,10 @@ patronage:
   - reformed prostitutes
   - tanners
   - women
-  - —
   - Afogados da Ingazeira, Brazil, diocese of
   - Fréjus-Toulon, France, diocese of
   - Salt Lake City, Utah, diocese of
-  - –
-  - |-
-    in France
-
-    Vézelay
+  - Vézelay
 martyr: true
 prayers: []
 ---

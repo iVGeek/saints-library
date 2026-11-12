@@ -31,7 +31,6 @@ patronage:
   - against kidney stones
   - epileptics
   - hernia victims
-  - –
   - Mainz, Germany
   - Namur, Belgium, diocese of
 martyr: true

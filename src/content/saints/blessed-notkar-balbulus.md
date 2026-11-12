@@ -29,7 +29,6 @@ religiousOrder: Benedictine
 patronage:
   - musicians
   - stammering people
-  - –
   - St Gallen, Switzerland
 martyr: true
 prayers: []

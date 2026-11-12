@@ -41,10 +41,7 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - |-
-    in Ireland
-
-    Donegal, county of
+  - Donegal, county of
   - Drumholm
   - Raphoe, city of
   - Raphoe, diocese of

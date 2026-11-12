@@ -10,9 +10,8 @@ image: https://catholicsaints.info/wp-content/uploads/Alphais-of-Cudot.jpg
 searchAliases:
   - Alpais
   - Alpaida
-  - |-
-    Alpaide
-    Alpaidis
+  - Alpaide
+  - Alpaidis
 deathYear: 1211
 born: at Cudot, diocese of Sens, France
 died: '1211'

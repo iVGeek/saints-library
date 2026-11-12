@@ -21,11 +21,7 @@ vocation:
   - Priest
 patronage:
   - against headaches
-  - –
-  - |-
-    in Belgium
-
-    Hainault
+  - Hainault
   - Lembeek (Lembecq)
 martyr: false
 prayers: []

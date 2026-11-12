@@ -27,11 +27,8 @@ patronage:
   - against volcanic eruptions (especially of Vesuvius)
   - blood banks
   - blood donors
-  - —
-  - |-
-    locations in Italy
-
-    Afragola
+  - locations in Italy
+  - Afragola
   - Benevento, city of
   - Benevento, diocese of
   - Cercola

@@ -38,7 +38,6 @@ patronage:
   - needle workers
   - spinners
   - weavers
-  - –
   - Bulgaria
 martyr: false
 prayers: []

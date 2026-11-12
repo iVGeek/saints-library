@@ -35,7 +35,6 @@ patronage:
   - against sickness
   - against the death of parents
   - sick people
-  - –
   - Bhadravathi, India, diocese of
 martyr: false
 prayers: []

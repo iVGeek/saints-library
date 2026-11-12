@@ -17,10 +17,7 @@ canonizationStatus: Saint
 vocation:
   - Soldier
 patronage:
-  - |-
-    in Italy
-
-    Camposano
+  - Camposano
   - Elini
   - Esporlatu
   - Gavoi

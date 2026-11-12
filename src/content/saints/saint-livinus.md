@@ -30,10 +30,7 @@ vocation:
   - Missionary
 religiousOrder: Benedictine
 patronage:
-  - |-
-    in Belgium
-
-    Aalst
+  - Aalst
   - Flanders
 martyr: true
 prayers: []

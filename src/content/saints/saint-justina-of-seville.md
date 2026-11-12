@@ -22,11 +22,7 @@ vocation:
   - Religious
 patronage:
   - potters
-  - –
-  - |-
-    in Spain
-
-    Madrid
+  - Madrid
   - Seville
 martyr: true
 prayers: []

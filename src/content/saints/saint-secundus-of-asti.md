@@ -23,9 +23,7 @@ vocation:
 patronage:
   - bankers
   - merchants
-  - —
   - Palio di Asti
-  - —
   - Asti, Italy, city of
   - Asti, Italy, diocese of
 martyr: true

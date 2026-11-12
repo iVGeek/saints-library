@@ -28,10 +28,7 @@ vocation:
   - Confessor
 religiousOrder: Augustinian
 patronage:
-  - |-
-    in Italy
-
-    Taormina
+  - Taormina
   - Termini Imerese
 martyr: false
 prayers: []

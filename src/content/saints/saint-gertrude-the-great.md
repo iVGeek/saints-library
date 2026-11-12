@@ -33,7 +33,6 @@ vocation: []
 religiousOrder: Franciscan
 patronage:
   - nuns
-  - —
   - Magdeburg, Germany, diocese of
   - Naples, Italy
 martyr: false

@@ -23,11 +23,7 @@ vocation:
   - Confessor
 patronage:
   - against gout (he suffered from it, and pilgrims to Canterbury who had it were directed to his tomb)
-  - –
-  - |-
-    in England
-
-    Canterbury
+  - Canterbury
   - London
 martyr: false
 prayers: []

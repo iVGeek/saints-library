@@ -23,11 +23,7 @@ vocation:
 religiousOrder: Benedictine
 patronage:
   - Confraternity of San Eutizio
-  - –
-  - |-
-    in Italy
-
-    Carbognano
+  - Carbognano
   - Soriano nel Cimino
 martyr: true
 image: >-

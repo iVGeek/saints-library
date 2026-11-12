@@ -31,7 +31,6 @@ patronage:
   - handicapped people
   - physically challenged people
   - spinners
-  - —
   - San Gimignano, Italy
 martyr: false
 prayers: []

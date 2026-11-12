@@ -19,10 +19,8 @@ canonizationStatus: Saint
 vocation:
   - Hermit
 patronage:
-  - |-
-    locations in Italy
-
-    Africo Nuovo
+  - locations in Italy
+  - Africo Nuovo
   - Bova
 martyr: false
 prayers: []

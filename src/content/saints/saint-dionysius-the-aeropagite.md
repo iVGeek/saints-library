@@ -25,7 +25,6 @@ vocation:
 patronage:
   - against headaches
   - against the devil
-  - –
   - Zakynthos Island, Greece
 martyr: true
 prayers: []

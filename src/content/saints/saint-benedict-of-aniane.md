@@ -31,10 +31,7 @@ vocation:
   - Hermit
 religiousOrder: Benedictine
 patronage:
-  - |-
-    in France
-
-    Aniane
+  - Aniane
   - Dijon
 martyr: false
 prayers: []

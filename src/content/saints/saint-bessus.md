@@ -21,7 +21,6 @@ vocation:
 patronage:
   - soldiers
   - for fertility
-  - —
   - Campiglia Soana, Italy
   - Cogne, Italy
   - Ivrea, Italy

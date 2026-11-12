@@ -36,9 +36,7 @@ patronage:
   - autistics
   - obsessive compulsives
   - possessed people
-  - |-
-    sick children
-    –
+  - sick children
   - Gubbio, Italy
   - Montovi, Italy
 martyr: false

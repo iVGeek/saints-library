@@ -7,9 +7,8 @@ summary: >-
   their national heroes. He repented for the crimes of his youth and when he was murdered, he was proclaimed a martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Solomon-III-of-Bretagne.jpg
 searchAliases:
-  - |-
-    Solomon III of Brittany
-    Selyf of…
+  - Solomon III of Brittany
+  - Selyf of…
 deathYear: 874
 died: 25 June 874
 region: France

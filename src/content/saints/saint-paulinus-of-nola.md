@@ -23,10 +23,7 @@ vocation:
   - Confessor
 religiousOrder: Franciscan
 patronage:
-  - |-
-    in Italy
-
-    Nola, city of
+  - Nola, city of
   - Nola, diocese of
   - Senigallia, diocese of
   - Sutera

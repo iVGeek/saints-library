@@ -39,11 +39,7 @@ patronage:
   - against skin diseases
   - against skin rashes
   - against struma
-  - –
-  - |-
-    in France
-
-    Laon
+  - Laon
   - Nanteuil
 martyr: false
 prayers: []

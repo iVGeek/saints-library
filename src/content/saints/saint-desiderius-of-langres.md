@@ -30,11 +30,7 @@ vocation:
   - Monk
 patronage:
   - cutlers
-  - –
-  - |-
-    in France
-
-    Langres
+  - Langres
 martyr: true
 prayers: []
 ---

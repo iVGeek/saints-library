@@ -30,7 +30,6 @@ vocation:
 religiousOrder: Benedictine
 patronage:
   - laundry workers
-  - –
   - Barentin, France
 martyr: false
 prayers: []

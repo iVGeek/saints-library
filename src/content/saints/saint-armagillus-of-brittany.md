@@ -43,11 +43,7 @@ patronage:
   - against headaches
   - against rheumatism
   - hospitals
-  - –
-  - |-
-    in France
-
-    Ploërmel
+  - Ploërmel
   - Saint-Armel-des-Boscheaux
 martyr: false
 prayers: []

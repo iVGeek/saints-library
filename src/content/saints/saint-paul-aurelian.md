@@ -31,10 +31,7 @@ vocation:
 religiousOrder: Benedictine
 patronage:
   - Caldey Island, Wales
-  - |-
-    in France
-
-    Finisterre
+  - Finisterre
   - Lampaul-Guimiliau
   - Saint-Pol-de-Léon
 martyr: false

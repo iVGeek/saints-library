@@ -20,10 +20,7 @@ vocation:
   - Monk
   - Soldier
 patronage:
-  - |-
-    in Germany
-
-    Ottobeuren Abbey
+  - Ottobeuren Abbey
 martyr: true
 prayers: []
 ---

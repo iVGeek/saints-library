@@ -28,10 +28,7 @@ vocation:
   - Monk
   - Missionary
 patronage:
-  - |-
-    in the Netherlands
-
-    Deventer
+  - Deventer
   - Overijssel
 martyr: false
 prayers: []

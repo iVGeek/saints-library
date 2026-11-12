@@ -27,10 +27,7 @@ vocation:
   - Hermit
 religiousOrder: Benedictine
 patronage:
-  - |-
-    in Belgium
-
-    Celles
+  - Celles
   - Dinant
   - Liege
   - Visé

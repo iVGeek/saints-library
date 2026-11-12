@@ -17,10 +17,7 @@ canonizationStatus: Saint
 vocation:
   - Soldier
 patronage:
-  - |-
-    in France
-
-    Auxerre
+  - Auxerre
 martyr: true
 prayers: []
 ---

@@ -26,18 +26,13 @@ vocation:
 patronage:
   - against fire
   - against torture
-  - –
   - difficult situations
   - fire prevention
   - firefighters
   - hunters, hunting, huntsmen
   - torture victims
   - trappers
-  - —
-  - |-
-    in Italy
-
-    Acquaviva delle Fonti
+  - Acquaviva delle Fonti
   - Altamura–Gravina–Acquaviva delle Fonti, diocese of
   - Cacciatori
   - Poli

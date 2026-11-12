@@ -28,10 +28,7 @@ patronage:
   - Luxembourg
   - Uruguay
   - Philippeville, Belgium
-  - |-
-    in Chile
-
-    San Felipe, diocese of
+  - San Felipe, diocese of
 martyr: true
 prayers: []
 ---

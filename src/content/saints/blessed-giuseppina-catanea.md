@@ -8,9 +8,8 @@ summary: >-
   pectoris in 1912, later contracted spinal tubercul
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Giuseppina-Catanea.jpg
 searchAliases:
-  - |-
-    Pinella (childhood nickname in her family)
-    Sister Maria Giuseppina of Jesus Crucified
+  - Pinella (childhood nickname in her family)
+  - Sister Maria Giuseppina of Jesus Crucified
   - Marie-Joséphine de Jésus crucifié
 birthYear: 1894
 deathYear: 1948

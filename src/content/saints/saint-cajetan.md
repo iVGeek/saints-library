@@ -35,11 +35,7 @@ patronage:
   - job seekers
   - unemployed people
   - Theatines
-  - –
-  - |-
-    in Italy
-
-    Chieti
+  - Chieti
   - Naples
   - Santo Stefano Medio, Messina
   - Vicenza

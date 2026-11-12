@@ -34,11 +34,7 @@ vocation:
 patronage:
   - farmers, farm workers
   - for rain
-  - –
-  - |-
-    in France
-
-    Avignon
+  - Avignon
   - Le Beaucet
   - Saint-Gence
   - Saint-Gein

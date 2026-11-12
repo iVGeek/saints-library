@@ -30,11 +30,7 @@ patronage:
   - against eye disease
   - against temptations (especially at time of death)
   - eyes
-  - –
-  - |-
-    in Italy
-
-    Altidona
+  - Altidona
   - Cirié
   - Montebello sul Sangro
 martyr: true

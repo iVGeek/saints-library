@@ -24,7 +24,6 @@ vocation:
 patronage:
   - against plague
   - for rain
-  - –
   - Volterra, Italy
 martyr: false
 prayers: []

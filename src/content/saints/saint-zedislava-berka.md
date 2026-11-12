@@ -24,7 +24,6 @@ religiousOrder: Dominican
 patronage:
   - difficult marriages
   - people ridiculed for their piety
-  - –
   - Prague, Czech Republic, city of
 martyr: false
 prayers: []

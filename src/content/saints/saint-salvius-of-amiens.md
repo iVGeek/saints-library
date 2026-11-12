@@ -30,10 +30,7 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - |-
-    in France
-
-    Amiens
+  - Amiens
   - Montreuil-sur-Mer
 martyr: false
 prayers: []

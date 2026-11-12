@@ -22,7 +22,6 @@ vocation:
   - Monk
 patronage:
   - governors
-  - –
   - Bad Munstereifel, Germany
   - Eissel, Germany
   - Reggio-Emilia, Italy

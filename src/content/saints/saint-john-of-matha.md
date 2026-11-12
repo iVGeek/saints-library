@@ -22,11 +22,7 @@ vocation:
 religiousOrder: Dominican
 patronage:
   - captives; prisoners
-  - –
-  - |-
-    in France
-
-    Faucon
+  - Faucon
   - Meaux
 martyr: false
 prayers: []

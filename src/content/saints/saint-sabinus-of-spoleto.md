@@ -25,10 +25,7 @@ vocation:
   - Priest
   - Hermit
 patronage:
-  - |-
-    in Italy
-
-    Faenza
+  - Faenza
   - Fermo
   - Ivrea
   - Monte San Savino

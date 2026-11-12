@@ -21,7 +21,6 @@ religiousOrder: Franciscan
 patronage:
   - against headaches
   - against migraines
-  - —
   - altar servers
   - brick layers
   - builders; construction workers
@@ -33,9 +32,7 @@ patronage:
   - quarrymen
   - stone masons
   - weavers
-  - –
   - Serbia
-  - –
   - Agen, France, diocese of
   - Biella, Italy, diocese of
   - Cahors, France, diocese of
@@ -47,10 +44,7 @@ patronage:
   - Toulouse, France, archdiocese of
   - Acoma Indian Pueblo
   - Guild of Saint Stephen
-  - |-
-    in France
-
-    Agen
+  - Agen
   - Cahors
   - Metz
   - Mulhouse

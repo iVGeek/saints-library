@@ -20,10 +20,8 @@ vocation:
 patronage:
   - against gall stones
   - against ruptures
-  - –
-  - |-
-    Peterborough, England
-    Strasbourg, France
+  - Peterborough, England
+  - Strasbourg, France
 martyr: false
 prayers: []
 ---

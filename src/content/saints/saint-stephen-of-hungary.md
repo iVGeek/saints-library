@@ -32,7 +32,6 @@ patronage:
   - masons
   - stone masons
   - stonecutters
-  - –
   - Hungary
   - Budapest, Hungary
 martyr: false

@@ -35,13 +35,9 @@ patronage:
   - stock brokers
   - tax collectors (traditional, and proclaimed for Italian tax collectors on 27 November 1964 by Pope Paul VI)
   - Worshipful Company of Tax Advisers
-  - —
   - Trier, Germany, diocese of
   - Washington, DC, archdiocese of
-  - |-
-    in Italy
-
-    Albanella
+  - Albanella
   - Asiago
   - Cannara
   - Casalina, Pontremoli

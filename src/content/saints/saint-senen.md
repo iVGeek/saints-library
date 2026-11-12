@@ -36,7 +36,6 @@ patronage:
   - coopers
   - farmers
   - gardeners
-  - –
   - Arles, France
 martyr: true
 prayers: []

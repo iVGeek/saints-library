@@ -21,7 +21,6 @@ patronage:
   - Fano, Italy
   - Grottammare, Italy
   - Scheggia e Pascelupo, Italy
-  - —
   - Ravenna-Cervia, Italy, archdiocese of
 martyr: false
 prayers: []

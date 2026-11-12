@@ -20,10 +20,7 @@ vocation:
   - Monk
   - Religious
 patronage:
-  - |-
-    in Italy
-
-    Enego
+  - Enego
   - Padua
   - Piacenza
   - Santa Giustina

@@ -41,14 +41,10 @@ patronage:
   - public relations work
   - Sienese wool weavers
   - weavers
-  - —
   - Italy
   - San Bernardino, California, diocese of
   - Carpi, Italy, diocese of
-  - |-
-    in Italy
-
-    Altavilla Irpina
+  - Altavilla Irpina
   - Aquila
   - Camaiore
   - Carpi

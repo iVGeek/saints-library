@@ -47,10 +47,7 @@ feastDay:
 canonizationStatus: Blessed
 vocation: []
 patronage:
-  - |-
-    in Germany
-
-    Cappenberg
+  - Cappenberg
   - Varlar
 martyr: false
 prayers: []

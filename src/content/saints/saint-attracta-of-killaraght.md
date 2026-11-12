@@ -28,7 +28,6 @@ vocation:
   - Monk
 patronage:
   - against rickets
-  - –
   - Achonry, Ireland, city of
   - Achonry, Ireland, diocese of
   - Men of Lugna

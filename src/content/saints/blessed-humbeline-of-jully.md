@@ -29,11 +29,7 @@ vocation:
 religiousOrder: Benedictine
 patronage:
   - against loss of parents
-  - –
-  - |-
-    in France
-
-    Tart
+  - Tart
   - Troyes
 martyr: false
 prayers: []

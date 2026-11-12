@@ -23,10 +23,7 @@ vocation:
   - Monk
   - Hermit
 patronage:
-  - |-
-    in France
-
-    Autun
+  - Autun
   - Paris
 martyr: false
 prayers: []

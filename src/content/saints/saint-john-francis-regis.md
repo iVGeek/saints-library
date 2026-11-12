@@ -35,14 +35,9 @@ patronage:
   - lace workers
   - medical social workers
   - social workers
-  - –
   - French Jesuits
   - Sisters of Saint Francis Régis
-  - –
-  - |-
-    in France
-
-    Auvergne
+  - Auvergne
   - Le Puy-en-Velay
   - Montfaucon-en-Velay
 martyr: false

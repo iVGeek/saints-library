@@ -33,7 +33,6 @@ patronage:
   - impossible causes
   - lost causes
   - Worshipful Company of Shipwrights
-  - —
   - Armenia
   - Cartigliano, Italy
   - Saint Petersburg, Florida, diocese of

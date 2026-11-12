@@ -34,14 +34,9 @@ vocation:
 religiousOrder: Dominican
 patronage:
   - against drowning
-  - –
   - Lithuania (proclaimed by Pope Innocent XI in 1686)
   - Poland
-  - –
-  - |-
-    in France
-
-    Paris
+  - Paris
 martyr: false
 prayers: []
 ---

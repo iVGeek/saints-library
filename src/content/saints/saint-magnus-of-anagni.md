@@ -27,7 +27,6 @@ vocation:
   - Soldier
 patronage:
   - Anagni-Alatri, Italy, diocese of
-  - —
   - Anagni, Italy
   - Colle San Magno, Italy
 martyr: true

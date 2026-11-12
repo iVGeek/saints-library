@@ -23,7 +23,6 @@ patronage:
   - against syphilis
   - children
   - students
-  - —
   - Autun, France
 martyr: true
 prayers: []

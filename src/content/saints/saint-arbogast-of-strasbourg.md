@@ -24,10 +24,7 @@ vocation:
   - Confessor
 patronage:
   - against fatigue
-  - |-
-    in France
-
-    Aquitaine
+  - Aquitaine
   - Strasbourg
 martyr: false
 prayers: []

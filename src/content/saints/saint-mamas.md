@@ -31,7 +31,6 @@ patronage:
   - guardians
   - orphans
   - torture victims
-  - —
   - Langres, France, cathedral of
 martyr: true
 prayers: []

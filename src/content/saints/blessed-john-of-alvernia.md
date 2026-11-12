@@ -8,9 +8,8 @@ summary: >-
   mind-reading.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-John-of-Alvernia.jpg
 searchAliases:
-  - |-
-    John of Alverna
-    John of Fermo
+  - John of Alverna
+  - John of Fermo
   - John of La Verna
   - Giovanni…
 birthYear: 1259

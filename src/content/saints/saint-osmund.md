@@ -30,7 +30,6 @@ patronage:
   - against toothache
   - mentally ill people
   - paralysed people
-  - –
   - Salisbury, England
 martyr: false
 prayers: []

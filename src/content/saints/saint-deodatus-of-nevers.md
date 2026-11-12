@@ -29,10 +29,7 @@ vocation:
   - Monk
   - Hermit
 patronage:
-  - |-
-    in France
-
-    Nevers
+  - Nevers
   - Toul
 martyr: false
 prayers: []

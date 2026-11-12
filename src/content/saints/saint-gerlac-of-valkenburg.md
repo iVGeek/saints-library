@@ -36,7 +36,6 @@ patronage:
   - against plague
   - domestic animals
   - livestock
-  - –
   - Valkenburg, Netherlands
 martyr: false
 prayers: []

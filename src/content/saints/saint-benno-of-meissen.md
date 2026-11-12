@@ -28,11 +28,7 @@ vocation:
 patronage:
   - anglers, fishermen
   - weavers
-  - –
-  - |-
-    in Germany
-
-    Bavaria
+  - Bavaria
   - Dresden-Meissen, diocese of
   - Munich
 martyr: false

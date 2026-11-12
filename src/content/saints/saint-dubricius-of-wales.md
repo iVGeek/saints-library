@@ -35,10 +35,7 @@ vocation:
   - Hermit
   - Confessor
 patronage:
-  - |-
-    in England
-
-    Hereford
+  - Hereford
 martyr: false
 prayers: []
 ---

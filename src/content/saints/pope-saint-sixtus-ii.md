@@ -20,10 +20,7 @@ vocation:
   - Monk
   - Deacon
 patronage:
-  - |-
-    in Italy
-
-    Bellegra
+  - Bellegra
   - Colle d'Anchise
 martyr: true
 prayers: []

@@ -48,11 +48,7 @@ patronage:
   - against fever
   - against childhood diseases
   - children learning to walk
-  - –
-  - |-
-    in Belgium
-
-    Courtrai
+  - Courtrai
   - Gits
   - Izegem
   - Tournai

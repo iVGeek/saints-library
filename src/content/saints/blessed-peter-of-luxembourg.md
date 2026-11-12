@@ -27,11 +27,7 @@ vocation:
   - Confessor
 patronage:
   - against fatigue
-  - –
-  - |-
-    in France
-
-    Avignon
+  - Avignon
   - Dreux
   - Metz
 martyr: false

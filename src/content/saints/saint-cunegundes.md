@@ -28,15 +28,10 @@ vocation:
 religiousOrder: Benedictine
 patronage:
   - children in danger of death
-  - –
   - Lithuania (proclaimed on 7 September 1715 by Pope Clement XI)
   - Luxembourg
   - Poland
-  - –
-  - |-
-    in Germany
-
-    Bamberg, archdiocese of
+  - Bamberg, archdiocese of
   - Bamberg, city of
   - Nuremberg
 martyr: false

@@ -32,7 +32,6 @@ vocation:
 religiousOrder: Franciscan
 patronage:
   - Ukraine
-  - –
   - Edmonton, Alberta, eparchy of
   - Toronto, Ontario, eparchy of
   - Warsaw, Poland

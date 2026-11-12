@@ -34,21 +34,15 @@ patronage:
   - against skin rashes
   - against smallpox
   - against ulcers
-  - –
   - animals
   - cattle
   - horses
   - against horse diseases
   - against cattle diseases
-  - –
   - horsemen
   - knights
   - soldiers
-  - –
-  - |-
-    in Germany
-
-    Cologne
+  - Cologne
   - Neuss
 martyr: true
 prayers: []

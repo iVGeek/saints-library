@@ -30,11 +30,7 @@ patronage:
   - against magic
   - against sorcery
   - against temptation
-  - –
-  - |-
-    in Italy
-
-    Perugia
+  - Perugia
   - Rieti
 martyr: false
 prayers: []

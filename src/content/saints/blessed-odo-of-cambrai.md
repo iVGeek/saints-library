@@ -9,9 +9,8 @@ summary: >-
   1087. Following a close study of the writings of Saint Augustine of Hippo, around 1090 he felt a calling to religious
   life. Benedictine monk. He founded a Benedict
 searchAliases:
-  - |-
-    Odo of Orléans
-    Odoardus….
+  - Odo of Orléans
+  - Odoardus….
 birthYear: 1050
 deathYear: 1113
 born: 1050 at Orleans, France

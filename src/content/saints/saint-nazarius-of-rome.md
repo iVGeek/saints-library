@@ -25,10 +25,7 @@ vocation:
   - Monk
   - Soldier
 patronage:
-  - |-
-    in France
-
-    Carcassone, city of
+  - Carcassone, city of
   - Carcassonne et Narbonne, diocese of
 martyr: true
 prayers: []

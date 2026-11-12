@@ -53,10 +53,7 @@ patronage:
   - San Isidro, Argentina
   - Cuz Cuz, Chile
   - La Ceiba, Honduras
-  - |-
-    in Italy
-
-    Arbia
+  - Arbia
   - Canneto Sabino
   - Farnese
   - Giarre

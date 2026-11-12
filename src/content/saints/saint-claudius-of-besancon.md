@@ -35,11 +35,7 @@ patronage:
   - toy makers
   - whistle makers
   - wood turners
-  - –
-  - |-
-    in France
-
-    Besançon
+  - Besançon
   - Franche-Comté
 martyr: false
 prayers: []

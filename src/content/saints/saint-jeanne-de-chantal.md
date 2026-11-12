@@ -31,7 +31,6 @@ patronage:
   - against the death of parents
   - parents separated from children
   - widows
-  - –
   - Annecy, France
 martyr: false
 prayers: []

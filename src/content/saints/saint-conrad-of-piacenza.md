@@ -32,11 +32,8 @@ religiousOrder: Franciscan
 patronage:
   - against hernias
   - hunters
-  - —
-  - |-
-    locations in Italy
-
-    Cacciatori
+  - locations in Italy
+  - Cacciatori
   - Calendasco
   - Noto, Sicily, city of
   - Noto, Sicily, diocese of

@@ -27,7 +27,6 @@ religiousOrder: Franciscan
 patronage:
   - counts
   - Crusaders
-  - –
   - Bruges, Belgium, city of
   - Bruges, Belgium, diocese of
 martyr: true

@@ -29,10 +29,7 @@ vocation:
   - Confessor
 religiousOrder: Franciscan
 patronage:
-  - |-
-    in Italy
-
-    Alessandria, diocese of
+  - Alessandria, diocese of
   - Bosco Marengo
   - Cattolica
   - Pennabilli

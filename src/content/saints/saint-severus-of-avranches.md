@@ -30,7 +30,6 @@ patronage:
   - weavers
   - wool manufacturers
   - wool weavers
-  - –
   - Avranches, France
 martyr: false
 prayers: []

@@ -20,10 +20,7 @@ canonizationStatus: Saint
 vocation:
   - Deacon
 patronage:
-  - |-
-    in Italy
-
-    Barisciano
+  - Barisciano
   - Basciano
   - Capitignano
   - Conversano

@@ -23,7 +23,6 @@ vocation:
 patronage:
   - against eye diseases
   - against religious doubts
-  - –
   - Langast, Brittany, France
   - Saint-Cast-le-Guildo, Brittany, France
 martyr: true

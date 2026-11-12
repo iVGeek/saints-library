@@ -23,10 +23,7 @@ canonizationStatus: Blessed
 vocation:
   - Confessor
 patronage:
-  - |-
-    in Germany
-
-    Cologne
+  - Cologne
   - Steinfeld, Kall
 martyr: false
 prayers: []

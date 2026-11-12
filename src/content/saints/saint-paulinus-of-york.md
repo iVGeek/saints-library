@@ -24,10 +24,7 @@ vocation:
   - Missionary
   - Confessor
 patronage:
-  - |-
-    in England
-
-    Rochester
+  - Rochester
   - York
 martyr: false
 prayers: []

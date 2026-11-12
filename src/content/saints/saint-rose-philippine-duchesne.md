@@ -31,7 +31,6 @@ vocation:
 religiousOrder: Jesuit
 patronage:
   - opposition of Church authorities – note that it was nothing to do with theology
-  - –
   - Saint Louis, Missouri, archdiocese of
   - Springfield-Cape Girardeau, Missouri, diocese of
 martyr: false

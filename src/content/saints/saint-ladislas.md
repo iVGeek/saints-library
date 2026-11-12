@@ -28,10 +28,7 @@ vocation:
   - Priest
   - Confessor
 patronage:
-  - |-
-    in Hungary
-
-    Budapest
+  - Budapest
   - Szekszard
 martyr: false
 prayers: []

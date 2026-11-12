@@ -33,7 +33,6 @@ vocation:
 religiousOrder: Benedictine
 patronage:
   - against pain
-  - —
   - Deventer, Netherlands
   - Zoeterwoude, Netherlands
 martyr: false

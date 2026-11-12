@@ -26,10 +26,7 @@ vocation:
   - Hermit
   - Soldier
 patronage:
-  - |-
-    in France
-
-    Auvergne
+  - Auvergne
   - Neuffons
 martyr: false
 prayers: []

@@ -40,11 +40,8 @@ patronage:
   - against lightning
   - against storms
   - against war
-  - –
-  - |-
-    locations in Italy
-
-    Agnone
+  - locations in Italy
+  - Agnone
   - Casalciprano (possibly due to his association with Emidius as this town is prone to earthquakes)
   - Maltignano
 martyr: true

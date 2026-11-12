@@ -36,7 +36,6 @@ patronage:
   - merchants
   - shoemakers
   - tailors
-  - —
   - Cremona, Italy, city of
   - Cremona, Italy, diocese of
 martyr: false

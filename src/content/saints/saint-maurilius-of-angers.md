@@ -26,7 +26,6 @@ vocation:
 patronage:
   - fishermen
   - gardeners
-  - –
   - Angers, France
 martyr: false
 prayers: []

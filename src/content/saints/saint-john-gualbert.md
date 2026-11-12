@@ -30,11 +30,7 @@ patronage:
     worship for the many foresters who worked in the area; the tradition spread from the specific forest to such workers
     in general)
   - parks, park services
-  - –
-  - |-
-    in Italy
-
-    Florence
+  - Florence
   - Vallombrosa
 martyr: false
 prayers: []

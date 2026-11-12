@@ -24,10 +24,8 @@ patronage:
   - innkeepers
   - potters
   - vine dressers
-  - |-
-    vine growers
-    vintners
-    –
+  - vine growers
+  - vintners
   - Oberwesel, Germany
 martyr: false
 prayers: []

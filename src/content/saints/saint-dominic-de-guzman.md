@@ -29,12 +29,8 @@ patronage:
   - astronomy
   - falsely accused people
   - scientists
-  - —
   - Dominican Republic
-  - |-
-    in Brazil
-
-    Araxá
+  - Araxá
   - Diogo de Vasconcelos
   - Dom Joaquim
   - São Domingos do Prata

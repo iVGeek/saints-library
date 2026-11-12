@@ -27,11 +27,7 @@ patronage:
   - harvesters
   - soldiers
   - Cimbri people
-  - –
-  - |-
-    in England
-
-    Bamburgh
+  - Bamburgh
   - Durham
   - Gloucester
   - Oswestry

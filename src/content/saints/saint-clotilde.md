@@ -44,7 +44,6 @@ patronage:
   - people in exile
   - queens
   - widows
-  - –
   - Tours, France
 martyr: false
 prayers: []

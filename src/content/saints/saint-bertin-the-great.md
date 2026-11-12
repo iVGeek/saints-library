@@ -23,10 +23,7 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - |-
-    in France
-
-    Saint Bertin Abbey
+  - Saint Bertin Abbey
   - Saint-Omer
 martyr: false
 prayers: []

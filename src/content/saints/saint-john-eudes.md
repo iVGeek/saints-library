@@ -28,10 +28,7 @@ vocation:
 religiousOrder: Jesuit
 patronage:
   - Baie-Comeau, Québec, diocese of
-  - |-
-    in France
-
-    Caen
+  - Caen
   - Ri
 martyr: false
 prayers: []

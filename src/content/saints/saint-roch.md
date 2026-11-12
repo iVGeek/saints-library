@@ -53,17 +53,13 @@ patronage:
   - livestock
   - prisoners
   - relief from pestilence
-  - –
   - quarrymen
   - surgeons
   - tile makers
   - Tagbilaran, Philippines, diocese of
   - Drniš, Croatia
   - Drniš Workers' Society
-  - |-
-    in France
-
-    Montpellier
+  - Montpellier
 martyr: false
 prayers: []
 ---

@@ -23,7 +23,6 @@ religiousOrder: Benedictine
 patronage:
   - against infertility
   - safety in multiple births
-  - –
   - Chiemsee, Germany
 martyr: false
 prayers: []

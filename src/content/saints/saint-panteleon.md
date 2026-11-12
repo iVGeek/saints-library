@@ -24,7 +24,6 @@ vocation:
 patronage:
   - against consumption or tuberculosis
   - against fatigue
-  - –
   - bachelors
   - doctors
   - midwives
@@ -32,11 +31,7 @@ patronage:
   - physicians
   - surgeons
   - torture victims
-  - —
-  - |-
-    in Italy
-
-    Courmayeur
+  - Courmayeur
   - Crema, city of
   - Crema, diocese of
   - Dolianova

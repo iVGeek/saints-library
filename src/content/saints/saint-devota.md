@@ -23,7 +23,6 @@ vocation:
 patronage:
   - Corsica
   - Monaco
-  - —
   - Ajaccio, France, diocese of
 martyr: true
 prayers: []

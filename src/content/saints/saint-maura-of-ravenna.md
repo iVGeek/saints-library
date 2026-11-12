@@ -15,10 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 patronage:
-  - |-
-    in Italy
-
-    Frisanco
+  - Frisanco
   - Ravenna
 martyr: true
 prayers: []

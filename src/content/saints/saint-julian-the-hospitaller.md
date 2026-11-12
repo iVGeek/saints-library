@@ -40,11 +40,9 @@ patronage:
   - to obtain lodging while travelling
   - travellers
   - wandering musicians
-  - –
   - San Giljan, Malta
   - Macerata, Italy, city of
   - Macerata, Italy, diocese of
-  - –
   - Worshipful Company of Innholders
 martyr: false
 prayers: []

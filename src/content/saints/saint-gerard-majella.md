@@ -38,11 +38,7 @@ patronage:
   - pregnant women
   - pro-life movement
   - unborn children
-  - —
-  - |-
-    in Brazil
-
-    Central de Minas
+  - Central de Minas
   - Crucilândia
   - Inconfidentes
   - Japonvar

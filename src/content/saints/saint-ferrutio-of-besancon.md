@@ -20,10 +20,7 @@ vocation:
   - Monk
   - Deacon
 patronage:
-  - |-
-    in France
-
-    Besançon, city of
+  - Besançon, city of
   - Besançon, archdiocese of
 martyr: true
 prayers: []

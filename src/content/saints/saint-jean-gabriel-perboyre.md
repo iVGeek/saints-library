@@ -1,5 +1,6 @@
 ---
 name: Saint Jean-Gabriel Perboyre
+summary: "Vincentian priest and missionary to China, martyred in 1840 and canonized in 1996."
 stub: false
 honorific: Saint
 title: St. Jean-Gabriel Perboyre

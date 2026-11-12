@@ -27,10 +27,8 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 patronage:
-  - |-
-    locations in Italy
-
-    Massa Martana
+  - locations in Italy
+  - Massa Martana
   - Giano dell'Umbria
   - Spello
 martyr: true

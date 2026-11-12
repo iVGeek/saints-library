@@ -29,10 +29,8 @@ religiousOrder: Franciscan
 patronage:
   - scholarly clergy
   - university lecturers
-  - –
   - Lithuania
   - Poland
-  - –
   - Kraków, Poland, archdiocese of
   - Kraków, Poland, city of
 martyr: true

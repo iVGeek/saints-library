@@ -25,10 +25,7 @@ vocation:
   - Monk
   - Deacon
 patronage:
-  - |-
-    in Italy
-
-    Montefabbri
+  - Montefabbri
   - Ostra
   - Rimini, city of
   - Rimini, diocese of

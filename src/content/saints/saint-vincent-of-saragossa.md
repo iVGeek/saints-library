@@ -41,10 +41,7 @@ patronage:
   - wine makers
   - Portugal
   - World Youth Day 2023
-  - |-
-    in France
-
-    Saint-Malo
+  - Saint-Malo
   - Viviers
 martyr: true
 prayers: []

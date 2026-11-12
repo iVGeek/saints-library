@@ -41,11 +41,7 @@ vocation:
   - Confessor
 patronage:
   - purse makers (from the legendary size of his alms-giving)
-  - –
-  - |-
-    in France
-
-    Saint-Brieuc-des-Vaux, city of
+  - Saint-Brieuc-des-Vaux, city of
   - Saint-Brieuc-Tréguier, diocese of
   - Treguier
 martyr: false

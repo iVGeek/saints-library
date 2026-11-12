@@ -27,10 +27,7 @@ vocation:
   - Hermit
 religiousOrder: Benedictine
 patronage:
-  - |-
-    in France
-
-    Dijon
+  - Dijon
   - Réomay
 martyr: false
 prayers: []

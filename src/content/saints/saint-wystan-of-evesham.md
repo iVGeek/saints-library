@@ -28,10 +28,7 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - |-
-    in England
-
-    Evesham
+  - Evesham
   - Repton
 martyr: true
 prayers: []

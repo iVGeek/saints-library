@@ -29,7 +29,6 @@ religiousOrder: Marist
 patronage:
   - for peace
   - for reconciliation
-  - –
   - Siena, Italy
 martyr: false
 prayers: []

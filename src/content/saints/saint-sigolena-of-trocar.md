@@ -26,10 +26,7 @@ canonizationStatus: Saint
 vocation:
   - Religious
 patronage:
-  - |-
-    in France
-
-    Albi
+  - Albi
   - Auvergne
   - Limoges
   - Metz

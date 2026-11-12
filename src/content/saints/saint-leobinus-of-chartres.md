@@ -32,7 +32,6 @@ patronage:
   - against rheumatism
   - innkeepers
   - wine merchants
-  - –
   - Chartres, France
 martyr: false
 prayers: []

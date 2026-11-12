@@ -29,7 +29,6 @@ vocation:
 patronage:
   - blind people (may have been blind in later life; healed many blind people who came to him)
   - cattle breeders
-  - –
   - Limoges, France
 martyr: false
 prayers: []

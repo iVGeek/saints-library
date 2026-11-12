@@ -22,10 +22,7 @@ vocation:
   - Priest
   - Deacon
 patronage:
-  - |-
-    in Italy
-
-    Lucca, archdiocese of
+  - Lucca, archdiocese of
   - Lucca, city of
   - Pisa
 martyr: true

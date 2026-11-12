@@ -16,10 +16,7 @@ vocation:
   - Monk
   - Soldier
 patronage:
-  - |-
-    in Switzerland
-
-    Solothurn
+  - Solothurn
   - St Gallen
   - St Moritz
 martyr: true

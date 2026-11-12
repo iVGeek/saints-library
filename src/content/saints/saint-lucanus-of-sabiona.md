@@ -24,11 +24,7 @@ vocation:
   - Bishop
 patronage:
   - against dropsy
-  - –
-  - |-
-    in Italy
-
-    Brixen
+  - Brixen
   - San Lugano, Truden im Naturpark
 martyr: false
 prayers: []

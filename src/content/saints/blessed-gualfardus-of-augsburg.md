@@ -30,7 +30,6 @@ religiousOrder: Benedictine
 patronage:
   - harness makers
   - saddlers
-  - –
   - Augsburg, Germany
   - Verona, Italy
 martyr: false

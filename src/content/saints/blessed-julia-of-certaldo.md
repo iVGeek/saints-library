@@ -8,9 +8,8 @@ summary: >-
   quiet of Certaldo, Tuscany. There she rescu
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Julia-of-Certaldo.jpg
 searchAliases:
-  - |-
-    Giulia della Rena da Certaldo
-    Julia della Rena
+  - Giulia della Rena da Certaldo
+  - Julia della Rena
   - Julia de la Rena
 birthYear: 1319
 deathYear: 1367

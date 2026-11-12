@@ -29,11 +29,7 @@ vocation:
 religiousOrder: Franciscan
 patronage:
   - women in labour
-  - –
-  - |-
-    in Italy
-
-    Arezzo
+  - Arezzo
   - Sansepolcro
 martyr: false
 prayers: []

@@ -26,10 +26,7 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - |-
-    in Ireland
-
-    Cloyne, city of
+  - Cloyne, city of
   - Cloyne, diocese of
 martyr: false
 prayers: []

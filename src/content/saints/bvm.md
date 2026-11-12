@@ -218,11 +218,8 @@ patronage:
   - eparchy of Van Nuys, Arizona
   - eparchy of Our Lady of Lebanon of Los Angeles for Maronites
   - prelature of Isabela de Basilian, Philippines
-  - —
-  - |-
-    Related to Argentina
-
-    Argentina
+  - Related to Argentina
+  - Argentina
   - '&bull;'
   - archdiocese of Bahía Blanca, Argentina
   - Argentinian military chaplains

@@ -30,10 +30,7 @@ vocation:
   - Missionary
 religiousOrder: Benedictine
 patronage:
-  - |-
-    in England
-
-    Brentwood, diocese of
+  - Brentwood, diocese of
   - Lastingham
   - Tilburgy
 martyr: false

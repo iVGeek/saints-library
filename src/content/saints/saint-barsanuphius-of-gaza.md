@@ -21,10 +21,7 @@ vocation:
   - Hermit
   - Soldier
 patronage:
-  - |-
-    in Italy
-
-    Oria, city of
+  - Oria, city of
   - Oria, diocese of
 martyr: false
 prayers: []

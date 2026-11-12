@@ -36,10 +36,7 @@ patronage:
   - '&bull;'
   - Haifa, Israel
   - '&bull;'
-  - |-
-    in Italy
-
-    Buonabitacolo
+  - Buonabitacolo
   - Malito
   - Peschici
 martyr: false

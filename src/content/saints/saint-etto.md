@@ -27,7 +27,6 @@ patronage:
   - animals
   - cattle
   - cowherds
-  - –
   - Dompierre-sur-Helpe, France
   - Fusciau, Belgium
 martyr: false

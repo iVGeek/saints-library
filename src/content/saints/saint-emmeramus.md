@@ -26,10 +26,7 @@ vocation:
   - Monk
 patronage:
   - Poitiers, France
-  - |-
-    in Germany
-
-    Regensburg, city of
+  - Regensburg, city of
   - Regensburg, diocese of
 martyr: true
 prayers: []

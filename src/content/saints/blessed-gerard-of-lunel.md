@@ -29,7 +29,6 @@ religiousOrder: Franciscan
 patronage:
   - against epilepsy; epileptics
   - against headaches
-  - –
   - Montesanto, Italy
 martyr: false
 prayers: []

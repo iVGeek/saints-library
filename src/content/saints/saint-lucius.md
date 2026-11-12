@@ -8,9 +8,8 @@ summary: >-
   the dioceses of London, England, and Llandaff,
 image: https://commons.wikimedia.org/wiki/Special:FilePath/St._Maria_und_Michael_Altarblatt_Hochaltar.jpg?width=600
 searchAliases:
-  - |-
-    Lucius Curiensis
-    Luzi…
+  - Lucius Curiensis
+  - Luzi…
   - Luzius…
 deathYear: 200
 died: c.200 of natural events
@@ -25,7 +24,6 @@ vocation:
   - Confessor
 patronage:
   - Liechtenstein
-  - –
   - Chur, Switzerland, city of
   - Chur, Switzerland, diocese of
   - Llandaff, Wales

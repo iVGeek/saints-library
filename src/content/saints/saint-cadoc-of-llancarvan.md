@@ -37,7 +37,6 @@ patronage:
   - against glandular disorders
   - against scrofula
   - deaf people
-  - –
   - Weedon, England
 martyr: true
 prayers: []

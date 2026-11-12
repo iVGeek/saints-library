@@ -17,10 +17,7 @@ vocation:
   - Monk
   - Soldier
 patronage:
-  - |-
-    in Italy
-
-    Arona
+  - Arona
   - Castelnuovo Magra
   - Mello
   - Palazzolo sull'Oglio

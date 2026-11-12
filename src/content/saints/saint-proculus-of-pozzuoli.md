@@ -20,10 +20,7 @@ vocation:
   - Monk
   - Deacon
 patronage:
-  - |-
-    in Italy
-
-    Pozzuoli, city of
+  - Pozzuoli, city of
   - Pozzuoli, diocese of
 martyr: true
 prayers: []

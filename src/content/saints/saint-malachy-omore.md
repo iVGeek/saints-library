@@ -30,11 +30,7 @@ vocation:
   - Confessor
 patronage:
   - Ireland
-  - –
-  - |-
-    in Ireland
-
-    Armagh, archdiocese of
+  - Armagh, archdiocese of
   - Down, city of
   - Down and Connor, diocese of
 martyr: false

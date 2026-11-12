@@ -8,10 +8,9 @@ summary: >-
   Muslim invasions of Sicily. He later lived
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Vitalis-of-Calabria.jpg
 searchAliases:
-  - |-
-    Vitalis of Castronuovo
-    Vitalis of Castronovo
-    Vitale of….
+  - Vitalis of Castronuovo
+  - Vitalis of Castronovo
+  - Vitale of….
 deathYear: 893
 born: Castronovo di Sicilia, Palermo, Sicily
 died: 893 at the monastery on Mount Vulture near Rapolla, Italy of natural causes

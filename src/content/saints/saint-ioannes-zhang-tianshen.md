@@ -5,9 +5,8 @@ stub: false
 honorific: Venerable
 summary: Married layman in the apostolic vicariate of Guizhou, China. Convert. Catechist. Martyr.
 searchAliases:
-  - |-
-    John Zhang Tianshen
-    Ruowang
+  - John Zhang Tianshen
+  - Ruowang
 birthYear: 1805
 deathYear: 1862
 born: c.1805 in Jiashanlong, Kaiyang City, Guizhou, China

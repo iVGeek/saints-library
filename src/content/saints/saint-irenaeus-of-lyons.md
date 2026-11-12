@@ -29,7 +29,6 @@ religiousOrder: Franciscan
 patronage:
   - Gauls
   - Saint Irenaeus Joint Orthodox-Catholic Working Group
-  - –
   - Mobile, Alabama, archdiocese of
   - Lyon, France, archdiocese of
 martyr: true

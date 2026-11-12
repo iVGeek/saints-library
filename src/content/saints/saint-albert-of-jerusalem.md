@@ -27,10 +27,7 @@ canonizationStatus: Saint
 vocation: []
 religiousOrder: Carmelite
 patronage:
-  - |-
-    in Italy
-
-    Bobbio
+  - Bobbio
   - Castelletto di Branduzzo
   - Vercelli
 martyr: true

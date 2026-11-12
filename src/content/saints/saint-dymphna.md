@@ -48,9 +48,7 @@ patronage:
   - rape victims
   - runaways
   - sleepwalkers
-  - |-
-    therapists
-    –
+  - therapists
   - Antwerp, Belgium
 martyr: true
 prayers: []

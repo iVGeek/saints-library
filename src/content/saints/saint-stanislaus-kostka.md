@@ -32,14 +32,9 @@ patronage:
   - desperate, lost or impossible causes
   - last sacraments
   - young people
-  - –
   - Lithuania (proclaimed on 10 January 1674 by Pope Clement X)
   - Poland
-  - –
-  - |-
-    in Poland
-
-    Metropolitan Seminary in Lublin
+  - Metropolitan Seminary in Lublin
   - Plock, diocese of
   - Warsaw, archdiocese of
   - Warsaw, city of

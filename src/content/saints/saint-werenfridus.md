@@ -31,13 +31,8 @@ patronage:
   - against arthritis pain
   - against gout
   - against stiff joints
-  - –
   - gardeners
-  - –
-  - |-
-    in the Netherlands
-
-    Arnhem
+  - Arnhem
   - Elst
   - Westeroort
 martyr: false

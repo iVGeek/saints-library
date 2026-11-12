@@ -23,10 +23,7 @@ vocation:
   - Bishop
   - Soldier
 patronage:
-  - |-
-    in Italy
-
-    Pesaro, archdiocese of
+  - Pesaro, archdiocese of
   - Pesaro, city of
 martyr: true
 prayers: []

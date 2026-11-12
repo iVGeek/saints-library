@@ -27,11 +27,7 @@ vocation:
   - Soldier
 patronage:
   - canons
-  - –
-  - |-
-    in France
-
-    Auvergne
+  - Auvergne
   - Briounde
 martyr: true
 prayers: []

@@ -35,7 +35,6 @@ vocation:
 religiousOrder: Benedictine
 patronage:
   - against convulsions
-  - –
   - Lure, France
 martyr: false
 prayers: []

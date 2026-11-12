@@ -30,11 +30,7 @@ vocation:
   - Confessor
 patronage:
   - wolves
-  - –
-  - |-
-    in Ireland
-
-    Cashel, diocese of
+  - Cashel, diocese of
   - Cashel and Emly, archdiocese of
   - Emly, city of
   - Emly, diocese of

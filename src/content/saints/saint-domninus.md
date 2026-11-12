@@ -23,10 +23,7 @@ vocation:
   - Monk
   - Soldier
 patronage:
-  - |-
-    in Italy
-
-    Castelfranco Emilia
+  - Castelfranco Emilia
   - Credera Rubbiano
   - Dernice
   - Fidenza, city of

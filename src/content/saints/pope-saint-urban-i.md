@@ -22,7 +22,6 @@ vocation:
 patronage:
   - against lightning
   - against storms
-  - –
   - vintners
 martyr: false
 prayers: []

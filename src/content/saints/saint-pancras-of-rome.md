@@ -28,16 +28,11 @@ patronage:
   - against false witness
   - against headaches
   - against perjury
-  - –
   - children
   - falsely accused people
   - oaths
   - treaties
-  - –
-  - |-
-    in Germany
-
-    Iserlohn
+  - Iserlohn
 martyr: true
 prayers: []
 ---

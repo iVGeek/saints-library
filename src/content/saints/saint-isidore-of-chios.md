@@ -23,7 +23,6 @@ vocation:
 religiousOrder: Jesuit
 patronage:
   - sailors
-  - –
   - Chios, Greece
 martyr: true
 prayers: []

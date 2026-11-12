@@ -14,11 +14,7 @@ vocation:
   - Confessor
 patronage:
   - against gall stones
-  - –
-  - |-
-    in Germany
-
-    Hohenwart
+  - Hohenwart
   - Paartal
 martyr: false
 prayers: []

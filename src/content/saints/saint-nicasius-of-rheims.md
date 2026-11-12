@@ -25,7 +25,6 @@ vocation:
 patronage:
   - against eye disease
   - against mice
-  - —
 martyr: true
 prayers: []
 ---

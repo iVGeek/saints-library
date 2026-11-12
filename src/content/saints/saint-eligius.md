@@ -114,10 +114,7 @@ patronage:
   - REME
   - Royal Electrical and Mechanical Engineers
   - Worshipful Company of Blacksmiths
-  - |-
-    in Belgium
-
-    Eloois-Vijve
+  - Eloois-Vijve
   - Sint-Eloois-Winkel
 martyr: false
 prayers: []

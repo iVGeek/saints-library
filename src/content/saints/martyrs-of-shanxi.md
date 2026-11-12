@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Shanxi
+summary: "Seven Franciscan Missionaries of Mary killed during the Boxer uprising in Shanxi, China, in 1900; canonized in 2000."
 stub: false
 honorific: Saint
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Shanxi.jpg

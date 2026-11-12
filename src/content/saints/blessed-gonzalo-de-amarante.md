@@ -30,10 +30,7 @@ vocation:
   - Confessor
 religiousOrder: Dominican
 patronage:
-  - |-
-    in Brazil
-
-    Acaiaca
+  - Acaiaca
   - Belo Vale
   - Contagem
   - Francisco Sá

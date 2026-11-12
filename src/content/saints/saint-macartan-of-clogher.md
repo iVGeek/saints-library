@@ -28,10 +28,7 @@ vocation:
   - Missionary
   - Confessor
 patronage:
-  - |-
-    in Ireland
-
-    Clogher, city of
+  - Clogher, city of
   - Clogher, diocese of
 martyr: false
 prayers: []

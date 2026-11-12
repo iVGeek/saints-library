@@ -23,10 +23,7 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - |-
-    in France
-
-    Noirmoutier
+  - Noirmoutier
   - Quinçay
 martyr: false
 prayers: []

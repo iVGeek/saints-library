@@ -31,10 +31,7 @@ vocation:
   - Monk
   - Confessor
 patronage:
-  - |-
-    in England
-
-    Mullion, Cornwall
+  - Mullion, Cornwall
   - Saint Mellyan, Cornwall
 martyr: false
 prayers: []

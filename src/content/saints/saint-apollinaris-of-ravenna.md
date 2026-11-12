@@ -27,13 +27,9 @@ religiousOrder: Jesuit
 patronage:
   - against epilepsy
   - against gout
-  - —
   - Ravenna-Cervia, Italy, archdiocese of
   - Valence, France, diocese of
-  - |-
-    in Germany
-
-    Aachen
+  - Aachen
   - Burtscheid
   - D&uuml;sseldorf
   - Remagen

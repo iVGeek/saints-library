@@ -29,7 +29,6 @@ vocation:
   - Cardinal
 patronage:
   - heart patients
-  - –
   - Handmaids of the Heart of Jesus
 martyr: false
 prayers: []

@@ -18,10 +18,7 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - |-
-    in France
-
-    Nice, city of
+  - Nice, city of
   - Nice, diocese of
 martyr: true
 prayers: []

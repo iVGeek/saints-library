@@ -30,7 +30,6 @@ patronage:
   - disabled people
   - handicapped people
   - physically challenged people
-  - —
   - Aurillac, France
   - Upper Auvergne, France
 martyr: false

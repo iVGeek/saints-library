@@ -80,14 +80,9 @@ patronage:
   - Cappadocia
   - Catalonia
   - Palestine
-  - –
   - Limburg, Germany, diocese of
   - Saskatoon, Saskatchewan, eparchy of
-  - –
-  - |-
-    in Belgium
-
-    Henrichapelle
+  - Henrichapelle
   - Sint-Joris-Winge
 martyr: true
 prayers: []

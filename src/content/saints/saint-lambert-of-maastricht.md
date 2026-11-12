@@ -37,11 +37,7 @@ patronage:
   - physicians
   - surgeons
   - truss makers
-  - –
-  - |-
-    in Belgium
-
-    Liège, diocese of
+  - Liège, diocese of
   - Émines
   - Montegnée
 martyr: true

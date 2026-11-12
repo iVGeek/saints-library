@@ -31,11 +31,7 @@ vocation:
 patronage:
   - incest victims
   - martyrs
-  - –
-  - |-
-    in England
-
-    Shrewsbury, city of
+  - Shrewsbury, city of
   - Shrewsbury, diocese of
 martyr: false
 prayers: []

@@ -1,5 +1,6 @@
 ---
 name: Saint Scholastica
+summary: "Twin sister of Saint Benedict of Nursia and abbess of a women's community at Plombariola near Montecassino."
 stub: false
 honorific: Saint
 title: St. Scholastica

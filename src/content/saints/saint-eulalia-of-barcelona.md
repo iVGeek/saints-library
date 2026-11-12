@@ -48,7 +48,6 @@ patronage:
   - sailors
   - travellers
   - watermen
-  - —
   - Barcelona, Spain
   - Barcelona cathedral
 martyr: true

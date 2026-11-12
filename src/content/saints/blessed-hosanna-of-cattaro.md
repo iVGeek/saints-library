@@ -10,9 +10,8 @@ image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Hosanna-of-Cat
 searchAliases:
   - Catherine Cosie
   - Catherine Kosic
-  - |-
-    Catherine of Montenegro
-    Hosanna of Kotor
+  - Catherine of Montenegro
+  - Hosanna of Kotor
   - Ossana of Cattaro
   - Ozana Kotorska
   - Teacher of Mysticism

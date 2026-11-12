@@ -8,9 +8,8 @@ summary: >-
   missionaries en route to Morocco. Founded a Ciste
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Sancha-of-Portugal.jpg
 searchAliases:
-  - |-
-    Sancha of Alenquer
-    Sanchia of….
+  - Sancha of Alenquer
+  - Sanchia of….
   - Sancia of….
   - Sanctia of….
 birthYear: 1180

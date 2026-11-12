@@ -19,10 +19,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 patronage:
-  - |-
-    in England
-
-    Bardney
+  - Bardney
   - Leominster
 martyr: false
 prayers: []

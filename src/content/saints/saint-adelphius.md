@@ -22,10 +22,7 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - |-
-    in France
-
-    Metz
+  - Metz
   - Strasbourg
 martyr: false
 prayers: []

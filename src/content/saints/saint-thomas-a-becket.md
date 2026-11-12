@@ -31,13 +31,8 @@ patronage:
   - clergy
   - priests
   - secular clergy
-  - –
   - Worshipful Company of Brewers
-  - –
-  - |-
-    in England
-
-    Canterbury
+  - Canterbury
   - Exeter College, Oxford
   - Longbridge Deverill
   - Northampton, diocese of

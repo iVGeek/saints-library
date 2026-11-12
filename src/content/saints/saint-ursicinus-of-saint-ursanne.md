@@ -24,11 +24,7 @@ vocation:
   - Missionary
 patronage:
   - against stiff neck
-  - –
-  - |-
-    in France
-
-    Besançon
+  - Besançon
 martyr: false
 prayers: []
 ---

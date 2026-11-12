@@ -33,7 +33,6 @@ vocation:
   - Deacon
 patronage:
   - locksmiths
-  - –
   - Lyon, France
   - Nuremberg, Germany
 martyr: false

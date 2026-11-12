@@ -29,7 +29,6 @@ vocation:
   - Missionary
 patronage:
   - to heal broken legs
-  - –
   - Firth of Forth, Scotland
 martyr: true
 image: >-

@@ -35,10 +35,8 @@ patronage:
   - difficult marriages
   - parents of large families
   - widows
-  - –
   - Pomerania
   - Prussia
-  - –
   - Kwidzyn, Poland
   - Matowy Wielkie, Poland
 martyr: false

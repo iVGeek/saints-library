@@ -24,11 +24,9 @@ patronage:
   - against lightning
   - sick children
   - torture victims
-  - –
   - cabinetmakers
   - millers
   - wine makers
-  - —
   - Marseilles, France
   - Davoli, Italy
 martyr: true

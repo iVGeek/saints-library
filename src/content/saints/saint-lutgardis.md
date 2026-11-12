@@ -47,13 +47,8 @@ patronage:
   - disabled people
   - handicapped people
   - physically challenged people
-  - –
   - Belgium
-  - –
-  - |-
-    in Belgium
-
-    Flanders
+  - Flanders
   - Tongeren
 martyr: false
 prayers: []

@@ -30,11 +30,7 @@ vocation:
 religiousOrder: Benedictine
 patronage:
   - against gout
-  - –
-  - |-
-    in England
-
-    Barking Abbey
+  - Barking Abbey
   - Brentwood, city of
   - Brentwood, diocese of
   - London

@@ -31,7 +31,6 @@ patronage:
   - against fire
   - against plague
   - against sterility
-  - –
   - boatmen
   - fishermen
   - hermits
@@ -41,11 +40,7 @@ patronage:
   - sailors
   - travellers
   - watermen
-  - —
-  - |-
-    in Brazil
-
-    Monte Santo de Minas
+  - Monte Santo de Minas
   - Ouro Fino
   - Pelotas
   - Poço Fundo

@@ -27,10 +27,7 @@ vocation:
   - Confessor
 religiousOrder: Franciscan
 patronage:
-  - |-
-    in Italy
-
-    Camaldoli
+  - Camaldoli
   - Fabriano
   - Sansepolcro
 martyr: false

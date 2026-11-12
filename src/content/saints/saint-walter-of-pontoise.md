@@ -10,9 +10,8 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/Pontoise_Cath%25C3%25
 searchAliases:
   - Walter of Pontnoise
   - Walter of Rebais
-  - |-
-    Walter of Saint-Martin de Pontoise
-    Gaucher
+  - Walter of Saint-Martin de Pontoise
+  - Gaucher
   - Gaultier
   - Gautier
   - Gualterio
@@ -39,7 +38,6 @@ patronage:
   - prisoners of war
   - vine dressers
   - vintners
-  - —
   - Pontoise, France
 martyr: false
 prayers: []

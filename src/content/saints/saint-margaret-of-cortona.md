@@ -39,10 +39,8 @@ patronage:
   - single laywomen
   - tertiaries
   - tramps
-  - —
   - Arezzo-Cortona-Sansepolcro, Italy, diocese of
   - Cortona, Italy, diocese of
-  - —
   - Cortona, Italy
 martyr: false
 prayers: []

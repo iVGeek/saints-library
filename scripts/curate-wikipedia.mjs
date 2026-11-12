@@ -35,10 +35,12 @@ const MIN_CONF = Number(arg('min-confidence', 0.9));
 const OUT = arg('out', 'wikipedia-queue.json');
 const ONLY_FILES = (() => {
   const values = [];
+  const raw = arg('file', '');
+  if (raw) values.push(...raw.split(',').map((value) => value.trim()).filter(Boolean));
   for (let index = 0; index < args.length; index++) {
     if (args[index] === '--file') values.push(args[index + 1]);
   }
-  return values.filter((value) => Boolean(value));
+  return [...new Set(values.filter((value) => Boolean(value)))];
 })();
 
 const MONTHS = [

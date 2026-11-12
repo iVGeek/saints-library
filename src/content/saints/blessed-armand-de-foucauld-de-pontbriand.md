@@ -1,8 +1,7 @@
 ---
-image: >-
-  https://upload.wikimedia.org/wikipedia/commons/6/60/Charles_de_Foucauld.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+image: /placeholder-saint.svg
 name: Blessed Armand de Foucauld de Pontbriand
-stub: true
+stub: false
 honorific: Blessed
 summary: Priest in the archdiocese of Arles, France. One of the Martyrs of September.
 birthYear: 1751
@@ -18,12 +17,12 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Monk
-religiousOrder: Carmelite
 martyr: true
 prayers: []
-imageAlt: Portrait of Blessed Armand de Foucauld de Pontbriand
-imageCreditUrl: https://en.wikipedia.org/wiki/Charles%20de%20Foucauld
+sources:
+  - 'Wikipedia, "Armand de Foucauld de Pontbriand", https://en.wikipedia.org/wiki/Armand_de_Foucauld_de_Pontbriand (CC BY-SA 4.0)'
 ---
 
-Priest in the archdiocese of Arles, France. One of the Martyrs of September.
+> Armand de Foucauld de Pontbriand (24 November 1751 – 2 September 1792) was a French Catholic prelate who served as vicar general of the Archdiocese of Arles and was one of the 191 Catholic Martyrs of September 1792, killed in the September Massacres during the French Revolution. He was beatified as a member of that group on 17 October 1926 by Pope Pius XI.
+
+*Source: [Wikipedia, "Armand de Foucauld de Pontbriand"](https://en.wikipedia.org/wiki/Armand_de_Foucauld_de_Pontbriand), CC BY-SA 4.0.*

@@ -228,6 +228,6 @@ const statusJSON = JSON.stringify(filtered.map((s) => ({
   </div>
 </BaseLayout>
 
-<script type="application/json" id="saints-data" set:html={statusJSON} />
+<script type="application/json" id="saints-data" is:inline set:html={statusJSON} />
 <script is:inline src="/directory-app.js"></script>
 

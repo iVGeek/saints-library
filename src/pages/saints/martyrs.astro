@@ -223,5 +223,5 @@ const martyrsJSON = JSON.stringify(martyrs.map((s) => ({
   </div>
 </BaseLayout>
 
-<script type="application/json" id="saints-data" set:html={martyrsJSON} />
+<script type="application/json" id="saints-data" is:inline set:html={martyrsJSON} />
 <script is:inline src="/directory-app.js"></script>

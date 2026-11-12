@@ -10,7 +10,7 @@ const slugs = saints.map((s) => slug(s.id));
   <section class="flex min-h-[60vh] flex-col items-center justify-center px-4 text-center">
     <p class="font-heading text-xl text-parchment-100/70">Drawing a saint from the library…</p>
   </section>
-  <script define:vars={{ slugs }}>
+  <script define:vars={{ slugs }} is:inline>
     const pick = slugs[Math.floor(Math.random() * slugs.length)];
     window.location.replace('/saints/' + pick);
   </script>

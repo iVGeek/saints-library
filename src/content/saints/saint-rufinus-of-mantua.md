@@ -1,18 +1,22 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rufinus of Mantua
-stub: true
+stub: false
 honorific: Saint
-summary: Long venerated in Mantua, Italy, but all details have been lost.
+summary: 'Confessor venerated at Mantua, commemorated on 19 August.'
 region: Italy
 feastDay:
   month: 8
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Monk
+  - Confessor
 martyr: false
 prayers: []
+sources:
+  - 'The Catholic Encyclopedia (1913), "Rufinus, Saint", https://www.newadvent.org/cathen/13221b.htm'
 ---
 
-Long venerated in Mantua, Italy, but all details have been lost.
+> On 19 August, Rufinus, confessor at Mantua.
+
+*Source: [The Catholic Encyclopedia (1913), "Rufinus, Saint"](https://www.newadvent.org/cathen/13221b.htm), public domain.*

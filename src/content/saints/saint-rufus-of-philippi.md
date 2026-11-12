@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rufus of Philippi
-stub: true
+stub: false
 honorific: Saint
-summary: Martyr. Saint Polycarp wrote about him as a “most happy man”.
+summary: 'Martyr of Philippi praised by St. Polycarp, commemorated on 18 December.'
 deathYear: 109
 died: c.109 at Philippi, Macedonia
 deathPlace: Macedonia
@@ -12,9 +12,14 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Monk
+  - Martyr
 martyr: true
 prayers: []
+sources:
+  - 'The Catholic Encyclopedia (1913), "Rufus, Saint", https://www.newadvent.org/cathen/13222b.htm'
+region: Greece
 ---
 
-Martyr. Saint Polycarp wrote about him as a “most happy man”.
+> On 18 December, the holy martyrs Rufus and Zosimus, who were taken to Rome with St. Ignatius of Antioch and were put to death there for their unwavering confession of Christianity during the persecution of Trajan. St. Polycarp speaks of them in his letter to the Philippians (c. ix).
+
+*Source: [The Catholic Encyclopedia (1913), "Rufus, Saint"](https://www.newadvent.org/cathen/13222b.htm), public domain.*

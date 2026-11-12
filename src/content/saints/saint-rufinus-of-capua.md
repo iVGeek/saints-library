@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rufinus of Capua
-stub: true
+stub: false
 honorific: Saint
-summary: Fifth-century bishop of Capua, Italy.
+summary: 'Confessor venerated at Capua, commemorated on 26 August.'
 died: relics enshrined in the cathedral of Capua, Italy
 deathPlace: Italy
 region: Italy
@@ -12,10 +12,13 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Bishop
-  - Monk
+  - Confessor
 martyr: false
 prayers: []
+sources:
+  - 'The Catholic Encyclopedia (1913), "Rufinus, Saint", https://www.newadvent.org/cathen/13221b.htm'
 ---
 
-Fifth-century bishop of Capua, Italy.
+> On 26 August, a confessor Rufinus venerated at Capua (cf. Acta SS., August, V, 819-820). His name is given in the "Martyrologium Hieronymianum" under 26 and 27 August.
+
+*Source: [The Catholic Encyclopedia (1913), "Rufinus, Saint"](https://www.newadvent.org/cathen/13221b.htm), public domain.*

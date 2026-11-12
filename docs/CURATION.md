@@ -62,6 +62,18 @@ Apply only high-confidence matches:
 node scripts/curate-catholic-encyclopedia.mjs --apply --min-confidence 0.9
 ```
 
+To re-run or repair a reviewed batch without scanning every stub, pass the
+filenames as a comma-separated list:
+
+```bash
+node scripts/curate-catholic-encyclopedia.mjs --file saint-a.md,saint-b.md --apply
+```
+
+Article text is decoded from the source HTML, including named entities such
+as `&uuml;` and `&eacute;`, so excerpts keep the original spelling
+(`Münster`, `Mémoires`). The matcher caches each article in `.cache/cathen/`;
+delete that directory to force a fresh download.
+
 ## Wikipedia pipeline
 
 ```bash

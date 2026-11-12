@@ -38,7 +38,10 @@ const OFFSET = Number(arg('offset', 0)) || 0;
 const APPLY = has('apply');
 const MIN_CONF = Number(arg('min-confidence', 0.9));
 const OUT = arg('out', 'curation-queue.json');
-const ONLY_FILE = arg('file', '');
+const ONLY_FILES = (arg('file', '') || '')
+  .split(',')
+  .map((s) => s.trim())
+  .filter(Boolean);
 const SCAN_ALL = has('all');
 
 const MONTHS = [
@@ -72,19 +75,37 @@ function splitLocality(name) {
   return { base: m[1].trim(), locality: m[2].trim() };
 }
 
+const ENTITIES = {
+  nbsp: ' ', amp: '&', quot: '"', apos: "'", lt: '<', gt: '>',
+  ndash: '–', mdash: '—', hellip: '…', bull: '•', middot: '·',
+  lsquo: '‘', rsquo: '’', ldquo: '“', rdquo: '”', laquo: '«', raquo: '»',
+  dagger: '†', Dagger: '‡', sect: '§', para: '¶', deg: '°', prime: '′', Prime: '″',
+  times: '×', divide: '÷', plusmn: '±', minus: '−', frac12: '½', frac14: '¼', frac34: '¾',
+  sup1: '¹', sup2: '²', sup3: '³', micro: 'µ', cent: '¢', pound: '£', yen: '¥', euro: '€',
+  copy: '©', reg: '®', trade: '™',
+  auml: 'ä', ouml: 'ö', uuml: 'ü', Auml: 'Ä', Ouml: 'Ö', Uuml: 'Ü', szlig: 'ß',
+  agrave: 'à', aacute: 'á', acirc: 'â', atilde: 'ã', aring: 'å', aelig: 'æ', ccedil: 'ç',
+  egrave: 'è', eacute: 'é', ecirc: 'ê', euml: 'ë',
+  igrave: 'ì', iacute: 'í', icirc: 'î', iuml: 'ï', ntilde: 'ñ',
+  ograve: 'ò', oacute: 'ó', ocirc: 'ô', otilde: 'õ', oslash: 'ø', oelig: 'œ',
+  ugrave: 'ù', uacute: 'ú', ucirc: 'û', yacute: 'ý', yuml: 'ÿ', thorn: 'þ', eth: 'ð',
+  Agrave: 'À', Aacute: 'Á', Acirc: 'Â', Atilde: 'Ã', Aring: 'Å', AElig: 'Æ', Ccedil: 'Ç',
+  Egrave: 'È', Eacute: 'É', Ecirc: 'Ê', Euml: 'Ë',
+  Igrave: 'Ì', Iacute: 'Í', Icirc: 'Î', Iuml: 'Ï', Ntilde: 'Ñ',
+  Ograve: 'Ò', Oacute: 'Ó', Ocirc: 'Ô', Otilde: 'Õ', Oslash: 'Ø', OElig: 'Œ',
+  Ugrave: 'Ù', Uacute: 'Ú', Ucirc: 'Û', Yacute: 'Ý', Thorn: 'Þ', ETH: 'Ð',
+};
+
 function decodeEntities(s) {
   return s
-    .replace(/&nbsp;/g, ' ')
-    .replace(/&amp;/g, '&')
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;|&apos;/g, "'")
-    .replace(/&#151;|&mdash;/g, '—')
-    .replace(/&ndash;/g, '–')
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
     .replace(/&#(\d+);/g, (_, d) => String.fromCharCode(Number(d)))
     .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCharCode(parseInt(h, 16)))
-    .replace(/&[a-z]+;/gi, ' ');
+    .replace(/&([a-z][a-z0-9]*);/gi, (m, name) => {
+      if (Object.hasOwn(ENTITIES, name)) return ENTITIES[name];
+      const lower = name.toLowerCase();
+      if (lower !== name && Object.hasOwn(ENTITIES, lower)) return ENTITIES[lower];
+      return ' ';
+    });
 }
 
 function htmlToText(html) {
@@ -191,10 +212,82 @@ function feastEvidence(text, month, day) {
   return re.test(text);
 }
 
+/**
+ * Some Catholic Encyclopedia articles cover a whole group of same-named
+ * saints ("Rufinus, Saint" lists eleven of them). Those articles split each
+ * person into a numbered or Roman-numeral section. Return the sections so the
+ * matcher can quote only the paragraph that belongs to this profile.
+ */
+function splitSections(text) {
+  const paren = [...text.matchAll(/\((\d{1,2})\)\s+/g)];
+  if (paren.length >= 3) {
+    return paren.map((m, i) => {
+      const end = i + 1 < paren.length ? paren[i + 1].index : text.length;
+      return text.slice(m.index, end).trim();
+    });
+  }
+
+  const roman = [...text.matchAll(/(?:^|\n)\s*([IVX]{1,5})\.\s+/g)];
+  if (roman.length >= 3) {
+    return roman.map((m, i) => {
+      const start = m.index + m[0].indexOf(m[1]);
+      const next = roman[i + 1];
+      const end = next ? next.index + next[0].indexOf(next[1]) : text.length;
+      return text.slice(start, end).trim();
+    });
+  }
+
+  return [];
+}
+
+function looksCollective(text, entry) {
+  if (/,\s*Saints$/i.test(entry.title)) return true;
+  const opening = text.slice(0, 900);
+  return /\b(name of (several|many|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve)|(records|mentions|commemorates)\s+(eleven|ten|twelve|several|many|two|three|four|five|six|seven|eight|nine)\s+(saints|martyrs|others)|(several|many|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve) (saints|martyrs|bishops|persons) of (this|the same) name|several persons|bore this name|saints?\s+named|others of (the|this) name|martyrs bearing the name|bore the name of|among the saints)\b/i.test(
+    opening
+  );
+}
+
+/** Pick the one section that matches this profile's feast day, then locality. */
+function pickSection(sections, locality, month, day) {
+  if (sections.length < 3) return null;
+  let hits = sections.filter((s) => feastEvidence(s, month, day));
+  if (hits.length > 1 && locality) {
+    const local = hits.filter((s) => s.toLowerCase().includes(locality.toLowerCase()));
+    if (local.length === 1) hits = local;
+  }
+  return hits.length === 1 ? hits[0] : null;
+}
+
 function makeExcerpt(text, max = 1800) {
-  const cleaned = text.replace(/\[[^\]]*\]/g, '').replace(/\s+/g, ' ').trim();
-  if (cleaned.length <= max) return cleaned;
-  const cut = cleaned.slice(0, max);
+  let source = text.trim();
+  // Drop a standalone one-word heading such as "Martyr" at the top of an
+  // article; it reads as part of the first sentence once whitespace is
+  // collapsed.
+  const firstBreak = source.indexOf('\n');
+  if (firstBreak > 0 && firstBreak < 40) {
+    const firstLine = source.slice(0, firstBreak).trim();
+    if (/^[A-Z][A-Za-z ]{0,30}$/.test(firstLine) && !/[.!?]/.test(firstLine)) {
+      source = source.slice(firstBreak).trim();
+    }
+  }
+  const cleaned = source
+    .replace(/^\((\d{1,2})\)\s*/, '')
+    .replace(/^[IVX]{1,5}\.\s*/, '')
+    .replace(/^Besides the saints already given,?\s+mention should also be made of\s+/i, '')
+    .replace(/\[[^\]]*\]/g, '')
+    .replace(/\s+/g, ' ')
+    .replace(/\s+([,.;:!?])/g, '$1')
+    .replace(/\s+\)/g, ')')
+    .replace(/\(\s+/g, '(')
+    .trim()
+    .replace(/^([a-z])/, (c) => c.toUpperCase());
+  const trimmed = cleaned
+    .replace(/\s*(See (?:also )?bibliography|See also)\b[\s\S]*$/i, '')
+    .trim();
+  const punctuated = /[.!?]$/.test(trimmed) ? trimmed : `${trimmed}.`;
+  if (punctuated.length <= max) return punctuated;
+  const cut = punctuated.slice(0, max);
   const lastSentence = Math.max(cut.lastIndexOf('. '), cut.lastIndexOf('; '));
   return (lastSentence > max * 0.6 ? cut.slice(0, lastSentence + 1) : cut).trim();
 }
@@ -212,6 +305,7 @@ function parseProfile(raw) {
 }
 
 function addSource(frontmatter, citation) {
+  if (frontmatter.includes(citation)) return frontmatter;
   const quoted = `'${citation.replace(/'/g, "''")}'`;
   if (/^sources:\s*\[\s*\]\s*$/m.test(frontmatter)) {
     return frontmatter.replace(/^sources:\s*\[\s*\]\s*$/m, `sources:\n  - ${quoted}`);
@@ -245,7 +339,7 @@ function applyMatch(file, profile, entry, confidence, excerpt) {
 
 async function main() {
   let files;
-  if (ONLY_FILE) files = [ONLY_FILE];
+  if (ONLY_FILES.length) files = ONLY_FILES;
   else {
     const list = JSON.parse(fs.readFileSync(STUBS, 'utf8'));
     files = SCAN_ALL ? fs.readdirSync(CONTENT).filter((f) => f.endsWith('.md')) : list;
@@ -292,32 +386,54 @@ async function main() {
       else if (core === baseName) nameScore = 0.7;
       else if (overlap >= 2 && tokenSubset(core, fullName)) nameScore = 0.8;
 
-      const lower = text.toLowerCase();
-      const localityHit = locality ? lower.includes(locality.toLowerCase()) : false;
-      const feastHit = feastEvidence(text, month, day);
-      const regionHit = region ? lower.includes(region.toLowerCase()) : false;
+      const sections = splitSections(text);
+      const collective = looksCollective(text, entry);
+      const section = pickSection(sections, locality, month, day);
+      const subject = section || text;
 
-      let confidence = nameScore;
-      if (localityHit) confidence += 0.12;
-      if (feastHit) confidence += 0.12;
-      if (regionHit) confidence += 0.03;
+      const opening = text.slice(0, 900).toLowerCase();
+      const subjectLower = subject.toLowerCase();
+      const localityHit = locality
+        ? section
+          ? subjectLower.includes(locality.toLowerCase())
+          : opening.includes(locality.toLowerCase())
+        : false;
+      const feastHit = feastEvidence(subject, month, day);
+      const regionHit = region ? subjectLower.includes(region.toLowerCase()) : false;
 
-      // A locality in the profile must be corroborated unless the article
-      // title already carries the full name.
-      if (locality && !localityHit && nameScore < 0.95) confidence = Math.min(confidence, 0.82);
+      // A reliable match needs the article to attest the profile's feast day,
+      // and (when the profile names a place) that place as well. A famous
+      // namesake is not enough: the corpus contains many obscure martyrs who
+      // share a name with a well-known saint.
+      const nameOk = nameScore >= 0.7;
+      const localityOk = !locality || localityHit;
+      const collectiveOk = !collective || Boolean(section);
+      let confidence;
+      if (nameOk && feastHit && localityOk && collectiveOk) {
+        confidence = 0.9;
+        if (section) confidence += 0.04;
+        if (nameScore >= 0.95) confidence += 0.03;
+        if (regionHit) confidence += 0.01;
+        confidence = Math.min(0.98, confidence);
+      } else {
+        confidence = 0.4;
+        if (feastHit) confidence += 0.1;
+        if (localityHit) confidence += 0.05;
+        if (nameScore >= 0.95) confidence += 0.03;
+        confidence = Math.min(0.6, confidence);
+      }
 
-      // Bare-name matches need at least one disambiguator.
-      if (nameScore < 0.7 && !localityHit && !feastHit) confidence = Math.min(confidence, 0.4);
-
-      // Profiles without a locality need feast evidence for bare-name matches.
-      if (!locality && nameScore === 0.7 && !feastHit) confidence = Math.min(confidence, 0.75);
-
-      // Reject topical articles (places, doctrines, etc.).
-      const personCue = /\b(saint|blessed|martyr|bishop|priest|monk|nun|virgin|pope|feast|died|born|church|abbot|abbess)\b/i;
-      if (!personCue.test(text.slice(0, 900))) confidence = Math.min(confidence, 0.5);
-
-      confidence = Math.min(0.99, confidence);
-      evaluated.push({ entry, confidence, nameScore, localityHit, feastHit, regionHit, text });
+      evaluated.push({
+        entry,
+        confidence,
+        nameScore,
+        localityHit,
+        feastHit,
+        regionHit,
+        collective,
+        section,
+        text,
+      });
       if (!best || confidence > best.confidence) best = evaluated[evaluated.length - 1];
     }
 
@@ -357,7 +473,7 @@ async function main() {
     if (matched) {
       stats.matched++;
       if (APPLY) {
-        applyMatch(file, profile, best.entry, best.confidence, makeExcerpt(best.text));
+        applyMatch(file, profile, best.entry, best.confidence, makeExcerpt(best.section || best.text));
         stats.applied++;
       }
     } else {
@@ -374,7 +490,9 @@ async function main() {
       localityHit: best.localityHit,
       feastHit: best.feastHit,
       regionHit: best.regionHit,
-      excerpt: makeExcerpt(best.text, 600),
+      collective: best.collective,
+      sectionMatch: Boolean(best.section),
+      excerpt: makeExcerpt(best.section || best.text, 600),
     });
   }
 

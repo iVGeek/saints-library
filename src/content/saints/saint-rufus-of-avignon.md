@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rufus of Avignon
-stub: true
+stub: false
 honorific: Saint
-summary: First bishop of Avignon, France.
+summary: 'Supposed first Bishop of Avignon, perhaps identical with Rufus the disciple of Paul; commemorated on 12 November.'
 region: France
 feastDay:
   month: 11
@@ -11,9 +11,12 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Bishop
-  - Monk
 martyr: false
 prayers: []
+sources:
+  - 'The Catholic Encyclopedia (1913), "Rufus, Saint", https://www.newadvent.org/cathen/13222b.htm'
 ---
 
-First bishop of Avignon, France.
+> On 12 November, Rufus, a supposed Bishop of Avignon, who is perhaps identical with Rufus, the disciple of Paul (21 November). Legend, without any historical proof, has made him the first Bishop of Avignon.
+
+*Source: [The Catholic Encyclopedia (1913), "Rufus, Saint"](https://www.newadvent.org/cathen/13222b.htm), public domain.*

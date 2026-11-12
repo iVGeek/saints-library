@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rufus of Metz
-stub: true
+stub: false
 honorific: Saint
-summary: 4th century bishop of Metz, France, serving for 29 years.
+summary: 'Bishop of Metz, commemorated on 7 November.'
 searchAliases:
   - Rufo
 deathYear: 400
@@ -15,9 +15,12 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Bishop
-  - Monk
 martyr: false
 prayers: []
+sources:
+  - 'The Catholic Encyclopedia (1913), "Rufus, Saint", https://www.newadvent.org/cathen/13222b.htm'
 ---
 
-4th century bishop of Metz, France, serving for 29 years.
+> On 7 November, a Sts. Rufus, who is said to have been Bishop of Metz; his history, however, is legendary. His name was inserted at a later date in an old manuscript of the "Martyrol. Hieronym." (ed. cit., 140). In the ninth century his relics were transferred to Gau-Odernheim in Hesse, Diocese of Mainz.
+
+*Source: [The Catholic Encyclopedia (1913), "Rufus, Saint"](https://www.newadvent.org/cathen/13222b.htm), public domain.*

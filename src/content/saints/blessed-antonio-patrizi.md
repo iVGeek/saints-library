@@ -1,16 +1,17 @@
 ---
 name: Blessed Antonio Patrizi
-stub: true
+stub: false
 honorific: Blessed
-summary: Priest in the Order of Hermits of Saint Augustine in Lecceto, Italy.
+summary: Augustinian priest and hermit of Lecceto, near Siena; beatified in 1804.
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/Giuseppe_Maria_Mazzuoli%252C_il_Beato_Antonio_Patrizi%252C_1755.jpg?width=600
 searchAliases:
   - Antonio of Monticiano
   - Antony…
+birthYear: 1280
 deathYear: 1311
-born: early 13th century Siena, Italy
-died: c.1311 in Monticiano, Italy
+born: 17 January 1280 in Siena, Italy
+died: 23 April 1311 in Monticiano, Italy
 birthPlace: Italy
 deathPlace: Italy
 region: Italy
@@ -24,6 +25,10 @@ vocation:
 religiousOrder: Augustinian
 martyr: false
 prayers: []
+sources:
+  - 'Wikipedia, "Antonio Patrizi", https://en.wikipedia.org/wiki/Antonio_Patrizi (CC BY-SA 4.0)'
 ---
 
-Priest in the Order of Hermits of Saint Augustine in Lecceto, Italy.
+> Antonio Patrizi (17 January 1280 - 23 April 1311) was an Italian Roman Catholic priest and a professed member of the Order of Saint Augustine. Patrizi joined the order in Lecceto and lived as a hermit prior to his sudden death while visiting his friend at another convent. Patrizi was beatified on 1 March 1804 after Pope Pius VII confirmed the late priest's longstanding 'cultus' - or popular and enduring devotion.
+
+*Source: [Wikipedia, "Antonio Patrizi"](https://en.wikipedia.org/wiki/Antonio_Patrizi), CC BY-SA 4.0.*

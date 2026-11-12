@@ -1,6 +1,6 @@
 ---
 name: Blessed Ludovicus Sasada
-stub: true
+stub: false
 honorific: Blessed
 summary: Member of the Franciscan Friars Minor (Observants). Priest. Martyr.
 deathYear: 1624
@@ -20,6 +20,10 @@ vocation:
 religiousOrder: Franciscan
 martyr: true
 prayers: []
+sources:
+  - 'Wikipedia, "Ludovicus Sasada", https://en.wikipedia.org/wiki/Ludovicus_Sasada (CC BY-SA 4.0)'
 ---
 
-Member of the Franciscan Friars Minor (Observants). Priest. Martyr.
+> Ludovicus Sasada, OFM, also known as Louis Sasada or ルイス笹田, (1598 – 25 August 1624) was a Catholic priest from Japan and a member of the Order of Friars Minor. He was beatified in July 1867 by Pope Pius IX.
+
+*Source: [Wikipedia, "Ludovicus Sasada"](https://en.wikipedia.org/wiki/Ludovicus_Sasada), CC BY-SA 4.0.*

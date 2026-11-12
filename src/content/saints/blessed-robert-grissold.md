@@ -1,6 +1,6 @@
 ---
 name: Blessed Robert Grissold
-stub: true
+stub: false
 honorific: Blessed
 summary: Lifelong layman in the apostolic vicariate of England. Martyr.
 birthYear: 1575
@@ -18,6 +18,10 @@ image: https://upload.wikimedia.org/wikipedia/commons/1/1f/Robert_Grissold_1_b.j
 vocation: []
 martyr: true
 prayers: []
+sources:
+  - 'Wikipedia, "Robert Grissold", https://en.wikipedia.org/wiki/Robert_Grissold (CC BY-SA 4.0)'
 ---
 
-Lifelong layman in the apostolic vicariate of England. Martyr.
+> Robert Grissold (died 1604) was an attendant of John Sugar, the Roman Catholic priest co-martyred at Warwick in 1604. His name is also given as Greswold or Griswold.
+
+*Source: [Wikipedia, "Robert Grissold"](https://en.wikipedia.org/wiki/Robert_Grissold), CC BY-SA 4.0.*

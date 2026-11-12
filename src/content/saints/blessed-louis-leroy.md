@@ -1,6 +1,6 @@
 ---
 name: Blessed Louis Leroy
-stub: true
+stub: false
 honorific: Blessed
 summary: Member of the Missionary Oblates of Mary Immaculate. Priest. Martyr.
 birthYear: 1923
@@ -22,6 +22,10 @@ vocation:
   - Missionary
 martyr: true
 prayers: []
+sources:
+  - 'Wikipedia, "Louis Leroy (baseball)", https://en.wikipedia.org/wiki/Louis_Leroy_(baseball) (CC BY-SA 4.0)'
 ---
 
-Member of the Missionary Oblates of Mary Immaculate. Priest. Martyr.
+> Louis Paul Leroy (February 18, 1879 – October 10, 1944) was an American pitcher in Major League Baseball who played from 1905 through 1910 for the New York Highlanders (1905–1906) and Boston Red Sox (1910). Listed at 5 ft 10 in (1.78 m), 180 pounds (82 kg), Leroy batted and threw right-handed. He was born in Omro, Wisconsin and was a member of the Stockbridge–Munsee Community. In a three-season career, Leroy posted a 3–1 record with 39 strikeouts and a 3.22 ERA in 15 appearances, including five starts, three complete games, one save, and 72+2⁄3 innings of work. Prior to his baseball career Leroy was a running back at Carlisle Indian School. Leroy died in Shawano, Wisconsin at age 65.
+
+*Source: [Wikipedia, "Louis Leroy (baseball)"](https://en.wikipedia.org/wiki/Louis_Leroy_(baseball)), CC BY-SA 4.0.*

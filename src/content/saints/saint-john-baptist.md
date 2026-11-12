@@ -14,6 +14,7 @@ birthYear: 1805
 born: '1805'
 centuries:
   - 19
+region: Holy Land
 feastDay:
   month: 11
   day: 8

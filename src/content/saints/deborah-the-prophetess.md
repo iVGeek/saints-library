@@ -7,6 +7,7 @@ searchAliases:
   - Debbora the Prophetess
   - Deborah the Judge
   - Deborah the Matriarch
+region: Holy Land
 feastDay:
   month: 11
   day: 1

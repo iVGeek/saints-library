@@ -12,6 +12,7 @@ imageAlt: Portrait of Saint Anne
 imageCredit: Wikimedia Commons
 centuries:
   - 16
+region: Holy Land
 feastDay:
   month: 7
   day: 26

@@ -7,6 +7,7 @@ summary: >-
   old man, when Samuel came to Bethlehem to anoint David, the new King of Israel (1 Kings 16). In the time of Saul, the
   family of Jesse occupied a humble condition; f
 image: https://catholicsaints.info/wp-content/gallery/people-of-the-faith/jesse.jpg
+region: Holy Land
 feastDay:
   month: 12
   day: 24

@@ -15,6 +15,7 @@ searchAliases:
 birthPlace: Caesarea
 centuries:
   - 16
+region: Turkey
 feastDay:
   month: 1
   day: 2

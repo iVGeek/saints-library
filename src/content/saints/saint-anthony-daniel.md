@@ -16,6 +16,7 @@ born: '1601'
 birthPlace: Dieppe
 centuries:
   - 17
+region: France
 feastDay:
   month: 7
   day: 4

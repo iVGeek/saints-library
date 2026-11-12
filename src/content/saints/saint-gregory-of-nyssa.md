@@ -12,6 +12,7 @@ imageCredit: Wikimedia Commons
 birthPlace: Caesarea
 centuries:
   - 16
+region: Turkey
 feastDay:
   month: 3
   day: 9

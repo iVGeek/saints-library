@@ -19,6 +19,7 @@ born: '1838'
 birthPlace: Kalaupapa
 centuries:
   - 19
+region: United States
 feastDay:
   month: 8
   day: 9

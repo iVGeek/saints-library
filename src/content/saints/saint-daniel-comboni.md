@@ -14,6 +14,7 @@ born: '1831'
 birthPlace: Limone sul Garda
 centuries:
   - 19
+region: Italy
 feastDay:
   month: 10
   day: 10

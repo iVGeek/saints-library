@@ -14,6 +14,7 @@ born: '1606'
 birthPlace: Fort Saint Jean
 centuries:
   - 17
+region: Spain
 feastDay:
   month: 12
   day: 7

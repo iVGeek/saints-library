@@ -14,6 +14,7 @@ searchAliases:
 birthPlace: Tagaste (Souk Ahrus)
 centuries:
   - 16
+region: North Africa
 feastDay:
   month: 8
   day: 27

@@ -16,6 +16,7 @@ born: '1858'
 birthPlace: Philadelphia
 centuries:
   - 19
+region: United States
 feastDay:
   month: 3
   day: 3

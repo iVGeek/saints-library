@@ -14,6 +14,7 @@ born: '1890'
 birthPlace: Corinaldo
 centuries:
   - 19
+region: Italy
 feastDay:
   month: 7
   day: 6

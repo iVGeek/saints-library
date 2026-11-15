@@ -3,6 +3,7 @@ name: Saint Pelagia
 stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
+region: Syria
 feastDay:
   month: 7
   day: 29

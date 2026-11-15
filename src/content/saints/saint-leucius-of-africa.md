@@ -4,6 +4,7 @@ image: >-
 name: Saint Leucius of Africa
 stub: true
 honorific: Saint
+summary: Saint Leucius of Africa was a monk of Africa.
 deathYear: 300
 died: c.300 in Africa
 region: Africa

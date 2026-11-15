@@ -3,6 +3,7 @@ image: /placeholder-saint.svg
 name: Saint Lucianus of Rome
 stub: true
 honorific: Saint
+summary: Saint Lucianus of Rome was a monk of Rome.
 died: Rome, Italy, date unknown
 deathPlace: Italy, date unknown
 region: Italy

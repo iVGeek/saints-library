@@ -3,6 +3,7 @@ image: /placeholder-saint.svg
 name: Saint Israel of Limoges
 stub: true
 honorific: Saint
+summary: Saint Israel of Limoges was a priest of France.
 title: Priest
 searchAliases:
   - Israel Limousin

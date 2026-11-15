@@ -3,6 +3,7 @@ image: /placeholder-saint.svg
 name: Saint Hilarinus of Ostia
 stub: true
 honorific: Saint
+summary: Saint Hilarinus of Ostia was a bishop, priest, and monk of Rome.
 deathYear: 361
 died: scourged to death in 361 at Ostia, Italy
 deathPlace: Italy

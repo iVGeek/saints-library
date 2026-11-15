@@ -3,6 +3,7 @@ image: /placeholder-saint.svg
 name: Saint Hilary of Toulouse
 stub: true
 honorific: Saint
+summary: Saint Hilary of Toulouse was a bishop of France.
 title: Bishop
 searchAliases:
   - Ilario

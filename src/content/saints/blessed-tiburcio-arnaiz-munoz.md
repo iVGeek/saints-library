@@ -2,6 +2,7 @@
 name: Blessed Tiburcio Arnáiz Muñoz
 stub: true
 honorific: Blessed
+summary: Blessed Tiburcio Arnaiz Munoz was a Spanish priest and cardinal of the early 20th century.
 image: https://upload.wikimedia.org/wikipedia/commons/b/b9/Tiburcio_Arnaiz.jpg
 birthYear: 1865
 deathYear: 1926

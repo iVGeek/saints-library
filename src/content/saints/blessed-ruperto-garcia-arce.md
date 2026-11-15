@@ -4,6 +4,7 @@ image: >-
 name: Blessed Ruperto García Arce
 stub: true
 honorific: Blessed
+summary: Blessed Ruperto Garcia Arce was a Spanish priest and martyr of the Spanish Civil War.
 searchAliases:
   - Brother Florencio Miguel
 birthYear: 1908

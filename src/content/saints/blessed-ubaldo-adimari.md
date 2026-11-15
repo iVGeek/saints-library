@@ -2,6 +2,7 @@
 name: Blessed Ubaldo Adimari
 stub: true
 honorific: Blessed
+summary: Blessed Ubaldo Adimari was an Italian priest of the 13th century.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ubaldo-Adimari.jpg
 searchAliases:
   - Ubaldo da Borgo San Sepolcro

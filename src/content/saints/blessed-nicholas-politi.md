@@ -2,6 +2,7 @@
 name: Blessed Nicholas Politi
 stub: true
 honorific: Blessed
+summary: Blessed Nicholas Politi was an Italian monk, hermit, and virgin of the 12th century.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Nicholas-Politi.jpg
 searchAliases:
   - Nicolò Politi

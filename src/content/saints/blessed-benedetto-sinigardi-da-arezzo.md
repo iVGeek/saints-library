@@ -2,6 +2,7 @@
 name: Blessed Benedetto Sinigardi da Arezzo
 stub: true
 honorific: Blessed
+summary: Blessed Benedetto Sinigardi da Arezzo was an Italian Franciscan friar, missionary, and blessed of the 13th century.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Benedetto-Sinigardi-da-Arezzo.jpg
 searchAliases:
   - Benedetto Sinigardi

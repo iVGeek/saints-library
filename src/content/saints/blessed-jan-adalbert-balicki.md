@@ -2,6 +2,7 @@
 name: Blessed Jan Adalbert Balicki
 stub: true
 honorific: Blessed
+summary: Blessed Jan Adalbert Balicki was a Polish bishop and priest of the late 19th and early 20th centuries.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Jan-Adalbert-Balicki.jpg
 searchAliases:
   - John Balicki

@@ -4,6 +4,7 @@ image: >-
 name: Blessed Edigna of Puch
 stub: true
 honorific: Blessed
+summary: Blessed Edigna of Puch was a German hermit of the 11th or 12th century.
 birthYear: 1055
 deathYear: 1109
 born: c.1055

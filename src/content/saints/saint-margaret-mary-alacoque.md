@@ -18,6 +18,7 @@ born: '1647'
 birthPlace: L’Hautecourt
 centuries:
   - 17
+region: France
 feastDay:
   month: 10
   day: 17

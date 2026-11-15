@@ -9,6 +9,7 @@ summary: >-
 deathYear: 860
 born: Aegina
 died: 860 at Timia Abbey of natural causes
+region: Greece
 feastDay:
   month: 8
   day: 14

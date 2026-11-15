@@ -3,6 +3,7 @@ name: Saint Euphemia of Abyssinia
 stub: true
 honorific: Saint
 summary: 4th century nun in Abyssinia (modern Ethiopia).
+region: Ethiopia
 feastDay:
   month: 6
   day: 6

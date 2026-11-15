@@ -3,6 +3,7 @@ name: Saint Tatiana
 stub: true
 honorific: Saint
 summary: Nun noted for her ascetic life.
+region: Italy
 feastDay:
   month: 1
   day: 5

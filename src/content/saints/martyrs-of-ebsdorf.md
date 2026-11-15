@@ -3,6 +3,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/Bruno%20dux.jpg
 name: Martyrs of Ebsdorf
 stub: false
 honorific: Saint
+summary: A group of Christian soldiers and bishops martyred in battle at Ebsdorf in 880.
 searchAliases:
   - Ebsdorf Martyrs
 deathYear: 880

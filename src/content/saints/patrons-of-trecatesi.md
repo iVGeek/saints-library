@@ -2,6 +2,7 @@
 name: patrons of trecatesi
 stub: true
 honorific: Saint
+summary: A group of local saints venerated as patrons of the town of Trecatesi in Italy.
 region: Italy
 feastDay:
   month: 1

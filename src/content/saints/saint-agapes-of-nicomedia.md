@@ -2,6 +2,7 @@
 name: Saint Agapes of Nicomedia
 stub: true
 honorific: Saint
+summary: Saint Agapes of Nicomedia was a Christian monk burned alive in 303 in Nicomedia.
 searchAliases:
   - Agathia
 deathYear: 303

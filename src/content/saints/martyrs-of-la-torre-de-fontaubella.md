@@ -3,6 +3,7 @@ image: /placeholder-saint.svg
 name: Martyrs of La Torre de Fontaubella
 stub: true
 honorific: Venerable
+summary: A Spanish priest and venerable who was martyred in 1936 during the Spanish Civil War.
 deathYear: 1936
 died: 12 August 1936 in La Torre de Fontaubella, Tarragona, Spain
 deathPlace: Tarragona, Spain

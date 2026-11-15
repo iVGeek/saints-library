@@ -2,6 +2,7 @@
 name: Saint Abundantia of Spoleto
 stub: true
 honorific: Saint
+summary: Saint Abundantia of Spoleto was an Italian priest and hermit of the 8th century.
 deathYear: 804
 born: 8th century Spoleto, Italy
 died: January 804 in Spoleto, Italy of natural causes

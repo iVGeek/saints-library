@@ -2,6 +2,7 @@
 name: Martyrs of Caesarea
 stub: false
 honorific: Saint
+summary: A group of Christian monks martyred in Caesarea in 309 during the persecution of Christians.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Caesarea.jpg
 deathYear: 309
 died: 309 in Caesarea, Palestine

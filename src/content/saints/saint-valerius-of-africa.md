@@ -3,6 +3,7 @@ image: /placeholder-saint.svg
 name: Saint Valerius of Africa
 stub: true
 honorific: Saint
+summary: Saint Valerius of Africa was a monk martyred in North Africa.
 died: martyred in North Africa
 region: Africa
 feastDay:

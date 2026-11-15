@@ -3,6 +3,7 @@ image: /placeholder-saint.svg
 name: Saint Varicus the Martyr
 stub: true
 honorific: Saint
+summary: Saint Varicus the Martyr was a monk martyred in North Africa.
 died: martyred in North Africa
 region: Africa
 feastDay:

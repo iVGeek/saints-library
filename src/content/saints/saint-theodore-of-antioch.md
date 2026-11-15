@@ -3,6 +3,7 @@ image: /placeholder-saint.svg
 name: Saint Theodore of Antioch
 stub: true
 honorific: Saint
+summary: Saint Theodore of Antioch was a monk martyred in Antioch.
 died: martyred in Antioch
 region: England
 feastDay:

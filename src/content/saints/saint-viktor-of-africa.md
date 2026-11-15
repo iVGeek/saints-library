@@ -3,6 +3,7 @@ image: /placeholder-saint.svg
 name: Saint Viktor of Africa
 stub: true
 honorific: Saint
+summary: Saint Viktor of Africa was a monk of Africa.
 deathYear: 300
 died: c.300 in Africa
 region: Africa

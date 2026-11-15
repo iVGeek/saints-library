@@ -3,6 +3,7 @@ image: /placeholder-saint.svg
 name: Venerable Serafin Kaszuba
 stub: true
 honorific: Venerable
+summary: Venerable Serafin Kaszuba was a Capuchin priest of Ukraine.
 searchAliases:
   - Alojzy Kazimierz
 birthYear: 1910

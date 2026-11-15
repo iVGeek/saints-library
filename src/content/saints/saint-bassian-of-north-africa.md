@@ -3,6 +3,7 @@ image: /placeholder-saint.svg
 name: Saint Bassian of North Africa
 stub: true
 honorific: Saint
+summary: Saint Bassian of North Africa was a Christian monk martyred in North Africa.
 died: martyred in North Africa
 region: Africa
 feastDay:

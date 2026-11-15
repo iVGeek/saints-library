@@ -4,6 +4,7 @@ image: >-
 name: Saint Amadour the Hermit
 stub: true
 honorific: Saint
+summary: Saint Amadour the Hermit was a Franciscan monk and hermit.
 searchAliases:
   - Amadour of Lucca
   - Amadour of Rocamadour

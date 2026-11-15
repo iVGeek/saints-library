@@ -2,6 +2,7 @@
 name: Saint Elijah of Ashkelon
 stub: true
 honorific: Saint
+summary: Saint Elijah of Ashkelon was a Christian monk beheaded in 308.
 deathYear: 308
 died: beheaded at the gates of Ashkelon c.308
 region: Italy

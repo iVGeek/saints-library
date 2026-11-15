@@ -3,6 +3,7 @@ image: /placeholder-saint.svg
 name: Saint Beresus of Africa
 stub: true
 honorific: Saint
+summary: Saint Beresus of Africa was a Christian bishop and monk of the early 4th century.
 deathYear: 300
 died: c.300 in Africa
 region: Africa

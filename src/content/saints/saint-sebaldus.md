@@ -2,6 +2,7 @@
 name: Saint Sebaldus
 stub: false
 honorific: Saint
+summary: Saint Sebaldus was a monk, hermit, and missionary of Germany.
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Accademia_-_San_Sinibaldo_di_Sebastiano_del_Piombo.jpg?width=600
 searchAliases:
   - Sebald

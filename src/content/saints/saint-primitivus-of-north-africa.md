@@ -3,6 +3,7 @@ image: /placeholder-saint.svg
 name: Saint Primitivus of North Africa
 stub: true
 honorific: Saint
+summary: Saint Primitivus of North Africa was a monk martyred in North Africa.
 died: martyred in North Africa
 region: Africa
 feastDay:

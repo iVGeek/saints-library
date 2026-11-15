@@ -3,6 +3,7 @@ image: /placeholder-saint.svg
 name: Saint Secundus the Martyr
 stub: true
 honorific: Saint
+summary: Saint Secundus the Martyr was a monk martyred in North Africa.
 died: martyred in North Africa
 region: Africa
 feastDay:

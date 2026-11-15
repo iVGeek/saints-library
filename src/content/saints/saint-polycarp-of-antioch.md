@@ -3,6 +3,7 @@ image: /placeholder-saint.svg
 name: Saint Polycarp of Antioch
 stub: true
 honorific: Saint
+summary: Saint Polycarp of Antioch was a monk martyred in Antioch.
 died: martyred in Antioch
 region: England
 feastDay:

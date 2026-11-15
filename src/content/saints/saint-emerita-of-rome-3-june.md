@@ -2,6 +2,7 @@
 name: Saint Emerita of Rome
 stub: true
 honorific: Saint
+summary: Saint Emmerita of Rome was a Christian monk of Rome.
 died: Rome, Italy, date unknown
 deathPlace: Italy, date unknown
 region: Italy

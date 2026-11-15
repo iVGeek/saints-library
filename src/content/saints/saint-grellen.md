@@ -2,6 +2,7 @@
 name: Saint Grellen
 stub: true
 honorific: Saint
+summary: Saint Grellen was an Irish priest and missionary.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Grellen.jpg
 searchAliases:
   - Grellan

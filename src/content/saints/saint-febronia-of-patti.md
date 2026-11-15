@@ -2,6 +2,7 @@
 name: Saint Febronia of Patti
 stub: true
 honorific: Saint
+summary: Saint Febronia of Patti was a bishop and priest of Sicily, Italy.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Febronia-of-Patti.jpg
 born: late 3rd century in Patti, Sicily, Italy
 died: drowned in the sea off the coast of Mons Iovis in Sicly, Italy in the early 4th century

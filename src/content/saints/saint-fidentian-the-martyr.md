@@ -3,6 +3,7 @@ image: /placeholder-saint.svg
 name: Saint Fidentian the Martyr
 stub: false
 honorific: Saint
+summary: Saint Fidentian the Martyr was a Christian monk martyred in North Africa.
 died: martyred in North Africa
 region: Africa
 feastDay:

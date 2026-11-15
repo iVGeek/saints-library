@@ -3,6 +3,7 @@ image: /placeholder-saint.svg
 name: Saint Formerio of Bañares
 stub: true
 honorific: Saint
+summary: Saint Formerio of Bañares was a hermit and soldier of Spain.
 searchAliases:
   - Formerius
 died: relics enshrined in a 12th-century jewelled wooden cask in the church of the Holy Cross in Bañares, Spain

@@ -14,6 +14,7 @@ born: '1613'
 birthPlace: Saugues
 centuries:
   - 17
+region: France
 feastDay:
   month: 12
   day: 8

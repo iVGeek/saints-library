@@ -9,6 +9,7 @@ summary: >-
 image: https://catholicsaints.info/wp-content/uploads/Theodora-the-Empress.jpg
 deathYear: 867
 died: 867 of natural causes
+region: Greece
 feastDay:
   month: 2
   day: 11

@@ -19,6 +19,7 @@ born: '1887'
 birthPlace: Pietrelcina
 centuries:
   - 19
+region: Italy
 feastDay:
   month: 9
   day: 23

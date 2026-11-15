@@ -14,6 +14,7 @@ born: '1562'
 birthPlace: Tsunokuni
 centuries:
   - 16
+region: Spain
 feastDay:
   month: 2
   day: 6

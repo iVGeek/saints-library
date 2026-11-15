@@ -19,6 +19,7 @@ born: '1694'
 birthPlace: Ovada
 centuries:
   - 17
+region: Italy
 feastDay:
   month: 10
   day: 19

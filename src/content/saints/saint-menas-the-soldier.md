@@ -4,6 +4,7 @@ name: Saint Menas the Soldier
 stub: false
 honorific: Saint
 summary: Christian soldier. Martyred for his faith, but the time and place of his death have been lost.
+region: Egypt
 feastDay:
   month: 7
   day: 12

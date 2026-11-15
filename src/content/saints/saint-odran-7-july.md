@@ -4,6 +4,7 @@ name: Saint Odran
 stub: false
 honorific: Saint
 summary: Brother of Saint Medran. Disciple of Saint Kieran of Saghir. Monk and then abbot of the monastery at Muskerry
+region: Ireland
 feastDay:
   month: 7
   day: 7

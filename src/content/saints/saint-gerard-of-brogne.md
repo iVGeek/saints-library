@@ -19,6 +19,7 @@ born: '1131'
 birthPlace: Staves
 centuries:
   - 12
+region: Belgium
 feastDay:
   month: 10
   day: 3

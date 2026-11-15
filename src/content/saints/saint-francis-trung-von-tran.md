@@ -18,6 +18,7 @@ born: '1825'
 birthPlace: Phan-xa
 centuries:
   - 19
+region: Vietnam
 feastDay:
   month: 10
   day: 6

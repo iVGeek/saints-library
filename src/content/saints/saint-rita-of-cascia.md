@@ -18,6 +18,7 @@ born: '1386'
 birthPlace: Cascia
 centuries:
   - 14
+region: Italy
 feastDay:
   month: 5
   day: 22

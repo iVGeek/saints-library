@@ -3,6 +3,7 @@ image: /placeholder-saint.svg
 name: Saint Paphnutius of Bendura
 stub: true
 honorific: Saint
+summary: Saint Paphnutius of Bendura was a monk martyred in Egypt.
 searchAliases:
   - Paphnutios
   - Pafnutius

@@ -4,6 +4,7 @@ image: >-
 name: Saint Paul of Gaza
 stub: true
 honorific: Saint
+summary: Saint Paul of Gaza was a monk and soldier martyred in Gaza.
 died: beheaded in Gaza, Palestine
 deathPlace: Palestine
 region: Italy

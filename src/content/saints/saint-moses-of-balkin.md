@@ -4,6 +4,7 @@ image: >-
 name: Saint Moses of Balkin
 stub: true
 honorific: Saint
+summary: Saint Moses of Balkin was a monk martyred in Egypt.
 searchAliases:
   - Moses of Taw
 died: beheaded in Taw, Egypt, date unknown

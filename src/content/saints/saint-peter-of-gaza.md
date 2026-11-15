@@ -3,6 +3,7 @@ image: /placeholder-saint.svg
 name: Saint Peter of Gaza
 stub: true
 honorific: Saint
+summary: Saint Peter of Gaza was a monk and soldier martyred in Gaza.
 died: beheaded in Gaza, Palestine
 deathPlace: Palestine
 region: Italy

@@ -4,6 +4,7 @@ image: >-
 name: Saint Martialis of Africa
 stub: true
 honorific: Saint
+summary: Saint Martialis of Africa was a monk of Africa.
 deathYear: 300
 died: c.300 in Africa
 region: Africa

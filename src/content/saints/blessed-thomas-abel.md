@@ -1,31 +1,33 @@
 ---
-image: >-
-  https://upload.wikimedia.org/wikipedia/commons/b/b2/St_Thomas_Aquinas_Cathedral_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/b/b2/St_Thomas_Aquinas_Cathedral_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas Abel
-stub: false
-honorific: Blessed
-summary: >-
-  Thomas received his Doctor of Divinity from Oxford University in England. Priest. Chaplain to Queen Catherine of
-  Aragon, wife of King Henry VIII. He delivered the letter of Emperor Charles V that sought the permission and blessing
-  of Pope Julius II for the marriage of Henry and C
-searchAliases:
-  - Thomas Able
-  - Thomas Abell
-birthYear: 1497
-deathYear: 1540
-born: c.1497 in England
-died: hanged, drawn, and quartered on 30 July 1540 at Smithfield, England
-deathPlace: drawn, and quartered on 30 July 1540 at Smithfield, England
-region: England
-feastDay:
-  month: 7
-  day: 30
-canonizationStatus: Blessed
-vocation: []
-martyr: true
-prayers: []
-imageAlt: Portrait of Blessed Thomas Abel
+stub: false
+honorific: Blessed
+summary: >-
+  Thomas received his Doctor of Divinity from Oxford University in England. Priest. Chaplain to Queen Catherine of
+  Aragon, wife of King Henry VIII. He delivered the letter of Emperor Charles V that sought the permission and blessing
+  of Pope Julius II for the marriage of Henry and C
+searchAliases:
+  - Thomas Able
+  - Thomas Abell
+birthYear: 1497
+deathYear: 1540
+born: c.1497 in England
+died: hanged, drawn, and quartered on 30 July 1540 at Smithfield, England
+deathPlace: drawn, and quartered on 30 July 1540 at Smithfield, England
+region: England
+feastDay:
+  month: 7
+  day: 30
+canonizationStatus: Blessed
+vocation: []
+martyr: true
+prayers: []
+imageAlt: Portrait of Blessed Thomas Abel
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Thomas%20Aquinas%20Cathedral
+sources:
+  - 'Wikipedia, "Thomas Abel (martyr)", https://en.wikipedia.org/wiki/Thomas_Abel_(martyr) (CC BY-SA 4.0)'
 ---
 
 Thomas received his Doctor of Divinity from Oxford University in England. Priest. Chaplain to Queen Catherine of Aragon, wife of King Henry VIII. He delivered the letter of Emperor Charles V that sought the permission and blessing of Pope Julius II for the marriage of Henry and Catherine. He confided to the emperor that Catherine had been coerced into writing the letter; Charles refused to pass on the request to the pope, and Thomas returned empty-handed to England.

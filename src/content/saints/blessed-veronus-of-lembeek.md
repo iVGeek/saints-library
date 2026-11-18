@@ -1,30 +1,32 @@
 ---
-name: Blessed Veronus of Lembeek
-stub: false
-honorific: Blessed
-summary: >-
-  Brother of Blessed Verona of  Mainz. We know nothing of his life, just the miraculous events surrounding his relics.
-  However, the devotion and the lack of details led to any number of legends about him, usually involving him being the
-  secret son of a king who became a poor, pious
-searchAliases:
-  - Véron
-  - Verono
-deathYear: 863
-died: c.863
-region: Germany
-feastDay:
-  month: 3
-  day: 30
-canonizationStatus: Blessed
-image: https://commons.wikimedia.org/wiki/Special:FilePath/Veronus_Lembeek_Statue.jpg?width=600
-vocation:
-  - Priest
-patronage:
-  - against headaches
-  - Hainault
-  - Lembeek (Lembecq)
-martyr: false
+name: Blessed Veronus of Lembeek
+stub: false
+honorific: Blessed
+summary: >-
+  Brother of Blessed Verona of  Mainz. We know nothing of his life, just the miraculous events surrounding his relics.
+  However, the devotion and the lack of details led to any number of legends about him, usually involving him being the
+  secret son of a king who became a poor, pious
+searchAliases:
+  - Véron
+  - Verono
+deathYear: 863
+died: c.863
+region: Germany
+feastDay:
+  month: 3
+  day: 30
+canonizationStatus: Blessed
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Veronus_Lembeek_Statue.jpg?width=600
+vocation:
+  - Priest
+patronage:
+  - against headaches
+  - Hainault
+  - Lembeek (Lembecq)
+martyr: false
 prayers: []
+sources:
+  - 'Wikipedia, "Veronus of Lembeek", https://en.wikipedia.org/wiki/Veronus_of_Lembeek (CC BY-SA 4.0)'
 ---
 
 Brother of Blessed Verona of  Mainz. We know nothing of his life, just the miraculous events surrounding his relics. However, the devotion and the lack of details led to any number of legends about him, usually involving him being the secret son of a king who became a poor, pious pilgim who settled down to live as a poor, pious farm boy.

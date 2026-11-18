@@ -1,35 +1,37 @@
 ---
 name: Saint Auguste Chapdelaine
-stub: false
-honorific: Venerable
-summary: >-
-  Youngest of nine children born to Nicolas Chapdelaine and Madeleine Dodeman. Following grammar school, Auguste dropped
-  out to work on the family farm. He early felt a call to the priesthood, but his family opposed it, needing his help on
-  the farm. However, the sudden death of two
-image: https://upload.wikimedia.org/wikipedia/commons/f/f2/Auguste_Chapdelaine.jpg
-searchAliases:
-  - Augustus Chapdelaine
-  - Father Ma
-  - Papa Chapdelaine
-birthYear: 1814
-deathYear: 1856
-born: 6 January 1814 at La Rochelle-Normande, France
-died: beheaded on 29 February 1856 in Su-Lik-Hien, Kwang-Si province, China
-birthPlace: France
-deathPlace: Kwang-Si province, China
-region: China
-feastDay:
-  month: 2
-  day: 28
-centuries:
-  - 19
-canonizationStatus: Venerable
-vocation:
-  - Bishop
-  - Priest
-  - Missionary
-martyr: true
+stub: false
+honorific: Venerable
+summary: >-
+  Youngest of nine children born to Nicolas Chapdelaine and Madeleine Dodeman. Following grammar school, Auguste dropped
+  out to work on the family farm. He early felt a call to the priesthood, but his family opposed it, needing his help on
+  the farm. However, the sudden death of two
+image: https://upload.wikimedia.org/wikipedia/commons/f/f2/Auguste_Chapdelaine.jpg
+searchAliases:
+  - Augustus Chapdelaine
+  - Father Ma
+  - Papa Chapdelaine
+birthYear: 1814
+deathYear: 1856
+born: 6 January 1814 at La Rochelle-Normande, France
+died: beheaded on 29 February 1856 in Su-Lik-Hien, Kwang-Si province, China
+birthPlace: France
+deathPlace: Kwang-Si province, China
+region: China
+feastDay:
+  month: 2
+  day: 28
+centuries:
+  - 19
+canonizationStatus: Venerable
+vocation:
+  - Bishop
+  - Priest
+  - Missionary
+martyr: true
 prayers: []
+sources:
+  - 'Wikipedia, "Auguste Chapdelaine", https://en.wikipedia.org/wiki/Auguste_Chapdelaine (CC BY-SA 4.0)'
 ---
 
 Youngest of nine children born to Nicolas Chapdelaine and Madeleine Dodeman. Following grammar school, Auguste dropped out to work on the family farm. He early felt a call to the priesthood, but his family opposed it, needing his help on the farm. However, the sudden death of two of his brothers caused them to re-think forcing him to ignore his life's vocation, and they finally approved. He entered the minor seminary at Mortain on 1 October 1834, studying with boys half his age. It led to his being nicknamed Papa Chapdelaine, which stuck with him the rest of his life.

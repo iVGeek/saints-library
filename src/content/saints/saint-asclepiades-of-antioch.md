@@ -1,21 +1,23 @@
 ---
 name: Saint Asclepiades of Antioch
-stub: false
-honorific: Saint
-summary: Bishop of Antioch in 211. Sometimes listed as a martyr due to the trials he underwent as bishop.
-deathYear: 217
-died: 217 of natural causes
-region: Turkey
-feastDay:
-  month: 10
-  day: 18
-canonizationStatus: Saint
-image: https://commons.wikimedia.org/wiki/Special:FilePath/ASKLEPIADES01.png?width=600
-vocation:
-  - Bishop
-  - Monk
-martyr: true
+stub: false
+honorific: Saint
+summary: Bishop of Antioch in 211. Sometimes listed as a martyr due to the trials he underwent as bishop.
+deathYear: 217
+died: 217 of natural causes
+region: Turkey
+feastDay:
+  month: 10
+  day: 18
+canonizationStatus: Saint
+image: https://commons.wikimedia.org/wiki/Special:FilePath/ASKLEPIADES01.png?width=600
+vocation:
+  - Bishop
+  - Monk
+martyr: true
 prayers: []
+sources:
+  - 'Wikipedia, "Asclepiades of Antioch", https://en.wikipedia.org/wiki/Asclepiades_of_Antioch (CC BY-SA 4.0)'
 ---
 
 Bishop of Antioch in 211. Sometimes listed as a martyr due to the trials he underwent as bishop.

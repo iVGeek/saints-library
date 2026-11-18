@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sarmata-of-egypt.svg
 name: Saint Sarmata of Egypt
 stub: false
 honorific: Saint

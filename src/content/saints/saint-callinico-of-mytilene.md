@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-callinico-of-mytilene.svg
 name: Saint Callinico of Mytilene
 stub: true
 honorific: Saint

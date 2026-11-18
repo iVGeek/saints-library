@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ludovicus-hayashida-soka.svg
 name: Blessed Ludovicus Hayashida Soka
 stub: true
 honorific: Blessed

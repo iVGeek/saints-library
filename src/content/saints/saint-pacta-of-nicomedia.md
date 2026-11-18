@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pacta-of-nicomedia.svg
 name: Saint Pacta of Nicomedia
 stub: true
 honorific: Saint

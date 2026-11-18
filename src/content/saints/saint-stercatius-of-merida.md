@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stercatius-of-merida.svg
 name: Saint Stercatius of Merida
 stub: true
 honorific: Saint

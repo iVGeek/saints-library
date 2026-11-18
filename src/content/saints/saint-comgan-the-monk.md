@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-comgan-the-monk.svg
 name: Saint Comgan the Monk
 stub: false
 honorific: Saint

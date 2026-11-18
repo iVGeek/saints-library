@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ternan-of-culross.svg
 name: Saint Ternan of Culross
 stub: false
 honorific: Saint

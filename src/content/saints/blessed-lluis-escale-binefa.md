@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-lluis-escale-binefa.svg
 name: Blessed Lluís Escalé Binefa
 stub: true
 honorific: Blessed

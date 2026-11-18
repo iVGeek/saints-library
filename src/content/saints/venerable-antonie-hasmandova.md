@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-antonie-hasmandova.svg
 name: Venerable Antonie Hasmandová
 stub: false
 honorific: Venerable

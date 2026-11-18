@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zosimus-of-syria.svg
 name: Saint Zosimus of Syria
 stub: false
 honorific: Saint

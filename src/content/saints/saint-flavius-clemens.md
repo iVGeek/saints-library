@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-flavius-clemens.svg
 name: Saint Flavius Clemens
 stub: false
 honorific: Saint

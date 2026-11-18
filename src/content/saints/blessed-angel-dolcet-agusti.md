@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-angel-dolcet-agusti.svg
 name: Blessed Àngel Dolcet Agustì
 stub: false
 honorific: Blessed

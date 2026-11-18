@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bertrand-of-le-mans.svg
 name: Saint Bertrand of Le Mans
 stub: false
 honorific: Saint

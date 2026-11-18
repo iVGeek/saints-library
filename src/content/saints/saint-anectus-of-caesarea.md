@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-anectus-of-caesarea.svg
 name: Saint Anectus of Caesarea
 stub: false
 honorific: Saint

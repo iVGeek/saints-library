@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-remigius-of-lyons.svg
 name: Saint Remigius of Lyons
 stub: false
 honorific: Saint

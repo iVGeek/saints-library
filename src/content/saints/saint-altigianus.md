@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-altigianus.svg
 name: Saint Altigianus
 stub: true
 honorific: Saint

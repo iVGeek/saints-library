@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vitale-of-spoleto.svg
 name: Saint Vitale of Spoleto
 stub: true
 honorific: Saint

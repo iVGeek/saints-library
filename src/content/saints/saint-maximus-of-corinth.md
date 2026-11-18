@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-corinth.svg
 name: Saint Maximus of Corinth
 stub: true
 honorific: Saint

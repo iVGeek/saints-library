@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-septiminus-of-venosa.svg
 name: Saint Septiminus of Venosa
 stub: true
 honorific: Saint

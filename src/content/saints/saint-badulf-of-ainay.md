@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-badulf-of-ainay.svg
 name: Saint Badulf of Ainay
 stub: true
 honorific: Saint

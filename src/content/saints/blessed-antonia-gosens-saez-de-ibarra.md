@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-antonia-gosens-saez-de-ibarra.svg
 name: Blessed Antonia Gosens Sáez De Ibarra
 stub: true
 honorific: Blessed

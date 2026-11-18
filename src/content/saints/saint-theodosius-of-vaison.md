@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodosius-of-vaison.svg
 name: Saint Theodosius of Vaison
 stub: true
 honorific: Saint

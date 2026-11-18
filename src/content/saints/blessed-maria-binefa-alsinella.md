@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-maria-binefa-alsinella.svg
 name: Blessed Marià Binefa Alsinella
 stub: false
 honorific: Blessed

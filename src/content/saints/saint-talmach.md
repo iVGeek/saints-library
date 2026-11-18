@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-talmach.svg
 name: Saint Talmach
 stub: false
 honorific: Saint

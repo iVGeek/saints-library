@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dioscorus-of-kynopolis.svg
 name: Saint Dioscorus of Kynopolis
 stub: true
 honorific: Saint

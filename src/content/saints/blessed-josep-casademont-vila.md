@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-josep-casademont-vila.svg
 name: Blessed Josep Casademont Vila
 stub: false
 honorific: Blessed

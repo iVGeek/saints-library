@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dionysius-of-thessalonica-2-april.svg
 name: Saint Dionysius of Thessalonica
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-magnus-of-passae.svg
 name: Saint Magnus of Passae
 stub: true
 honorific: Saint

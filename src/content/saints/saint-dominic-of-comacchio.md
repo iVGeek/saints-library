@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dominic-of-comacchio.svg
 name: Saint Dominic of Comacchio
 stub: true
 honorific: Saint

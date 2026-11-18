@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rhuddlad.svg
 name: Saint Rhuddlad
 stub: true
 honorific: Saint

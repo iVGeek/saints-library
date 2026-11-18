@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-diethardus-of-eichstatt.svg
 name: Saint Diethardus of Eichstätt
 stub: true
 honorific: Saint

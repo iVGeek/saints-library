@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-orora.svg
 name: Saint Orora
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felicula-of-rome.svg
 name: Saint Felicula of Rome
 stub: false
 honorific: Saint

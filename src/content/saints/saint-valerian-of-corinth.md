@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valerian-of-corinth.svg
 name: Saint Valerian of Corinth
 stub: true
 honorific: Saint

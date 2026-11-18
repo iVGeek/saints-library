@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mary-of-seyne.svg
 name: Saint Mary of Seyne
 stub: false
 honorific: Saint

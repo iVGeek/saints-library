@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jose-fernandez-de-henestrosa-boza.svg
 name: Blessed José Fernández de Henestrosa Boza
 stub: false
 honorific: Blessed

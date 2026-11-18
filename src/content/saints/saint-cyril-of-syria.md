@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyril-of-syria.svg
 name: Saint Cyril of Syria
 stub: true
 honorific: Saint

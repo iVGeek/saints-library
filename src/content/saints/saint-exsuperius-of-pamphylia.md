@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-exsuperius-of-pamphylia.svg
 name: Saint Exsuperius of Pamphylia
 stub: false
 honorific: Saint

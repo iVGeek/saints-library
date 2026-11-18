@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valerian-of-auxerre.svg
 name: Saint Valerian of Auxerre
 stub: true
 honorific: Saint

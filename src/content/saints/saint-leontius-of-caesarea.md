@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-leontius-of-caesarea.svg
 name: Saint Leontius of Caesarea
 stub: false
 honorific: Saint

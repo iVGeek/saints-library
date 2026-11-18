@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufus-of-avignon.svg
 name: Saint Rufus of Avignon
 stub: false
 honorific: Saint

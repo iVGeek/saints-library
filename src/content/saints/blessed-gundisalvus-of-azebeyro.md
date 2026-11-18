@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gundisalvus-of-azebeyro.svg
 name: Blessed Gundisalvus of Azebeyro
 stub: true
 honorific: Blessed

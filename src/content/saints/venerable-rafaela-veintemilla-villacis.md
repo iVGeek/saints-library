@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-rafaela-veintemilla-villacis.svg
 name: Venerable Rafaela Veintemilla Villacís
 stub: false
 honorific: Venerable

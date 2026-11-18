@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ptolomy-of-alexandria.svg
 name: Saint Ptolomy of Alexandria
 stub: false
 honorific: Saint

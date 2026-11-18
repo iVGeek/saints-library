@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-pedro-de-la-varga-delgado.svg
 name: Blessed Pedro de la Varga Delgado
 stub: true
 honorific: Blessed

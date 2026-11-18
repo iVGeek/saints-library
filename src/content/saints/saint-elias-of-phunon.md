@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-elias-of-phunon.svg
 name: Saint Elias of Phunon
 stub: false
 honorific: Saint

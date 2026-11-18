@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-giusto-of-condat.svg
 name: Saint Giusto of Condat
 stub: true
 honorific: Saint

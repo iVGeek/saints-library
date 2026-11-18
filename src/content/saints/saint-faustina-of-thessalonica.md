@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-faustina-of-thessalonica.svg
 name: Saint Faustina of Thessalonica
 stub: true
 honorific: Saint

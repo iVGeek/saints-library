@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lucerius.svg
 name: Saint Lucerius
 stub: false
 honorific: Saint

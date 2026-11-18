@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rogatus-of-north-africa.svg
 name: Saint Rogatus of North Africa
 stub: true
 honorific: Saint

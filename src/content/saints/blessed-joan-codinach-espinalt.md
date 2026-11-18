@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-joan-codinach-espinalt.svg
 name: Blessed Joan Codinach Espinalt
 stub: true
 honorific: Blessed

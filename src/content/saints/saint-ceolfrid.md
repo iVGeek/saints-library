@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ceolfrid.svg
 name: Saint Ceolfrid
 stub: false
 honorific: Saint

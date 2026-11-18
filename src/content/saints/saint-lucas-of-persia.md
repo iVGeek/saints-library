@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lucas-of-persia.svg
 name: Saint Lucas of Persia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyrion-of-alexandria.svg
 name: Saint Cyrion of Alexandria
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cissa-of-northumbria.svg
 name: Saint Cissa of Northumbria
 stub: false
 honorific: Saint

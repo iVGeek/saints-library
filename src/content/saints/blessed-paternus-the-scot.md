@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-paternus-the-scot.svg
 name: Blessed Paternus the Scot
 stub: false
 honorific: Blessed

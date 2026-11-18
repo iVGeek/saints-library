@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tobias-of-sebaste.svg
 name: Saint Tobias of Sebaste
 stub: false
 honorific: Saint

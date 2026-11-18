@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-moseus.svg
 name: Saint Moseus
 stub: false
 honorific: Saint

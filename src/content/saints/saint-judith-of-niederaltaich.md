@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-judith-of-niederaltaich.svg
 name: Saint Judith of Niederaltaich
 stub: false
 honorific: Saint

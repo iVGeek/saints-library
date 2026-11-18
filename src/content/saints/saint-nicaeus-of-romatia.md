@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nicaeus-of-romatia.svg
 name: Saint Nicaeus of Romatia
 stub: false
 honorific: Saint

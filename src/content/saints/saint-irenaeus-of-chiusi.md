@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-irenaeus-of-chiusi.svg
 name: Saint Irenaeus of Chiusi
 stub: false
 honorific: Saint

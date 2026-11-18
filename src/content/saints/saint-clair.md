@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-clair.svg
 name: Saint Clair of Tours
 stub: false
 honorific: Saint

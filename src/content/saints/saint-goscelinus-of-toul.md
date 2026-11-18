@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-goscelinus-of-toul.svg
 name: Saint Goscelinus of Toul
 stub: false
 honorific: Saint

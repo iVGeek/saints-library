@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victor-of-la-chambon.svg
 name: Saint Victor of La Chambon
 stub: false
 honorific: Saint

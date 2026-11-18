@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eoaldus-of-vienne.svg
 name: Saint Eoaldus of Vienne
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jucundus-of-africa.svg
 name: Saint Jucundus of Africa
 stub: false
 honorific: Saint

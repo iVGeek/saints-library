@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crescendo-of-rome.svg
 name: Saint Crescendo of Rome
 stub: true
 honorific: Saint

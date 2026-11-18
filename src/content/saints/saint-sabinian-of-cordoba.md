@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sabinian-of-cordoba.svg
 name: Saint Sabinian of Cordoba
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-philip-of-vienne.svg
 name: Saint Philip of Vienne
 stub: false
 honorific: Saint

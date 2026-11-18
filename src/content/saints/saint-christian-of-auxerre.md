@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-christian-of-auxerre.svg
 name: Saint Christian of Auxerre
 stub: true
 honorific: Saint

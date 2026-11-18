@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-florentinus-of-rome.svg
 name: Saint Florentinus of Rome
 stub: false
 honorific: Saint

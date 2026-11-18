@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-polyanus-of-sigum.svg
 name: Saint Polyanus of Sigum
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ceraunus-of-paris.svg
 name: Saint Ceraunus of Paris
 stub: true
 honorific: Saint

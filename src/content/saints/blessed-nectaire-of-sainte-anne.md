@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-nectaire-of-sainte-anne.svg
 name: Blessed Nectaire of Sainte-Anne
 stub: false
 honorific: Blessed

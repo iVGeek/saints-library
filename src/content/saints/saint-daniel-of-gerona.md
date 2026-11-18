@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-daniel-of-gerona.svg
 name: Saint Daniel of Gerona
 stub: true
 honorific: Saint

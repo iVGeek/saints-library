@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-philip-of-rome.svg
 name: Saint Philip of Rome
 stub: false
 honorific: Saint

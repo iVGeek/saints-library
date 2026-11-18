@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcus-ji-tianxiang.svg
 name: Saint Marcus Ji Tianxiang
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sulien-of-amorica.svg
 name: Saint Sulien of Amorica
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mailduf-of-malmesbury.svg
 name: Saint Mailduf of Malmesbury
 stub: false
 honorific: Saint

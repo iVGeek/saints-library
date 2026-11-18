@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hortolana-of-assisi.svg
 name: Saint Hortolana of Assisi
 stub: false
 honorific: Saint

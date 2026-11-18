@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-costula-of-rome.svg
 name: Saint Costula of Rome
 stub: false
 honorific: Saint

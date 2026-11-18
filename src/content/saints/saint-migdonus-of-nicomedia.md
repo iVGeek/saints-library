@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-migdonus-of-nicomedia.svg
 name: Saint Mígdonus of Nicomedia
 stub: true
 honorific: Saint

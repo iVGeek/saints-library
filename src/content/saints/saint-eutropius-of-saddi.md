@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eutropius-of-saddi.svg
 name: Saint Eutropius of Saddi
 stub: true
 honorific: Saint

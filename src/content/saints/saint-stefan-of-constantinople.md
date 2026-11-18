@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stefan-of-constantinople.svg
 name: Saint Stefan of Constantinople
 stub: false
 honorific: Saint

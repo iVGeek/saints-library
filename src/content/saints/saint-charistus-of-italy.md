@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-charistus-of-italy.svg
 name: Saint Charistus of Italy
 stub: false
 honorific: Saint

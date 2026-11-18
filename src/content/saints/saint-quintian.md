@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-quintian.svg
 name: Saint Quintian
 stub: false
 honorific: Saint

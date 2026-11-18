@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thecusa-of-ancyra.svg
 name: Saint Thecusa of Ancyra
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eusebius-of-laodicea.svg
 name: Saint Eusebius of Laodicea
 stub: false
 honorific: Saint

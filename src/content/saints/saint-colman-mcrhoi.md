@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-colman-mcrhoi.svg
 name: Saint Colman McRhoi
 stub: false
 honorific: Saint

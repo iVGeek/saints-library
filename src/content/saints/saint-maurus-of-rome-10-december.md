@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maurus-of-rome-10-december.svg
 name: Saint Maurus of Rome
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-manuel-olay-colunga.svg
 name: Blessed Manuel Olay Colunga
 stub: false
 honorific: Blessed

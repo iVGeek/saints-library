@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ctesiphon-of-verga.svg
 name: Saint Ctesiphon of Verga
 stub: false
 honorific: Saint

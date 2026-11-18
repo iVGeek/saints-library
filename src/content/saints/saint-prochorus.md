@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-prochorus.svg
 name: Saint Prochorus the Deacon
 stub: false
 honorific: Saint

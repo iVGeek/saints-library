@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-anacharius-of-auxerre.svg
 name: Saint Anacharius of Auxerre
 stub: false
 honorific: Saint

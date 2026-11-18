@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturninus-of-crete.svg
 name: Saint Saturninus of Crete
 stub: true
 honorific: Saint

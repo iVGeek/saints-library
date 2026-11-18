@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felicissimus-of-perugia.svg
 name: Saint Felicissimus of Perugia
 stub: true
 honorific: Saint

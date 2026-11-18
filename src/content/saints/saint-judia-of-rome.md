@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-judia-of-rome.svg
 name: Saint Judia of Rome
 stub: false
 honorific: Saint

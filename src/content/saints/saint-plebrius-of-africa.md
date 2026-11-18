@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-plebrius-of-africa.svg
 name: Saint Plebrius of Africa
 stub: true
 honorific: Saint

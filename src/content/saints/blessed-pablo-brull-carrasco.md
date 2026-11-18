@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-pablo-brull-carrasco.svg
 name: Blessed Pablo Brull Carrasco
 stub: false
 honorific: Blessed

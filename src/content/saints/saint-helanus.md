@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-helanus.svg
 name: Saint Helanus
 stub: false
 honorific: Saint

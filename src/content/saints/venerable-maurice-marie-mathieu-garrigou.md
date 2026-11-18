@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-maurice-marie-mathieu-garrigou.svg
 name: Venerable Maurice-Marie-Mathieu Garrigou
 stub: false
 honorific: Venerable

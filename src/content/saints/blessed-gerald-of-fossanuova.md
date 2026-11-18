@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gerald-of-fossanuova.svg
 name: Blessed Gerald of Fossanuova
 stub: false
 honorific: Blessed

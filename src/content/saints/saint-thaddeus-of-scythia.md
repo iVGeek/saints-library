@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thaddeus-of-scythia.svg
 name: Saint Thaddeus of Scythia
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-simplicius-of-rome.svg
 name: Saint Simplicius of Rome
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cistronius.svg
 name: Saint Cistronius
 stub: true
 honorific: Saint

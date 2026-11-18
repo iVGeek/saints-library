@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nonnus-of-heliopolis.svg
 name: Saint Nonnus of Heliopolis
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-elafa-of-africa.svg
 name: Saint Elafa of Africa
 stub: true
 honorific: Saint

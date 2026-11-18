@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturninus-of-verona.svg
 name: Saint Saturninus of Verona
 stub: true
 honorific: Saint

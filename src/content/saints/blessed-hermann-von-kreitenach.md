@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-hermann-von-kreitenach.svg
 name: Blessed Hermann von Kreitenach
 stub: false
 honorific: Blessed

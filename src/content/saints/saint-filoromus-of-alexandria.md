@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-filoromus-of-alexandria.svg
 name: Saint Filoromus of Alexandria
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufinus-of-nicomedie.svg
 name: Saint Rufinus of Nicomedië
 stub: true
 honorific: Saint

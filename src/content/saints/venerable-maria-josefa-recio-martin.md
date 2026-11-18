@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-maria-josefa-recio-martin.svg
 name: Venerable María Josefa Recio Martín
 stub: false
 honorific: Venerable

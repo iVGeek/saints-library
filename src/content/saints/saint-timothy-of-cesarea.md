@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-timothy-of-cesarea.svg
 name: Saint Timothy of Cesarea
 stub: true
 honorific: Saint

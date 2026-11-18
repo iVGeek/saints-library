@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hermogenes-of-syracuse.svg
 name: Saint Hermogenes of Syracuse
 stub: true
 honorific: Saint

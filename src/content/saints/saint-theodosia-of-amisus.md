@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodosia-of-amisus.svg
 name: Saint Theodosia of Amisus
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gorman-of-schleswig.svg
 name: Saint Gorman of Schleswig
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-doucelin.svg
 name: Saint Doucelin
 stub: true
 honorific: Saint

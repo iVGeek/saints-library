@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rusticus-of-condat.svg
 name: Saint Rusticus of Condat
 stub: true
 honorific: Saint

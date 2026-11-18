@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-timotheos-of-constantinople.svg
 name: Saint Timotheos of Constantinople
 stub: false
 honorific: Saint

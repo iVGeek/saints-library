@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-antonio-hilario-delgado-vilchez.svg
 name: Blessed Antonio Hilario Delgado Vílchez
 stub: false
 honorific: Blessed

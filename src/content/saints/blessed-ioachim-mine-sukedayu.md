@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ioachim-mine-sukedayu.svg
 name: Blessed Ioachim Mine Sukedayu
 stub: false
 honorific: Blessed

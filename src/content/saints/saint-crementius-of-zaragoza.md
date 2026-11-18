@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crementius-of-zaragoza.svg
 name: Saint Crementius of Zaragoza
 stub: true
 honorific: Saint

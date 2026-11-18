@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-pedro-antonio-almecija-morales.svg
 name: Blessed Pedro Antonio Almécija Morales
 stub: true
 honorific: Blessed

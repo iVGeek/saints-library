@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-demetrius-of-alexandria.svg
 name: Saint Demetrius of Alexandria
 stub: false
 honorific: Saint

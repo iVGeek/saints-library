@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ursus-of-loches.svg
 name: Saint Ursus of Loches
 stub: false
 honorific: Saint

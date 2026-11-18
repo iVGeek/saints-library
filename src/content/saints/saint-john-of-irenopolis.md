@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-of-irenopolis.svg
 name: Saint John of Irenopolis
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-konrad-liechtenau.svg
 name: Blessed Konrad Liechtenau
 stub: false
 honorific: Blessed

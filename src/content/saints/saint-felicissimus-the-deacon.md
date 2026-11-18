@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felicissimus-the-deacon.svg
 name: Saint Felicissimus the Deacon
 stub: true
 honorific: Saint

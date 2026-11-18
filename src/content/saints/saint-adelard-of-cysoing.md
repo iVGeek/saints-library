@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-adelard-of-cysoing.svg
 name: Saint Adelard of Cysoing
 stub: false
 honorific: Saint

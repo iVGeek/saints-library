@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-philo-of-antioch.svg
 name: Saint Philo of Antioch
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-matrona-of-ancyra.svg
 name: Saint Matrona of Ancyra
 stub: true
 honorific: Saint

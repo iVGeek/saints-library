@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-kyneburga-of-castor.svg
 name: Saint Kyneburga of Castor
 stub: false
 honorific: Saint

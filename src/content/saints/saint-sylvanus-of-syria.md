@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sylvanus-of-syria.svg
 name: Saint Sylvanus of Syria
 stub: true
 honorific: Saint

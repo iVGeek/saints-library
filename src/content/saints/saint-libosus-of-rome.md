@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-libosus-of-rome.svg
 name: Saint Libosus of Rome
 stub: true
 honorific: Saint

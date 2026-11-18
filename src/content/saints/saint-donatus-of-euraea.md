@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-donatus-of-euraea.svg
 name: Saint Donatus of Euraea
 stub: false
 honorific: Saint

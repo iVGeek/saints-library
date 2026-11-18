@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gislar.svg
 name: Saint Gislar
 stub: false
 honorific: Saint

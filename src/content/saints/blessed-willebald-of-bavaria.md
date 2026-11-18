@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-willebald-of-bavaria.svg
 name: Blessed Willebald of Bavaria
 stub: false
 honorific: Blessed

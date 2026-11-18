@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zeticus-of-crete.svg
 name: Saint Zeticus of Crete
 stub: false
 honorific: Saint

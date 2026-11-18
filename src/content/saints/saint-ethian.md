@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ethian.svg
 name: Saint Ethian
 stub: false
 honorific: Saint

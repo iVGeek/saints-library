@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mauritius-of-antwerp.svg
 name: Saint Mauritius of Antwerp
 stub: true
 honorific: Saint

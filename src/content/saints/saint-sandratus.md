@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sandratus.svg
 name: Saint Sandratus
 stub: false
 honorific: Saint

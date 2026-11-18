@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-quintianus-of-lucania.svg
 name: Saint Quintianus of Lucania
 stub: true
 honorific: Saint

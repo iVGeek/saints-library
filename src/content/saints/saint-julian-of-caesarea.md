@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julian-of-caesarea.svg
 name: Saint Julian of Caesarea
 stub: false
 honorific: Saint

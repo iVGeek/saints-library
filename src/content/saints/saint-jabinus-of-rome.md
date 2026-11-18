@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jabinus-of-rome.svg
 name: Saint Jabinus of Rome
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gennard.svg
 name: Saint Gennard
 stub: false
 honorific: Saint

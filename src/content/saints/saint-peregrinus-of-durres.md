@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peregrinus-of-durres.svg
 name: Saint Peregrinus of Durres
 stub: false
 honorific: Saint

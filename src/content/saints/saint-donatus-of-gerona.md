@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-donatus-of-gerona.svg
 name: Saint Donatus of Gerona
 stub: true
 honorific: Saint

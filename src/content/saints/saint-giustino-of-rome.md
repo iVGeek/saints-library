@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-giustino-of-rome.svg
 name: Saint Giustino of Rome
 stub: false
 honorific: Saint

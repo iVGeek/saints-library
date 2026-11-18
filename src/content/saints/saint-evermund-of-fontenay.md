@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-evermund-of-fontenay.svg
 name: Saint Evermund of Fontenay
 stub: false
 honorific: Saint

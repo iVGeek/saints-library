@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bessarion-of-egypt.svg
 name: Saint Bessarion of Egypt
 stub: false
 honorific: Saint

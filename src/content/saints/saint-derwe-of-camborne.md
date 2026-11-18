@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-derwe-of-camborne.svg
 name: Saint Derwe of Camborne
 stub: false
 honorific: Saint

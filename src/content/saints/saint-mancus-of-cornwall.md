@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mancus-of-cornwall.svg
 name: Saint Mancus of Cornwall
 stub: false
 honorific: Saint

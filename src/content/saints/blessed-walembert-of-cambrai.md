@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-walembert-of-cambrai.svg
 name: Blessed Walembert of Cambrai
 stub: false
 honorific: Blessed

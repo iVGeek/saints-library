@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-reginbold-of-muri.svg
 name: Blessed Reginbold of Muri
 stub: false
 honorific: Blessed

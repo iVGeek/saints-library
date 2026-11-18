@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-dolores-puig-bonany.svg
 name: Blessed Dolores Puig Bonany
 stub: false
 honorific: Blessed

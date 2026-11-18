@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-faustus-of-monte-cassino.svg
 name: Saint Faustus of Monte Cassino
 stub: false
 honorific: Saint

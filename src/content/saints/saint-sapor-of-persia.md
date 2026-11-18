@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sapor-of-persia.svg
 name: Saint Sapor of Persia
 stub: true
 honorific: Saint

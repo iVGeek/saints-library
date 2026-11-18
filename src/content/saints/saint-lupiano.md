@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lupiano.svg
 name: Saint Lupiano
 stub: false
 honorific: Saint

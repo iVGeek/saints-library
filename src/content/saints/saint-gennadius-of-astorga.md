@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gennadius-of-astorga.svg
 name: Saint Gennadius of Astorga
 stub: false
 honorific: Saint

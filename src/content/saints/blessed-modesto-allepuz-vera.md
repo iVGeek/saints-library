@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-modesto-allepuz-vera.svg
 name: Blessed Modesto Allepuz Vera
 stub: false
 honorific: Blessed

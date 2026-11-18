@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-verona.svg
 name: Saint Maximus of Verona
 stub: true
 honorific: Saint

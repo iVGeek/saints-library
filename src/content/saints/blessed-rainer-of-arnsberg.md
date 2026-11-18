@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-rainer-of-arnsberg.svg
 name: Blessed Rainer of Arnsberg
 stub: false
 honorific: Blessed

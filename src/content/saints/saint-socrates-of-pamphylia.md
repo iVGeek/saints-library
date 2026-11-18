@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-socrates-of-pamphylia.svg
 name: Saint Socrates of Pamphylia
 stub: true
 honorific: Saint

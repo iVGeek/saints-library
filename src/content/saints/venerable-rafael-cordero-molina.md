@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-rafael-cordero-molina.svg
 name: Venerable Rafael Cordero Molina
 stub: true
 honorific: Venerable

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-heridag-of-hamburg.svg
 name: Saint Heridag of Hamburg
 stub: false
 honorific: Saint

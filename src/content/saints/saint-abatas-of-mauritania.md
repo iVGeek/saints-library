@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-abatas-of-mauritania.svg
 name: Saint Abatas of Mauritania
 stub: true
 honorific: Saint

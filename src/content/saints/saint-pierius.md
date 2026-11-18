@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pierius.svg
 name: Saint Pierius
 stub: false
 honorific: Saint

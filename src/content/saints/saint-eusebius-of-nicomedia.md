@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eusebius-of-nicomedia.svg
 name: Saint Eusebius of Nicomedia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-indes-of-nicomedia.svg
 name: Saint Indes of Nicomedia
 stub: false
 honorific: Saint

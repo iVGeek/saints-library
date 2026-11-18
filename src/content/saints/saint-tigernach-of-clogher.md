@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tigernach-of-clogher.svg
 name: Saint Tigernach of Clogher
 stub: false
 honorific: Saint

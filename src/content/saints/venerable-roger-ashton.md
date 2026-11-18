@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-roger-ashton.svg
 name: Venerable Roger Ashton
 stub: false
 honorific: Venerable

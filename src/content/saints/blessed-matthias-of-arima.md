@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-matthias-of-arima.svg
 name: Blessed Matthias of Arima
 stub: false
 honorific: Blessed

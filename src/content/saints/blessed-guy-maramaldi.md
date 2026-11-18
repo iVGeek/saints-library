@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-guy-maramaldi.svg
 name: Blessed Guy Maramaldi
 stub: false
 honorific: Blessed

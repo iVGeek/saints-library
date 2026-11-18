@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-appiano-of-sagona.svg
 name: Saint Appiano of Sagona
 stub: true
 honorific: Saint

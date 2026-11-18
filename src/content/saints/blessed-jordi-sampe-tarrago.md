@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jordi-sampe-tarrago.svg
 name: Blessed Jordi Sampé Tarragó
 stub: false
 honorific: Blessed

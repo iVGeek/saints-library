@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-filippo-lo-verde.svg
 name: Venerable Filippo Lo Verde
 stub: true
 honorific: Venerable

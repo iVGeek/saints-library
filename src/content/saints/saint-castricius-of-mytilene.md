@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-castricius-of-mytilene.svg
 name: Saint Castricius of Mytilene
 stub: true
 honorific: Saint

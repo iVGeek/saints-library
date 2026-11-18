@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rhodo-of-tomi.svg
 name: Saint Rhodo of Tomi
 stub: false
 honorific: Saint

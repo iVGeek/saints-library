@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crescentiana.svg
 name: Saint Crescentiana
 stub: true
 honorific: Saint

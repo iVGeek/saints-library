@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-spinella-of-rome.svg
 name: Saint Spinella of Rome
 stub: true
 honorific: Saint

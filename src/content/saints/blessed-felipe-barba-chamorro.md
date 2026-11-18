@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-felipe-barba-chamorro.svg
 name: Blessed Felipe Barba Chamorro
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-urbicius-of-clermont.svg
 name: Saint Urbicius of Clermont
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-humbert-of-elmham.svg
 name: Saint Humbert of Elmham
 stub: false
 honorific: Saint

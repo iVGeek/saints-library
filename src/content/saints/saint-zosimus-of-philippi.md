@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zosimus-of-philippi.svg
 name: Saint Zosimus of Philippi
 stub: true
 honorific: Saint

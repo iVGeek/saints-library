@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ioachim-kuroemon.svg
 name: Blessed Ioachim Kuroemon
 stub: true
 honorific: Blessed

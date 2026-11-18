@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jose-pascual-carda-saporta.svg
 name: Blessed José Pascual Carda Saporta
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zosimus-of-cilicia.svg
 name: Saint Zosimus of Cilicia
 stub: false
 honorific: Saint

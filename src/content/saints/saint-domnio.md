@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-domnio.svg
 name: Saint Domnio of Bergamo
 stub: true
 honorific: Saint

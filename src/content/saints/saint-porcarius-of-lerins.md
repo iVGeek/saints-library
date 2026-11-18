@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-porcarius-of-lerins.svg
 name: Saint Porcarius of Lérins
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-bruno-of-rommersdorf.svg
 name: Blessed Bruno of Rommersdorf
 stub: false
 honorific: Blessed

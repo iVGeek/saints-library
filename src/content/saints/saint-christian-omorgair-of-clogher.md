@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-christian-omorgair-of-clogher.svg
 name: Saint Christian O'Morgair of Clogher
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zachary-of-nicomedia.svg
 name: Saint Zachary of Nicomedia
 stub: true
 honorific: Saint

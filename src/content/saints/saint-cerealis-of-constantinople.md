@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cerealis-of-constantinople.svg
 name: Saint Cerealis of Constantinople
 stub: false
 honorific: Saint

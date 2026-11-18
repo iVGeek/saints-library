@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rutilius.svg
 name: Saint Rutilius
 stub: false
 honorific: Saint

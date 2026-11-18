@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-phiala-of-hayle.svg
 name: Saint Phiala of Hayle
 stub: false
 honorific: Saint

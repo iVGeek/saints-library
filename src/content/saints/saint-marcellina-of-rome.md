@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcellina-of-rome.svg
 name: Saint Marcellina of Rome
 stub: false
 honorific: Saint

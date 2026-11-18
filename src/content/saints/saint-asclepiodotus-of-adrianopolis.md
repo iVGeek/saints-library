@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-asclepiodotus-of-adrianopolis.svg
 name: Saint Asclepiodotus of Adrianopolis
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-panosus-of-alexandria.svg
 name: Saint Panosus of Alexandria
 stub: true
 honorific: Saint

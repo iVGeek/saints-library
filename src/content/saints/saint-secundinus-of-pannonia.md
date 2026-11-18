@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secundinus-of-pannonia.svg
 name: Saint Secundinus of Pannonia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-evilasius-of-cyzicum.svg
 name: Saint Evilasius of Cyzicum
 stub: true
 honorific: Saint

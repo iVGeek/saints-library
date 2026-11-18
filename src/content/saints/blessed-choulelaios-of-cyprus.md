@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-choulelaios-of-cyprus.svg
 name: Blessed Choulélaios of Cyprus
 stub: false
 honorific: Blessed

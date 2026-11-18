@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-innocent-of-tortona.svg
 name: Saint Innocent of Tortona
 stub: false
 honorific: Saint

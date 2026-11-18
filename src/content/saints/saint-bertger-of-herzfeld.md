@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bertger-of-herzfeld.svg
 name: Saint Bertger of Herzfeld
 stub: false
 honorific: Saint

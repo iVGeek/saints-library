@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secundus-of-como.svg
 name: Saint Secundus of Como
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-romanus-of-corinth.svg
 name: Saint Romanus of Corinth
 stub: true
 honorific: Saint

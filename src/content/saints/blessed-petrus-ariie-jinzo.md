@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-petrus-ariie-jinzo.svg
 name: Blessed Petrus Ariie Jinzo
 stub: false
 honorific: Blessed

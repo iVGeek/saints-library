@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-andreas-yamamoto-shichiemon.svg
 name: Blessed Andreas Yamamoto Shichiemon
 stub: false
 honorific: Blessed

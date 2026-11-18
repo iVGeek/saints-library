@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sincheall-of-killeigh.svg
 name: Saint Sincheall of Killeigh
 stub: false
 honorific: Saint

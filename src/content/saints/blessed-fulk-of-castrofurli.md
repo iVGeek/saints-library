@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-fulk-of-castrofurli.svg
 name: Blessed Fulk of Castrofurli
 stub: false
 honorific: Blessed

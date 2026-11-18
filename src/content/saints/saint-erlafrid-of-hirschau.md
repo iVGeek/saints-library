@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-erlafrid-of-hirschau.svg
 name: Saint Erlafrid of Hirschau
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-vienne.svg
 name: Saint Maximus of Vienne
 stub: false
 honorific: Saint

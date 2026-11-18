@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-matronianus-of-milan.svg
 name: Saint Matronianus of Milan
 stub: true
 honorific: Saint

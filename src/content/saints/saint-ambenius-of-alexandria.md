@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ambenius-of-alexandria.svg
 name: Saint Ambenius of Alexandria
 stub: true
 honorific: Saint

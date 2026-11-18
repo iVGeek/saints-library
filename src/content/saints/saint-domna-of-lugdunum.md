@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-domna-of-lugdunum.svg
 name: Saint Domna of Lugdunum
 stub: false
 honorific: Saint

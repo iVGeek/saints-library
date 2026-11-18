@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jose-arner-margalef.svg
 name: Blessed José Arner Margalef
 stub: false
 honorific: Blessed

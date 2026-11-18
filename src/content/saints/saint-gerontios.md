@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gerontios.svg
 name: Saint Gérontios
 stub: true
 honorific: Saint

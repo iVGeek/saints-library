@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-leo-kyusuke.svg
 name: Blessed Leo Kyusuke
 stub: false
 honorific: Blessed

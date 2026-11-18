@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-panuberus-of-alexandria.svg
 name: Saint Panuberus of Alexandria
 stub: true
 honorific: Saint

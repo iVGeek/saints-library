@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-thomas-toemon.svg
 name: Blessed Thomas Toemon
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-triphina-of-sicily.svg
 name: Saint Triphina of Sicily
 stub: true
 honorific: Saint

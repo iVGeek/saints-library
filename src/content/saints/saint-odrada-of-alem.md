@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-odrada-of-alem.svg
 name: Saint Odrada of Alem
 stub: true
 honorific: Saint

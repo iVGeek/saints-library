@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-adelheidis-of-tennenbach.svg
 name: Blessed Adelheidis of Tennenbach
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felicissimus-of-campania.svg
 name: Saint Felicissimus of Campania
 stub: true
 honorific: Saint

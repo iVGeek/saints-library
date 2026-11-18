@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-durostorum.svg
 name: Saint Maximus of Durostorum
 stub: true
 honorific: Saint

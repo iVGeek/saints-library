@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nearchus.svg
 name: Saint Nearchus
 stub: false
 honorific: Saint

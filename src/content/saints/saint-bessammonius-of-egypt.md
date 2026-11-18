@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bessammonius-of-egypt.svg
 name: Saint Bessammonius of Egypt
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jose-gonzalez-perez.svg
 name: Blessed José González Pérez
 stub: false
 honorific: Blessed

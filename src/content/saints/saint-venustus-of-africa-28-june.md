@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-venustus-of-africa-28-june.svg
 name: Saint Venustus of Africa
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-horres-of-nicaea.svg
 name: Saint Horres of Nicaea
 stub: true
 honorific: Saint

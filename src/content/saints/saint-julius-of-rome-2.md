@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julius-of-rome-2.svg
 name: Saint Julius of Rome
 stub: false
 honorific: Saint

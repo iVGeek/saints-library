@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-severus-of-avranches.svg
 name: Saint Severus of Avranches
 stub: false
 honorific: Saint

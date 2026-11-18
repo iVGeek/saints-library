@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pia-of-numidia.svg
 name: Saint Pia of Numidia
 stub: true
 honorific: Saint

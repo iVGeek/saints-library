@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-seleucius-of-caesarea.svg
 name: Saint Seleucius of Caesarea
 stub: false
 honorific: Saint

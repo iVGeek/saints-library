@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-donatus-of-capua.svg
 name: Saint Donatus of Capua
 stub: true
 honorific: Saint

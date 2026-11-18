@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-agapa-of-nicea.svg
 name: Saint Agapa of Nicea
 stub: true
 honorific: Saint

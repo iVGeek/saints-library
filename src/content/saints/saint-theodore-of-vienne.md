@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodore-of-vienne.svg
 name: Saint Theodore of Vienne
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-elfgete-of-croyland.svg
 name: Saint Elfgete of Croyland
 stub: true
 honorific: Saint

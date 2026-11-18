@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mummolus-of-fleury.svg
 name: Saint Mummolus of Fleury
 stub: false
 honorific: Saint

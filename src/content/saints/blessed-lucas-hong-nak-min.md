@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-lucas-hong-nak-min.svg
 name: Blessed Lucas Hong Nak-min
 stub: true
 honorific: Blessed

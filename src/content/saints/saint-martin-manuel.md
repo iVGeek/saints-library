@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-martin-manuel.svg
 name: Saint Martin Manuel
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-merililaun.svg
 name: Saint Merililaun
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-curig-of-llanbadarn.svg
 name: Saint Curig of Llanbadarn
 stub: true
 honorific: Saint

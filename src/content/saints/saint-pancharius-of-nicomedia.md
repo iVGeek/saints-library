@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pancharius-of-nicomedia.svg
 name: Saint Pancharius of Nicomedia
 stub: false
 honorific: Saint

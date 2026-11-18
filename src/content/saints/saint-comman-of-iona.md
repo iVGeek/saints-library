@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-comman-of-iona.svg
 name: Saint Comman of Iona
 stub: false
 honorific: Saint

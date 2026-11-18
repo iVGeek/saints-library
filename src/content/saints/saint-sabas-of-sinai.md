@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sabas-of-sinai.svg
 name: Saint Sabas of Sinai
 stub: false
 honorific: Saint

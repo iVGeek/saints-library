@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-thomas-kian.svg
 name: Blessed Thomas Kian
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-clitancus.svg
 name: Saint Clitancus
 stub: true
 honorific: Saint

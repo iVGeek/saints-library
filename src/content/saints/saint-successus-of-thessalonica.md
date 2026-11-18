@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-successus-of-thessalonica.svg
 name: Saint Successus of Thessalonica
 stub: true
 honorific: Saint

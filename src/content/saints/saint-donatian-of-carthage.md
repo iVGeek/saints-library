@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-donatian-of-carthage.svg
 name: Saint Donatian of Carthage
 stub: false
 honorific: Saint

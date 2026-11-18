@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-reverianus-of-autun.svg
 name: Saint Reverianus of Autun
 stub: false
 honorific: Saint

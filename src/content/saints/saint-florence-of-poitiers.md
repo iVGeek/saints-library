@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-florence-of-poitiers.svg
 name: Saint Florence of Poitiers
 stub: false
 honorific: Saint

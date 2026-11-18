@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-photius-4-march.svg
 name: Saint Photius
 stub: true
 honorific: Saint

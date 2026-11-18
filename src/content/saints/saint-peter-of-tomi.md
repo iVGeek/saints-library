@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-of-tomi.svg
 name: Saint Peter of Tomi
 stub: false
 honorific: Saint

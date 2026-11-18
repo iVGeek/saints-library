@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-etienne-pierre-morlanne.svg
 name: Venerable Étienne-Pierre Morlanne
 stub: false
 honorific: Venerable

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-viclurianus-of-rome.svg
 name: Saint Viclurianus of Rome
 stub: false
 honorific: Saint

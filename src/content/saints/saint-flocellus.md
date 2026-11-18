@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-flocellus.svg
 name: Saint Flocellus
 stub: true
 honorific: Saint

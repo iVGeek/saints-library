@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-narcis-simon-sala.svg
 name: Blessed Narcís Simón Sala
 stub: true
 honorific: Blessed

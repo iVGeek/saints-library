@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-publius-of-zeugma.svg
 name: Saint Publius of Zeugma
 stub: false
 honorific: Saint

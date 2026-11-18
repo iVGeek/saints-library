@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-francisco-fernandez-sanchez-toril.svg
 name: Blessed Francisco Fernández Sánchez Toril
 stub: false
 honorific: Blessed

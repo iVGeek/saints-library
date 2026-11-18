@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-llinio-of-llandinam.svg
 name: Saint Llinio of Llandinam
 stub: false
 honorific: Saint

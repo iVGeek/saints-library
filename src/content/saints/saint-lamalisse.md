@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lamalisse.svg
 name: Saint Lamalisse
 stub: false
 honorific: Saint

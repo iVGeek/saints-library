@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-proculus-of-illyria.svg
 name: Saint Proculus of Illyria
 stub: true
 honorific: Saint

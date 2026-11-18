@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-verus-of-salerno.svg
 name: Saint Verus of Salerno
 stub: false
 honorific: Saint

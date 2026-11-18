@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fiachra-of-erard.svg
 name: Saint Fiachra of Erard
 stub: false
 honorific: Saint

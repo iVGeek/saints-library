@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hilary-the-martyr.svg
 name: Saint Hilary the Martyr
 stub: true
 honorific: Saint

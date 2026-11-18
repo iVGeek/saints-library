@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gaudentia.svg
 name: Saint Gaudentia
 stub: true
 honorific: Saint

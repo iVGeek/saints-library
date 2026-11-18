@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eberhard-of-luzy.svg
 name: Saint Eberhard of Luzy
 stub: false
 honorific: Saint

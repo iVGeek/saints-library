@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thomas-of-constantinople.svg
 name: Saint Thomas of Constantinople
 stub: false
 honorific: Saint

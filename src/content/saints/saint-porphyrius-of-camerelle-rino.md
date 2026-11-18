@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-porphyrius-of-camerelle-rino.svg
 name: Saint Porphyrius of Camerelle Rino
 stub: false
 honorific: Saint

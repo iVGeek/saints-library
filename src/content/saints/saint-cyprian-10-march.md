@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyprian-10-march.svg
 name: Saint Cyprian of Corinth
 stub: false
 honorific: Saint

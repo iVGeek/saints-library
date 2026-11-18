@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-elaphius-of-chalons.svg
 name: Saint Elaphius of Châlons
 stub: true
 honorific: Saint

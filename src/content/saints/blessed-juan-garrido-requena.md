@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-juan-garrido-requena.svg
 name: Blessed Juan Garrido Requena
 stub: true
 honorific: Blessed

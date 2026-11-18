@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-matutinus-of-thessalonica.svg
 name: Saint Matutinus of Thessalonica
 stub: true
 honorific: Saint

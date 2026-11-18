@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-potaminus-of-alexandria.svg
 name: Saint Potaminus of Alexandria
 stub: true
 honorific: Saint

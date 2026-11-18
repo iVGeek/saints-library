@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maelmuire-ogorman.svg
 name: Saint Maelmuire O'Gorman
 stub: true
 honorific: Saint

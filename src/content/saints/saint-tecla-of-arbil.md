@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tecla-of-arbil.svg
 name: Saint Tecla of Arbil
 stub: false
 honorific: Saint

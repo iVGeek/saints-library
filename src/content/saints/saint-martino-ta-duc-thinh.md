@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-martino-ta-duc-thinh.svg
 name: Saint Martinô Ta Ðuc Thinh
 stub: false
 honorific: Venerable

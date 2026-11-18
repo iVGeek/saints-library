@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eusebius-of-lydda.svg
 name: Saint Eusebius of Lydda
 stub: false
 honorific: Saint

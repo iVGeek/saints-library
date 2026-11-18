@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crescens.svg
 name: Saint Crescens of Corinth
 stub: false
 honorific: Saint

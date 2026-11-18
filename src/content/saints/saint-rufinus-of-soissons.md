@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufinus-of-soissons.svg
 name: Saint Rufinus of Soissons
 stub: false
 honorific: Saint

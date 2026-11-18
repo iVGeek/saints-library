@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sanctian-of-sens.svg
 name: Saint Sanctian of Sens
 stub: false
 honorific: Saint

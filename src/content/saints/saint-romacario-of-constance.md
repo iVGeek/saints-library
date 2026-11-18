@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-romacario-of-constance.svg
 name: Saint Romacario of Constance
 stub: true
 honorific: Saint

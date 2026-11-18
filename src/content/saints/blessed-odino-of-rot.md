@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-odino-of-rot.svg
 name: Blessed Odino of Rot
 stub: false
 honorific: Blessed

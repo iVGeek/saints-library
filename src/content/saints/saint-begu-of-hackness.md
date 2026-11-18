@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-begu-of-hackness.svg
 name: Saint Begu of Hackness
 stub: true
 honorific: Saint

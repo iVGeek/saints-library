@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-serviliano-riano-herrero.svg
 name: Blessed Serviliano Riaño Herrero
 stub: false
 honorific: Blessed

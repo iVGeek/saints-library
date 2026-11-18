@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thomas-of-dover.svg
 name: Saint Thomas of Dover
 stub: false
 honorific: Saint

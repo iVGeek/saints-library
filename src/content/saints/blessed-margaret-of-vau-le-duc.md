@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-margaret-of-vau-le-duc.svg
 name: Blessed Margaret of Vau-le-Duc
 stub: false
 honorific: Blessed

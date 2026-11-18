@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufunia-of-corinth.svg
 name: Saint Rufunia of Corinth
 stub: true
 honorific: Saint

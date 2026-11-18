@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-magnericus-of-trier.svg
 name: Saint Magnericus of Trier
 stub: false
 honorific: Saint

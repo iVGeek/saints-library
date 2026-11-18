@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-probe.svg
 name: Saint Probe
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-bernhardin-of-noto.svg
 name: Blessed Bernhardin of Noto
 stub: false
 honorific: Blessed

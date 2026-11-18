@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gajosa-of-rome.svg
 name: Saint Gajosa of Rome
 stub: true
 honorific: Saint

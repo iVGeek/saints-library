@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-foircheallach-of-fobhar.svg
 name: Saint Foircheallach of Fobhar
 stub: false
 honorific: Saint

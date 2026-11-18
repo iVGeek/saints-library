@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-florentius-of-carracedo.svg
 name: Saint Florentius of Carracedo
 stub: false
 honorific: Saint

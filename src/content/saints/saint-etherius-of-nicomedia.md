@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-etherius-of-nicomedia.svg
 name: Saint Etherius of Nicomedia
 stub: true
 honorific: Saint

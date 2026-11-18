@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zoticus-the-philosopher.svg
 name: Saint Zoticus the Philosopher
 stub: false
 honorific: Saint

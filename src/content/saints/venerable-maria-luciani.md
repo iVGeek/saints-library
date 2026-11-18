@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-maria-luciani.svg
 name: Venerable Maria Luciani
 stub: true
 honorific: Venerable

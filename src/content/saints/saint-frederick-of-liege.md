@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-frederick-of-liege.svg
 name: Saint Frederick of Liège
 stub: false
 honorific: Saint

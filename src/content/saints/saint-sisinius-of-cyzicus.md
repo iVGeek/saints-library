@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sisinius-of-cyzicus.svg
 name: Saint Sisinius of Cyzicus
 stub: true
 honorific: Saint

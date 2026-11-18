@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-weneria-of-rome.svg
 name: Saint Weneria of Rome
 stub: true
 honorific: Saint

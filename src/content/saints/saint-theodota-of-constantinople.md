@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodota-of-constantinople.svg
 name: Saint Theodota of Constantinople
 stub: false
 honorific: Saint

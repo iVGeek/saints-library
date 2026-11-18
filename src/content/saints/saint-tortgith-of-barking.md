@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tortgith-of-barking.svg
 name: Saint Tortgith of Barking
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-colman-of-loch-echin.svg
 name: Saint Colman of Loch Echin
 stub: false
 honorific: Saint

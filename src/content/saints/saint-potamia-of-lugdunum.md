@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-potamia-of-lugdunum.svg
 name: Saint Potamia of Lugdunum
 stub: false
 honorific: Saint

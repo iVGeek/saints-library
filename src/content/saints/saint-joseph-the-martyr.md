@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-joseph-the-martyr.svg
 name: Saint Joseph the Martyr
 stub: false
 honorific: Saint

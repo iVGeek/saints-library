@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-josep-maria-badia-mateu.svg
 name: Blessed Josep Maria Badía Mateu
 stub: true
 honorific: Blessed

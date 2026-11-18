@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-antony-bonfadini.svg
 name: Blessed Antony Bonfadini
 stub: true
 honorific: Blessed

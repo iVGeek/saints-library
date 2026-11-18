@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felix-of-terracina.svg
 name: Saint Felix of Terracina
 stub: true
 honorific: Saint

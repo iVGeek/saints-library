@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-emerius-of-banoles.svg
 name: Saint Emerius of Bañoles
 stub: false
 honorific: Saint

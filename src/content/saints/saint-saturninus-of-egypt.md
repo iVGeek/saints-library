@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturninus-of-egypt.svg
 name: Saint Saturninus of Egypt
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-romfarius-of-coutances.svg
 name: Saint Romfarius of Coutances
 stub: false
 honorific: Saint

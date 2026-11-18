@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ethernan.svg
 name: Saint Ethernan
 stub: false
 honorific: Saint

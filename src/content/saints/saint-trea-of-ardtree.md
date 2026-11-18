@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-trea-of-ardtree.svg
 name: Saint Trea of Ardtree
 stub: false
 honorific: Saint

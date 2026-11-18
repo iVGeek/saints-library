@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-settimino-of-carthage.svg
 name: Saint Settimino of Carthage
 stub: true
 honorific: Saint

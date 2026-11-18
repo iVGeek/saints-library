@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-michela-ranzi-of-vercelli.svg
 name: Blessed Michela Ranzi of Vercelli
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ulpia-candida.svg
 name: Saint Ulpia Candida
 stub: true
 honorific: Saint

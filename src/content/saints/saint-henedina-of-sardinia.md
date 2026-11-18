@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-henedina-of-sardinia.svg
 name: Saint Henedina of Sardinia
 stub: true
 honorific: Saint

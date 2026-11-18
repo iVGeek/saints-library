@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-emmingen-of-saxony.svg
 name: Saint Emmingen of Saxony
 stub: true
 honorific: Saint

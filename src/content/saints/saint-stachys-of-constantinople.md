@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stachys-of-constantinople.svg
 name: Saint Stachys of Constantinople
 stub: false
 honorific: Saint

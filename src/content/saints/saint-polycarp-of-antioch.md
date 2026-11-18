@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-polycarp-of-antioch.svg
 name: Saint Polycarp of Antioch
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gaspard-claude-maignien.svg
 name: Blessed Gaspard-Claude Maignien
 stub: true
 honorific: Blessed

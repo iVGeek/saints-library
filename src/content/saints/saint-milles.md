@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-milles.svg
 name: Saint Milles of Persia
 stub: true
 honorific: Saint

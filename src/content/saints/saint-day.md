@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-day.svg
 name: Saint Day
 stub: false
 honorific: Saint

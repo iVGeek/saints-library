@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-restitutus-of-rome.svg
 name: Saint Restitutus of Rome
 stub: false
 honorific: Saint

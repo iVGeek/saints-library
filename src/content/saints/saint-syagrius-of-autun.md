@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-syagrius-of-autun.svg
 name: Saint Syagrius of Autun
 stub: false
 honorific: Saint

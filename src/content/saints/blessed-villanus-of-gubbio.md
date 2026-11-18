@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-villanus-of-gubbio.svg
 name: Blessed Villanus of Gubbio
 stub: false
 honorific: Blessed

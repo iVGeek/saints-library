@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-iwi.svg
 name: Saint Iwi
 stub: false
 honorific: Saint

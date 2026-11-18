@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-josep-maria-tarin-curto.svg
 name: Blessed Josep Maria Tarín Curto
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jucundian.svg
 name: Saint Jucundian
 stub: true
 honorific: Saint

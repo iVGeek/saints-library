@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cominus-of-lugdunum.svg
 name: Saint Cominus of Lugdunum
 stub: false
 honorific: Saint

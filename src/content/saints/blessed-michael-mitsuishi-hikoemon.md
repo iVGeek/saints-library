@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-michael-mitsuishi-hikoemon.svg
 name: Blessed Michaël Mitsuishi Hikoemon
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyrinus-of-cyzicus.svg
 name: Saint Cyrinus of Cyzicus
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-venustus-of-milan-2.svg
 name: Saint Venustus of Milan
 stub: true
 honorific: Saint

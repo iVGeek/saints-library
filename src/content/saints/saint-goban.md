@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-goban.svg
 name: Saint Goban
 stub: false
 honorific: Saint

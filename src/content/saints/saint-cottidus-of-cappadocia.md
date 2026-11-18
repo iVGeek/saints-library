@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cottidus-of-cappadocia.svg
 name: Saint Cottidus of Cappadocia
 stub: true
 honorific: Saint

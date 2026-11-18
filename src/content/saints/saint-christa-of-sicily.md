@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-christa-of-sicily.svg
 name: Saint Christa of Sicily
 stub: true
 honorific: Saint

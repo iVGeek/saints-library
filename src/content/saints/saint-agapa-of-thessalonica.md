@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-agapa-of-thessalonica.svg
 name: Saint Agapa of Thessalonica
 stub: true
 honorific: Saint

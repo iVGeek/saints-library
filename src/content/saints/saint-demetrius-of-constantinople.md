@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-demetrius-of-constantinople.svg
 name: Saint Demetrius of Constantinople
 stub: false
 honorific: Saint

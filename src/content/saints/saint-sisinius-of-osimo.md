@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sisinius-of-osimo.svg
 name: Saint Sisinius of Osimo
 stub: true
 honorific: Saint

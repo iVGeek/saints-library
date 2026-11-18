@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-derlugha-of-lemmagh.svg
 name: Saint Derlugha of Lemmagh
 stub: true
 honorific: Saint

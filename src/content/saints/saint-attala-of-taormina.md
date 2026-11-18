@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-attala-of-taormina.svg
 name: Saint Attala of Taormina
 stub: true
 honorific: Saint

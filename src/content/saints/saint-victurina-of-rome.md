@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victurina-of-rome.svg
 name: Saint Victurina of Rome
 stub: true
 honorific: Saint

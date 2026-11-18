@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valerius-of-mytilene.svg
 name: Saint Valerius of Mytilene
 stub: true
 honorific: Saint

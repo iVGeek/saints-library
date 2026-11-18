@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rutilus-of-syrmium.svg
 name: Saint Rutilus of Syrmium
 stub: true
 honorific: Saint

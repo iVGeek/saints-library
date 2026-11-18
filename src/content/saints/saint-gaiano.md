@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gaiano.svg
 name: Saint Gaiano
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-miguel-carvalho.svg
 name: Blessed Miguel Carvalho
 stub: false
 honorific: Blessed

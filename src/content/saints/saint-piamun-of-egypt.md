@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-piamun-of-egypt.svg
 name: Saint Piamun of Egypt
 stub: false
 honorific: Saint

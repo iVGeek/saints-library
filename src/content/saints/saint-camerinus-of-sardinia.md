@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-camerinus-of-sardinia.svg
 name: Saint Camerinus of Sardinia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-possessor-of-africa.svg
 name: Saint Possessor of Africa
 stub: false
 honorific: Saint

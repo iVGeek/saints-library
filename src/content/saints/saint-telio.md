@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-telio.svg
 name: Saint Telio
 stub: true
 honorific: Saint

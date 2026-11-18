@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-joan-rafi-figuerola.svg
 name: Blessed Joan Rafí Figuerola
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-restitutus-of-cagliari.svg
 name: Saint Restitutus of Cagliari
 stub: true
 honorific: Saint

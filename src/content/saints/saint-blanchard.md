@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-blanchard.svg
 name: Saint Blanchard
 stub: true
 honorific: Saint

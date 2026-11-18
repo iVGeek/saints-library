@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maccalin-of-waulsort.svg
 name: Saint Maccalin of Waulsort
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturninus-of-albitina-the-younger.svg
 name: Saint Saturninus of Albitina the Younger
 stub: false
 honorific: Saint

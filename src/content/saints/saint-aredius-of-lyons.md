@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-aredius-of-lyons.svg
 name: Saint Aredius of Lyons
 stub: true
 honorific: Saint

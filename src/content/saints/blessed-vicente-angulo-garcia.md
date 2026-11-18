@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-vicente-angulo-garcia.svg
 name: Blessed Vicente Angulo García
 stub: false
 honorific: Blessed

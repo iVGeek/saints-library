@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-corbican.svg
 name: Saint Corbican
 stub: false
 honorific: Saint

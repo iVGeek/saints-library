@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dioscurus-of-egypt.svg
 name: Saint Dioscurus of Egypt
 stub: true
 honorific: Saint

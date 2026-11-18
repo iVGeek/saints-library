@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-lluis-albi-aguilar.svg
 name: Blessed Lluís Albi Aguilar
 stub: false
 honorific: Blessed

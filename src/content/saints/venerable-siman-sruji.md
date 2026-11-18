@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-siman-sruji.svg
 name: Venerable Siman Sruji
 stub: true
 honorific: Venerable

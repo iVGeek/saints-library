@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodulus-the-martyr.svg
 name: Saint Theodulus the Martyr
 stub: false
 honorific: Saint

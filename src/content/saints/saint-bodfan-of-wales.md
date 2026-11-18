@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bodfan-of-wales.svg
 name: Saint Bodfan of Wales
 stub: true
 honorific: Saint

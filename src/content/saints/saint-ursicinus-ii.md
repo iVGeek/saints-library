@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ursicinus-ii.svg
 name: Saint Ursicinus II
 stub: false
 honorific: Saint

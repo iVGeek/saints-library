@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-liberio-gonzalez-nombela.svg
 name: Blessed Liberio González Nombela
 stub: true
 honorific: Blessed

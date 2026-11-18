@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-catulinus-of-thessalonica.svg
 name: Saint Catulinus of Thessalonica
 stub: true
 honorific: Saint

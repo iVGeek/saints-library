@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pelagius-the-hermit.svg
 name: Saint Pelagius the Hermit
 stub: true
 honorific: Saint

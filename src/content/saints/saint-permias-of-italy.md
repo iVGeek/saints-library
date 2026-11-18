@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-permias-of-italy.svg
 name: Saint Permias of Italy
 stub: false
 honorific: Saint

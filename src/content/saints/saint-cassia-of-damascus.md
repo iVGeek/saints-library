@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cassia-of-damascus.svg
 name: Saint Cassia of Damascus
 stub: true
 honorific: Saint

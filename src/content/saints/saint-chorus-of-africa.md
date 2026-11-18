@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-chorus-of-africa.svg
 name: Saint Chorus of Africa
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-socrates-of-nicaea.svg
 name: Saint Socrates of Nicaea
 stub: true
 honorific: Saint

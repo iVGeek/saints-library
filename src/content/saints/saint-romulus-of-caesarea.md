@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-romulus-of-caesarea.svg
 name: Saint Romulus of Caesarea
 stub: true
 honorific: Saint

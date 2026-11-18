@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-john-sutton.svg
 name: Blessed John Sutton
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thalus-the-martyr.svg
 name: Saint Thalus the Martyr
 stub: true
 honorific: Saint

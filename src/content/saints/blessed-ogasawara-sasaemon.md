@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ogasawara-sasaemon.svg
 name: Blessed Ogasawara Sasaemon
 stub: false
 honorific: Blessed

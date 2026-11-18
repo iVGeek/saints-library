@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-satyrus-of-campania.svg
 name: Saint Satyrus of Campania
 stub: false
 honorific: Saint

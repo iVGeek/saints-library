@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-paschasius-of-rome.svg
 name: Saint Paschasius of Rome
 stub: true
 honorific: Saint

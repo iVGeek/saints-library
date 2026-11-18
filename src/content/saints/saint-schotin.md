@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-schotin.svg
 name: Saint Schotin
 stub: false
 honorific: Saint

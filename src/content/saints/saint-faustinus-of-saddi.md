@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-faustinus-of-saddi.svg
 name: Saint Faustinus of Saddi
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lua-of-limerick.svg
 name: Saint Lua of Limerick
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-prosdocimus-of-rieti.svg
 name: Saint Prosdocimus of Rieti
 stub: true
 honorific: Saint

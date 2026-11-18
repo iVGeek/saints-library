@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valenzio-of-mesia.svg
 name: Saint Valenzio of Mesia
 stub: true
 honorific: Saint

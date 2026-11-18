@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-robert-of-syracuse.svg
 name: Saint Robert of Syracuse
 stub: true
 honorific: Saint

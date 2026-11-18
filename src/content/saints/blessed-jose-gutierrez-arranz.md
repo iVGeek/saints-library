@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jose-gutierrez-arranz.svg
 name: Blessed José Gutiérrez Arranz
 stub: true
 honorific: Blessed

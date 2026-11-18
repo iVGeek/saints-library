@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-euphronius-of-tours.svg
 name: Saint Euphronius of Tours
 stub: false
 honorific: Saint

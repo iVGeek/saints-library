@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodore-of-rome.svg
 name: Saint Theodore of Rome
 stub: true
 honorific: Saint

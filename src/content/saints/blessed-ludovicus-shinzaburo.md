@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ludovicus-shinzaburo.svg
 name: Blessed Ludovicus Shinzaburo
 stub: true
 honorific: Blessed

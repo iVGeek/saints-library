@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ursus-of-auxerre.svg
 name: Saint Ursus of Auxerre
 stub: false
 honorific: Saint

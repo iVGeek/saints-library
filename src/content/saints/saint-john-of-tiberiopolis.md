@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-of-tiberiopolis.svg
 name: Saint John of Tiberiopolis
 stub: false
 honorific: Saint

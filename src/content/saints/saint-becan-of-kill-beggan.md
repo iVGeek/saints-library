@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-becan-of-kill-beggan.svg
 name: Saint Becan of Kill-Beggan
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gervinus-of-aldenberg.svg
 name: Blessed Gervinus of Aldenberg
 stub: false
 honorific: Blessed

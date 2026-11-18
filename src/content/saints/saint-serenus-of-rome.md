@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-serenus-of-rome.svg
 name: Saint Serenus of Rome
 stub: true
 honorific: Saint

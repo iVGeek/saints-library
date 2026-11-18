@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pollio.svg
 name: Saint Pollio of Cybalae
 stub: false
 honorific: Saint

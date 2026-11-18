@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-petruvius-of-thessalonica.svg
 name: Saint Petruvius of Thessalonica
 stub: true
 honorific: Saint

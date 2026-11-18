@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-herena.svg
 name: Saint Herena the Martyr
 stub: false
 honorific: Saint

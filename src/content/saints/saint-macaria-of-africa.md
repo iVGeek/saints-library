@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-macaria-of-africa.svg
 name: Saint Macaria of Africa
 stub: false
 honorific: Saint

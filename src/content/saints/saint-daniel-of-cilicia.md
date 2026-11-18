@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-daniel-of-cilicia.svg
 name: Saint Daniel of Cilicia
 stub: false
 honorific: Saint

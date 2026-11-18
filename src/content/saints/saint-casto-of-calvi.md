@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-casto-of-calvi.svg
 name: Saint Casto of Calvi
 stub: false
 honorific: Saint

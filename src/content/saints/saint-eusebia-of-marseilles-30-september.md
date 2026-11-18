@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eusebia-of-marseilles-30-september.svg
 name: Saint Eusebia of Marseilles
 stub: true
 honorific: Saint

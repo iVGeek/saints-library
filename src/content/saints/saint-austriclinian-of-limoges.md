@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-austriclinian-of-limoges.svg
 name: Saint Austriclinian of Limoges
 stub: true
 honorific: Saint

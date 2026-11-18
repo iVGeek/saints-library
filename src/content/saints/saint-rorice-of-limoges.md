@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rorice-of-limoges.svg
 name: Saint Rorice of Limoges
 stub: false
 honorific: Saint

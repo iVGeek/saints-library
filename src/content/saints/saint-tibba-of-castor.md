@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tibba-of-castor.svg
 name: Saint Tibba of Castor
 stub: false
 honorific: Saint

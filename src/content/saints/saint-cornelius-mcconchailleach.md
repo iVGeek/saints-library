@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cornelius-mcconchailleach.svg
 name: Saint Cornelius McConchailleach
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-delfina-of-pedralbes.svg
 name: Blessed Delfina of Pedralbes
 stub: false
 honorific: Blessed

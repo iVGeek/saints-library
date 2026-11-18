@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-johannes-of-nicomedia.svg
 name: Saint Johannes of Nicomedia
 stub: true
 honorific: Saint

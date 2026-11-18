@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-teresa-toda-juncosa.svg
 name: Venerable Teresa Toda Juncosa
 stub: false
 honorific: Venerable

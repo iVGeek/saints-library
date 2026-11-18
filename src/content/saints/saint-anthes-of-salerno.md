@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-anthes-of-salerno.svg
 name: Saint Anthes of Salerno
 stub: true
 honorific: Saint

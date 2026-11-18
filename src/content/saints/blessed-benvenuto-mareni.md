@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-benvenuto-mareni.svg
 name: Blessed Benvenuto Mareni
 stub: false
 honorific: Blessed

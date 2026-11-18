@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tryphonia-of-rome.svg
 name: Saint Tryphonia of Rome
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gelatus-of-africa.svg
 name: Saint Gelatus of Africa
 stub: true
 honorific: Saint

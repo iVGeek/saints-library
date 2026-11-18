@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-mancius-kyujiro.svg
 name: Blessed Mancius Kyujiro
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-bodard-of-poitiers.svg
 name: Blessed Bodard of Poitiers
 stub: true
 honorific: Blessed

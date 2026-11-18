@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodore-of-pentapolis.svg
 name: Saint Theodore of Pentapolis
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dorymedon-the-senator.svg
 name: Saint Dorymedon the Senator
 stub: false
 honorific: Saint

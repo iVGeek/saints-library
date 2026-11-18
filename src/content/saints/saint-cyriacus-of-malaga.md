@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyriacus-of-malaga.svg
 name: Saint Cyriacus of Málaga
 stub: true
 honorific: Saint

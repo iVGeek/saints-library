@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sallustian.svg
 name: Saint Sallustian of Sardinia
 stub: true
 honorific: Saint

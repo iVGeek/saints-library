@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-paulus-of-hokusanbara.svg
 name: Blessed Paulus of Hokusanbara
 stub: false
 honorific: Blessed

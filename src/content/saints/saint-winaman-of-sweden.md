@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-winaman-of-sweden.svg
 name: Saint Winaman of Sweden
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-silvanus-of-thessalonica.svg
 name: Saint Silvanus of Thessalonica
 stub: true
 honorific: Saint

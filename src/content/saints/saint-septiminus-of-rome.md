@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-septiminus-of-rome.svg
 name: Saint Septiminus of Rome
 stub: true
 honorific: Saint

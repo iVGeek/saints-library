@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cuanna-of-lismore.svg
 name: Saint Cuanna of Lismore
 stub: false
 honorific: Saint

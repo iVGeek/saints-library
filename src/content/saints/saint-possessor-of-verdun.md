@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-possessor-of-verdun.svg
 name: Saint Possessor of Verdun
 stub: false
 honorific: Saint

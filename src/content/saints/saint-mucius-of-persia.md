@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mucius-of-persia.svg
 name: Saint Mucius of Persia
 stub: true
 honorific: Saint

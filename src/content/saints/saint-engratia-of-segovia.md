@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-engratia-of-segovia.svg
 name: Saint Engratia of Segovia
 stub: false
 honorific: Saint

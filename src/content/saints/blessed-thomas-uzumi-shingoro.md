@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-thomas-uzumi-shingoro.svg
 name: Blessed Thomas Uzumi Shingoro
 stub: true
 honorific: Blessed

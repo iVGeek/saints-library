@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ptolemy-of-nepi.svg
 name: Saint Ptolemy of Nepi
 stub: false
 honorific: Saint

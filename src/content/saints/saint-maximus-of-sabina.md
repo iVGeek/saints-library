@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-sabina.svg
 name: Saint Maximus of Sabina
 stub: true
 honorific: Saint

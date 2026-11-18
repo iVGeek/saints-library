@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ermen.svg
 name: Saint Ermen
 stub: true
 honorific: Saint

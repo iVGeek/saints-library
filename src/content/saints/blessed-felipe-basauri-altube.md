@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-felipe-basauri-altube.svg
 name: Blessed Felipe Basauri Altube
 stub: false
 honorific: Blessed

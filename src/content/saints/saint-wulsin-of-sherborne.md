@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-wulsin-of-sherborne.svg
 name: Saint Wulsin of Sherborne
 stub: false
 honorific: Saint

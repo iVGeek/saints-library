@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-of-tiberiopolis.svg
 name: Saint Peter of Tiberiopolis
 stub: false
 honorific: Saint

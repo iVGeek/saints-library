@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-benedetto-of-como.svg
 name: Saint Benedetto of Como
 stub: true
 honorific: Saint

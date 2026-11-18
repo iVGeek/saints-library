@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-marie-roger-veuve-chartier.svg
 name: Blessed Marie Roger veuve Chartier
 stub: false
 honorific: Blessed

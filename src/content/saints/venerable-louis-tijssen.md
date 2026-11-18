@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-louis-tijssen.svg
 name: Venerable Louis Tijssen
 stub: true
 honorific: Venerable

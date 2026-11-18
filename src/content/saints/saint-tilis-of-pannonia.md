@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tilis-of-pannonia.svg
 name: Saint Tilis of Pannonia
 stub: true
 honorific: Saint

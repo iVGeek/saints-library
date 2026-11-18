@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-luke-the-deacon.svg
 name: Saint Luke the Deacon
 stub: false
 honorific: Saint

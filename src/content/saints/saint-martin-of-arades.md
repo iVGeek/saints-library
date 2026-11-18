@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-martin-of-arades.svg
 name: Saint Martin of Arades
 stub: false
 honorific: Saint

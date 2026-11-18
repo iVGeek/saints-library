@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-marie-gasnier-epouse-mercier.svg
 name: Blessed Marie Gasnier épouse Mercier
 stub: false
 honorific: Blessed

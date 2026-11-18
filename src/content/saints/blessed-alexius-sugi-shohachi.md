@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-alexius-sugi-shohachi.svg
 name: Blessed Alexius Sugi Shohachi
 stub: true
 honorific: Blessed

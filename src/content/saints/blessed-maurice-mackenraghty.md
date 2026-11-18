@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-maurice-mackenraghty.svg
 name: Blessed Maurice Mackenraghty
 stub: false
 honorific: Blessed

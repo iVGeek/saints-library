@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-donatinus-of-alexandria.svg
 name: Saint Donatinus of Alexandria
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-antimus-of-brantome.svg
 name: Saint Antimus of Brantôme
 stub: false
 honorific: Saint

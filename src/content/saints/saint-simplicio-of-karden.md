@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-simplicio-of-karden.svg
 name: Saint Simplicio of Karden
 stub: false
 honorific: Saint

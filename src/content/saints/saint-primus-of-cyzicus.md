@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-primus-of-cyzicus.svg
 name: Saint Primus of Cyzicus
 stub: true
 honorific: Saint

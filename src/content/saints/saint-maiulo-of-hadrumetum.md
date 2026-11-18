@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maiulo-of-hadrumetum.svg
 name: Saint Maiulo of Hadrumetum
 stub: true
 honorific: Saint

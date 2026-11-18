@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-leontius-of-nicopolis.svg
 name: Saint Leontius of Nicopolis
 stub: true
 honorific: Saint

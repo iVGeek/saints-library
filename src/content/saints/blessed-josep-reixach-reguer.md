@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-josep-reixach-reguer.svg
 name: Blessed Josep Reixach Reguer
 stub: false
 honorific: Blessed

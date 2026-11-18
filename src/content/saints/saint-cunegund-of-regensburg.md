@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cunegund-of-regensburg.svg
 name: Saint Cunegund of Regensburg
 stub: true
 honorific: Saint

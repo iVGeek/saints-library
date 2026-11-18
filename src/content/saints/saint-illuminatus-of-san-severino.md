@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-illuminatus-of-san-severino.svg
 name: Saint Illuminatus of San Severino
 stub: true
 honorific: Saint

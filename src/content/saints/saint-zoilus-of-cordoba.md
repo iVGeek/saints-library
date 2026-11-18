@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zoilus-of-cordoba.svg
 name: Saint Zoilus of Cordoba
 stub: false
 honorific: Saint

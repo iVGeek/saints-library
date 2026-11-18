@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-caroticus.svg
 name: Saint Caroticus
 stub: false
 honorific: Saint

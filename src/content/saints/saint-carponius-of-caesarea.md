@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-carponius-of-caesarea.svg
 name: Saint Carponius of Caesarea
 stub: false
 honorific: Saint

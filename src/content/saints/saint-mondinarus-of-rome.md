@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mondinarus-of-rome.svg
 name: Saint Mondinarus of Rome
 stub: false
 honorific: Saint

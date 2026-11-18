@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hywyn-of-aberdaron.svg
 name: Saint Hywyn of Aberdaron
 stub: true
 honorific: Saint

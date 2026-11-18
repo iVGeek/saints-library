@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-francesco-dei-maleficii.svg
 name: Blessed Francesco dei Maleficii
 stub: true
 honorific: Blessed

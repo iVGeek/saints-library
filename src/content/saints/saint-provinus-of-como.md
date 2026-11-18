@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-provinus-of-como.svg
 name: Saint Provinus of Como
 stub: false
 honorific: Saint

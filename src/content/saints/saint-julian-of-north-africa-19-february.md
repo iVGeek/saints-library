@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julian-of-north-africa-19-february.svg
 name: Saint Julian of North Africa
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maurus-of-verdun.svg
 name: Saint Maurus of Verdun
 stub: true
 honorific: Saint

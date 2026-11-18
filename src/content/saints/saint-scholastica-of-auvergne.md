@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-scholastica-of-auvergne.svg
 name: Saint Scholastica of Auvergne
 stub: false
 honorific: Saint

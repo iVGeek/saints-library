@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felicia-of-thessalonica.svg
 name: Saint Felicia of Thessalonica
 stub: true
 honorific: Saint

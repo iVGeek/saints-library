@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-innocent-of-le-mans.svg
 name: Saint Innocent of Le Mans
 stub: true
 honorific: Saint

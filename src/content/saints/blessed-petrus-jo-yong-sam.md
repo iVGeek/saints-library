@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-petrus-jo-yong-sam.svg
 name: Blessed Petrus Jo Yong-sam
 stub: true
 honorific: Blessed

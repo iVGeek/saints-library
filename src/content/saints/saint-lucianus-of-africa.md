@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lucianus-of-africa.svg
 name: Saint Lucianus of Africa
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ferran-castan-messeguer.svg
 name: Blessed Ferran Castán Messeguer
 stub: true
 honorific: Blessed

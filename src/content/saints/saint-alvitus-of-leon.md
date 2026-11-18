@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-alvitus-of-leon.svg
 name: Saint Alvitus of León
 stub: false
 honorific: Saint

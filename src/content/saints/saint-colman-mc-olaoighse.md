@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-colman-mc-olaoighse.svg
 name: Saint Colman Mc O'Laoighse
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marianus.svg
 name: Saint Marianus
 stub: false
 honorific: Saint

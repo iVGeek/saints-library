@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-miguel-borrero-picon.svg
 name: Blessed Miguel Borrero Picón
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-16-september.svg
 name: Saint John of Rome
 stub: false
 honorific: Saint

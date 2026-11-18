@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sananus.svg
 name: Saint Sananus
 stub: false
 honorific: Saint

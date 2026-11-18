@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dadas-of-dorostorum.svg
 name: Saint Dadas of Dorostorum
 stub: true
 honorific: Saint

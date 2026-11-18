@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-farannan-of-iona.svg
 name: Saint Farannan of Iona
 stub: false
 honorific: Saint

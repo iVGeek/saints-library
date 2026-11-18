@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theophilus-of-cyprus.svg
 name: Saint Theophilus of Cyprus
 stub: false
 honorific: Saint

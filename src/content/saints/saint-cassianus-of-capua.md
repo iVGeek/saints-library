@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cassianus-of-capua.svg
 name: Saint Cassianus of Capua
 stub: false
 honorific: Saint

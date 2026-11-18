@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sunaman-of-sweden.svg
 name: Saint Sunaman of Sweden
 stub: false
 honorific: Saint

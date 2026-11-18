@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-landulf-of-yariglia.svg
 name: Saint Landulf of Yariglia
 stub: false
 honorific: Saint

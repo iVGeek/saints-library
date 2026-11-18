@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-joan-bonavida-della.svg
 name: Blessed Joan Bonavida Dellá
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-julian-navio-colado.svg
 name: Blessed Julian Navio Colado
 stub: true
 honorific: Blessed

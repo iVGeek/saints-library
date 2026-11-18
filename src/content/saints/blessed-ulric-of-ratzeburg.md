@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ulric-of-ratzeburg.svg
 name: Blessed Ulric of Ratzeburg
 stub: false
 honorific: Blessed

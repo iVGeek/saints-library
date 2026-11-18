@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-uinnita-of-nyon.svg
 name: Saint Uinnita of Nyon
 stub: true
 honorific: Saint

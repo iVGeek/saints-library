@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maxima-of-africa.svg
 name: Saint Maxima of Africa
 stub: false
 honorific: Saint

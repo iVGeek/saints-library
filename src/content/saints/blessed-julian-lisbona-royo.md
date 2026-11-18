@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-julian-lisbona-royo.svg
 name: Blessed Julián Lisbona Royo
 stub: false
 honorific: Blessed

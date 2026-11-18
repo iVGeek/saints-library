@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-pedro-carballo-corrales.svg
 name: Blessed Pedro Carballo Corrales
 stub: false
 honorific: Blessed

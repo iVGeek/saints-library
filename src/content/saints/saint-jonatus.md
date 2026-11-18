@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jonatus.svg
 name: Saint Jonatus
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zenas-of-philadelphia.svg
 name: Saint Zenas of Philadelphia
 stub: false
 honorific: Saint

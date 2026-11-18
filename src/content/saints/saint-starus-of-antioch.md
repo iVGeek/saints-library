@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-starus-of-antioch.svg
 name: Saint Starus of Antioch
 stub: true
 honorific: Saint

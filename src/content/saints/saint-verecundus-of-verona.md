@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-verecundus-of-verona.svg
 name: Saint Verecundus of Verona
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-guinizo.svg
 name: Saint Guinizo
 stub: false
 honorific: Saint

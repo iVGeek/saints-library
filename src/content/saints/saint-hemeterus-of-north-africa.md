@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hemeterus-of-north-africa.svg
 name: Saint Hemeterus of North Africa
 stub: true
 honorific: Saint

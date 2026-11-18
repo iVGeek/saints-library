@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hipparchus-of-samosata.svg
 name: Saint Hipparchus of Samosata
 stub: false
 honorific: Saint

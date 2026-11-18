@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-macarius-the-wonder-worker.svg
 name: Saint Macarius the Wonder Worker
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rustulus-of-cilicia.svg
 name: Saint Rustulus of Cilicia
 stub: true
 honorific: Saint

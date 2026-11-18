@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-martha-of-arbil.svg
 name: Saint Martha of Arbil
 stub: false
 honorific: Saint

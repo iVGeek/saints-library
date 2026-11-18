@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ethelnoth-the-good.svg
 name: Saint Ethelnoth the Good
 stub: false
 honorific: Saint

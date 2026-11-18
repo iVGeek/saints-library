@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jacques-laigneau-de-langellerie.svg
 name: Blessed Jacques Laigneau de Langellerie
 stub: false
 honorific: Blessed

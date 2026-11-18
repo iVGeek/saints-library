@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-falco-of-maastricht.svg
 name: Saint Falco of Maastricht
 stub: true
 honorific: Saint

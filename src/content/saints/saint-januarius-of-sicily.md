@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-januarius-of-sicily.svg
 name: Saint Januarius of Sicily
 stub: true
 honorific: Saint

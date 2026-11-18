@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-james-the-confessor.svg
 name: Saint James the Confessor
 stub: true
 honorific: Saint

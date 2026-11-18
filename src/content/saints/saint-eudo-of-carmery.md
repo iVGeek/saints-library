@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eudo-of-carmery.svg
 name: Saint Eudo of Carméry
 stub: true
 honorific: Saint

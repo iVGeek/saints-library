@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-esuperantius-of-saddi.svg
 name: Saint Esuperantius of Saddi
 stub: true
 honorific: Saint

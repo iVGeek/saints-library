@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodore-of-pergen.svg
 name: Saint Theodore of Pergen
 stub: false
 honorific: Saint

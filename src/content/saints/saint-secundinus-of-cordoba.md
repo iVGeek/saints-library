@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secundinus-of-cordoba.svg
 name: Saint Secundinus of Cordoba
 stub: true
 honorific: Saint

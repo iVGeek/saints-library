@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mennone-the-centurian.svg
 name: Saint Mennone the Centurian
 stub: false
 honorific: Saint

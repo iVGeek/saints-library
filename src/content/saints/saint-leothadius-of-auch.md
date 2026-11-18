@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-leothadius-of-auch.svg
 name: Saint Leothadius of Auch
 stub: false
 honorific: Saint

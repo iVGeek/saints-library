@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eusebius-of-sicily.svg
 name: Saint Eusebius of Sicily
 stub: true
 honorific: Saint

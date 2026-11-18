@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hippolytus-of-antioch.svg
 name: Saint Hippolytus of Antioch
 stub: false
 honorific: Saint

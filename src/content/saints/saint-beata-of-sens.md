@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-beata-of-sens.svg
 name: Saint Beata of Sens
 stub: false
 honorific: Saint

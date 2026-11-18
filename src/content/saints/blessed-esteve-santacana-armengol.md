@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-esteve-santacana-armengol.svg
 name: Blessed Esteve Santacana Armengol
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-christian-of-prussia.svg
 name: Saint Christian of Prussia
 stub: false
 honorific: Saint

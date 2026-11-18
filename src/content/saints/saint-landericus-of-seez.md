@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-landericus-of-seez.svg
 name: Saint Landericus of Séez
 stub: true
 honorific: Saint

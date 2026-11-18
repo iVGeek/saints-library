@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-partinimus.svg
 name: Saint Partinimus
 stub: true
 honorific: Saint

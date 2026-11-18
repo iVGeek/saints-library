@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hilary-of-dijon.svg
 name: Saint Hilary of Dijon
 stub: true
 honorific: Saint

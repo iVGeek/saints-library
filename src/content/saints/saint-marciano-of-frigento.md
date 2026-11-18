@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marciano-of-frigento.svg
 name: Saint Marciano of Frigento
 stub: false
 honorific: Saint

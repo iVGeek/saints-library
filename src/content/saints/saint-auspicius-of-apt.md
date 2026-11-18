@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-auspicius-of-apt.svg
 name: Saint Auspicius of Apt
 stub: false
 honorific: Saint

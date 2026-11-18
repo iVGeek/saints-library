@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-wando-of-fontenelle.svg
 name: Saint Wando of Fontenelle
 stub: false
 honorific: Saint

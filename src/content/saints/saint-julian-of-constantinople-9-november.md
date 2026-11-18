@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julian-of-constantinople-9-november.svg
 name: Saint Julian of Constantinople
 stub: false
 honorific: Saint

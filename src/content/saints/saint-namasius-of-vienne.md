@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-namasius-of-vienne.svg
 name: Saint Namasius of Vienne
 stub: true
 honorific: Saint

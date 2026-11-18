@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hedda-of-wessex.svg
 name: Saint Hedda of Wessex
 stub: false
 honorific: Saint

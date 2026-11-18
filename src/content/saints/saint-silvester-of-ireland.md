@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-silvester-of-ireland.svg
 name: Saint Silvester of Ireland
 stub: true
 honorific: Saint

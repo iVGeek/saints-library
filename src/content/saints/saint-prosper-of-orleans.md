@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-prosper-of-orleans.svg
 name: Saint Prosper of Orléans
 stub: false
 honorific: Saint

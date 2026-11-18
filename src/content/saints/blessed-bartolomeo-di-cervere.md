@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-bartolomeo-di-cervere.svg
 name: Blessed Bartolomeo di Cervere
 stub: false
 honorific: Blessed

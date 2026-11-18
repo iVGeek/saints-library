@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-priscus-of-rome.svg
 name: Saint Priscus of Rome
 stub: true
 honorific: Saint

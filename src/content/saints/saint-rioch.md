@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rioch.svg
 name: Saint Rioch
 stub: false
 honorific: Saint

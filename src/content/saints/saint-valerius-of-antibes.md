@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valerius-of-antibes.svg
 name: Saint Valerius of Antibes
 stub: true
 honorific: Saint

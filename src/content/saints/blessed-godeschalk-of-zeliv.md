@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-godeschalk-of-zeliv.svg
 name: Blessed Godeschalk of Zeliv
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-richard-of-floreffe.svg
 name: Blessed Richard of Floreffe
 stub: false
 honorific: Blessed

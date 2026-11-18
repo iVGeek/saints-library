@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-segundo-arce-manjon.svg
 name: Blessed Segundo Arce Manjón
 stub: true
 honorific: Blessed

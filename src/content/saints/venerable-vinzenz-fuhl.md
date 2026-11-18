@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-vinzenz-fuhl.svg
 name: Venerable Vinzenz Fuhl
 stub: true
 honorific: Venerable

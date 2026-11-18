@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dagamondo-of-condat.svg
 name: Saint Dagamondo of Condat
 stub: false
 honorific: Saint

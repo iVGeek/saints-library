@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ernin-of-cremchoill.svg
 name: Saint Ernin of Cremchoill
 stub: false
 honorific: Saint

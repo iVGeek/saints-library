@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-faustianus-of-corfu.svg
 name: Saint Faustianus of Corfu
 stub: false
 honorific: Saint

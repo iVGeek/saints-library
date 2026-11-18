@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-romeo-of-limoges.svg
 name: Blessed Romeo of Limoges
 stub: false
 honorific: Blessed

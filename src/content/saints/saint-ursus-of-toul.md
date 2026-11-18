@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ursus-of-toul.svg
 name: Saint Ursus of Toul
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-manuel-sole-vallespi.svg
 name: Blessed Manuel Solé Vallespì
 stub: false
 honorific: Blessed

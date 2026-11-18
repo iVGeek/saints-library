@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-verus-of-vienne.svg
 name: Saint Verus of Vienne
 stub: true
 honorific: Saint

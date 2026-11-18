@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-primosa-of-rome.svg
 name: Saint Primosa of Rome
 stub: false
 honorific: Saint

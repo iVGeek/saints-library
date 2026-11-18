@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sulpitius-of-ravenna.svg
 name: Saint Sulpitius of Ravenna
 stub: true
 honorific: Saint

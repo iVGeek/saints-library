@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-diomma-of-kildimo.svg
 name: Saint Diomma of Kildimo
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-xenos.svg
 name: Saint John Xenos
 stub: true
 honorific: Saint

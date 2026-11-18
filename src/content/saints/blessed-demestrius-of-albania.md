@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-demestrius-of-albania.svg
 name: Blessed Demestrius of Albania
 stub: false
 honorific: Blessed

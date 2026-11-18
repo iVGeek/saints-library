@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-santiago-mesa-leyva.svg
 name: Blessed Santiago Mesa Leyva
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ignatius-of-hanazawa.svg
 name: Blessed Ignatius of Hanazawa
 stub: false
 honorific: Blessed

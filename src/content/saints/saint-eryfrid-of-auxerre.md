@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eryfrid-of-auxerre.svg
 name: Saint Eryfrid of Auxerre
 stub: false
 honorific: Saint

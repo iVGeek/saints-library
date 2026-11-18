@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-stefan-kielman.svg
 name: Blessed Stefan Kielman
 stub: false
 honorific: Blessed

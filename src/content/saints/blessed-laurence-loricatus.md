@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-laurence-loricatus.svg
 name: Blessed Laurence Loricatus
 stub: false
 honorific: Blessed

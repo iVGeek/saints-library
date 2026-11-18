@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-phelim.svg
 name: Saint Phelim
 stub: false
 honorific: Saint

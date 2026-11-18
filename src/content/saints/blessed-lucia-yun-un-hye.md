@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-lucia-yun-un-hye.svg
 name: Blessed Lucia Yun Un-hye
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jose-gafo-muniz.svg
 name: Blessed José Gafo Muñiz
 stub: true
 honorific: Blessed

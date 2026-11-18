@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-pasquale-uva.svg
 name: Venerable Pasquale Uva
 stub: false
 honorific: Venerable

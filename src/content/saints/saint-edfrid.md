@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-edfrid.svg
 name: Saint Edfrid
 stub: false
 honorific: Saint

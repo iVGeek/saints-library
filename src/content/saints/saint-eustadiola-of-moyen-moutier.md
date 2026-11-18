@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eustadiola-of-moyen-moutier.svg
 name: Saint Eustadiola of Moyen-Moutier
 stub: false
 honorific: Saint

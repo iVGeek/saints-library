@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lonochilus-of-maine.svg
 name: Saint Lonochilus of Maine
 stub: false
 honorific: Saint

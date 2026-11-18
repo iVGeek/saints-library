@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-hanz-wagner.svg
 name: Blessed Hanz Wagner
 stub: false
 honorific: Blessed

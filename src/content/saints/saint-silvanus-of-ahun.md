@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-silvanus-of-ahun.svg
 name: Saint Silvanus of Ahun
 stub: true
 honorific: Saint

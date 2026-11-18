@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-baltasar-pardal-vidal.svg
 name: Venerable Baltasár Pardal Vidal
 stub: false
 honorific: Venerable

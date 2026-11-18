@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victoricus.svg
 name: Saint Victoricus
 stub: false
 honorific: Saint

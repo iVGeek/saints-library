@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fidentian-the-martyr.svg
 name: Saint Fidentian the Martyr
 stub: false
 honorific: Saint

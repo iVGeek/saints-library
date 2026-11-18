@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-arthur-oneilly.svg
 name: Blessed Arthur O'Neilly
 stub: false
 honorific: Blessed

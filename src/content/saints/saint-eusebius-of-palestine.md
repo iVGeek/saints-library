@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eusebius-of-palestine.svg
 name: Saint Eusebius of Palestine
 stub: true
 honorific: Saint

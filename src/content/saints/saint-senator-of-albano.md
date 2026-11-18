@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-senator-of-albano.svg
 name: Saint Senator of Albano
 stub: true
 honorific: Saint

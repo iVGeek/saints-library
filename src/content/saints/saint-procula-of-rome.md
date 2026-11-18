@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-procula-of-rome.svg
 name: Saint Procula of Rome
 stub: true
 honorific: Saint

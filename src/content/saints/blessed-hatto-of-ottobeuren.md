@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-hatto-of-ottobeuren.svg
 name: Blessed Hatto of Ottobeuren
 stub: false
 honorific: Blessed

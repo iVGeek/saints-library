@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dunchadh-of-iona.svg
 name: Saint Dunchadh of Iona
 stub: false
 honorific: Saint

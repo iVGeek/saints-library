@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fortunatus-of-thibiuca.svg
 name: Saint Fortunatus of Thibiuca
 stub: false
 honorific: Saint

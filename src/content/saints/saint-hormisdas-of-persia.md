@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hormisdas-of-persia.svg
 name: Saint Hormisdas of Persia
 stub: false
 honorific: Saint

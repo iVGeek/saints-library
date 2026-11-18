@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-concordius-of-saintes.svg
 name: Saint Concordius of Saintes
 stub: true
 honorific: Saint

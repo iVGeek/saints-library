@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cominus-of-catania.svg
 name: Saint Cominus of Catania
 stub: true
 honorific: Saint

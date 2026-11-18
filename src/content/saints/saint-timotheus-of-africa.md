@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-timotheus-of-africa.svg
 name: Saint Timotheus of Africa
 stub: true
 honorific: Saint

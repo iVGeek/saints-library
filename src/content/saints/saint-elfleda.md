@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-elfleda.svg
 name: Saint Elfleda of Glastonbury
 stub: false
 honorific: Saint

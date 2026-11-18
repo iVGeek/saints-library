@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felanus-of-saint-andrew.svg
 name: Saint Felanus of Saint Andrew
 stub: true
 honorific: Saint

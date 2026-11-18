@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mamelta-of-persia.svg
 name: Saint Mamelta of Persia
 stub: true
 honorific: Saint

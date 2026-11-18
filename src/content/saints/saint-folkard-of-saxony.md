@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-folkard-of-saxony.svg
 name: Saint Folkard of Saxony
 stub: true
 honorific: Saint

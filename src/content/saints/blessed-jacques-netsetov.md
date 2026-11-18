@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jacques-netsetov.svg
 name: Blessed Jacques Netsetov
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-themelius-of-mytilene.svg
 name: Saint Themelius of Mytilene
 stub: true
 honorific: Saint

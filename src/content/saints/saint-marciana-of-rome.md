@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marciana-of-rome.svg
 name: Saint Marciana of Rome
 stub: false
 honorific: Saint

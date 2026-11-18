@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-macrine-of-niort.svg
 name: Saint Macrine of Niort
 stub: false
 honorific: Saint

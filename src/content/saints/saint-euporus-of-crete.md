@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-euporus-of-crete.svg
 name: Saint Euporus of Crete
 stub: false
 honorific: Saint

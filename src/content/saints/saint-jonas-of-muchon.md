@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jonas-of-muchon.svg
 name: Saint Jonas of Muchon
 stub: false
 honorific: Saint

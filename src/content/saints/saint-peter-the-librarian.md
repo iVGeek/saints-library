@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-the-librarian.svg
 name: Saint Peter the Librarian
 stub: true
 honorific: Saint

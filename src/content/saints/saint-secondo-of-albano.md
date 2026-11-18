@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secondo-of-albano.svg
 name: Saint Secondo of Albano
 stub: true
 honorific: Saint

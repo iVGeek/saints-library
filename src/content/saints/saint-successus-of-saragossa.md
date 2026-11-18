@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-successus-of-saragossa.svg
 name: Saint Successus of Saragossa
 stub: false
 honorific: Saint

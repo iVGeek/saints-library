@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eoban.svg
 name: Saint Eobán of Utrecht
 stub: false
 honorific: Saint

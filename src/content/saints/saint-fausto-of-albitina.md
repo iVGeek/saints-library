@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fausto-of-albitina.svg
 name: Saint Fausto of Albitina
 stub: false
 honorific: Saint

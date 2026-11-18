@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-philocalus-of-thessalonica.svg
 name: Saint Philocalus of Thessalonica
 stub: true
 honorific: Saint

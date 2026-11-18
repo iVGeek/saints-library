@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-john-slade.svg
 name: Blessed John Slade
 stub: false
 honorific: Blessed

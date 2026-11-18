@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-petar-barbaric.svg
 name: Venerable Petar Barbaric
 stub: true
 honorific: Venerable

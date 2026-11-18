@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-petrus-yahyoe.svg
 name: Blessed Petrus Yahyoe
 stub: false
 honorific: Blessed

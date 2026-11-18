@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-blasto-of-rome.svg
 name: Saint Blasto of Rome
 stub: true
 honorific: Saint

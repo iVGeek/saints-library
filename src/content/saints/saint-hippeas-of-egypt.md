@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hippeas-of-egypt.svg
 name: Saint Hippeas of Egypt
 stub: false
 honorific: Saint

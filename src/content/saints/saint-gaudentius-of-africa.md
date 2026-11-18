@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gaudentius-of-africa.svg
 name: Saint Gaudentius of Africa
 stub: true
 honorific: Saint

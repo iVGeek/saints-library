@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-of-braga.svg
 name: Saint Peter of Braga
 stub: true
 honorific: Saint

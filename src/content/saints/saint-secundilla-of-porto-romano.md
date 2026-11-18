@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secundilla-of-porto-romano.svg
 name: Saint Secundilla of Porto Romano
 stub: false
 honorific: Saint

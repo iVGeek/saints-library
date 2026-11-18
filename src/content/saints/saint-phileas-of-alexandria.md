@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-phileas-of-alexandria.svg
 name: Saint Phileas of Alexandria
 stub: false
 honorific: Saint

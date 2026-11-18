@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-anglinus-of-stavelot.svg
 name: Saint Anglinus of Stavelot
 stub: true
 honorific: Saint

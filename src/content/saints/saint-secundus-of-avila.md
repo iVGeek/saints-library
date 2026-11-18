@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secundus-of-avila.svg
 name: Saint Secundus of Avila
 stub: false
 honorific: Saint

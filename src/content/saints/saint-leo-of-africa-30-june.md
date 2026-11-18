@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-leo-of-africa-30-june.svg
 name: Saint Leo of Africa
 stub: true
 honorific: Saint

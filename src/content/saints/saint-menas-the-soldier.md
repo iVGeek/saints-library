@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-menas-the-soldier.svg
 name: Saint Menas the Soldier
 stub: false
 honorific: Saint

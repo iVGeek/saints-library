@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-protasius-chong-kuk-bo.svg
 name: Saint Protasius Chong Kuk-bo
 stub: false
 honorific: Venerable

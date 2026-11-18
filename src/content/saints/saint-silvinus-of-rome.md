@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-silvinus-of-rome.svg
 name: Saint Silvinus of Rome
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sabas-of-bardiaboch.svg
 name: Saint Sabas of Bardiaboch
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thecla-of-caesarea.svg
 name: Saint Thecla of Caesarea
 stub: false
 honorific: Saint

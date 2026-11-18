@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thomian-of-armagh.svg
 name: Saint Thomian of Armagh
 stub: false
 honorific: Saint

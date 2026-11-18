@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mamillus-of-north-africa.svg
 name: Saint Mamillus of North Africa
 stub: true
 honorific: Saint

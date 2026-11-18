@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ioannes-zhang-tianshen.svg
 name: Saint Ioannes Zhang Tianshen
 stub: false
 honorific: Venerable

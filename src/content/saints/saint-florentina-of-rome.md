@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-florentina-of-rome.svg
 name: Saint Florentina of Rome
 stub: false
 honorific: Saint

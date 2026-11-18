@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ioannes-hattori-jingoro.svg
 name: Blessed Ioannes Hattori Jingoro
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-manuel-montilla-canete.svg
 name: Blessed Manuel Montilla Cañete
 stub: true
 honorific: Blessed

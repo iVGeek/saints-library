@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-leovigildo-avalos-gonzalez.svg
 name: Blessed Leovigildo Ávalos González
 stub: false
 honorific: Blessed

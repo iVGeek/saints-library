@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-belengerius-of-montauto.svg
 name: Blessed Belengerius of Montauto
 stub: false
 honorific: Blessed

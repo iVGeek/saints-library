@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julian-of-mesopotamia.svg
 name: Saint Julian of Mesopotamia
 stub: false
 honorific: Saint

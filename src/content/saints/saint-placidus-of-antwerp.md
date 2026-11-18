@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-placidus-of-antwerp.svg
 name: Saint Placidus of Antwerp
 stub: true
 honorific: Saint

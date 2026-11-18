@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-martyrius-of-valeria.svg
 name: Saint Martyrius of Valeria
 stub: true
 honorific: Saint

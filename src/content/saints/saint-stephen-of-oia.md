@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stephen-of-oia.svg
 name: Saint Stephen of Oia
 stub: false
 honorific: Saint

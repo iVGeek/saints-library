@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-longinus-of-mytilene.svg
 name: Saint Longinus of Mytilene
 stub: true
 honorific: Saint

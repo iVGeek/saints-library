@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gwrddelw.svg
 name: Saint Gwrddelw
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-of-veroli.svg
 name: Saint Peter of Veroli
 stub: true
 honorific: Saint

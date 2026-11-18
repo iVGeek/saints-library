@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ioannes-minami-gorozaemon.svg
 name: Blessed Ioannes Minami Gorozaemon
 stub: false
 honorific: Blessed

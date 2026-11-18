@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ternatius-of-besancon.svg
 name: Saint Ternatius of Besançon
 stub: true
 honorific: Saint

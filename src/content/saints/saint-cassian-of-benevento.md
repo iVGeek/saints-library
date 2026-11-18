@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cassian-of-benevento.svg
 name: Saint Cassian of Benevento
 stub: true
 honorific: Saint

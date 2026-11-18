@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-robustian-of-milan.svg
 name: Saint Robustian of Milan
 stub: true
 honorific: Saint

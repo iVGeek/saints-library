@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cerbonius-of-verona.svg
 name: Saint Cerbonius  of Verona
 stub: true
 honorific: Saint

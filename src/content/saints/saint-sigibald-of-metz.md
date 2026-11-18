@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sigibald-of-metz.svg
 name: Saint Sigibald of Metz
 stub: false
 honorific: Saint

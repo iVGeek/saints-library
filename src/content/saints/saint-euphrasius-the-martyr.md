@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-euphrasius-the-martyr.svg
 name: Saint Euphrasius the Martyr
 stub: true
 honorific: Saint

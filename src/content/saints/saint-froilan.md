@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-froilan.svg
 name: Saint Froilan
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-amnichad-of-fulda.svg
 name: Saint Amnichad of Fulda
 stub: true
 honorific: Saint

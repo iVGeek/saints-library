@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-chrestus-of-africa.svg
 name: Saint Chrestus of Africa
 stub: true
 honorific: Saint

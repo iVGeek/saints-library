@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-danzio-of-albitina.svg
 name: Saint Danzio of Albitina
 stub: false
 honorific: Saint

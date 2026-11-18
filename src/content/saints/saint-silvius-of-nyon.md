@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-silvius-of-nyon.svg
 name: Saint Silvius of Nyon
 stub: true
 honorific: Saint

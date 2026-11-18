@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felicissima-of-rome.svg
 name: Saint Felicissima of Rome
 stub: false
 honorific: Saint

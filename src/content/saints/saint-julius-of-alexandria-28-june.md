@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julius-of-alexandria-28-june.svg
 name: Saint Julius of Alexandria
 stub: true
 honorific: Saint

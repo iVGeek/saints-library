@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ammonaria-of-alexandria.svg
 name: Saint Ammonaria of Alexandria
 stub: true
 honorific: Saint

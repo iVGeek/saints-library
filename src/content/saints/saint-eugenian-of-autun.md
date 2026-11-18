@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eugenian-of-autun.svg
 name: Saint Eugenian of Autun
 stub: false
 honorific: Saint

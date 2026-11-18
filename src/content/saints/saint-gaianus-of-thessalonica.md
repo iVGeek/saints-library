@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gaianus-of-thessalonica.svg
 name: Saint Gaianus of Thessalonica
 stub: true
 honorific: Saint

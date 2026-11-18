@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tirechan.svg
 name: Saint Tírechán
 stub: false
 honorific: Saint

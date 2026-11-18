@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-berthold-of-scheide.svg
 name: Blessed Berthold of Scheide
 stub: false
 honorific: Blessed

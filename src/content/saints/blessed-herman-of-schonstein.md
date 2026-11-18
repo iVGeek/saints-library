@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-herman-of-schonstein.svg
 name: Blessed Herman of Schönstein
 stub: false
 honorific: Blessed

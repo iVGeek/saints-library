@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-lorenzo-ontanon-rey.svg
 name: Venerable Lorenzo Ontañón Rey
 stub: false
 honorific: Venerable

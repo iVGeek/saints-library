@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-waningus-of-fecamp.svg
 name: Saint Waningus of Fécamp
 stub: false
 honorific: Saint

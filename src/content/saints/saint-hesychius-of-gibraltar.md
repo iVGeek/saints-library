@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hesychius-of-gibraltar.svg
 name: Saint Hesychius of Gibraltar
 stub: false
 honorific: Saint

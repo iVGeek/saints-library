@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-afflinus.svg
 name: Saint Afflinus
 stub: true
 honorific: Saint

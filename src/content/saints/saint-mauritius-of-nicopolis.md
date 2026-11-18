@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mauritius-of-nicopolis.svg
 name: Saint Mauritius of Nicopolis
 stub: true
 honorific: Saint

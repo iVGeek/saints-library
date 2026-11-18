@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-golinduchus.svg
 name: Saint Golinduchus
 stub: false
 honorific: Saint

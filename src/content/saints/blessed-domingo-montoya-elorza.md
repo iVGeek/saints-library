@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-domingo-montoya-elorza.svg
 name: Blessed Domingo Montoya Elorza
 stub: true
 honorific: Blessed

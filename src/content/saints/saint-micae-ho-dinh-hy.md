@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-micae-ho-dinh-hy.svg
 name: Saint Micae Hô Ðình Hy
 stub: false
 honorific: Saint

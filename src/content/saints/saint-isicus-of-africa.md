@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-isicus-of-africa.svg
 name: Saint Isicus of Africa
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-florentius.svg
 name: Saint Florentius
 stub: false
 honorific: Saint

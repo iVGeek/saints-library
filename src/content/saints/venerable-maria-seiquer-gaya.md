@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-maria-seiquer-gaya.svg
 name: Venerable María Séiquer Gayá
 stub: true
 honorific: Venerable

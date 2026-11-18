@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vaughe-of-ireland.svg
 name: Saint Vaughe of Ireland
 stub: false
 honorific: Saint

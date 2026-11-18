@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-potamia-of-thagura.svg
 name: Saint Potamia of Thagura
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-torquatus-of-guadix.svg
 name: Saint Torquatus of Guadix
 stub: false
 honorific: Saint

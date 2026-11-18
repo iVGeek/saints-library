@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-teuteria-of-verona.svg
 name: Saint Teuteria of Verona
 stub: false
 honorific: Saint

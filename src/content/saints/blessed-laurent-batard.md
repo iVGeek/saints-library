@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-laurent-batard.svg
 name: Blessed Laurent Bâtard
 stub: false
 honorific: Blessed

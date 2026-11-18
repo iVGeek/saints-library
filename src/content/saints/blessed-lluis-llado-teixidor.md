@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-lluis-llado-teixidor.svg
 name: Blessed Lluís Lladó Teixidor
 stub: true
 honorific: Blessed

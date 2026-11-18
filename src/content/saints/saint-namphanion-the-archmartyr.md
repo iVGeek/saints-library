@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-namphanion-the-archmartyr.svg
 name: Saint Namphanion the Archmartyr
 stub: false
 honorific: Saint

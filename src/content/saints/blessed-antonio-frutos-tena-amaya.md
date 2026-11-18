@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-antonio-frutos-tena-amaya.svg
 name: Blessed Antonio Frutos Tena Amaya
 stub: false
 honorific: Blessed

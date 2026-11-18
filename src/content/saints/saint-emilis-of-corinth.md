@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-emilis-of-corinth.svg
 name: Saint Emilis of Corinth
 stub: true
 honorific: Saint

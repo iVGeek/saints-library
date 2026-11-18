@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-venustus-the-martyr.svg
 name: Saint Venustus the Martyr
 stub: true
 honorific: Saint

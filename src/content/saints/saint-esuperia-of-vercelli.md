@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-esuperia-of-vercelli.svg
 name: Saint Esuperia of Vercelli
 stub: false
 honorific: Saint

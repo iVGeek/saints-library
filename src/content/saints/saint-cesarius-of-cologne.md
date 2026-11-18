@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cesarius-of-cologne.svg
 name: Saint Cesarius of Cologne
 stub: true
 honorific: Saint

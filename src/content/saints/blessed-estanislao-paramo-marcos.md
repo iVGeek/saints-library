@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-estanislao-paramo-marcos.svg
 name: Blessed Estanislao Páramo Marcos
 stub: false
 honorific: Blessed

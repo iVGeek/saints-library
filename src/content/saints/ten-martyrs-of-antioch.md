@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/ten-martyrs-of-antioch.svg
 name: Ten Martyrs of Antioch
 stub: false
 honorific: Saint

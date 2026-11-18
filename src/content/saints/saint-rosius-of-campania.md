@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rosius-of-campania.svg
 name: Saint Rosius of Campania
 stub: false
 honorific: Saint

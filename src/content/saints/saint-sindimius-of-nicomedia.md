@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sindimius-of-nicomedia.svg
 name: Saint Sindimius of Nicomedia
 stub: true
 honorific: Saint

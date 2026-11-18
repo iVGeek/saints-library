@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyriacus-of-pamphylia.svg
 name: Saint Cyriacus of Pamphylia
 stub: false
 honorific: Saint

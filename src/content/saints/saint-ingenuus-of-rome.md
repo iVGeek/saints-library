@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ingenuus-of-rome.svg
 name: Saint Ingenuus of Rome
 stub: true
 honorific: Saint

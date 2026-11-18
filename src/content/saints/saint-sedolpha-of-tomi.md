@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sedolpha-of-tomi.svg
 name: Saint Sedolpha of Tomi
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-benedicta-of-laon.svg
 name: Saint Benedicta of Laon
 stub: true
 honorific: Saint

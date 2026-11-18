@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dalmatius-of-rodez.svg
 name: Saint Dalmatius of Rodez
 stub: false
 honorific: Saint

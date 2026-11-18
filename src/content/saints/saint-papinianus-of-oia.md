@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-papinianus-of-oia.svg
 name: Saint Papinianus of Oia
 stub: false
 honorific: Saint

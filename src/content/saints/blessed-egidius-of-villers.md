@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-egidius-of-villers.svg
 name: Blessed Egidius of Villers
 stub: false
 honorific: Blessed

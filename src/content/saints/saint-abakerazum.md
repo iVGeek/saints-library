@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-abakerazum.svg
 name: Saint Abakerazum
 stub: false
 honorific: Saint

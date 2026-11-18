@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-silvano-villanueva-gonzalez.svg
 name: Blessed Silvano Villanueva González
 stub: false
 honorific: Blessed

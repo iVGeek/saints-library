@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-haduin-of-le-mans.svg
 name: Saint Haduin of Le Mans
 stub: false
 honorific: Saint

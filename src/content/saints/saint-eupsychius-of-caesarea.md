@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eupsychius-of-caesarea.svg
 name: Saint Eupsychius of Caesarea
 stub: true
 honorific: Saint

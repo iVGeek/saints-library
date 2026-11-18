@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-paulus-anazawa-juzaburo.svg
 name: Blessed Paulus Anazawa Juzaburo
 stub: false
 honorific: Blessed

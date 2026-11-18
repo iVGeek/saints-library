@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theognia-of-mineo.svg
 name: Saint Theognia of Mineo
 stub: false
 honorific: Saint

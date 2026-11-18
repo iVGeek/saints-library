@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-benito-quintano-diaz.svg
 name: Blessed Benito Quintano Díaz
 stub: false
 honorific: Blessed

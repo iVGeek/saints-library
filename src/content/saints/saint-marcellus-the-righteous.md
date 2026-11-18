@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcellus-the-righteous.svg
 name: Saint Marcellus the Righteous
 stub: false
 honorific: Saint

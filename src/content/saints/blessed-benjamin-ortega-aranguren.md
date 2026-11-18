@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-benjamin-ortega-aranguren.svg
 name: Blessed Benjamin Ortega Aranguren
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julius-of-antwerp.svg
 name: Saint Julius of Antwerp
 stub: true
 honorific: Saint

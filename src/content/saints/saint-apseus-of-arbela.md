@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-apseus-of-arbela.svg
 name: Saint Apseus of Arbela
 stub: true
 honorific: Saint

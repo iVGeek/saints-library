@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ignacio-tejero-molina.svg
 name: Blessed Ignacio Tejero Molina
 stub: false
 honorific: Blessed

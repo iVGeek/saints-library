@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eusebia-of-bergamo.svg
 name: Saint Eusebia of Bergamo
 stub: false
 honorific: Saint

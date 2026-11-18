@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-nicolaus-fukunaga-keian.svg
 name: Blessed Nicolaus Fukunaga Keian
 stub: true
 honorific: Blessed

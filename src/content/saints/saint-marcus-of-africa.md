@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcus-of-africa.svg
 name: Saint Marcus of Africa
 stub: false
 honorific: Saint

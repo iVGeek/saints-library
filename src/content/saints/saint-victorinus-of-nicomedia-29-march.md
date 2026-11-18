@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victorinus-of-nicomedia-29-march.svg
 name: Saint Victorinus of Nicomedia
 stub: false
 honorific: Saint

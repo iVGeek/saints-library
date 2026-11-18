@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-adalbert-of-caramaico.svg
 name: Blessed Adalbert of Caramaico
 stub: false
 honorific: Blessed

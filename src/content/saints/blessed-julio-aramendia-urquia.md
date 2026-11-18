@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-julio-aramendia-urquia.svg
 name: Blessed Julio Aramendía Urquía
 stub: false
 honorific: Blessed

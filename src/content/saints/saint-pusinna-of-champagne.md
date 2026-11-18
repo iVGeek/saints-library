@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pusinna-of-champagne.svg
 name: Saint Pusinna of Champagne
 stub: false
 honorific: Saint

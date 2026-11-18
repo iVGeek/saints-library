@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-francoveus.svg
 name: Saint Francoveus
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rutianus-of-rome.svg
 name: Saint Rutianus of Rome
 stub: true
 honorific: Saint

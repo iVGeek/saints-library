@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-basileus-of-braga.svg
 name: Saint Basileus of Braga
 stub: true
 honorific: Saint

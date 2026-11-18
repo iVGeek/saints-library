@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-damiano-of-novellara.svg
 name: Saint Damiano of Novellara
 stub: true
 honorific: Saint

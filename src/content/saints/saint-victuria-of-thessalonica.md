@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victuria-of-thessalonica.svg
 name: Saint Victuria of Thessalonica
 stub: true
 honorific: Saint

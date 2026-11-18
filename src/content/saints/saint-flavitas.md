@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-flavitas.svg
 name: Saint Flavitas
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-walbert-of-hainault.svg
 name: Saint Walbert of Hainault
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-of-chinon.svg
 name: Saint John of Chinon
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victor-of-ravenna.svg
 name: Saint Victor of Ravenna
 stub: true
 honorific: Saint

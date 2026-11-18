@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-joaquim-gelada-hugas.svg
 name: Blessed Joaquim Gelada Hugas
 stub: false
 honorific: Blessed

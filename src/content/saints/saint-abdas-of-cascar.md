@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-abdas-of-cascar.svg
 name: Saint Abdas of Cascar
 stub: false
 honorific: Saint

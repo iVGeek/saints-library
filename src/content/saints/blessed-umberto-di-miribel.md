@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-umberto-di-miribel.svg
 name: Blessed Umberto di Miribel
 stub: false
 honorific: Blessed

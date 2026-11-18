@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-batone-of-freising.svg
 name: Blessed Batone of Freising
 stub: false
 honorific: Blessed

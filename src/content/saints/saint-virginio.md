@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-virginio.svg
 name: Saint Virginio
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-januarius-of-cordoba.svg
 name: Saint Januarius of Cordoba
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-primus.svg
 name: Saint Primus of Antioch
 stub: false
 honorific: Saint

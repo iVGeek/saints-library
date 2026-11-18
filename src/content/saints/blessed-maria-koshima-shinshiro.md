@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-maria-koshima-shinshiro.svg
 name: Blessed Maria Koshima Shinshiro
 stub: false
 honorific: Blessed

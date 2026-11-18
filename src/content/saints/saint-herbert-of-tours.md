@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-herbert-of-tours.svg
 name: Saint Herbert of Tours
 stub: true
 honorific: Saint

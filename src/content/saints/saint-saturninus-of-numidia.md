@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturninus-of-numidia.svg
 name: Saint Saturninus of Numidia
 stub: true
 honorific: Saint

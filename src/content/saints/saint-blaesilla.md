@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-blaesilla.svg
 name: Saint Blaesilla
 stub: false
 honorific: Saint

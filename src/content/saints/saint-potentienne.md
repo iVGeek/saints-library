@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-potentienne.svg
 name: Saint Potentienne
 stub: true
 honorific: Saint

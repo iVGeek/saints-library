@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-serapion-of-nicomedia.svg
 name: Saint Serapion of Nicomedia
 stub: true
 honorific: Saint

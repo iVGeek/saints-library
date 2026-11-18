@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mustula-of-rome.svg
 name: Saint Mustula of Rome
 stub: true
 honorific: Saint

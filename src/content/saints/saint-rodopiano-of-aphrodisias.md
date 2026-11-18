@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rodopiano-of-aphrodisias.svg
 name: Saint Rodopiano of Aphrodisias
 stub: true
 honorific: Saint

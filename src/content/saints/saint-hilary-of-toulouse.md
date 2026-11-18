@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hilary-of-toulouse.svg
 name: Saint Hilary of Toulouse
 stub: true
 honorific: Saint

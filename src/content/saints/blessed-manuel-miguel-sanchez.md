@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-manuel-miguel-sanchez.svg
 name: Blessed Manuel Miguel Sánchez
 stub: false
 honorific: Blessed

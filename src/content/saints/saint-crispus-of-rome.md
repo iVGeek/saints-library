@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crispus-of-rome.svg
 name: Saint Crispus of Rome
 stub: false
 honorific: Saint

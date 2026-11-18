@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fergna-the-white.svg
 name: Saint Fergna the White
 stub: false
 honorific: Saint

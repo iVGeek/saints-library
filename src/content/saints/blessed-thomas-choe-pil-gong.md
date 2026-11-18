@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-thomas-choe-pil-gong.svg
 name: Blessed Thomas Choe Pil-gong
 stub: true
 honorific: Blessed

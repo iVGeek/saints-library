@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gwestlan-of-menevia.svg
 name: Saint Gwestlan of Menevia
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cuan.svg
 name: Saint Cuan
 stub: false
 honorific: Saint

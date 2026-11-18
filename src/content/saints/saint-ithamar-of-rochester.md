@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ithamar-of-rochester.svg
 name: Saint Ithamar of Rochester
 stub: false
 honorific: Saint

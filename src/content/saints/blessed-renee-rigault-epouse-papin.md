@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-renee-rigault-epouse-papin.svg
 name: Blessed Renée Rigault épouse Papin
 stub: false
 honorific: Blessed

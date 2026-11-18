@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-n-shichizaemon.svg
 name: Blessed N. Shichizaemon
 stub: false
 honorific: Blessed

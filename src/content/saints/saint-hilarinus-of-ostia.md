@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hilarinus-of-ostia.svg
 name: Saint Hilarinus of Ostia
 stub: true
 honorific: Saint

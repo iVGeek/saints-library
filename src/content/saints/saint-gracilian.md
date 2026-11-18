@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gracilian.svg
 name: Saint Gracilian
 stub: false
 honorific: Saint

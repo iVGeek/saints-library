@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secunda-of-rome-2.svg
 name: Saint Secunda of Rome
 stub: false
 honorific: Saint

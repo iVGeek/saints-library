@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zoticus-of-nicomedia.svg
 name: Saint Zoticus of Nicomedia
 stub: false
 honorific: Saint

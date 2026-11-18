@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-lluis-estruch-vives.svg
 name: Blessed Lluís Estruch Vives
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-velleicus.svg
 name: Saint Velleicus
 stub: false
 honorific: Saint

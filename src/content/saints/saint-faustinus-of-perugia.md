@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-faustinus-of-perugia.svg
 name: Saint Faustinus of Perugia
 stub: true
 honorific: Saint

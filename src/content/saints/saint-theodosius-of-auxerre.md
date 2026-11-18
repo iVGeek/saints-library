@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodosius-of-auxerre.svg
 name: Saint Theodosius of Auxerre
 stub: true
 honorific: Saint

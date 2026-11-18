@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dyfnan-of-anglesey.svg
 name: Saint Dyfnan of Anglesey
 stub: true
 honorific: Saint

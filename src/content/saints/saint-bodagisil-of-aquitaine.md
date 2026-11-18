@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bodagisil-of-aquitaine.svg
 name: Saint Bodagisil of Aquitaine
 stub: false
 honorific: Saint

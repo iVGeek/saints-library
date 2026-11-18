@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-agatonico-of-thrace.svg
 name: Saint Agatonico of Thrace
 stub: true
 honorific: Saint

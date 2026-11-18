@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-aquilinus-of-evreux.svg
 name: Saint Aquilinus of Evreux
 stub: false
 honorific: Saint

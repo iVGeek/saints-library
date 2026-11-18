@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-damascus.svg
 name: Saint Maximus of Damascus
 stub: false
 honorific: Saint

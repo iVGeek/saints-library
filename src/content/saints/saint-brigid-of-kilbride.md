@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-brigid-of-kilbride.svg
 name: Saint Brigid of Kilbride
 stub: false
 honorific: Saint

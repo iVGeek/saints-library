@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-adolfo-barberis.svg
 name: Venerable Adolfo Barberis
 stub: false
 honorific: Venerable

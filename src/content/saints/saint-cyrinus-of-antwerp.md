@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyrinus-of-antwerp.svg
 name: Saint Cyrinus of Antwerp
 stub: true
 honorific: Saint

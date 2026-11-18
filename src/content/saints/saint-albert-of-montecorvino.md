@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-albert-of-montecorvino.svg
 name: Saint Albert of Montecorvino
 stub: false
 honorific: Saint

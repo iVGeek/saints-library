@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-chariton-of-tiberiopolis.svg
 name: Saint Chariton of Tiberiopolis
 stub: false
 honorific: Saint

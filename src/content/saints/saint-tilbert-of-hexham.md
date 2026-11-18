@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tilbert-of-hexham.svg
 name: Saint Tilbert of Hexham
 stub: true
 honorific: Saint

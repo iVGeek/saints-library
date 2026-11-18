@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-faustinus-of-brescia.svg
 name: Saint Faustinus of Brescia
 stub: false
 honorific: Saint

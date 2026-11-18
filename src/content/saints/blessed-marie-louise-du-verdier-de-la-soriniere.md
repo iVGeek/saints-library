@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-marie-louise-du-verdier-de-la-soriniere.svg
 name: Blessed Marie-Louise du Verdier de la Sorinière
 stub: false
 honorific: Blessed

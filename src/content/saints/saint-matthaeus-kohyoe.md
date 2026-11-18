@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-matthaeus-kohyoe.svg
 name: Saint Matthaeus Kohyoe
 stub: true
 honorific: Venerable

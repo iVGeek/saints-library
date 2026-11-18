@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-killene-mac-lubney.svg
 name: Saint Killene mac Lubney
 stub: true
 honorific: Saint

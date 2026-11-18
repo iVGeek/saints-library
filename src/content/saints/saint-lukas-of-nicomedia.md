@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lukas-of-nicomedia.svg
 name: Saint Lukas of Nicomedia
 stub: true
 honorific: Saint

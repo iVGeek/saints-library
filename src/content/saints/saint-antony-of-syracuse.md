@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-antony-of-syracuse.svg
 name: Saint Antony of Syracuse
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-veneria-of-rome.svg
 name: Saint Veneria of Rome
 stub: true
 honorific: Saint

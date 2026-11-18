@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hermellus.svg
 name: Saint Hermellus
 stub: true
 honorific: Saint

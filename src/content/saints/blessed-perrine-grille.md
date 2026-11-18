@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-perrine-grille.svg
 name: Blessed Perrine Grille
 stub: false
 honorific: Blessed

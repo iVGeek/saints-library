@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-robert-of-matallana.svg
 name: Blessed Robert of Matallana
 stub: false
 honorific: Blessed

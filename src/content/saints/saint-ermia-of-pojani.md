@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ermia-of-pojani.svg
 name: Saint Ermia of Pojani
 stub: true
 honorific: Saint

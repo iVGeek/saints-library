@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-victoire-bauduceau-epouse-reveliere.svg
 name: Blessed Victoire Bauduceau épouse Révélière
 stub: false
 honorific: Blessed

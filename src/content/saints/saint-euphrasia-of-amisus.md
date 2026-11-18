@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-euphrasia-of-amisus.svg
 name: Saint Euphrasia of Amisus
 stub: false
 honorific: Saint

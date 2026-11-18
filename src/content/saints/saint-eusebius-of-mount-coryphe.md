@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eusebius-of-mount-coryphe.svg
 name: Saint Eusebius of Mount Coryphe
 stub: true
 honorific: Saint

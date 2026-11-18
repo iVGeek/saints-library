@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-urbicius-3-june.svg
 name: Saint Urbicius
 stub: false
 honorific: Saint

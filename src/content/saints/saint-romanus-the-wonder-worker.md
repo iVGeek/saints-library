@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-romanus-the-wonder-worker.svg
 name: Saint Romanus the Wonder Worker
 stub: true
 honorific: Saint

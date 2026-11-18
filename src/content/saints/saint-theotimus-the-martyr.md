@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theotimus-the-martyr.svg
 name: Saint Theotimus the Martyr
 stub: true
 honorific: Saint

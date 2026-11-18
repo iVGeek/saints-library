@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-siricius-of-hadrumetum.svg
 name: Saint Siricius of Hadrumetum
 stub: true
 honorific: Saint

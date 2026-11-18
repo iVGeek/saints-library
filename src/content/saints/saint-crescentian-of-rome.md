@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crescentian-of-rome.svg
 name: Saint Crescentian of Rome
 stub: true
 honorific: Saint

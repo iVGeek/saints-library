@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-turinus-of-rome.svg
 name: Saint Turinus of Rome
 stub: false
 honorific: Saint

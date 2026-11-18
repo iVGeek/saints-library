@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-concessa-of-carthage.svg
 name: Saint Concessa of Carthage
 stub: true
 honorific: Saint

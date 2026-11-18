@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-urbana-of-thessalonica.svg
 name: Saint Urbana of Thessalonica
 stub: true
 honorific: Saint

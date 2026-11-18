@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crescens-of-myra.svg
 name: Saint Crescens of Myra
 stub: true
 honorific: Saint

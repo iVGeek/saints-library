@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-didorus.svg
 name: Saint Didorus
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-beata-of-ribnitz.svg
 name: Saint Beata of Ribnitz
 stub: false
 honorific: Saint

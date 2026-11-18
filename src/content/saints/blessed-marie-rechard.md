@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-marie-rechard.svg
 name: Blessed Marie Rechard
 stub: false
 honorific: Blessed

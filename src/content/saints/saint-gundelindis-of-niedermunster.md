@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gundelindis-of-niedermunster.svg
 name: Saint Gundelindis of Niedermünster
 stub: false
 honorific: Saint

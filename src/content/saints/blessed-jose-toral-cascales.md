@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jose-toral-cascales.svg
 name: Blessed José Toral Cascales
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stephen-of-palestrina.svg
 name: Saint Stephen of Palestrina
 stub: false
 honorific: Saint

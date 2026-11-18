@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sylvanus-the-hermit.svg
 name: Saint Sylvanus the Hermit
 stub: true
 honorific: Saint

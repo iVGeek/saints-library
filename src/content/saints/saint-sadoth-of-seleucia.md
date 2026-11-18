@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sadoth-of-seleucia.svg
 name: Saint Sadoth of Seleucia
 stub: false
 honorific: Saint

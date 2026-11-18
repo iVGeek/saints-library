@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ulfo-of-troyes.svg
 name: Saint Ulfo of Troyes
 stub: true
 honorific: Saint

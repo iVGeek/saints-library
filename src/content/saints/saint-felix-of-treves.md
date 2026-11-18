@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felix-of-treves.svg
 name: Saint Felix of Treves
 stub: false
 honorific: Saint

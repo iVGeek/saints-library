@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jucundus-of-rheims.svg
 name: Saint Jucundus of Rheims
 stub: true
 honorific: Saint

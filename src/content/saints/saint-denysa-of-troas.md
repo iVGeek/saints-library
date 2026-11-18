@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-denysa-of-troas.svg
 name: Saint Denysa of Troas
 stub: false
 honorific: Saint

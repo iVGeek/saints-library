@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hireneus-of-alexandria.svg
 name: Saint Hireneus of Alexandria
 stub: true
 honorific: Saint

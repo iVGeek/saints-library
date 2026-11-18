@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-brigid-of-picardy.svg
 name: Saint Brigid of Picardy
 stub: true
 honorific: Saint

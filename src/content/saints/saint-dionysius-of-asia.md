@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dionysius-of-asia.svg
 name: Saint Dionysius of Asia
 stub: false
 honorific: Saint

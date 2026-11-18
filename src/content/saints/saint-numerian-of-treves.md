@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-numerian-of-treves.svg
 name: Saint Numerian of Treves
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-athanasia-of-canope.svg
 name: Saint Athanasia of Canope
 stub: false
 honorific: Saint

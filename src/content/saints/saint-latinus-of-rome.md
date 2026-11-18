@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-latinus-of-rome.svg
 name: Saint Latinus of Rome
 stub: true
 honorific: Saint

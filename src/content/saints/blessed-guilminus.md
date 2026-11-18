@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-guilminus.svg
 name: Blessed Guilminus
 stub: false
 honorific: Blessed

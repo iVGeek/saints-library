@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-diemut-of-saint-gall.svg
 name: Saint Diemut of Saint Gall
 stub: true
 honorific: Saint

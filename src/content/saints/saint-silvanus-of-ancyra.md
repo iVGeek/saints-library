@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-silvanus-of-ancyra.svg
 name: Saint Silvanus of Ancyra
 stub: true
 honorific: Saint

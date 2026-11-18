@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-domece.svg
 name: Saint Domèce
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-neapolus-of-nicaea.svg
 name: Saint Neapolus of Nicaea
 stub: true
 honorific: Saint

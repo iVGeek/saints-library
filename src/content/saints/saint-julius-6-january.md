@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julius-6-january.svg
 name: Saint Julius
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-barbasymas.svg
 name: Saint Barbasymas
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peleus-of-phunon.svg
 name: Saint Peleus of Phunon
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mavorus-of-rome.svg
 name: Saint Mavorus of Rome
 stub: false
 honorific: Saint

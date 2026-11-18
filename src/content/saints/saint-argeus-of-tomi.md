@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-argeus-of-tomi.svg
 name: Saint Argeus of Tomi
 stub: false
 honorific: Saint

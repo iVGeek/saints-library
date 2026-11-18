@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-guiniboldus-of-como.svg
 name: Saint Guiniboldus of Como
 stub: false
 honorific: Saint

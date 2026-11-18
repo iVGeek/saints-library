@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-quarto-of-capua.svg
 name: Saint Quarto of Capua
 stub: true
 honorific: Saint

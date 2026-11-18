@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ammon.svg
 name: Saint Ammon of Alexandria
 stub: true
 honorific: Saint

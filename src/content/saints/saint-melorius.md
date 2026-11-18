@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-melorius.svg
 name: Saint Melorius
 stub: true
 honorific: Saint

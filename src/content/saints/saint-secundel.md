@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secundel.svg
 name: Saint Secundel
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-euerotas-of-nicaea.svg
 name: Saint Euerotas of Nicaea
 stub: true
 honorific: Saint

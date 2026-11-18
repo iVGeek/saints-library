@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mydwyn.svg
 name: Saint Mydwyn
 stub: false
 honorific: Saint

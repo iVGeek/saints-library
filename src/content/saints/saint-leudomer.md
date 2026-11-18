@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-leudomer.svg
 name: Saint Leudomer
 stub: true
 honorific: Saint

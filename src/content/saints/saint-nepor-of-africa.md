@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nepor-of-africa.svg
 name: Saint Nepor of Africa
 stub: true
 honorific: Saint

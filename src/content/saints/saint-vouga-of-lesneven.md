@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vouga-of-lesneven.svg
 name: Saint Vouga of Lesneven
 stub: false
 honorific: Saint

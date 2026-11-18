@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-maurin-of-auxerre.svg
 name: Venerable Maurin of Auxerre
 stub: false
 honorific: Venerable

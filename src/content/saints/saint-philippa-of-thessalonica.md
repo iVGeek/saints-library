@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-philippa-of-thessalonica.svg
 name: Saint Philippa of Thessalonica
 stub: false
 honorific: Saint

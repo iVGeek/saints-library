@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-eriberto-of-namur.svg
 name: Blessed Eriberto of Namur
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-emmanuel-le-van-phung.svg
 name: Saint Emmanuel Lê Van Phung
 stub: false
 honorific: Saint

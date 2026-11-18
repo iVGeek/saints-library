@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eugene-of-raith-sithe.svg
 name: Saint Eugene of Raith-Sithe
 stub: true
 honorific: Saint

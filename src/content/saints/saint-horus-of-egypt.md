@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-horus-of-egypt.svg
 name: Saint Horus of Egypt
 stub: false
 honorific: Saint

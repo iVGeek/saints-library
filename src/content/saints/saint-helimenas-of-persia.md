@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-helimenas-of-persia.svg
 name: Saint Helimenas of Persia
 stub: true
 honorific: Saint

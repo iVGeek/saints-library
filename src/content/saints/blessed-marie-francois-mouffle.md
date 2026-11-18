@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-marie-francois-mouffle.svg
 name: Blessed Marie-François Mouffle
 stub: true
 honorific: Blessed

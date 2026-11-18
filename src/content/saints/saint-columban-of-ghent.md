@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-columban-of-ghent.svg
 name: Saint Columban of Ghent
 stub: false
 honorific: Saint

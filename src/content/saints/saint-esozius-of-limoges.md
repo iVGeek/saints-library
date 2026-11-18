@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-esozius-of-limoges.svg
 name: Saint Esozius of Limoges
 stub: false
 honorific: Saint

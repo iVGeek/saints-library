@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-paschasia-of-dijon.svg
 name: Saint Paschasia of Dijon
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-quadratus-of-nicomedia.svg
 name: Saint Quadratus of Nicomedia
 stub: true
 honorific: Saint

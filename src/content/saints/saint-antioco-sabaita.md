@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-antioco-sabaita.svg
 name: Saint Antioco Sabaita
 stub: true
 honorific: Saint

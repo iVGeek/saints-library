@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-thurstan-hunt.svg
 name: Blessed Thurstan Hunt
 stub: false
 honorific: Blessed

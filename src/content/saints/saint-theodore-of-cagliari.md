@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodore-of-cagliari.svg
 name: Saint Theodore of Cagliari
 stub: true
 honorific: Saint

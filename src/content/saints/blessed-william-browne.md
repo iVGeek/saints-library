@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-william-browne.svg
 name: Blessed William Browne
 stub: false
 honorific: Blessed

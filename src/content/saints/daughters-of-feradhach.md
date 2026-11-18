@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/daughters-of-feradhach.svg
 name: Daughters of Feradhach
 stub: false
 honorific: Saint

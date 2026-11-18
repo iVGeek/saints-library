@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julian-of-carthage.svg
 name: Saint Julian of Carthage
 stub: false
 honorific: Saint

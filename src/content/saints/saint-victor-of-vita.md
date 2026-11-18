@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victor-of-vita.svg
 name: Saint Victor of Vita
 stub: false
 honorific: Saint

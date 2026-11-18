@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bicor.svg
 name: Saint Bicor
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-radegund.svg
 name: Saint Radegund
 stub: false
 honorific: Saint

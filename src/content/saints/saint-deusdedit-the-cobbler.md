@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-deusdedit-the-cobbler.svg
 name: Saint Deusdedit the Cobbler
 stub: false
 honorific: Saint

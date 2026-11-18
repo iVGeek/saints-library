@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cynfran-of-wales.svg
 name: Saint Cynfran of Wales
 stub: false
 honorific: Saint

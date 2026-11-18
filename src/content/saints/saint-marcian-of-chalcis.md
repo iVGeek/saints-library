@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcian-of-chalcis.svg
 name: Saint Marcian of Chalcis
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-martirio-of-africa.svg
 name: Saint Martirio of Africa
 stub: false
 honorific: Saint

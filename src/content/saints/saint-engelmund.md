@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-engelmund.svg
 name: Saint Engelmund
 stub: false
 honorific: Saint

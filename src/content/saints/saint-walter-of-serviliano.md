@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-walter-of-serviliano.svg
 name: Saint Walter of Serviliano
 stub: false
 honorific: Saint

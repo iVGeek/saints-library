@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-madelgisilus.svg
 name: Saint Madelgisilus
 stub: false
 honorific: Saint

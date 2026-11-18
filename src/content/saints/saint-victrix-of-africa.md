@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victrix-of-africa.svg
 name: Saint Victrix of Africa
 stub: true
 honorific: Saint

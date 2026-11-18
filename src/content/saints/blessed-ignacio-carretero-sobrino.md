@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ignacio-carretero-sobrino.svg
 name: Blessed Ignacio Carretero Sobrino
 stub: false
 honorific: Blessed

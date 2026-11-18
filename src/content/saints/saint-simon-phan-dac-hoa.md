@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-simon-phan-dac-hoa.svg
 name: Saint Simon Phan Ðac Hòa
 stub: false
 honorific: Venerable

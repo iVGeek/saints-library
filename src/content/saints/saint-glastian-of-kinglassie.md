@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-glastian-of-kinglassie.svg
 name: Saint Glastian of Kinglassie
 stub: false
 honorific: Saint

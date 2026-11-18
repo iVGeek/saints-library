@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-pedro-de-alcantara-bernalte-calzado.svg
 name: Blessed Pedro de Alcántara Bernalte Calzado
 stub: false
 honorific: Blessed

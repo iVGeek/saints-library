@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eutropius-of-porto.svg
 name: Saint Eutropius of Porto
 stub: true
 honorific: Saint

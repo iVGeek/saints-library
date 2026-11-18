@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-demetra-of-treschietto.svg
 name: Saint Demetra of Treschietto
 stub: false
 honorific: Saint

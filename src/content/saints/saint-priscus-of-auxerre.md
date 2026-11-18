@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-priscus-of-auxerre.svg
 name: Saint Priscus of Auxerre
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eonus-of-arles.svg
 name: Saint Eonus of Arles
 stub: false
 honorific: Saint

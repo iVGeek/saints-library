@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sylvester-of-assisi.svg
 name: Blessed Sylvester of Assisi
 stub: false
 honorific: Blessed

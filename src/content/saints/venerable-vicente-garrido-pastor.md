@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-vicente-garrido-pastor.svg
 name: Venerable Vicente Garrido Pastor
 stub: false
 honorific: Venerable

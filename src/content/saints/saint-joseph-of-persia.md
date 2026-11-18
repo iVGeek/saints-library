@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-joseph-of-persia.svg
 name: Saint Joseph of Persia
 stub: true
 honorific: Saint

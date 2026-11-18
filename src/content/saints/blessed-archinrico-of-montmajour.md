@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-archinrico-of-montmajour.svg
 name: Blessed Archinrico of Montmajour
 stub: false
 honorific: Blessed

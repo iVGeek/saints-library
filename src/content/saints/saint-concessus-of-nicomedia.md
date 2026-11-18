@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-concessus-of-nicomedia.svg
 name: Saint Concessus of Nicomedia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-terence-of-metz.svg
 name: Saint Terence of Metz
 stub: false
 honorific: Saint

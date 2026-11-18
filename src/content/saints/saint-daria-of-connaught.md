@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-daria-of-connaught.svg
 name: Saint Daria of Connaught
 stub: false
 honorific: Saint

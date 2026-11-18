@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-urbanus-of-thessalonica.svg
 name: Saint Urbanus of Thessalonica
 stub: false
 honorific: Saint

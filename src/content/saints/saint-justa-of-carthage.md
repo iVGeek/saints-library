@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-justa-of-carthage.svg
 name: Saint Justa of Carthage
 stub: true
 honorific: Saint

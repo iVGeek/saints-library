@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tryphosa-of-iconium.svg
 name: Saint Tryphosa of Iconium
 stub: false
 honorific: Saint

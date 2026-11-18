@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julia-the-martyr.svg
 name: Saint Julia the Martyr
 stub: true
 honorific: Saint

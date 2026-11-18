@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vitalis-3-november.svg
 name: Saint Vitalis
 stub: true
 honorific: Saint

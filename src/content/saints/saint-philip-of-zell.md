@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-philip-of-zell.svg
 name: Saint Philip of Zell
 stub: false
 honorific: Saint

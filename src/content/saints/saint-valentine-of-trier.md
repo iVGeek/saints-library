@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valentine-of-trier.svg
 name: Saint Valentine of Trier
 stub: true
 honorific: Saint

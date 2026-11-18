@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodotus-of-heraclea.svg
 name: Saint Theodotus of Heraclea
 stub: true
 honorific: Saint

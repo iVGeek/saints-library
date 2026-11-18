@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-emilius-of-ravenna.svg
 name: Saint Emilius of Ravenna
 stub: true
 honorific: Saint

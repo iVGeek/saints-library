@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valerius-of-trier.svg
 name: Saint Valerius of Trier
 stub: false
 honorific: Saint

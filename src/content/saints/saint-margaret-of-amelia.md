@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-margaret-of-amelia.svg
 name: Saint Margaret of Amelia
 stub: true
 honorific: Saint

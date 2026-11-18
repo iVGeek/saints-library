@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-of-syracuse.svg
 name: Saint Peter of Syracuse
 stub: false
 honorific: Saint

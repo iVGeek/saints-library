@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-maria-antonella-bordoni.svg
 name: Venerable Maria Antonella Bordoni
 stub: false
 honorific: Venerable

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-petrus-wu-anbang.svg
 name: Saint Petrus Wu Anbang
 stub: false
 honorific: Venerable

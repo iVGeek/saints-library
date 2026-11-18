@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-demetrius-of-veroli.svg
 name: Saint Demetrius of Veroli
 stub: true
 honorific: Saint

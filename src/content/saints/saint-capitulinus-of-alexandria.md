@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-capitulinus-of-alexandria.svg
 name: Saint Capitulinus of Alexandria
 stub: true
 honorific: Saint

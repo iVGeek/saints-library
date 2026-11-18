@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyra-of-beroea.svg
 name: Saint Cyra of Beroea
 stub: false
 honorific: Saint

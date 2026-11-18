@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-romanus-of-le-mans.svg
 name: Saint Romanus of Le Mans
 stub: false
 honorific: Saint

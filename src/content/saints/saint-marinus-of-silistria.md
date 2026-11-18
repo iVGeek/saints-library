@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marinus-of-silistria.svg
 name: Saint Marinus of Silistria
 stub: true
 honorific: Saint

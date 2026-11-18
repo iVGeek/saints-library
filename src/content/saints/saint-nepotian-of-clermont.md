@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nepotian-of-clermont.svg
 name: Saint Nepotian of Clermont
 stub: false
 honorific: Saint

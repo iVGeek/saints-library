@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crispin-of-thagura.svg
 name: Saint Crispin of Thagura
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-perrine-ledoyen.svg
 name: Blessed Perrine Ledoyen
 stub: false
 honorific: Blessed

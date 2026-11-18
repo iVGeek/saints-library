@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sabinus-of-brescia.svg
 name: Saint Sabinus of Brescia
 stub: true
 honorific: Saint

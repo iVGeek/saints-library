@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-robert-johnson.svg
 name: Blessed Robert Johnson
 stub: false
 honorific: Blessed

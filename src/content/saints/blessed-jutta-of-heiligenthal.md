@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jutta-of-heiligenthal.svg
 name: Blessed Jutta of Heiligenthal
 stub: false
 honorific: Blessed

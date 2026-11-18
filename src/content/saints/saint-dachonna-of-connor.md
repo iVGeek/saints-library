@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dachonna-of-connor.svg
 name: Saint Dachonna of Connor
 stub: true
 honorific: Saint

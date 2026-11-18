@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-chillien-of-aubigny.svg
 name: Saint Chillien of Aubigny
 stub: false
 honorific: Saint

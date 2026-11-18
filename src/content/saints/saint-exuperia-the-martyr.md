@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-exuperia-the-martyr.svg
 name: Saint Exuperia the Martyr
 stub: false
 honorific: Saint

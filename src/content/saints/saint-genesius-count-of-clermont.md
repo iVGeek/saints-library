@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-genesius-count-of-clermont.svg
 name: Saint Genesius, Count of Clermont
 stub: false
 honorific: Saint

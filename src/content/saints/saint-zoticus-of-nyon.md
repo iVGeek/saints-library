@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zoticus-of-nyon.svg
 name: Saint Zoticus of Nyon
 stub: true
 honorific: Saint

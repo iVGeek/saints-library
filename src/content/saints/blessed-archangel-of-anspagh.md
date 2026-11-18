@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-archangel-of-anspagh.svg
 name: Blessed Archangel of Anspagh
 stub: false
 honorific: Blessed

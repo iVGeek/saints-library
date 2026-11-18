@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-habet-deus.svg
 name: Saint Habet-Deus
 stub: false
 honorific: Saint

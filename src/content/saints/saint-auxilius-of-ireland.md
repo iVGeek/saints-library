@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-auxilius-of-ireland.svg
 name: Saint Auxilius of Ireland
 stub: false
 honorific: Saint

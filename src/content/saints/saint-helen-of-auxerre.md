@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-helen-of-auxerre.svg
 name: Saint Helen of Auxerre
 stub: false
 honorific: Saint

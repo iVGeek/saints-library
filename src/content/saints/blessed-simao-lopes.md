@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-simao-lopes.svg
 name: Blessed Simão Lopes
 stub: false
 honorific: Blessed

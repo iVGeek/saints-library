@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-prudentius-of-atina.svg
 name: Saint Prudentius of Atina
 stub: false
 honorific: Saint

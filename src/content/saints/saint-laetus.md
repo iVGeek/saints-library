@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-laetus.svg
 name: Saint Laetus of Africa
 stub: false
 honorific: Saint

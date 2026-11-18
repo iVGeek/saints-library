@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sapor.svg
 name: Saint Sapor
 stub: false
 honorific: Saint

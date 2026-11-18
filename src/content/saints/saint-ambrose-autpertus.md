@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ambrose-autpertus.svg
 name: Saint Ambrose Autpertus
 stub: false
 honorific: Saint

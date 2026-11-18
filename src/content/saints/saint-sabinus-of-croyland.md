@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sabinus-of-croyland.svg
 name: Saint Sabinus of Croyland
 stub: true
 honorific: Saint

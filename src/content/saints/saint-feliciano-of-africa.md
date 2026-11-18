@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-feliciano-of-africa.svg
 name: Saint Feliciano of Africa
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-timothy-of-syrmium.svg
 name: Saint Timothy of Syrmium
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-plutarch-of-alexandria.svg
 name: Saint Plutarch of Alexandria
 stub: false
 honorific: Saint

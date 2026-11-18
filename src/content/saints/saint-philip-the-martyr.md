@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-philip-the-martyr.svg
 name: Saint Philip the Martyr
 stub: true
 honorific: Saint

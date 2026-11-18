@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ulric-of-croyland.svg
 name: Saint Ulric of Croyland
 stub: true
 honorific: Saint

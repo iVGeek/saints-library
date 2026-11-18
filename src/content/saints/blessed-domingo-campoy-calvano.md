@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-domingo-campoy-calvano.svg
 name: Blessed Domingo Campoy Calvano
 stub: true
 honorific: Blessed

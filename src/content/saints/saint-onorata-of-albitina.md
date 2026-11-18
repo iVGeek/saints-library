@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-onorata-of-albitina.svg
 name: Saint Onorata of Albitina
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-casto-of-teano.svg
 name: Saint Casto of Teano
 stub: true
 honorific: Saint

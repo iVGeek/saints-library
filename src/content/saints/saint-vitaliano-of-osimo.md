@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vitaliano-of-osimo.svg
 name: Saint Vitaliano of Osimo
 stub: true
 honorific: Saint

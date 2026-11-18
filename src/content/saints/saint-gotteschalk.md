@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gotteschalk.svg
 name: Saint Gotteschalk
 stub: false
 honorific: Saint

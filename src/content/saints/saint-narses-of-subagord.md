@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-narses-of-subagord.svg
 name: Saint Narses of Subagord
 stub: false
 honorific: Saint

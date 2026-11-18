@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-faustus-the-soldier.svg
 name: Saint Faustus the Soldier
 stub: false
 honorific: Saint

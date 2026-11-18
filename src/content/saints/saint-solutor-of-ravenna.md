@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-solutor-of-ravenna.svg
 name: Saint Solutor of Ravenna
 stub: true
 honorific: Saint

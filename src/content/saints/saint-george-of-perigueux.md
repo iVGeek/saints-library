@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-george-of-perigueux.svg
 name: Saint George of Périgueux
 stub: true
 honorific: Saint

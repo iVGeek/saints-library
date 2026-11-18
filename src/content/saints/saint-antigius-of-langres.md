@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-antigius-of-langres.svg
 name: Saint Antigius of Langres
 stub: true
 honorific: Saint

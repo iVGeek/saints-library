@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-herenia-of-north-africa.svg
 name: Saint Herenia of North Africa
 stub: true
 honorific: Saint

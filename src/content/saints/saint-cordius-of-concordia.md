@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cordius-of-concordia.svg
 name: Saint Cordius of Concordia
 stub: false
 honorific: Saint

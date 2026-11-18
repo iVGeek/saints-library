@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-porphyrius-of-ephesus.svg
 name: Saint Porphyrius of Ephesus
 stub: true
 honorific: Saint

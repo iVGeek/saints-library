@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-constantius-of-africa.svg
 name: Saint Constantius of Africa
 stub: false
 honorific: Saint

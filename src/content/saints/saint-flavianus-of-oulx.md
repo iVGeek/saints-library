@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-flavianus-of-oulx.svg
 name: Saint Flavianus of Oulx
 stub: true
 honorific: Saint

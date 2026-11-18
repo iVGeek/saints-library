@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zonisus-of-thessalonica.svg
 name: Saint Zonisus of Thessalonica
 stub: false
 honorific: Saint

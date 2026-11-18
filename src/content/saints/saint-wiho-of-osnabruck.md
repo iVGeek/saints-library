@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-wiho-of-osnabruck.svg
 name: Saint Wiho of Osnabrück
 stub: true
 honorific: Saint

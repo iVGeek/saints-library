@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marinus-of-caesarea.svg
 name: Saint Marinus of Caesarea
 stub: false
 honorific: Saint

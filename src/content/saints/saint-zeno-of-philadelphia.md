@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zeno-of-philadelphia.svg
 name: Saint Zeno of Philadelphia
 stub: false
 honorific: Saint

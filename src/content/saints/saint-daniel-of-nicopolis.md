@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-daniel-of-nicopolis.svg
 name: Saint Daniel of Nicopolis
 stub: true
 honorific: Saint

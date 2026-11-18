@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-quinquianus-of-corinth.svg
 name: Saint Quinquianus of Corinth
 stub: true
 honorific: Saint

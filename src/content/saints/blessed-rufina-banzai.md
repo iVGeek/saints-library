@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-rufina-banzai.svg
 name: Blessed Rufina Banzai
 stub: false
 honorific: Blessed

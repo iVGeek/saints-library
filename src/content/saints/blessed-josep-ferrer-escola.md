@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-josep-ferrer-escola.svg
 name: Blessed Josep Ferrer Escolà
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-elilantus.svg
 name: Saint Elilantus
 stub: false
 honorific: Saint

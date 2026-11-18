@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-timothy-of-rheims.svg
 name: Saint Timothy of Rheims
 stub: true
 honorific: Saint

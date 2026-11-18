@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-herebald-of-bretagne.svg
 name: Saint Herebald of Bretagne
 stub: true
 honorific: Saint

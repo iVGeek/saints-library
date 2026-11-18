@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-martinus-wu-xuesheng.svg
 name: Saint Martinus Wu Xuesheng
 stub: false
 honorific: Venerable

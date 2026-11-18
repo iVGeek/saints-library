@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jeanne-bourigault.svg
 name: Blessed Jeanne Bourigault
 stub: false
 honorific: Blessed

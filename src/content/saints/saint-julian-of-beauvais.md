@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julian-of-beauvais.svg
 name: Saint Julian of Beauvais
 stub: true
 honorific: Saint

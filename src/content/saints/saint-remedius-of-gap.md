@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-remedius-of-gap.svg
 name: Saint Remedius of Gap
 stub: true
 honorific: Saint

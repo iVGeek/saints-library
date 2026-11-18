@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-herombert-of-minden.svg
 name: Saint Hérombert of Minden
 stub: false
 honorific: Saint

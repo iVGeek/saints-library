@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-franciscus-xaverius-hong-gyo-man.svg
 name: Blessed Franciscus Xaverius Hong Gyo-man
 stub: true
 honorific: Blessed

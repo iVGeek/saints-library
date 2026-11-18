@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-clementinus-of-heraclea.svg
 name: Saint Clementinus of Heraclea
 stub: true
 honorific: Saint

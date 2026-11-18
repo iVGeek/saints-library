@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-optatian-of-brescia.svg
 name: Saint Optatian of Brescia
 stub: true
 honorific: Saint

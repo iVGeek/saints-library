@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fesicus-of-alexandria.svg
 name: Saint Fesicus of Alexandria
 stub: true
 honorific: Saint

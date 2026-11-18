@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jaume-najera-gherna.svg
 name: Blessed Jaume Nàjera Gherna
 stub: false
 honorific: Blessed

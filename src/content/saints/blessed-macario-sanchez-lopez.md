@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-macario-sanchez-lopez.svg
 name: Blessed Macario Sánchez López
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-bogner-etelka.svg
 name: Venerable Bogner Etelka
 stub: true
 honorific: Venerable

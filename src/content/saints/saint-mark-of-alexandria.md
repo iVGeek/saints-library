@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mark-of-alexandria.svg
 name: Saint Mark of Alexandria
 stub: true
 honorific: Saint

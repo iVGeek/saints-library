@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fercinta.svg
 name: Saint Fercinta
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-castula-of-gerona.svg
 name: Saint Castula of Gerona
 stub: true
 honorific: Saint

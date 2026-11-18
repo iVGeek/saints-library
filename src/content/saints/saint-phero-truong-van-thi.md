@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-phero-truong-van-thi.svg
 name: Saint Phêrô Truong Van Thi
 stub: false
 honorific: Venerable

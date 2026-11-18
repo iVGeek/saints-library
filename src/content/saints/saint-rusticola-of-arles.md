@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rusticola-of-arles.svg
 name: Saint Rusticola of Arles
 stub: false
 honorific: Saint

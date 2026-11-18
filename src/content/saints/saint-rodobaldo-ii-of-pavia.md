@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rodobaldo-ii-of-pavia.svg
 name: Saint Rodobaldo II of Pavia
 stub: false
 honorific: Saint

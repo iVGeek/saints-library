@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stylianus.svg
 name: Saint Stylianus
 stub: true
 honorific: Saint

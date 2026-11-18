@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gertrud-of-traunkirchen.svg
 name: Blessed Gertrud of Traunkirchen
 stub: false
 honorific: Blessed

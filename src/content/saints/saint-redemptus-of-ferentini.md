@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-redemptus-of-ferentini.svg
 name: Saint Redemptus of Ferentini
 stub: true
 honorific: Saint

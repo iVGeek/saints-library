@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victor-of-thessalonica.svg
 name: Saint Victor of Thessalonica
 stub: true
 honorific: Saint

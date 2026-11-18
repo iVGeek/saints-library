@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sabinianus-of-sens.svg
 name: Saint Sabinianus of Sens
 stub: true
 honorific: Saint

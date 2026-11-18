@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-severo-of-catania.svg
 name: Saint Severo of Catania
 stub: true
 honorific: Saint

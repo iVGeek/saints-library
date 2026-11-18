@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodolus-of-antioch.svg
 name: Saint Theodolus of Antioch
 stub: true
 honorific: Saint

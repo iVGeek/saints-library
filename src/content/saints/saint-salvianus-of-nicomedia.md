@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-salvianus-of-nicomedia.svg
 name: Saint Salvianus of Nicomedia
 stub: true
 honorific: Saint

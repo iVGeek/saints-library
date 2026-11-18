@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-severinus-of-puy.svg
 name: Saint Severinus of Puy
 stub: false
 honorific: Saint

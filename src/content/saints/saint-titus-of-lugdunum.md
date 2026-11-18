@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-titus-of-lugdunum.svg
 name: Saint Titus of Lugdunum
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-solomon-of-genoa.svg
 name: Saint Solomon of Genoa
 stub: true
 honorific: Saint

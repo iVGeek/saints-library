@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-massimo-of-carthage.svg
 name: Saint Massimo of Carthage
 stub: false
 honorific: Saint

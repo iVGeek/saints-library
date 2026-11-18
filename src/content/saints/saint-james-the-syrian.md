@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-james-the-syrian.svg
 name: Saint James the Syrian
 stub: false
 honorific: Saint

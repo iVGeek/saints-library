@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturian-of-mauretania.svg
 name: Saint Saturian of Mauretania
 stub: false
 honorific: Saint

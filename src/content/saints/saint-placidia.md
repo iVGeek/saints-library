@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-placidia.svg
 name: Saint Placidia
 stub: false
 honorific: Saint

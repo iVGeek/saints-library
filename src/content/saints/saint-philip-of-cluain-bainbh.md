@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-philip-of-cluain-bainbh.svg
 name: Saint Philip of Cluain-Bainbh
 stub: true
 honorific: Saint

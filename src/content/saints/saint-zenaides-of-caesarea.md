@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zenaides-of-caesarea.svg
 name: Saint Zenaides of Caesarea
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-amelia-rossi.svg
 name: Venerable Amelia Rossi
 stub: false
 honorific: Venerable

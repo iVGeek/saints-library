@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturnina-of-albitina.svg
 name: Saint Saturnina of Albitina
 stub: false
 honorific: Saint

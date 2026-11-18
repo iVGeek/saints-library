@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victor-of-rome-3-june.svg
 name: Saint Victor of Rome
 stub: true
 honorific: Saint

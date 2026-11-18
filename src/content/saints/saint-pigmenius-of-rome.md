@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pigmenius-of-rome.svg
 name: Saint Pigmenius of Rome
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-osburga-of-coventry.svg
 name: Saint Osburga of Coventry
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-athanasius-of-traiannos.svg
 name: Saint Athanasius of Traiannos
 stub: false
 honorific: Saint

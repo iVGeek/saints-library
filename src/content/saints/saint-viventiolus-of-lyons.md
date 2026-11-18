@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-viventiolus-of-lyons.svg
 name: Saint Viventiolus of Lyons
 stub: false
 honorific: Saint

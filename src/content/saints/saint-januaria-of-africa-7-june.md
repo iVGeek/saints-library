@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-januaria-of-africa-7-june.svg
 name: Saint Januaria of Africa
 stub: true
 honorific: Saint

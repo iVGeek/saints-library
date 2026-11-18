@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-inischolus-of-corfu.svg
 name: Saint Inischolus of Corfu
 stub: false
 honorific: Saint

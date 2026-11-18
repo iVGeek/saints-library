@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-donata-of-silistria.svg
 name: Saint Donata of Silistria
 stub: true
 honorific: Saint

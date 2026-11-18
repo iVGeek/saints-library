@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ethelwald-of-farne.svg
 name: Saint Ethelwald of Farne
 stub: false
 honorific: Saint

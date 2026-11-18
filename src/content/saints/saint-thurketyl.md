@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thurketyl.svg
 name: Saint Thurketyl
 stub: false
 honorific: Saint

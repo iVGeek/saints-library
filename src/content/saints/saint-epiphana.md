@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-epiphana.svg
 name: Saint Epiphana
 stub: true
 honorific: Saint

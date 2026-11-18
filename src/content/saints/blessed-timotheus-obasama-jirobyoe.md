@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-timotheus-obasama-jirobyoe.svg
 name: Blessed Timotheus Obasama Jirobyoe
 stub: false
 honorific: Blessed

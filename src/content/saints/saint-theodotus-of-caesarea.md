@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodotus-of-caesarea.svg
 name: Saint Theodotus of Caesarea
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gerricus-of-gerresheim.svg
 name: Blessed Gerricus of Gerresheim
 stub: false
 honorific: Blessed

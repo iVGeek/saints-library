@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dunchaid-obraoin.svg
 name: Saint Dunchaid O'Braoin
 stub: false
 honorific: Saint

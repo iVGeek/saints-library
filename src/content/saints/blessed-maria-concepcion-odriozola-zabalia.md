@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-maria-concepcion-odriozola-zabalia.svg
 name: Blessed María Concepción Odriozola Zabalía
 stub: true
 honorific: Blessed

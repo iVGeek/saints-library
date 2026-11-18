@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-joseph-staub.svg
 name: Venerable Joseph Staub
 stub: false
 honorific: Venerable

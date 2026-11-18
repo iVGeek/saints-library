@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-blasius-of-oreto.svg
 name: Saint Blasius of Oreto
 stub: true
 honorific: Saint

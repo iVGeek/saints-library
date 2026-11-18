@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-thomas-pormort.svg
 name: Blessed Thomas Pormort
 stub: false
 honorific: Blessed

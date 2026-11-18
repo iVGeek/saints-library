@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-of-verona.svg
 name: Saint John of Verona
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zeno-the-martyr.svg
 name: Saint Zeno the Martyr
 stub: true
 honorific: Saint

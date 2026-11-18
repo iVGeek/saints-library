@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-constantino-miguel-moncalvillo.svg
 name: Blessed Constantino Miguel Moncalvillo
 stub: true
 honorific: Blessed

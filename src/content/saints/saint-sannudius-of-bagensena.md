@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sannudius-of-bagensena.svg
 name: Saint Sannudius of Bagensena
 stub: true
 honorific: Saint

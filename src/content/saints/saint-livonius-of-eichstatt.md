@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-livonius-of-eichstatt.svg
 name: Saint Livonius of Eichstätt
 stub: true
 honorific: Saint

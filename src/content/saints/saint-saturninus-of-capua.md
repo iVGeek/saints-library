@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturninus-of-capua.svg
 name: Saint Saturninus of Capua
 stub: false
 honorific: Saint

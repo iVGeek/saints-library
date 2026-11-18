@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-guirillus-of-africa.svg
 name: Saint Guirillus of Africa
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-clarentius-of-vienne.svg
 name: Saint Clarentius of Vienne
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-giacomo-dattiglio.svg
 name: Blessed Giacomo d'Attiglio
 stub: false
 honorific: Blessed

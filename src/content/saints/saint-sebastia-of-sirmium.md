@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sebastia-of-sirmium.svg
 name: Saint Sebastia of Sirmium
 stub: false
 honorific: Saint

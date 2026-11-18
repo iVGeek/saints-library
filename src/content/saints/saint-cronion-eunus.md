@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cronion-eunus.svg
 name: Saint Cronion Eunus
 stub: false
 honorific: Saint

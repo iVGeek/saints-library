@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-colman-of-glendalough.svg
 name: Saint Colman of Glendalough
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vincent-of-collioure.svg
 name: Saint Vincent of Collioure
 stub: true
 honorific: Saint

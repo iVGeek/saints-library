@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-domitian-of-lerins.svg
 name: Saint Domitian of Lerins
 stub: false
 honorific: Saint

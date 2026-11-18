@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tuda-of-lindisfarne.svg
 name: Saint Tuda of Lindisfarne
 stub: true
 honorific: Saint

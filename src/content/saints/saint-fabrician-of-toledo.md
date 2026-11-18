@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fabrician-of-toledo.svg
 name: Saint Fabrician of Toledo
 stub: true
 honorific: Saint

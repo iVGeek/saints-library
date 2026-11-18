@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zenobius-of-antioch.svg
 name: Saint Zenobius of Antioch
 stub: true
 honorific: Saint

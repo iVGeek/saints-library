@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-francoise-suhard-veuve-menard.svg
 name: Blessed Françoise Suhard veuve Ménard
 stub: false
 honorific: Blessed

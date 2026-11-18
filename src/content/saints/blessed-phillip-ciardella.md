@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-phillip-ciardella.svg
 name: Blessed Phillip Ciardella
 stub: true
 honorific: Blessed

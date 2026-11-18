@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-elisabeth-heimburg.svg
 name: Blessed Elisabeth Heimburg
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thomas-of-rome.svg
 name: Saint Thomas of Rome
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-magdalena-han-yong-i.svg
 name: Saint Magdalena Han Yong-I
 stub: true
 honorific: Venerable

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-restituta-of-vercelli.svg
 name: Saint Restituta of Vercelli
 stub: false
 honorific: Saint

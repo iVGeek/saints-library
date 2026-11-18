@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-toma-d0inh-viet-du.svg
 name: Saint Tôma Ðinh Viet Du
 stub: true
 honorific: Venerable

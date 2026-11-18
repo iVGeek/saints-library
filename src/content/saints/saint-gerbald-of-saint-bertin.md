@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gerbald-of-saint-bertin.svg
 name: Saint Gerbald of Saint Bertin
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mansuetus-of-north-africa.svg
 name: Saint Mansuetus of Uruci
 stub: false
 honorific: Saint

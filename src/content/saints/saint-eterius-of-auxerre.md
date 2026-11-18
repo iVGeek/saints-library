@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eterius-of-auxerre.svg
 name: Saint Eterius of Auxerre
 stub: false
 honorific: Saint

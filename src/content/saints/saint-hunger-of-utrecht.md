@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hunger-of-utrecht.svg
 name: Saint Hunger of Utrecht
 stub: false
 honorific: Saint

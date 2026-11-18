@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jesus-gesta-piquer.svg
 name: Blessed Jesús Gesta Piquer
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufus-of-glendalough.svg
 name: Saint Rufus of Glendalough
 stub: true
 honorific: Saint

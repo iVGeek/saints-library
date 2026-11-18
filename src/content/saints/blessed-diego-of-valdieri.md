@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-diego-of-valdieri.svg
 name: Blessed Diego of Valdieri
 stub: false
 honorific: Blessed

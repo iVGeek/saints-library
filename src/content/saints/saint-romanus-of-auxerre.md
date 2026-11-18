@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-romanus-of-auxerre.svg
 name: Saint Romanus of Auxerre
 stub: true
 honorific: Saint

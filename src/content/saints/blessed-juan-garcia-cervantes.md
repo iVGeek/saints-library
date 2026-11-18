@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-juan-garcia-cervantes.svg
 name: Blessed Juan García Cervantes
 stub: true
 honorific: Blessed

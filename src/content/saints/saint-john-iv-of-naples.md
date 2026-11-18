@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-iv-of-naples.svg
 name: Saint John IV of Naples
 stub: true
 honorific: Saint

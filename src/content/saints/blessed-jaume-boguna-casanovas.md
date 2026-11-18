@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jaume-boguna-casanovas.svg
 name: Blessed Jaume Boguñá Casanovas
 stub: false
 honorific: Blessed

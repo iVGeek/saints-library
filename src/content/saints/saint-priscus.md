@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-priscus.svg
 name: Saint Priscus of Tomi
 stub: true
 honorific: Saint

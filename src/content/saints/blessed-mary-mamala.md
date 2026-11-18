@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-mary-mamala.svg
 name: Blessed Mary Mamala
 stub: false
 honorific: Blessed

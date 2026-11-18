@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-wulfhad-of-mercia.svg
 name: Saint Wulfhad of Mercia
 stub: false
 honorific: Saint

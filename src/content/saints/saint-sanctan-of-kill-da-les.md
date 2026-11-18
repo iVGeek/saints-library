@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sanctan-of-kill-da-les.svg
 name: Saint Sanctan of Kill-da-Les
 stub: false
 honorific: Saint

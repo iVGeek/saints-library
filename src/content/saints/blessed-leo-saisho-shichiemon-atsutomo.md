@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-leo-saisho-shichiemon-atsutomo.svg
 name: Blessed Leo Saisho Shichiemon Atsutomo
 stub: false
 honorific: Blessed

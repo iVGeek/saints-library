@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-elian-of-brittany.svg
 name: Saint Elian of Brittany
 stub: false
 honorific: Saint

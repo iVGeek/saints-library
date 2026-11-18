@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dionysius-of-antioch.svg
 name: Saint Dionysius of Antioch
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-redempta-of-rome.svg
 name: Saint Redempta of Rome
 stub: false
 honorific: Saint

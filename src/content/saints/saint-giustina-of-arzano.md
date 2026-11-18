@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-giustina-of-arzano.svg
 name: Saint Giustina of Arzano
 stub: false
 honorific: Saint

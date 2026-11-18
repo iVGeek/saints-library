@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-giovanni-folci.svg
 name: Venerable Giovanni Folci
 stub: true
 honorific: Venerable

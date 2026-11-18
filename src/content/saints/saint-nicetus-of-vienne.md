@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nicetus-of-vienne.svg
 name: Saint Nicetus of Vienne
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hermes-of-corinth.svg
 name: Saint Hermes of Corinth
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-antolian-of-clermont.svg
 name: Saint Antolian of Clermont
 stub: false
 honorific: Saint

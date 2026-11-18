@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-flavia-of-vercelli.svg
 name: Saint Flavia of Vercelli
 stub: false
 honorific: Saint

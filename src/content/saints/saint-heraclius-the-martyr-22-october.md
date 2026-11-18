@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-heraclius-the-martyr-22-october.svg
 name: Saint Heraclius the Martyr
 stub: false
 honorific: Saint

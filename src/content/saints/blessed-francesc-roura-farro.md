@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-francesc-roura-farro.svg
 name: Blessed Francesc Roura Farró
 stub: true
 honorific: Blessed

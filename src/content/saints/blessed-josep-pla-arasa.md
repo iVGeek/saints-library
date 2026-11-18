@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-josep-pla-arasa.svg
 name: Blessed Josep Pla Arasa
 stub: false
 honorific: Blessed

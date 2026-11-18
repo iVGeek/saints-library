@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cronan-the-tanner.svg
 name: Saint Cronan the Tanner
 stub: true
 honorific: Saint

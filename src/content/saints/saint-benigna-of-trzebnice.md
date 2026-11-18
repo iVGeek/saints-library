@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-benigna-of-trzebnice.svg
 name: Saint Benigna of Trzebnice
 stub: true
 honorific: Saint

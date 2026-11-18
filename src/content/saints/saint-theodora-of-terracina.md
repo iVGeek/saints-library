@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodora-of-terracina.svg
 name: Saint Theodora of Terracina
 stub: false
 honorific: Saint

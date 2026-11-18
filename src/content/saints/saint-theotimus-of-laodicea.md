@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theotimus-of-laodicea.svg
 name: Saint Theotimus of Laodicea
 stub: true
 honorific: Saint

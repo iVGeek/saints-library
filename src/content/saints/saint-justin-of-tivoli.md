@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-justin-of-tivoli.svg
 name: Saint Justin of Tivoli
 stub: true
 honorific: Saint

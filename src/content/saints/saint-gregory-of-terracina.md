@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gregory-of-terracina.svg
 name: Saint Gregory of Terracina
 stub: false
 honorific: Saint

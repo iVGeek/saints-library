@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-troiano-of-saintes.svg
 name: Saint Troiano of Saintes
 stub: true
 honorific: Saint

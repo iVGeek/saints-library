@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-raynerius-of-aquila.svg
 name: Saint Raynerius of Aquila
 stub: false
 honorific: Saint

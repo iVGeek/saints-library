@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-emilian-of-faenza.svg
 name: Saint Emilian of Faenza
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-generosus-of-poitou.svg
 name: Saint Generosus of Poitou
 stub: true
 honorific: Saint

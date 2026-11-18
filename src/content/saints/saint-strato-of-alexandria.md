@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-strato-of-alexandria.svg
 name: Saint Strato of Alexandria
 stub: true
 honorific: Saint

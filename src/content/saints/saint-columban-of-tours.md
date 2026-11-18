@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-columban-of-tours.svg
 name: Saint Columban of Tours
 stub: true
 honorific: Saint

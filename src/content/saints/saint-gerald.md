@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gerald.svg
 name: Saint Gerald of Mayo
 stub: false
 honorific: Saint

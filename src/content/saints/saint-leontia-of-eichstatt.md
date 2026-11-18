@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-leontia-of-eichstatt.svg
 name: Saint Leontia of Eichstätt
 stub: true
 honorific: Saint

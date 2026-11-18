@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dius.svg
 name: Saint Dius
 stub: false
 honorific: Saint

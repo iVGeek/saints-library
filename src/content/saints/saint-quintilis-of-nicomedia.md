@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-quintilis-of-nicomedia.svg
 name: Saint Quintilis of Nicomedia
 stub: true
 honorific: Saint

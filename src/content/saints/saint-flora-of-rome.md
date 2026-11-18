@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-flora-of-rome.svg
 name: Saint Flora of Rome
 stub: false
 honorific: Saint

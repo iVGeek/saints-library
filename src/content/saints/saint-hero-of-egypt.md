@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hero-of-egypt.svg
 name: Saint Hero of Egypt
 stub: false
 honorific: Saint

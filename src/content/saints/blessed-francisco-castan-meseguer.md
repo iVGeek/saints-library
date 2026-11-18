@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-francisco-castan-meseguer.svg
 name: Blessed Francisco Castán Meseguer
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyriacus-of-antwerp.svg
 name: Saint Cyriacus of Antwerp
 stub: true
 honorific: Saint

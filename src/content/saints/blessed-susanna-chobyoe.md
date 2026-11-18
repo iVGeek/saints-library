@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-susanna-chobyoe.svg
 name: Blessed Susanna Chobyoe
 stub: false
 honorific: Blessed

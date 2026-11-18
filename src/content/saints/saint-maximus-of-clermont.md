@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-clermont.svg
 name: Saint Maximus of Clermont
 stub: true
 honorific: Saint

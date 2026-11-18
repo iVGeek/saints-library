@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ioachim-ogawa.svg
 name: Blessed Ioachim Ogawa
 stub: true
 honorific: Blessed

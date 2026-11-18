@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-romulus-of-rome.svg
 name: Saint Romulus of Rome
 stub: false
 honorific: Saint

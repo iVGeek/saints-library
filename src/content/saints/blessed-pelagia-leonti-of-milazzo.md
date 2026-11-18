@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-pelagia-leonti-of-milazzo.svg
 name: Blessed Pelagia Leonti of Milazzo
 stub: false
 honorific: Blessed

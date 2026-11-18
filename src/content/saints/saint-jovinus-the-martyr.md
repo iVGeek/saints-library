@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jovinus-the-martyr.svg
 name: Saint Jovinus the Martyr
 stub: true
 honorific: Saint

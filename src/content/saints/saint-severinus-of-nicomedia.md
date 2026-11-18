@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-severinus-of-nicomedia.svg
 name: Saint Severinus of Nicomedia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcian-of-saignon.svg
 name: Saint Marcian of Saignon
 stub: false
 honorific: Saint

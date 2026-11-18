@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-elisabeth-of-baldrone.svg
 name: Blessed Elisabeth of Baldrone
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ebontius-of-babastro.svg
 name: Blessed Ebontius of Babastro
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-urbano-of-nicomedia.svg
 name: Saint Urbano of Nicomedia
 stub: true
 honorific: Saint

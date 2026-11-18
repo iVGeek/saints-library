@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sabbatius-of-antioch.svg
 name: Saint Sabbatius of Antioch
 stub: true
 honorific: Saint

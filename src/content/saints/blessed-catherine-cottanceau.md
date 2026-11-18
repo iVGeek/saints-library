@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-catherine-cottanceau.svg
 name: Blessed Catherine Cottanceau
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bastamus-of-egypt.svg
 name: Saint Bastamus of Egypt
 stub: false
 honorific: Saint

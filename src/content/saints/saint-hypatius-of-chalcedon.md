@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hypatius-of-chalcedon.svg
 name: Saint Hypatius of Chalcedon
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufus-of-philippi.svg
 name: Saint Rufus of Philippi
 stub: false
 honorific: Saint

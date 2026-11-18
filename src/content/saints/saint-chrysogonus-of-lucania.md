@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-chrysogonus-of-lucania.svg
 name: Saint Chrysogonus of Lucania
 stub: true
 honorific: Saint

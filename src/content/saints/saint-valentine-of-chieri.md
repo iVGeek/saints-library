@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valentine-of-chieri.svg
 name: Saint Valentine of Chieri
 stub: true
 honorific: Saint

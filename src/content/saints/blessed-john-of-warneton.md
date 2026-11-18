@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-john-of-warneton.svg
 name: Blessed John of Warneton
 stub: false
 honorific: Blessed

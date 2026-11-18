@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-horpresius-of-egypt.svg
 name: Saint Horpresius of Egypt
 stub: false
 honorific: Saint

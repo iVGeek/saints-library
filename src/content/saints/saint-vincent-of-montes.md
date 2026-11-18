@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vincent-of-montes.svg
 name: Saint Vincent of Montes
 stub: false
 honorific: Saint

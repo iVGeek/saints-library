@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-phocas-of-antioch.svg
 name: Saint Phocas of Antioch
 stub: true
 honorific: Saint

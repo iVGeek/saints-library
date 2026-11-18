@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-raynald-de-bar.svg
 name: Blessed Raynald de Bar
 stub: false
 honorific: Blessed

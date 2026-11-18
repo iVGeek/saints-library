@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-damaris-of-athens.svg
 name: Saint Damaris of Athens
 stub: false
 honorific: Saint

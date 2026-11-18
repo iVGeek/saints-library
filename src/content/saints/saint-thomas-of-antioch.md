@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thomas-of-antioch.svg
 name: Saint Thomas of Antioch
 stub: true
 honorific: Saint

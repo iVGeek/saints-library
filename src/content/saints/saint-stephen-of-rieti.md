@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stephen-of-rieti.svg
 name: Saint Stephen of Rieti
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hermes-of-eretum.svg
 name: Saint Hermes of Eretum
 stub: true
 honorific: Saint

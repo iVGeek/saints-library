@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gisela-of-rosstreppe.svg
 name: Blessed Gisela of Rosstreppe
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-protasius-of-cologne.svg
 name: Saint Protasius of Cologne
 stub: true
 honorific: Saint

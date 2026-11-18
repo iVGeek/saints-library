@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-emmanuel-of-cremona.svg
 name: Saint Emmanuel of Cremona
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-of-persia.svg
 name: Saint John of Persia
 stub: false
 honorific: Saint

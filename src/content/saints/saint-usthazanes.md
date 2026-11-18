@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-usthazanes.svg
 name: Saint Usthazanes
 stub: false
 honorific: Saint

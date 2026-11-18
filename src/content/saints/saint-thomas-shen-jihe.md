@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thomas-shen-jihe.svg
 name: Saint Thomas Shen Jihe
 stub: false
 honorific: Venerable

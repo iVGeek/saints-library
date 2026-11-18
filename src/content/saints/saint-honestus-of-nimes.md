@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-honestus-of-nimes.svg
 name: Saint Honestus of Nimes
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lasren-mac-feradaig.svg
 name: Saint Lasrén mac Feradaig
 stub: false
 honorific: Saint

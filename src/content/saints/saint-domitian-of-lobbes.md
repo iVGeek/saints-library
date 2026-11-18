@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-domitian-of-lobbes.svg
 name: Saint Domitian of Lobbes
 stub: false
 honorific: Saint

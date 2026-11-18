@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-john-thorne.svg
 name: Blessed John Thorne
 stub: false
 honorific: Blessed

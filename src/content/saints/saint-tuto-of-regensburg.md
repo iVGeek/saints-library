@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tuto-of-regensburg.svg
 name: Saint Tuto of Regensburg
 stub: false
 honorific: Saint

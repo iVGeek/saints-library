@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-damian-of-terracina.svg
 name: Saint Damian of Terracina
 stub: false
 honorific: Saint

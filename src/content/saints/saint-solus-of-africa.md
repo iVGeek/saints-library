@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-solus-of-africa.svg
 name: Saint Solus of Africa
 stub: true
 honorific: Saint

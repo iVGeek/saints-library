@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vincent-of-troyes.svg
 name: Saint Vincent of Troyes
 stub: true
 honorific: Saint

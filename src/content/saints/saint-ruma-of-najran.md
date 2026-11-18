@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ruma-of-najran.svg
 name: Saint Ruma of Najran
 stub: false
 honorific: Saint

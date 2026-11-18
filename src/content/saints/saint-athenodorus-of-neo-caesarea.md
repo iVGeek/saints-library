@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-athenodorus-of-neo-caesarea.svg
 name: Saint Athenodorus of Neo-Caesarea
 stub: false
 honorific: Saint

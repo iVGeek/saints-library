@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gagus-of-rome-3-june.svg
 name: Saint Gagus of Rome
 stub: true
 honorific: Saint

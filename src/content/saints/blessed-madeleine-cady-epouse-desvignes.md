@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-madeleine-cady-epouse-desvignes.svg
 name: Blessed Madeleine Cady épouse Desvignes
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ceollach.svg
 name: Saint Ceollach
 stub: false
 honorific: Saint

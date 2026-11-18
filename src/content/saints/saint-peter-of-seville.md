@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-of-seville.svg
 name: Saint Peter of Seville
 stub: false
 honorific: Saint

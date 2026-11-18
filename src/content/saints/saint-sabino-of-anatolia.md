@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sabino-of-anatolia.svg
 name: Saint Sabino of Anatolia
 stub: true
 honorific: Saint

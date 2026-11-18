@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stercola-of-corinth.svg
 name: Saint Stercola of Corinth
 stub: true
 honorific: Saint

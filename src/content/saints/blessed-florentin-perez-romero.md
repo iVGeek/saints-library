@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-florentin-perez-romero.svg
 name: Blessed Florentín Pérez Romero
 stub: false
 honorific: Blessed

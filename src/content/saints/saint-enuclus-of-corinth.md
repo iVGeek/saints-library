@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-enuclus-of-corinth.svg
 name: Saint Enuclus of Corinth
 stub: true
 honorific: Saint

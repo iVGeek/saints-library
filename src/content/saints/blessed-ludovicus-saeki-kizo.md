@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ludovicus-saeki-kizo.svg
 name: Blessed Ludovicus Saeki Kizo
 stub: false
 honorific: Blessed

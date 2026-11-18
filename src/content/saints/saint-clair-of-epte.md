@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-clair-of-epte.svg
 name: Saint Clair of Epte
 stub: false
 honorific: Saint

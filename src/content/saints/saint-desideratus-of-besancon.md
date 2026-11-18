@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-desideratus-of-besancon.svg
 name: Saint Desideratus of Besançon
 stub: true
 honorific: Saint

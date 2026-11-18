@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-janina-kierocinska.svg
 name: Venerable Janina Kierocinska
 stub: true
 honorific: Venerable

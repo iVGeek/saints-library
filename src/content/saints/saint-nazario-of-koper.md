@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nazario-of-koper.svg
 name: Saint Nazario of Koper
 stub: true
 honorific: Saint

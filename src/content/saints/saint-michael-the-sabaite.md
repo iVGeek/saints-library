@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-michael-the-sabaite.svg
 name: Saint Michael the Sabaitè
 stub: false
 honorific: Saint

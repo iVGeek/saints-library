@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-venustian-of-spoleto.svg
 name: Saint Venustian of Spoleto
 stub: false
 honorific: Saint

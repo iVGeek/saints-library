@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-erminia-of-rheims.svg
 name: Blessed Erminia of Rheims
 stub: false
 honorific: Blessed

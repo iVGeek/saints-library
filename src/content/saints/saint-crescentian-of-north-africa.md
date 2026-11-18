@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crescentian-of-north-africa.svg
 name: Saint Crescentian of North Africa
 stub: false
 honorific: Saint

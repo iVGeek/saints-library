@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-meingold.svg
 name: Saint Meingold
 stub: false
 honorific: Saint

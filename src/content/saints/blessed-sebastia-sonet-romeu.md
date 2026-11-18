@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-sebastia-sonet-romeu.svg
 name: Blessed Sebastià Sonet Romeu
 stub: false
 honorific: Blessed

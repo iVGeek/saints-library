@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mansuetus-of-alexandria.svg
 name: Saint Mansuetus of Alexandria
 stub: false
 honorific: Saint

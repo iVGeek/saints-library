@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-bertrand-of-grand-selve.svg
 name: Blessed Bertrand of Grand-Selve
 stub: false
 honorific: Blessed

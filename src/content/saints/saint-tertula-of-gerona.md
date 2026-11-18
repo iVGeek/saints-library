@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tertula-of-gerona.svg
 name: Saint Tertula of Gerona
 stub: false
 honorific: Saint

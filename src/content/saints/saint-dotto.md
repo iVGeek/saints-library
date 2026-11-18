@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dotto.svg
 name: Saint Dotto
 stub: true
 honorific: Saint

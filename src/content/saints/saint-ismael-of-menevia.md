@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ismael-of-menevia.svg
 name: Saint Ismael of Menevia
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-primitiva-of-rome.svg
 name: Saint Primitiva of Rome
 stub: true
 honorific: Saint

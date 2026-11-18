@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-frederic-vila-bartoli.svg
 name: Blessed Frederíc Vila Bartolì
 stub: true
 honorific: Blessed

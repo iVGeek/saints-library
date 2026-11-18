@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pontian-of-catania.svg
 name: Saint Pontian of Catania
 stub: false
 honorific: Saint

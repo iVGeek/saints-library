@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bladus.svg
 name: Saint Bladus
 stub: true
 honorific: Saint

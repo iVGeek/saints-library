@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pausilippus.svg
 name: Saint Pausilippus
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-edward-fulthrop.svg
 name: Blessed Edward Fulthrop
 stub: true
 honorific: Blessed

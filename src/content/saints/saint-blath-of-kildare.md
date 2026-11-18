@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-blath-of-kildare.svg
 name: Saint Blath of Kildare
 stub: false
 honorific: Saint

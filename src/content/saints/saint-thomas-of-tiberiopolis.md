@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thomas-of-tiberiopolis.svg
 name: Saint Thomas of Tiberiopolis
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theofrid-of-corbie.svg
 name: Saint Theofrid of Corbie
 stub: true
 honorific: Saint

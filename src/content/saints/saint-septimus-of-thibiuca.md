@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-septimus-of-thibiuca.svg
 name: Saint Septimus of Thibiuca
 stub: true
 honorific: Saint

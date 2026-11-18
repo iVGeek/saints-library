@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fricor.svg
 name: Saint Fricor
 stub: false
 honorific: Saint

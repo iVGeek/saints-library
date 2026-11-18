@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jucundian-of-cilicia.svg
 name: Saint Jucundian of Cilicia
 stub: true
 honorific: Saint

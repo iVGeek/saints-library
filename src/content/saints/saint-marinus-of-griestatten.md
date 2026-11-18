@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marinus-of-griestatten.svg
 name: Saint Marinus of Griestatten
 stub: false
 honorific: Saint

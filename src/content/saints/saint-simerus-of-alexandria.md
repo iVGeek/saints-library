@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-simerus-of-alexandria.svg
 name: Saint Simerus of Alexandria
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nabors-of-africa.svg
 name: Saint Nabors of Africa
 stub: true
 honorific: Saint

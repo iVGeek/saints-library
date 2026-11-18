@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-pascual-escuin-ferrer.svg
 name: Blessed Pascual Escuin Ferrer
 stub: true
 honorific: Blessed

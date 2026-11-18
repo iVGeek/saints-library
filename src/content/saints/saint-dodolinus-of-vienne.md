@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dodolinus-of-vienne.svg
 name: Saint Dodolinus of Vienne
 stub: true
 honorific: Saint

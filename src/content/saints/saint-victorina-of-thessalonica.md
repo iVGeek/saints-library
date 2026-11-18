@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victorina-of-thessalonica.svg
 name: Saint Victorina of Thessalonica
 stub: true
 honorific: Saint

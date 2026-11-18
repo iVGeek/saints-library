@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sisimmus-of-tomis.svg
 name: Saint Sisimmus of Tomis
 stub: true
 honorific: Saint

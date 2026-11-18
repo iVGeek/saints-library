@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-astexius-of-africa.svg
 name: Saint Astexius of Africa
 stub: true
 honorific: Saint

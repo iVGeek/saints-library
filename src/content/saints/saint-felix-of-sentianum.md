@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felix-of-sentianum.svg
 name: Saint Felix of Sentianum
 stub: true
 honorific: Saint

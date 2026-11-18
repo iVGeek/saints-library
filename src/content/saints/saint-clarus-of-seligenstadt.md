@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-clarus-of-seligenstadt.svg
 name: Saint Clarus of Seligenstadt
 stub: true
 honorific: Saint

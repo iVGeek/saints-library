@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-miguel-facerias-garces.svg
 name: Blessed Miguel Facerías Garcés
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-evasia-of-rome.svg
 name: Saint Evasia of Rome
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-parthenius-of-thessaly.svg
 name: Blessed Parthenius of Thessaly
 stub: false
 honorific: Blessed

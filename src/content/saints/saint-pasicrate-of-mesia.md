@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pasicrate-of-mesia.svg
 name: Saint Pasicrate of Mesia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-laetissima-of-nicomedia.svg
 name: Saint Laetissima of Nicomedia
 stub: true
 honorific: Saint

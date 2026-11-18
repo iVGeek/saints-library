@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcellus-the-martyr-16-november.svg
 name: Saint Marcellus the Martyr
 stub: true
 honorific: Saint

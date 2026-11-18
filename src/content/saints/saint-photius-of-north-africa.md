@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-photius-of-north-africa.svg
 name: Saint Photius of North Africa
 stub: true
 honorific: Saint

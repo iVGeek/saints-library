@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-aristeus-of-capua.svg
 name: Saint Aristeus of Capua
 stub: true
 honorific: Saint

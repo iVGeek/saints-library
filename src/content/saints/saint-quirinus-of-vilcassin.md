@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-quirinus-of-vilcassin.svg
 name: Saint Quirinus of Vilcassin
 stub: true
 honorific: Saint

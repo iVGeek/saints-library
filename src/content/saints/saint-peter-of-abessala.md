@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-of-abessala.svg
 name: Saint Peter of Abessala
 stub: true
 honorific: Saint

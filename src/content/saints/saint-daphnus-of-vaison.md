@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-daphnus-of-vaison.svg
 name: Saint Daphnus of Vaison
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturnina-of-rome-2.svg
 name: Saint Saturnina of Rome
 stub: false
 honorific: Saint

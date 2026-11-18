@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-septimus-of-carthage.svg
 name: Saint Septimus of Carthage
 stub: true
 honorific: Saint

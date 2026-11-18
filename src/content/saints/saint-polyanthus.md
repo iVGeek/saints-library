@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-polyanthus.svg
 name: Saint Polyanthus
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-persia.svg
 name: Saint Maximus of Persia
 stub: true
 honorific: Saint

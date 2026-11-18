@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ernin-cas-of-leithglinn.svg
 name: Saint Ernin Cas of Leithglinn
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-manehildis.svg
 name: Saint Manehildis
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-maurice-eustace.svg
 name: Blessed Maurice Eustace
 stub: true
 honorific: Blessed

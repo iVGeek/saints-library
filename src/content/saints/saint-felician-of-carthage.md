@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felician-of-carthage.svg
 name: Saint Felician of Carthage
 stub: true
 honorific: Saint

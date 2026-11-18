@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-silvana-of-thessalonica.svg
 name: Saint Silvana of Thessalonica
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-daminh-tuoc.svg
 name: Saint Ðaminh Tuoc
 stub: true
 honorific: Venerable

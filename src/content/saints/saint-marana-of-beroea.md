@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marana-of-beroea.svg
 name: Saint Marana of Beroea
 stub: false
 honorific: Saint

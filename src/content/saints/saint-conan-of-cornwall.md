@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-conan-of-cornwall.svg
 name: Saint Conan of Cornwall
 stub: true
 honorific: Saint

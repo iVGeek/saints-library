@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-josefa-oliver-molina.svg
 name: Venerable Josefa Oliver Molina
 stub: true
 honorific: Venerable

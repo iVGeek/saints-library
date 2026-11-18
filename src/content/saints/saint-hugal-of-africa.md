@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hugal-of-africa.svg
 name: Saint Hugal of Africa
 stub: true
 honorific: Saint

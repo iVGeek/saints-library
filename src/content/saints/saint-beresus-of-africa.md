@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-beresus-of-africa.svg
 name: Saint Beresus of Africa
 stub: true
 honorific: Saint

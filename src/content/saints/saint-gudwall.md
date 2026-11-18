@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gudwall.svg
 name: Saint Gudwall
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gibitrudis.svg
 name: Saint Gibitrudis
 stub: true
 honorific: Saint

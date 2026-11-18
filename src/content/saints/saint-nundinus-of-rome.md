@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nundinus-of-rome.svg
 name: Saint Nundinus of Rome
 stub: false
 honorific: Saint

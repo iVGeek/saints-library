@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-demetrius-of-antioch.svg
 name: Saint Demetrius of Antioch
 stub: true
 honorific: Saint

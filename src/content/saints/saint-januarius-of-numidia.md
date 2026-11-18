@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-januarius-of-numidia.svg
 name: Saint Januarius of Numidia
 stub: true
 honorific: Saint

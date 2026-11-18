@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-eusebio-alonso-uyarra.svg
 name: Blessed Eusebio Alonso Uyarra
 stub: false
 honorific: Blessed

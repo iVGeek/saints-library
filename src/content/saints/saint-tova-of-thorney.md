@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tova-of-thorney.svg
 name: Saint Tova of Thorney
 stub: true
 honorific: Saint

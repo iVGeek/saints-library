@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bostrichius-of-mytilene.svg
 name: Saint Bostrichius of Mytilene
 stub: true
 honorific: Saint

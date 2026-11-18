@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcellus-of-treves.svg
 name: Saint Marcellus of Treves
 stub: true
 honorific: Saint

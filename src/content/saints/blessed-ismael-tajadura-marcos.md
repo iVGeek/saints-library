@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ismael-tajadura-marcos.svg
 name: Blessed Ismael Tajadura Marcos
 stub: false
 honorific: Blessed

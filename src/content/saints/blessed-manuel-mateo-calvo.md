@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-manuel-mateo-calvo.svg
 name: Blessed Manuel Mateo Calvo
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-helen-of-oehren.svg
 name: Saint Helen of Oehren
 stub: true
 honorific: Saint

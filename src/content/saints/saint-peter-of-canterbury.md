@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-of-canterbury.svg
 name: Saint Peter of Canterbury
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sergius-of-cluny.svg
 name: Saint Sergius of Cluny
 stub: true
 honorific: Saint

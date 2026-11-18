@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-francoise-bonneau.svg
 name: Blessed Françoise Bonneau
 stub: false
 honorific: Blessed

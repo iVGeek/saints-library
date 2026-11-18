@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-papius-of-durres.svg
 name: Saint Papius of Durres
 stub: false
 honorific: Saint

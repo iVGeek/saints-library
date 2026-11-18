@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sembeeth-of-bardiaboch.svg
 name: Saint Sembeeth of Bardiaboch
 stub: false
 honorific: Saint

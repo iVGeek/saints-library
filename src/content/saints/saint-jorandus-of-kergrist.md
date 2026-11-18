@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jorandus-of-kergrist.svg
 name: Saint Jorandus of Kergrist
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-davitus-the-senator.svg
 name: Saint Davitus the Senator
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/martyrs-of-philomelio.svg
 name: Martyrs of Philomelio
 stub: false
 honorific: Saint

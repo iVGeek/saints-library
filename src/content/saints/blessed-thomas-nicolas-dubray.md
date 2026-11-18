@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-thomas-nicolas-dubray.svg
 name: Blessed Thomas-Nicolas Dubray
 stub: false
 honorific: Blessed

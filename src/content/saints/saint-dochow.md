@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dochow.svg
 name: Saint Dochow
 stub: false
 honorific: Saint

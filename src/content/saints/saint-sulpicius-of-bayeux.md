@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sulpicius-of-bayeux.svg
 name: Saint Sulpicius of Bayeux
 stub: true
 honorific: Saint

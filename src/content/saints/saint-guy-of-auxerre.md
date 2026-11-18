@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-guy-of-auxerre.svg
 name: Saint Guy of Auxerre
 stub: false
 honorific: Saint

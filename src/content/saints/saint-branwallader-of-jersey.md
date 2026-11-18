@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-branwallader-of-jersey.svg
 name: Saint Branwallader of Jersey
 stub: true
 honorific: Saint

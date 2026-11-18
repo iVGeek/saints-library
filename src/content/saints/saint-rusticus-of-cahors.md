@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rusticus-of-cahors.svg
 name: Saint Rusticus of Cahors
 stub: false
 honorific: Saint

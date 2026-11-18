@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valerian-of-tournus.svg
 name: Saint Valerian of Tournus
 stub: false
 honorific: Saint

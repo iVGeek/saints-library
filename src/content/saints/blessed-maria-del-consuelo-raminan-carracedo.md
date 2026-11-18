@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-maria-del-consuelo-raminan-carracedo.svg
 name: Blessed María Del Consuelo Ramiñán Carracedo
 stub: false
 honorific: Blessed

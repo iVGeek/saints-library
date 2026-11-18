@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ioannes-matsutake-chozaburo.svg
 name: Blessed Ioannes Matsutake Chozaburo
 stub: true
 honorific: Blessed

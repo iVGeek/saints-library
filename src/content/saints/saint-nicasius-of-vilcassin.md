@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nicasius-of-vilcassin.svg
 name: Saint Nicasius of Vilcassin
 stub: true
 honorific: Saint

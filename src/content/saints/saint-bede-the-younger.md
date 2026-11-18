@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bede-the-younger.svg
 name: Saint Bede the Younger
 stub: false
 honorific: Saint

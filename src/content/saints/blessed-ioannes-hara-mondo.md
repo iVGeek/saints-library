@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ioannes-hara-mondo.svg
 name: Blessed Ioannes Hara Mondo
 stub: true
 honorific: Blessed

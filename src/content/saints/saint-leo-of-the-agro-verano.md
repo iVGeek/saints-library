@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-leo-of-the-agro-verano.svg
 name: Saint Leo of the Agro Verano
 stub: true
 honorific: Saint

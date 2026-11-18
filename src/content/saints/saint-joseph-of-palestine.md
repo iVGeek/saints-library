@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-joseph-of-palestine.svg
 name: Saint Joseph of Palestine
 stub: false
 honorific: Saint

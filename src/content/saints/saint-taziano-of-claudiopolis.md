@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-taziano-of-claudiopolis.svg
 name: Saint Taziano of Claudiopolis
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-justa-maiza-goicoechea.svg
 name: Blessed Justa Maiza Goicoechea
 stub: true
 honorific: Blessed

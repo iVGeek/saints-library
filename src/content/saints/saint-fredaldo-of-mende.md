@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fredaldo-of-mende.svg
 name: Saint Fredaldo of Mende
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-antholian-of-auvergne.svg
 name: Saint Antholian of Auvergne
 stub: true
 honorific: Saint

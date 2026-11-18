@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zenobius-of-tripoli.svg
 name: Saint Zenobius of Tripoli
 stub: true
 honorific: Saint

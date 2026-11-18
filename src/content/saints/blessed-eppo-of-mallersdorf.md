@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-eppo-of-mallersdorf.svg
 name: Blessed Eppo of Mallersdorf
 stub: false
 honorific: Blessed

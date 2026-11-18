@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyrianus-of-constantinople.svg
 name: Saint Cyrianus of Constantinople
 stub: false
 honorific: Saint

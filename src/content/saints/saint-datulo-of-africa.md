@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-datulo-of-africa.svg
 name: Saint Datulo of Africa
 stub: false
 honorific: Saint

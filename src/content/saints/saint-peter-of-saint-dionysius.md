@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-of-saint-dionysius.svg
 name: Saint Peter of Saint Dionysius
 stub: false
 honorific: Saint

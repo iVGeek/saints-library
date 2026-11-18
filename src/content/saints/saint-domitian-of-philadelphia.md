@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-domitian-of-philadelphia.svg
 name: Saint Domitian of Philadelphia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vincent-of-agen.svg
 name: Saint Vincent of Agen
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julitta-of-ancyra.svg
 name: Saint Julitta of Ancyra
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sazan-of-abyssinia.svg
 name: Saint Sazan of Abyssinia
 stub: false
 honorific: Saint

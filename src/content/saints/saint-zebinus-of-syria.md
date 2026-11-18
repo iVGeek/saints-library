@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zebinus-of-syria.svg
 name: Saint Zebinus of Syria
 stub: false
 honorific: Saint

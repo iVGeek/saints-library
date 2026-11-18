@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-urban-of-campania.svg
 name: Saint Urban of Campania
 stub: true
 honorific: Saint

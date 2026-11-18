@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-petrus-of-africa.svg
 name: Saint Petrus of Africa
 stub: false
 honorific: Saint

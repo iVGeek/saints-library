@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secundarius.svg
 name: Saint Secundarius
 stub: false
 honorific: Saint

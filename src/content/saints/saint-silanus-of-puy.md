@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-silanus-of-puy.svg
 name: Saint Silanus of Puy
 stub: false
 honorific: Saint

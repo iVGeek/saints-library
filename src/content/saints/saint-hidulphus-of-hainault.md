@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hidulphus-of-hainault.svg
 name: Saint Hidulphus of Hainault
 stub: false
 honorific: Saint

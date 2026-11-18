@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stephen-of-antioch-22-november.svg
 name: Saint Stephen of Antioch
 stub: true
 honorific: Saint

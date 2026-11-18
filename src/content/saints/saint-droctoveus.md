@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-droctoveus.svg
 name: Saint Droctoveus
 stub: false
 honorific: Saint

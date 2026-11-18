@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-benedict-of-saddi.svg
 name: Saint Benedict of Saddi
 stub: true
 honorific: Saint

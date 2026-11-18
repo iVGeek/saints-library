@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-philip-of-laodicea.svg
 name: Saint Philip of Laodicea
 stub: true
 honorific: Saint

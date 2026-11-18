@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-narcis-feliu-costa.svg
 name: Blessed Narcís Felíu Costa
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eadsin-of-canterbury.svg
 name: Saint Eadsin of Canterbury
 stub: false
 honorific: Saint

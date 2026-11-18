@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tatia-of-pannonia.svg
 name: Saint Tatia of Pannonia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lugna-of-cill-tarsna.svg
 name: Saint Lugna of Cill Tarsna
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-salvator-of-belluno.svg
 name: Saint Salvator of Belluno
 stub: false
 honorific: Saint

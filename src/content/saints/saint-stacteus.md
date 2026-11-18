@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stacteus.svg
 name: Saint Stacteus
 stub: true
 honorific: Saint

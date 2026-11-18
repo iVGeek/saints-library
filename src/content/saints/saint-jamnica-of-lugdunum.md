@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jamnica-of-lugdunum.svg
 name: Saint Jamnica of Lugdunum
 stub: false
 honorific: Saint

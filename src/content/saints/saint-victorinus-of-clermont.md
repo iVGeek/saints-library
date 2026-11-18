@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victorinus-of-clermont.svg
 name: Saint Victorinus of Clermont
 stub: true
 honorific: Saint

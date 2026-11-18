@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-blaise-of-veroli.svg
 name: Saint Blaise of Veroli
 stub: true
 honorific: Saint

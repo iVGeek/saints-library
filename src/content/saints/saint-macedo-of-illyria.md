@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-macedo-of-illyria.svg
 name: Saint Macedo of Illyria
 stub: false
 honorific: Saint

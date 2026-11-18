@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-severiano-of-albano.svg
 name: Saint Severiano of Albano
 stub: true
 honorific: Saint

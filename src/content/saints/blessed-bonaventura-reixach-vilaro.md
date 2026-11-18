@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-bonaventura-reixach-vilaro.svg
 name: Blessed Bonaventura Reixach Vilarò
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-alexius-worstius.svg
 name: Blessed Alexius Worstius
 stub: false
 honorific: Blessed

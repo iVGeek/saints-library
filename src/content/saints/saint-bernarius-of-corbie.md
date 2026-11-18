@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bernarius-of-corbie.svg
 name: Saint Bernarius of Corbie
 stub: true
 honorific: Saint

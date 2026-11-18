@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-potamon-of-heraclea.svg
 name: Saint Potamon of Heraclea
 stub: false
 honorific: Saint

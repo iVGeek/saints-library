@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-leobono-of-salagnac.svg
 name: Saint Leobono of Salagnac
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ioannes-banzai-kazue.svg
 name: Blessed Ioannes Banzai Kazue
 stub: false
 honorific: Blessed

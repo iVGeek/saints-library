@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-agnofleta.svg
 name: Saint Agnofleta
 stub: true
 honorific: Saint

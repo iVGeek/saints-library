@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hymnemodus-of-saint-maurice.svg
 name: Saint Hymnemodus of Saint-Maurice
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-brogan-1-august.svg
 name: Saint Brogan
 stub: true
 honorific: Saint

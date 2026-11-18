@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-giuse-nguyen-dinh-nghi.svg
 name: Saint Giuse Nguyen Ðình Nghi
 stub: false
 honorific: Venerable

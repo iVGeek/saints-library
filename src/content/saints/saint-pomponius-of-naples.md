@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pomponius-of-naples.svg
 name: Saint Pomponius of Naples
 stub: true
 honorific: Saint

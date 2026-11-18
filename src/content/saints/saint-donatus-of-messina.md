@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-donatus-of-messina.svg
 name: Saint Donatus of Messina
 stub: true
 honorific: Saint

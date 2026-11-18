@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felice-of-aquileia.svg
 name: Saint Felice of Aquileia
 stub: false
 honorific: Saint

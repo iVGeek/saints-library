@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-olympus-of-condat.svg
 name: Saint Olympus of Condat
 stub: false
 honorific: Saint

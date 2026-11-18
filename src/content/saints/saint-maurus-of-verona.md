@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maurus-of-verona.svg
 name: Saint Maurus of Verona
 stub: false
 honorific: Saint

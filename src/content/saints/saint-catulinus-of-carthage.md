@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-catulinus-of-carthage.svg
 name: Saint Catulinus of Carthage
 stub: true
 honorific: Saint

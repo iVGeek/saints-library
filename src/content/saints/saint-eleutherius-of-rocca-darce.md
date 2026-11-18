@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eleutherius-of-rocca-darce.svg
 name: Saint Eleutherius of Rocca d'Arce
 stub: true
 honorific: Saint

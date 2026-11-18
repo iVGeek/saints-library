@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-prosdoce.svg
 name: Saint Prosdoce
 stub: false
 honorific: Saint

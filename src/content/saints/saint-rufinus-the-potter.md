@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufinus-the-potter.svg
 name: Saint Rufinus the Potter
 stub: true
 honorific: Saint

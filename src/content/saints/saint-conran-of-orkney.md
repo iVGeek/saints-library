@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-conran-of-orkney.svg
 name: Saint Conran of Orkney
 stub: true
 honorific: Saint

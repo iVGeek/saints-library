@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-litifredus-of-pavia.svg
 name: Saint Litifredus of Pavia
 stub: true
 honorific: Saint

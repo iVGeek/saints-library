@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ergnad-of-ulster.svg
 name: Saint Ergnad of Ulster
 stub: true
 honorific: Saint

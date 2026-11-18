@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-francisco-fernandez-escosura.svg
 name: Blessed Francisco Fernández Escosura
 stub: true
 honorific: Blessed

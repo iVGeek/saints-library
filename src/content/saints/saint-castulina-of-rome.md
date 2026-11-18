@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-castulina-of-rome.svg
 name: Saint Castulina of Rome
 stub: false
 honorific: Saint

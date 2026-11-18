@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lambert.svg
 name: Saint Lambert
 stub: true
 honorific: Saint

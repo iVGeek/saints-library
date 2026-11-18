@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-enda-of-arran.svg
 name: Saint Enda of Arran
 stub: false
 honorific: Saint

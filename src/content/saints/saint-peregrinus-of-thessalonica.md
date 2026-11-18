@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peregrinus-of-thessalonica.svg
 name: Saint Peregrinus of Thessalonica
 stub: true
 honorific: Saint

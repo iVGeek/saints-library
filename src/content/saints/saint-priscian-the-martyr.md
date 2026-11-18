@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-priscian-the-martyr.svg
 name: Saint Priscian the Martyr
 stub: true
 honorific: Saint

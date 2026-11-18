@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ethelwin-of-lindsey.svg
 name: Saint Ethelwin of Lindsey
 stub: false
 honorific: Saint

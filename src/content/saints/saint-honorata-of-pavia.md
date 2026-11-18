@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-honorata-of-pavia.svg
 name: Saint Honorata of Pavia
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-caletricus-of-chartres.svg
 name: Saint Caletricus of Chartres
 stub: false
 honorific: Saint

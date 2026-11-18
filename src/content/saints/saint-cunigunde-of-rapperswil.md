@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cunigunde-of-rapperswil.svg
 name: Saint Cunigunde of Rapperswil
 stub: true
 honorific: Saint

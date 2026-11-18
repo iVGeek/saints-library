@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-feock.svg
 name: Saint Feock
 stub: false
 honorific: Saint

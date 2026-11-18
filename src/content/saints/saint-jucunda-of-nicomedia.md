@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jucunda-of-nicomedia.svg
 name: Saint Jucunda of Nicomedia
 stub: true
 honorific: Saint

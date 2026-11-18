@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ethelburga-of-wessex.svg
 name: Saint Ethelburga of Wessex
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-emilian-of-tomis.svg
 name: Saint Emilian of Tomis
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-libosus-of-vaga.svg
 name: Saint Libosus of Vaga
 stub: false
 honorific: Saint

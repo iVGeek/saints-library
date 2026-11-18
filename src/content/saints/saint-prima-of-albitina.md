@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-prima-of-albitina.svg
 name: Saint Prima of Albitina
 stub: false
 honorific: Saint

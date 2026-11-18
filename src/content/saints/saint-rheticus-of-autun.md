@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rheticus-of-autun.svg
 name: Saint Rheticus of Autun
 stub: false
 honorific: Saint

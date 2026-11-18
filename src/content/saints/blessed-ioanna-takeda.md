@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ioanna-takeda.svg
 name: Blessed Ioanna Takeda
 stub: false
 honorific: Blessed

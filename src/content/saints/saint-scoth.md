@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-scoth.svg
 name: Saint Scoth
 stub: true
 honorific: Saint

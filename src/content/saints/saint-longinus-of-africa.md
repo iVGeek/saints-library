@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-longinus-of-africa.svg
 name: Saint Longinus of Africa
 stub: false
 honorific: Saint

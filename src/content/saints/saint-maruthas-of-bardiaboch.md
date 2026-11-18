@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maruthas-of-bardiaboch.svg
 name: Saint Maruthas of Bardiaboch
 stub: false
 honorific: Saint

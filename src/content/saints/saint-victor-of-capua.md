@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victor-of-capua.svg
 name: Saint Victor of Capua
 stub: true
 honorific: Saint

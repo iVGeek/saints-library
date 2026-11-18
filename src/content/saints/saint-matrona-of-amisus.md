@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-matrona-of-amisus.svg
 name: Saint Matrona of Amisus
 stub: false
 honorific: Saint

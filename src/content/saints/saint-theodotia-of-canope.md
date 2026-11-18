@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodotia-of-canope.svg
 name: Saint Theodotia of Canope
 stub: false
 honorific: Saint

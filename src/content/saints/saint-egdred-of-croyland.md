@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-egdred-of-croyland.svg
 name: Saint Egdred of Croyland
 stub: true
 honorific: Saint

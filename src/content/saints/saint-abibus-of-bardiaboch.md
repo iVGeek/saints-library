@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-abibus-of-bardiaboch.svg
 name: Saint Abibus of Bardiaboch
 stub: false
 honorific: Saint

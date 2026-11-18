@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-honorius-of-brescia.svg
 name: Saint Honorius of Brescia
 stub: true
 honorific: Saint

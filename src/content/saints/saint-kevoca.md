@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-kevoca.svg
 name: Saint Kevoca of Kyle
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-euprepius-of-verona.svg
 name: Saint Euprepius of Verona
 stub: true
 honorific: Saint

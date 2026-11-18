@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodora-of-corinth.svg
 name: Saint Theodora of Corinth
 stub: false
 honorific: Saint

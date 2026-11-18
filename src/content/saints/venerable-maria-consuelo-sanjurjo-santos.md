@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-maria-consuelo-sanjurjo-santos.svg
 name: Venerable María Consuelo Sanjurjo Santos
 stub: false
 honorific: Venerable

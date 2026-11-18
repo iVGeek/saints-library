@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-heraclius-of-campania.svg
 name: Saint Heraclius of Campania
 stub: false
 honorific: Saint

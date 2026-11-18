@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-elpidius-of-brioude.svg
 name: Saint Elpidius of Brioude
 stub: true
 honorific: Saint

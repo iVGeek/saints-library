@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcian-the-senator.svg
 name: Saint Marcian the Senator
 stub: false
 honorific: Saint

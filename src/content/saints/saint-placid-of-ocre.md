@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-placid-of-ocre.svg
 name: Saint Placid of Ocre
 stub: false
 honorific: Saint

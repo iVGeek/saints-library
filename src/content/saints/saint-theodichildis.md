@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodichildis.svg
 name: Saint Theodichildis
 stub: false
 honorific: Saint

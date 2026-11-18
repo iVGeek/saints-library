@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rhais-of-alexandria.svg
 name: Saint Rhais of Alexandria
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hugh-of-gallinaro.svg
 name: Saint Hugh of Gallinaro
 stub: true
 honorific: Saint

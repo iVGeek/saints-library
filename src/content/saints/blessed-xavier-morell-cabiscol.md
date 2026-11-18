@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-xavier-morell-cabiscol.svg
 name: Blessed Xavier Morell Cabiscol
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maccallin-of-lusk.svg
 name: Saint Maccallin of Lusk
 stub: false
 honorific: Saint

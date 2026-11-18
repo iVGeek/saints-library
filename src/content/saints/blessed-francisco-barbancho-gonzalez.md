@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-francisco-barbancho-gonzalez.svg
 name: Blessed Francisco Barbancho González
 stub: false
 honorific: Blessed

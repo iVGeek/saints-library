@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felix-29-december.svg
 name: Saint Felix of Rome
 stub: true
 honorific: Saint

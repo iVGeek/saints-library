@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cornelia-the-martyr.svg
 name: Saint Cornelia the Martyr
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-berach-of-kilbarry.svg
 name: Saint Berach of Kilbarry
 stub: false
 honorific: Saint

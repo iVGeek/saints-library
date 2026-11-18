@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pelagius-of-antwerp.svg
 name: Saint Pelagius of Antwerp
 stub: true
 honorific: Saint

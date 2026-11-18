@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gorfor-of-llanover.svg
 name: Saint Gorfor of Llanover
 stub: true
 honorific: Saint

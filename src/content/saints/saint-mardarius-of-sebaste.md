@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mardarius-of-sebaste.svg
 name: Saint Mardarius of Sebaste
 stub: true
 honorific: Saint

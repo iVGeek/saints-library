@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-asiano-of-constantinople.svg
 name: Saint Asiano of Constantinople
 stub: false
 honorific: Saint

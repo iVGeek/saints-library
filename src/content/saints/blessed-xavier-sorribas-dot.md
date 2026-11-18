@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-xavier-sorribas-dot.svg
 name: Blessed Xavier Sorribas Dot
 stub: false
 honorific: Blessed

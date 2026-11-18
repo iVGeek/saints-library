@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stratonicus-of-antioch.svg
 name: Saint Stratonicus of Antioch
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-magnus-2-april.svg
 name: Saint Magnus
 stub: false
 honorific: Saint

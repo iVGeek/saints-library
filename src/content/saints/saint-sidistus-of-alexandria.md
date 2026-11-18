@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sidistus-of-alexandria.svg
 name: Saint Sidistus of Alexandria
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secunda-of-scillium.svg
 name: Saint Secunda of Scillium
 stub: false
 honorific: Saint

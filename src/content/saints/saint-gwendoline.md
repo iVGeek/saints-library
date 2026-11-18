@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gwendoline.svg
 name: Saint Gwendoline
 stub: true
 honorific: Saint

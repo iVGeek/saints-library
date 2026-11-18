@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodolus-of-lucania.svg
 name: Saint Theodolus of Lucania
 stub: true
 honorific: Saint

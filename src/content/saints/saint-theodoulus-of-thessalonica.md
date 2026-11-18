@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodoulus-of-thessalonica.svg
 name: Saint Theodoulus of Thessalonica
 stub: false
 honorific: Saint

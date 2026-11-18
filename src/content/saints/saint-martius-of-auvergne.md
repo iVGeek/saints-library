@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-martius-of-auvergne.svg
 name: Saint Martius of Auvergne
 stub: false
 honorific: Saint

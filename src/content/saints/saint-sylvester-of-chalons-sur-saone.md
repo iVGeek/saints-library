@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sylvester-of-chalons-sur-saone.svg
 name: Saint Sylvester of Châlons-sur-Saône
 stub: false
 honorific: Saint

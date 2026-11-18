@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-venusto-of-carthage.svg
 name: Saint Venusto of Carthage
 stub: true
 honorific: Saint

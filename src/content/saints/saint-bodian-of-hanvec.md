@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bodian-of-hanvec.svg
 name: Saint Bodian of Hanvec
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-plautus-of-thrace.svg
 name: Saint Plautus of Thrace
 stub: true
 honorific: Saint

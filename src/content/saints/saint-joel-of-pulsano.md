@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-joel-of-pulsano.svg
 name: Saint Joel of Pulsano
 stub: false
 honorific: Saint

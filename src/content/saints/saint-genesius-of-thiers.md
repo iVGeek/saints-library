@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-genesius-of-thiers.svg
 name: Saint Genesius of Thiers
 stub: true
 honorific: Saint

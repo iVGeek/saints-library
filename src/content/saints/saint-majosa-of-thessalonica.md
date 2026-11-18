@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-majosa-of-thessalonica.svg
 name: Saint Majosa of Thessalonica
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-orontius-of-puigcerda.svg
 name: Saint Orontius of Puigcerda
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-eberhard-of-marchtal.svg
 name: Blessed Eberhard of Marchtal
 stub: false
 honorific: Blessed

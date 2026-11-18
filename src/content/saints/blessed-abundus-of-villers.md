@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-abundus-of-villers.svg
 name: Blessed Abundus of Villers
 stub: false
 honorific: Blessed

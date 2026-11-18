@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-miguel-aguado-camarillo.svg
 name: Blessed Miguel Aguado Camarillo
 stub: false
 honorific: Blessed

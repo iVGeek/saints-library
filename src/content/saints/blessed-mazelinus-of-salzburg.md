@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-mazelinus-of-salzburg.svg
 name: Blessed Mazelinus of Salzburg
 stub: false
 honorific: Blessed

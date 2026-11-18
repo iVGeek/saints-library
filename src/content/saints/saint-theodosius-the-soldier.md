@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodosius-the-soldier.svg
 name: Saint Theodosius the Soldier
 stub: false
 honorific: Saint

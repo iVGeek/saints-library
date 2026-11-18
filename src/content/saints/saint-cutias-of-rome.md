@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cutias-of-rome.svg
 name: Saint Cutias of Rome
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-paulillus-of-salamanca.svg
 name: Saint Paulillus of Salamanca
 stub: false
 honorific: Saint

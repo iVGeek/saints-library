@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-manuel-jove-bonet.svg
 name: Blessed Manuel Jové Bonet
 stub: false
 honorific: Blessed

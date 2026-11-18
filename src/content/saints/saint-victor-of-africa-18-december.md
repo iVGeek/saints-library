@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victor-of-africa-18-december.svg
 name: Saint Victor of Africa
 stub: true
 honorific: Saint

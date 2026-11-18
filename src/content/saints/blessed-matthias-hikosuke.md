@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-matthias-hikosuke.svg
 name: Blessed Matthias Hikosuke
 stub: false
 honorific: Blessed

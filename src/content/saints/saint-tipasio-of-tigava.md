@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tipasio-of-tigava.svg
 name: Saint Tipasio of Tigava
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dorotheus-the-younger.svg
 name: Saint Dorotheus the Younger
 stub: false
 honorific: Saint

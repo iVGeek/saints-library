@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-vinebault.svg
 name: Blessed Vinebault
 stub: false
 honorific: Blessed

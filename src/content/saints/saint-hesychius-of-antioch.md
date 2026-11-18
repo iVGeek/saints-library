@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hesychius-of-antioch.svg
 name: Saint Hesychius of Antioch
 stub: false
 honorific: Saint

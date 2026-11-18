@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dionisio-of-novellara.svg
 name: Saint Dionisio of Novellara
 stub: true
 honorific: Saint

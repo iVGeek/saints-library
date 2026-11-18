@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pompeius-of-pavia.svg
 name: Saint Pompeius of Pavia
 stub: true
 honorific: Saint

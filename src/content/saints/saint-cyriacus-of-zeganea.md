@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyriacus-of-zeganea.svg
 name: Saint Cyriacus of Zeganea
 stub: false
 honorific: Saint

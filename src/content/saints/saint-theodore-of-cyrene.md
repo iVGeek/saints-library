@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodore-of-cyrene.svg
 name: Saint Theodore of Cyrene
 stub: false
 honorific: Saint

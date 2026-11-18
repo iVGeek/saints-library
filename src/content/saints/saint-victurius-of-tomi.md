@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victurius-of-tomi.svg
 name: Saint Victurius of Tomi
 stub: true
 honorific: Saint

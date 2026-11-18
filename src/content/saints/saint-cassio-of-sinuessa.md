@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cassio-of-sinuessa.svg
 name: Saint Cassio of Sinuessa
 stub: false
 honorific: Saint

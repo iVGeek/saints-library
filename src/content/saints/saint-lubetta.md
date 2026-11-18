@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lubetta.svg
 name: Saint Lubetta
 stub: false
 honorific: Saint

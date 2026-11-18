@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-silvanus-of-north-africa.svg
 name: Saint Silvanus of North Africa
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ammun-of-adrianopolis.svg
 name: Saint Ammun of Adrianopolis
 stub: true
 honorific: Saint

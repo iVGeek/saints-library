@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-pedro-malasanch.svg
 name: Blessed Pedro Malasanch
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jeanne-gourdon-veuve-moreau.svg
 name: Blessed Jeanne Gourdon veuve Moreau
 stub: false
 honorific: Blessed

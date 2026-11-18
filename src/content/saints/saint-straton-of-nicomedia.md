@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-straton-of-nicomedia.svg
 name: Saint Straton of Nicomedia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pontius-of-cologne.svg
 name: Saint Pontius of Cologne
 stub: true
 honorific: Saint

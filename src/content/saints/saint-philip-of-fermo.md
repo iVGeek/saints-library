@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-philip-of-fermo.svg
 name: Saint Philip of Fermo
 stub: true
 honorific: Saint

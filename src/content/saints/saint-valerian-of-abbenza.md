@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valerian-of-abbenza.svg
 name: Saint Valerian of Abbenza
 stub: false
 honorific: Saint

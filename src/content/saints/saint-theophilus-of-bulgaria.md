@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theophilus-of-bulgaria.svg
 name: Saint Theophilus of Bulgaria
 stub: false
 honorific: Saint

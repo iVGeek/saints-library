@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cuthbert-of-brittany.svg
 name: Saint Cuthbert of Brittany
 stub: true
 honorific: Saint

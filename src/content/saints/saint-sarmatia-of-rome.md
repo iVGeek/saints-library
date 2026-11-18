@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sarmatia-of-rome.svg
 name: Saint Sarmatia of Rome
 stub: false
 honorific: Saint

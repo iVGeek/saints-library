@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stephen-of-apt.svg
 name: Saint Stephen of Apt
 stub: true
 honorific: Saint

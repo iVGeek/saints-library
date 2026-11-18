@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-meldon-of-peronne.svg
 name: Saint Meldon of Péronne
 stub: true
 honorific: Saint

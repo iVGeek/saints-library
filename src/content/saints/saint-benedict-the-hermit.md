@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-benedict-the-hermit.svg
 name: Saint Benedict the Hermit
 stub: true
 honorific: Saint

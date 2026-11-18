@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-philotheus-the-martyr.svg
 name: Saint Philotheus the Martyr
 stub: true
 honorific: Saint

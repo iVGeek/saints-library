@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ilpidius-of-brioude.svg
 name: Saint Ilpidius of Brioude
 stub: false
 honorific: Saint

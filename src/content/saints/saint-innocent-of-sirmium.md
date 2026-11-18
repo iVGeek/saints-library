@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-innocent-of-sirmium.svg
 name: Saint Innocent of Sirmium
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodolus-of-sinai.svg
 name: Saint Theodolus of Sinai
 stub: false
 honorific: Saint

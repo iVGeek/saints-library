@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-emeterius-of-north-africa.svg
 name: Saint Emeterius of North Africa
 stub: true
 honorific: Saint

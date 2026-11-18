@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maedhog-of-clonmore.svg
 name: Saint Maedhog of Clonmore
 stub: true
 honorific: Saint

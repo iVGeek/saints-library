@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-malcoldia-of-asti.svg
 name: Saint Malcoldia of Asti
 stub: true
 honorific: Saint

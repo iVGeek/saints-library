@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-balbina-rodriguez-higuera.svg
 name: Blessed Balbina Rodríguez Higuera
 stub: true
 honorific: Blessed

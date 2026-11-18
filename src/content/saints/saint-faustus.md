@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-faustus.svg
 name: Saint Faustus
 stub: true
 honorific: Saint

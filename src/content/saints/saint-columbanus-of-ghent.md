@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-columbanus-of-ghent.svg
 name: Saint Columbanus of Ghent
 stub: false
 honorific: Saint

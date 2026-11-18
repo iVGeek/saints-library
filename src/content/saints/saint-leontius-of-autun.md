@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-leontius-of-autun.svg
 name: Saint Leontius of Autun
 stub: true
 honorific: Saint

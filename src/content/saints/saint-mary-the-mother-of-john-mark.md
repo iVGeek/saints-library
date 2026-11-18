@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mary-the-mother-of-john-mark.svg
 name: Saint Mary the Mother of John Mark
 stub: false
 honorific: Saint

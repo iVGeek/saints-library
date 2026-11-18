@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gebrand-of-klaarkamp.svg
 name: Blessed Gebrand of Klaarkamp
 stub: false
 honorific: Blessed

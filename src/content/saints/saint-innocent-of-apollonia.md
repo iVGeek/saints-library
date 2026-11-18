@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-innocent-of-apollonia.svg
 name: Saint Innocent of Apollonia
 stub: false
 honorific: Saint

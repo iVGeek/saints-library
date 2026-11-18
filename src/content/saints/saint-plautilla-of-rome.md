@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-plautilla-of-rome.svg
 name: Saint Plautilla of Rome
 stub: false
 honorific: Saint

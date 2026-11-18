@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-macarius-of-rome.svg
 name: Saint Macarius of Rome
 stub: false
 honorific: Saint

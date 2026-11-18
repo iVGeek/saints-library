@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ultan-of-peronne.svg
 name: Saint Ultan of Péronne
 stub: false
 honorific: Saint

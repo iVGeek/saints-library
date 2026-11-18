@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-faustus-of-cologne.svg
 name: Saint Faustus of Cologne
 stub: true
 honorific: Saint

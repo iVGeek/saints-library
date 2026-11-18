@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bertuin-of-malonne.svg
 name: Saint Bertuin of Malonne
 stub: false
 honorific: Saint

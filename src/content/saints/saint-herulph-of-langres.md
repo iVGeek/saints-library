@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-herulph-of-langres.svg
 name: Saint Herulph of Langres
 stub: false
 honorific: Saint

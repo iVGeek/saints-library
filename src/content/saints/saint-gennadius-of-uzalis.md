@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gennadius-of-uzalis.svg
 name: Saint Gennadius of Uzalis
 stub: true
 honorific: Saint

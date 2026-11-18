@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victorinus-of-africa-24-march.svg
 name: Saint Victorinus of Africa
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyrilla-of-cyrene.svg
 name: Saint Cyrilla of Cyrene
 stub: false
 honorific: Saint

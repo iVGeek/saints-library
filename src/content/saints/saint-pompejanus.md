@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pompejanus.svg
 name: Saint Pompejanus
 stub: true
 honorific: Saint

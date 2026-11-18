@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-nicolas-ran-goni.svg
 name: Blessed Nicolás Ran Goñi
 stub: false
 honorific: Blessed

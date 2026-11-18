@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-erembert-i-of-kremsmunster.svg
 name: Saint Erembert I of Kremsmünster
 stub: true
 honorific: Saint

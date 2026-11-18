@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-hilario-barriocanal-quintana.svg
 name: Blessed Hilario Barriocanal Quintana
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-garin-of-toul.svg
 name: Blessed Garin of Toul
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maria-yi-yon-hui.svg
 name: Saint Maria Yi Yon-hui
 stub: true
 honorific: Venerable

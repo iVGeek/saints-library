@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-vicente-alvarez-cienfuegos.svg
 name: Blessed Vicente Álvarez Cienfuegos
 stub: true
 honorific: Blessed

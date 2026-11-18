@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-sixto-alonso-helva.svg
 name: Blessed Sixto Alonso Helva
 stub: false
 honorific: Blessed

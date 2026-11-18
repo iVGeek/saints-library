@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-elias-of-conques.svg
 name: Saint Elias of Conques
 stub: false
 honorific: Saint

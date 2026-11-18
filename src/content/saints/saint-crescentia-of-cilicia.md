@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crescentia-of-cilicia.svg
 name: Saint Crescentia of Cilicia
 stub: true
 honorific: Saint

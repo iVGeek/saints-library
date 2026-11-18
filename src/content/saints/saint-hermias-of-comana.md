@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hermias-of-comana.svg
 name: Saint Hermias of Comana
 stub: true
 honorific: Saint

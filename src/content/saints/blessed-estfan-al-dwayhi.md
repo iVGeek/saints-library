@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-estfan-al-dwayhi.svg
 name: Blessed Estfan Al-Dwayhi
 stub: false
 honorific: Blessed

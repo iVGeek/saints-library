@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-pierre-delepine.svg
 name: Blessed Pierre Delépine
 stub: false
 honorific: Blessed

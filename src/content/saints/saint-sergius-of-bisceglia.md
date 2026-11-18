@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sergius-of-bisceglia.svg
 name: Saint Sergius of Bisceglia
 stub: true
 honorific: Saint

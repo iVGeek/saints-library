@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victurinus-of-gerona.svg
 name: Saint Victurinus of Gerona
 stub: true
 honorific: Saint

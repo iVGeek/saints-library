@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gwrnerth.svg
 name: Saint Gwrnerth
 stub: true
 honorific: Saint

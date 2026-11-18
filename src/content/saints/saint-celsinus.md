@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-celsinus.svg
 name: Saint Celsinus
 stub: false
 honorific: Saint

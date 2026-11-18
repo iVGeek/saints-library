@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-urbana-of-rome.svg
 name: Saint Urbana of Rome
 stub: false
 honorific: Saint

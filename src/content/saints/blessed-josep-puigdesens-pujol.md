@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-josep-puigdesens-pujol.svg
 name: Blessed Josep Puigdeséns Pujol
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-robert-hardesty.svg
 name: Blessed Robert Hardesty
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-conval-of-strathclyde.svg
 name: Saint Conval of Strathclyde
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-archebran.svg
 name: Saint Archebran
 stub: true
 honorific: Saint

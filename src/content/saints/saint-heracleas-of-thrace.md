@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-heracleas-of-thrace.svg
 name: Saint Heracleas of Thrace
 stub: true
 honorific: Saint

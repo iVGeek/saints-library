@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-vincent.svg
 name: Saint John Vincent
 stub: false
 honorific: Saint

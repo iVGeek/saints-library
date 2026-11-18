@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-josep-maria-tolaguera-oliva.svg
 name: Blessed Josep Maria Tolaguera Oliva
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyriacus-of-thessalonica.svg
 name: Saint Cyriacus of Thessalonica
 stub: false
 honorific: Saint

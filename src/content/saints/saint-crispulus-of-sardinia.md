@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crispulus-of-sardinia.svg
 name: Saint Crispulus of Sardinia
 stub: true
 honorific: Saint

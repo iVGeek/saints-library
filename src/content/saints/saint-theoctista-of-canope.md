@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theoctista-of-canope.svg
 name: Saint Theoctista of Canope
 stub: false
 honorific: Saint

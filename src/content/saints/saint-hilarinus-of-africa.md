@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hilarinus-of-africa.svg
 name: Saint Hilarinus of Africa
 stub: false
 honorific: Saint

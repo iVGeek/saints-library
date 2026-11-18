@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-teresa-kwon-cheon-rye.svg
 name: Blessed Teresa Kwon Cheon-Rye
 stub: true
 honorific: Blessed

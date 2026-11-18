@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-julian-majali.svg
 name: Blessed Julian Majali
 stub: false
 honorific: Blessed

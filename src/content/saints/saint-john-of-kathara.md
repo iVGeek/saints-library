@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-of-kathara.svg
 name: Saint John of Kathara
 stub: false
 honorific: Saint

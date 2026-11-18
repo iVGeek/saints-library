@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gaius-xeymon.svg
 name: Blessed Gaius Xeymon
 stub: false
 honorific: Blessed

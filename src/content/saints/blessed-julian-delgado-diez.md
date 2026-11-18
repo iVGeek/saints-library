@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-julian-delgado-diez.svg
 name: Blessed Julián Delgado Díez
 stub: false
 honorific: Blessed

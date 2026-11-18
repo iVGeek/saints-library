@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-terence-of-todi.svg
 name: Saint Terence of Todi
 stub: true
 honorific: Saint

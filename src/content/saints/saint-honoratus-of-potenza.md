@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-honoratus-of-potenza.svg
 name: Saint Honoratus of Potenza
 stub: true
 honorific: Saint

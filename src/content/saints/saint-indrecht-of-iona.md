@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-indrecht-of-iona.svg
 name: Saint Indrecht of Iona
 stub: true
 honorific: Saint

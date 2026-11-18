@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-policrazius-of-concordia.svg
 name: Saint Policrazius of Concordia
 stub: false
 honorific: Saint

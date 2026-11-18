@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-james-of-numidia.svg
 name: Saint James of Numidia
 stub: false
 honorific: Saint

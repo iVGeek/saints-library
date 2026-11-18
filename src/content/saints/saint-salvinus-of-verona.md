@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-salvinus-of-verona.svg
 name: Saint Salvinus of Verona
 stub: true
 honorific: Saint

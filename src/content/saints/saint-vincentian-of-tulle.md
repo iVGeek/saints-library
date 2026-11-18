@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vincentian-of-tulle.svg
 name: Saint Vincentian of Tulle
 stub: false
 honorific: Saint

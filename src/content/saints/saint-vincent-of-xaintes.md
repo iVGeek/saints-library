@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vincent-of-xaintes.svg
 name: Saint Vincent of Xaintes
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-simon-miguel-rodriguez.svg
 name: Blessed Simón Miguel Rodríguez
 stub: false
 honorific: Blessed

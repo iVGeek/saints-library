@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-giovanni-bacile.svg
 name: Venerable Giovanni Bacile
 stub: true
 honorific: Venerable

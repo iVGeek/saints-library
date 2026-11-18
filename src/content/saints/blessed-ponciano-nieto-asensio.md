@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ponciano-nieto-asensio.svg
 name: Blessed Ponciano Nieto Asensio
 stub: false
 honorific: Blessed

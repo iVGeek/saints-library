@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-acasius-of-prusa.svg
 name: Saint Acasius of Prusa
 stub: true
 honorific: Saint

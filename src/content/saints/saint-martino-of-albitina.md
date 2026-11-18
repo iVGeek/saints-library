@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-martino-of-albitina.svg
 name: Saint Martino of Albitina
 stub: false
 honorific: Saint

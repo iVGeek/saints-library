@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-varicus-the-martyr.svg
 name: Saint Varicus the Martyr
 stub: true
 honorific: Saint

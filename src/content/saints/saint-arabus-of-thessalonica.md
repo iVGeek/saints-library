@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-arabus-of-thessalonica.svg
 name: Saint Arabus of Thessalonica
 stub: true
 honorific: Saint

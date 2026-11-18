@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hieu.svg
 name: Saint Hieu
 stub: false
 honorific: Saint

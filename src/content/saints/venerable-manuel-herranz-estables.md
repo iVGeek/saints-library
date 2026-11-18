@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-manuel-herranz-estables.svg
 name: Venerable Manuel Herranz-Establés
 stub: false
 honorific: Venerable

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-evanthius-of-mende.svg
 name: Saint Evanthius of Mende
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-mencia-of-kyoto.svg
 name: Blessed Mencia of Kyoto
 stub: false
 honorific: Blessed

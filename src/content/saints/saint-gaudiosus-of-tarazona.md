@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gaudiosus-of-tarazona.svg
 name: Saint Gaudiosus of Tarazona
 stub: false
 honorific: Saint

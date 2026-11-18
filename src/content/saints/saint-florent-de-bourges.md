@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-florent-de-bourges.svg
 name: Saint Florent de Bourges
 stub: false
 honorific: Saint

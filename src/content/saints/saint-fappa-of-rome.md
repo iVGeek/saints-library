@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fappa-of-rome.svg
 name: Saint Fappa of Rome
 stub: true
 honorific: Saint

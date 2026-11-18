@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dioscorides-of-rome.svg
 name: Saint Dioscorides of Rome
 stub: true
 honorific: Saint

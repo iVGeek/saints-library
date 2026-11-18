@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-aventinus-of-larboust.svg
 name: Saint Aventinus of Larboust
 stub: false
 honorific: Saint

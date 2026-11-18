@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cassius-of-narni.svg
 name: Saint Cassius of Narni
 stub: false
 honorific: Saint

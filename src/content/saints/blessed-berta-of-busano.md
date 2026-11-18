@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-berta-of-busano.svg
 name: Blessed Berta of Busano
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-kasper-of-grimbergen.svg
 name: Blessed Kasper of Grimbergen
 stub: false
 honorific: Blessed

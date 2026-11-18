@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-james-the-deacon.svg
 name: Saint James the Deacon
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tertula-of-cirta.svg
 name: Saint Tertula of Cirta
 stub: true
 honorific: Saint

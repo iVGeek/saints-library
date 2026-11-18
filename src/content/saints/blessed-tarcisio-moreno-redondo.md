@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-tarcisio-moreno-redondo.svg
 name: Blessed Tarcisio Moreno Redondo
 stub: false
 honorific: Blessed

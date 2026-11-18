@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theopistus.svg
 name: Saint Theopistus
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-honorius-of-gerona.svg
 name: Saint Honorius of Gerona
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-crescentia-anazawa.svg
 name: Blessed Crescentia Anazawa
 stub: false
 honorific: Blessed

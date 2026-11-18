@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-grata-of-lugdunum.svg
 name: Saint Grata of Lugdunum
 stub: false
 honorific: Saint

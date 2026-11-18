@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-martino-tho.svg
 name: Saint Martinô Tho
 stub: true
 honorific: Venerable

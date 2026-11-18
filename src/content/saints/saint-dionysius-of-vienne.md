@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dionysius-of-vienne.svg
 name: Saint Dionysius of Vienne
 stub: true
 honorific: Saint

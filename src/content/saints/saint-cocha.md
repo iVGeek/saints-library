@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cocha.svg
 name: Saint Cocha
 stub: true
 honorific: Saint

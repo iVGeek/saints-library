@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcellinus-the-martyr.svg
 name: Saint Marcellinus the Martyr
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-of-philadelphia.svg
 name: Saint Peter of Philadelphia
 stub: true
 honorific: Saint

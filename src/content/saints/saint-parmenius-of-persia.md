@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-parmenius-of-persia.svg
 name: Saint Parmenius of Persia
 stub: true
 honorific: Saint

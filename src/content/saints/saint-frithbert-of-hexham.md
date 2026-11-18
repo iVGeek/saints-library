@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-frithbert-of-hexham.svg
 name: Saint Frithbert of Hexham
 stub: false
 honorific: Saint

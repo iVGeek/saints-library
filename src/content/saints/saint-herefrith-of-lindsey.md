@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-herefrith-of-lindsey.svg
 name: Saint Herefrith of Lindsey
 stub: true
 honorific: Saint

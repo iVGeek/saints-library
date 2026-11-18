@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-constantine-of-scotland.svg
 name: Saint Constantine of Scotland
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jovinus-of-rome.svg
 name: Saint Jovinus of Rome
 stub: true
 honorific: Saint

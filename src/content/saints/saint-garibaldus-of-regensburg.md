@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-garibaldus-of-regensburg.svg
 name: Saint Garibaldus of Regensburg
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-erotheides.svg
 name: Saint Erotheides
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mardonius-of-nicomedia.svg
 name: Saint Mardonius of Nicomedia
 stub: true
 honorific: Saint

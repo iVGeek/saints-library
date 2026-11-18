@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturninus-6-february.svg
 name: Saint Saturninus
 stub: true
 honorific: Saint

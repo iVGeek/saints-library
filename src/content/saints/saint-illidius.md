@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-illidius.svg
 name: Saint Illidius of Clermont
 stub: false
 honorific: Saint

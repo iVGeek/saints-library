@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gobert-of-apremont.svg
 name: Saint Gobert of Apremont
 stub: false
 honorific: Saint

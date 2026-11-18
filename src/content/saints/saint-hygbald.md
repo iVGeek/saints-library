@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hygbald.svg
 name: Saint Hygbald
 stub: false
 honorific: Saint

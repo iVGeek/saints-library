@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pia-of-quedlinburg.svg
 name: Saint Pia of Quedlinburg
 stub: false
 honorific: Saint

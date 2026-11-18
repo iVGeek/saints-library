@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-segundo-of-abula.svg
 name: Saint Segundo of Ábula
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcian-of-constantinople.svg
 name: Saint Marcian of Constantinople
 stub: false
 honorific: Saint

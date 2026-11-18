@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valerius-of-soissons.svg
 name: Saint Valerius of Soissons
 stub: false
 honorific: Saint

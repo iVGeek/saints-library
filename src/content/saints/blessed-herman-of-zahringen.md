@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-herman-of-zahringen.svg
 name: Blessed Herman of Zahringen
 stub: false
 honorific: Blessed

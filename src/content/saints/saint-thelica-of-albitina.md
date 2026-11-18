@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thelica-of-albitina.svg
 name: Saint Thelica of Albitina
 stub: false
 honorific: Saint

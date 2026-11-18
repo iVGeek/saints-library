@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-fulgentius-de-lara.svg
 name: Blessed Fulgentius de Lara
 stub: false
 honorific: Blessed

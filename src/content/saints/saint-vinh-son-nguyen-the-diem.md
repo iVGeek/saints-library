@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vinh-son-nguyen-the-diem.svg
 name: Saint Vinh Son Nguyen The Ðiem
 stub: false
 honorific: Venerable

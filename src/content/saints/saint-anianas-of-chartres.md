@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-anianas-of-chartres.svg
 name: Saint Anianas of Chartres
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-landericus-of-novalese.svg
 name: Saint Landericus of Novalese
 stub: true
 honorific: Saint

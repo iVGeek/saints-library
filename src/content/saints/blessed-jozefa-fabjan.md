@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jozefa-fabjan.svg
 name: Blessed Jožefa Fabjan
 stub: false
 honorific: Blessed

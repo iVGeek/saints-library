@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-manuel-requejo-perez.svg
 name: Blessed Manuel Requejo Pérez
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-soadbair.svg
 name: Saint Soadbair
 stub: true
 honorific: Saint

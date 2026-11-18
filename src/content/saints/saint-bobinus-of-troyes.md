@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bobinus-of-troyes.svg
 name: Saint Bobinus of Troyes
 stub: true
 honorific: Saint

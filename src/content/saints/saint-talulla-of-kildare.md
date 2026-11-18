@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-talulla-of-kildare.svg
 name: Saint Talulla of Kildare
 stub: true
 honorific: Saint

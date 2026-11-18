@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cirinus-of-nyon.svg
 name: Saint Cirinus of Nyon
 stub: true
 honorific: Saint

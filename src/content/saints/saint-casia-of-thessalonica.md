@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-casia-of-thessalonica.svg
 name: Saint Casia of Thessalonica
 stub: false
 honorific: Saint

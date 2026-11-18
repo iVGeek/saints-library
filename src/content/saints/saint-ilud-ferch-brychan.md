@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ilud-ferch-brychan.svg
 name: Saint Ilud Ferch Brychan
 stub: false
 honorific: Saint

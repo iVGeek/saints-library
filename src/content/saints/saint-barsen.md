@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-barsen.svg
 name: Saint Barsen
 stub: false
 honorific: Saint

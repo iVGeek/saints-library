@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-antimund-of-therouanne.svg
 name: Saint Antimund of Thérouanne
 stub: false
 honorific: Saint

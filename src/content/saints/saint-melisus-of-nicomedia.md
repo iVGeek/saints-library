@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-melisus-of-nicomedia.svg
 name: Saint Melisus of Nicomedia
 stub: true
 honorific: Saint

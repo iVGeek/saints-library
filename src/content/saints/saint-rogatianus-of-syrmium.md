@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rogatianus-of-syrmium.svg
 name: Saint Rogatianus of Syrmium
 stub: true
 honorific: Saint

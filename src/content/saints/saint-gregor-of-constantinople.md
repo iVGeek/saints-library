@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gregor-of-constantinople.svg
 name: Saint Gregor of Constantinople
 stub: false
 honorific: Saint

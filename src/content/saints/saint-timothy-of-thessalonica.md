@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-timothy-of-thessalonica.svg
 name: Saint Timothy of Thessalonica
 stub: true
 honorific: Saint

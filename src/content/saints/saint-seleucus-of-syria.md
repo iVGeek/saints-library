@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-seleucus-of-syria.svg
 name: Saint Seleucus of Syria
 stub: true
 honorific: Saint

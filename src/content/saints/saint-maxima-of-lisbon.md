@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maxima-of-lisbon.svg
 name: Saint Maxima of Lisbon
 stub: false
 honorific: Saint

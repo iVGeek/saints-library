@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-socrates-of-pergen.svg
 name: Saint Socrates of Pergen
 stub: true
 honorific: Saint

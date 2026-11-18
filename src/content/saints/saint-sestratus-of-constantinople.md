@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sestratus-of-constantinople.svg
 name: Saint Sestratus of Constantinople
 stub: false
 honorific: Saint

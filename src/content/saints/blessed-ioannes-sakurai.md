@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ioannes-sakurai.svg
 name: Blessed Ioannes Sakurai
 stub: true
 honorific: Blessed

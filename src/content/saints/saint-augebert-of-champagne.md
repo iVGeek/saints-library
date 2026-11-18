@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-augebert-of-champagne.svg
 name: Saint Augebert of Champagne
 stub: false
 honorific: Saint

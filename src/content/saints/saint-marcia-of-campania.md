@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcia-of-campania.svg
 name: Saint Marcia of Campania
 stub: true
 honorific: Saint

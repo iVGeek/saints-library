@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ermengyth.svg
 name: Saint Ermengyth of Minster-in-Thanet
 stub: true
 honorific: Saint

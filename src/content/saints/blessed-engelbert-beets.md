@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-engelbert-beets.svg
 name: Blessed Engelbert Beets
 stub: false
 honorific: Blessed

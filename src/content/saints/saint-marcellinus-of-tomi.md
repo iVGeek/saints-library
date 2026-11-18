@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcellinus-of-tomi.svg
 name: Saint Marcellinus of Tomi
 stub: false
 honorific: Saint

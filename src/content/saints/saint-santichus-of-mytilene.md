@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-santichus-of-mytilene.svg
 name: Saint Santichus of Mytilene
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyril-of-north-africa.svg
 name: Saint Cyril of North Africa
 stub: true
 honorific: Saint

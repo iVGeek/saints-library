@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-emili-bover-albareda.svg
 name: Blessed Emili Bover Albareda
 stub: false
 honorific: Blessed

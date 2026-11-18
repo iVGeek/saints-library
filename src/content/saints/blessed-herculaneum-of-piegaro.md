@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-herculaneum-of-piegaro.svg
 name: Blessed Herculaneum of Piegaro
 stub: false
 honorific: Blessed

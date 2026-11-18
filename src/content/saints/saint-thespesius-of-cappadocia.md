@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thespesius-of-cappadocia.svg
 name: Saint Thespesius of Cappadocia
 stub: true
 honorific: Saint

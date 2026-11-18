@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-alain-marie-guynot-de-boismenu.svg
 name: Venerable Alain-Marie Guynot de Boismenu
 stub: false
 honorific: Venerable

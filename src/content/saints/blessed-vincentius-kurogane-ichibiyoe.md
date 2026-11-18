@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-vincentius-kurogane-ichibiyoe.svg
 name: Blessed Vincentius Kurogane Ichibiyoe
 stub: false
 honorific: Blessed

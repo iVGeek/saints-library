@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crescentian-of-carthage.svg
 name: Saint Crescentian of Carthage
 stub: true
 honorific: Saint

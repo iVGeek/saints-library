@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cele-christ.svg
 name: Saint Cele-Christ
 stub: true
 honorific: Saint

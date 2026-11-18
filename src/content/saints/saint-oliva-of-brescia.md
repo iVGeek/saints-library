@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-oliva-of-brescia.svg
 name: Saint Oliva of Brescia
 stub: true
 honorific: Saint

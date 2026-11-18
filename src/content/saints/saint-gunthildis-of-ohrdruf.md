@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gunthildis-of-ohrdruf.svg
 name: Saint Gunthildis of Ohrdruf
 stub: false
 honorific: Saint

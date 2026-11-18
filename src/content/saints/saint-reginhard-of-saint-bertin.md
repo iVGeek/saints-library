@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-reginhard-of-saint-bertin.svg
 name: Saint Reginhard of Saint Bertin
 stub: true
 honorific: Saint

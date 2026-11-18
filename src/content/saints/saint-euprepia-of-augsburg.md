@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-euprepia-of-augsburg.svg
 name: Saint Euprepia of Augsburg
 stub: false
 honorific: Saint

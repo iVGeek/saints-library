@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-carra-of-thessalonica.svg
 name: Saint Carra of Thessalonica
 stub: true
 honorific: Saint

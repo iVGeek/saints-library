@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gosselinus-of-metz.svg
 name: Saint Gosselinus of Metz
 stub: true
 honorific: Saint

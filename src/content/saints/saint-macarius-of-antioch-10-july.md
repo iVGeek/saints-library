@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-macarius-of-antioch-10-july.svg
 name: Saint Macarius of Antioch
 stub: true
 honorific: Saint

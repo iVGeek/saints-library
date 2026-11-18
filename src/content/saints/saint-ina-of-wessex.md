@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ina-of-wessex.svg
 name: Saint Ina of Wessex
 stub: false
 honorific: Saint

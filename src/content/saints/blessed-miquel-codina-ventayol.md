@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-miquel-codina-ventayol.svg
 name: Blessed Miquel Codina Ventayol
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-callidus-of-nicomedia.svg
 name: Saint Callidus of Nicomedia
 stub: true
 honorific: Saint

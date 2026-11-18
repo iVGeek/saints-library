@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-heraclios-of-constantinople.svg
 name: Saint Heraclios of Constantinople
 stub: false
 honorific: Saint

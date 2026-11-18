@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-romula-of-rome.svg
 name: Saint Romula of Rome
 stub: false
 honorific: Saint

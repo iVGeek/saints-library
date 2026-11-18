@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jose-ruiz-cuesta.svg
 name: Blessed José Ruiz Cuesta
 stub: false
 honorific: Blessed

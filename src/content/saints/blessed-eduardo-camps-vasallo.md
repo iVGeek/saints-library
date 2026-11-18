@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-eduardo-camps-vasallo.svg
 name: Blessed Eduardo Camps Vasallo
 stub: false
 honorific: Blessed

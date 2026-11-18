@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-tomas-alonso-sanjuan.svg
 name: Blessed Tomás Alonso Sanjuán
 stub: true
 honorific: Blessed

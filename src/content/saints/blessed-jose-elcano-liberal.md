@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jose-elcano-liberal.svg
 name: Blessed José Elcano Liberal
 stub: false
 honorific: Blessed

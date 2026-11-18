@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-serapion-of-egypt-25-february.svg
 name: Saint Serapion of Egypt
 stub: true
 honorific: Saint

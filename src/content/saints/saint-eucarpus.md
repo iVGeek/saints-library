@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eucarpus.svg
 name: Saint Eucarpus
 stub: false
 honorific: Saint

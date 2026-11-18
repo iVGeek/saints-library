@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodotus-of-mytilene.svg
 name: Saint Theodotus of Mytilene
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hilarus-of-thessalonica.svg
 name: Saint Hilarus of Thessalonica
 stub: true
 honorific: Saint

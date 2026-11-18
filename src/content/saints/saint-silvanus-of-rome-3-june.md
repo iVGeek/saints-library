@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-silvanus-of-rome-3-june.svg
 name: Saint Silvanus of Rome
 stub: true
 honorific: Saint

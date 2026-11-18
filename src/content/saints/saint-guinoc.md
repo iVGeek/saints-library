@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-guinoc.svg
 name: Saint Guinoc
 stub: true
 honorific: Saint

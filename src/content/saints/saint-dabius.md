@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dabius.svg
 name: Saint Dabius
 stub: false
 honorific: Saint

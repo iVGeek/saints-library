@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-namadia-of-marsat.svg
 name: Saint Namadia of Marsat
 stub: true
 honorific: Saint

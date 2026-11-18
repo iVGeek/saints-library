@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-aithalas-of-adrianopolis.svg
 name: Saint Aithalas of Adrianopolis
 stub: true
 honorific: Saint

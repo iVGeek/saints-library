@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crescens-of-tomi.svg
 name: Saint Crescens of Tomi
 stub: true
 honorific: Saint

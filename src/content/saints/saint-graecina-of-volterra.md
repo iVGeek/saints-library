@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-graecina-of-volterra.svg
 name: Saint Graecina of Volterra
 stub: true
 honorific: Saint

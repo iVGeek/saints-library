@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eudoxius-of-armenia.svg
 name: Saint Eudoxius of Armenia
 stub: false
 honorific: Saint

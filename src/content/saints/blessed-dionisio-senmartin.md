@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-dionisio-senmartin.svg
 name: Blessed Dionisio Senmartin
 stub: false
 honorific: Blessed

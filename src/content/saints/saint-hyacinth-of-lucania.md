@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hyacinth-of-lucania.svg
 name: Saint Hyacinth of Lucania
 stub: true
 honorific: Saint

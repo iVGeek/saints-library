@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gorgonius-of-nicea.svg
 name: Saint Gorgonius of Nicea
 stub: true
 honorific: Saint

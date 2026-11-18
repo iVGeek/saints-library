@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-domna-of-nicomedia.svg
 name: Saint Domna of Nicomedia
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pion-of-smyrna.svg
 name: Saint Pion of Smyrna
 stub: true
 honorific: Saint

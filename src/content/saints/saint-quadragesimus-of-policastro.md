@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-quadragesimus-of-policastro.svg
 name: Saint Quadragesimus of Policastro
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-silvanus-of-levroux.svg
 name: Saint Silvanus of Levroux
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-procula-of-thessalonica.svg
 name: Saint Procula of Thessalonica
 stub: true
 honorific: Saint

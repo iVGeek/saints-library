@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gerard-de-bazonches.svg
 name: Saint Gerard de Bazonches
 stub: true
 honorific: Saint

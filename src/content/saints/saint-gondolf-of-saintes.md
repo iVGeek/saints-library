@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gondolf-of-saintes.svg
 name: Saint Gondolf of Saintes
 stub: false
 honorific: Saint

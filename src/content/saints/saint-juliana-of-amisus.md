@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-juliana-of-amisus.svg
 name: Saint Juliana of Amisus
 stub: false
 honorific: Saint

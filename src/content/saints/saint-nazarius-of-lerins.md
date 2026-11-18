@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nazarius-of-lerins.svg
 name: Saint Nazarius of Lérins
 stub: false
 honorific: Saint

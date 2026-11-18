@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sabinian-of-damascus.svg
 name: Saint Sabinian of Damascus
 stub: false
 honorific: Saint

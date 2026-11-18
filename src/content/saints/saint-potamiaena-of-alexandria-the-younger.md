@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-potamiaena-of-alexandria-the-younger.svg
 name: Saint Potamiaena of Alexandria the Younger
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vintila-of-orensee.svg
 name: Saint Vintila of Orensee
 stub: true
 honorific: Saint

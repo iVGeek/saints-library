@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rigaldo.svg
 name: Saint Rigaldo
 stub: true
 honorific: Saint

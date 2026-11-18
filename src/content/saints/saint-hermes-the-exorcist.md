@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hermes-the-exorcist.svg
 name: Saint Hermes the Exorcist
 stub: true
 honorific: Saint

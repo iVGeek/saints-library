@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dinocus-of-nyon.svg
 name: Saint Dinocus of Nyon
 stub: true
 honorific: Saint

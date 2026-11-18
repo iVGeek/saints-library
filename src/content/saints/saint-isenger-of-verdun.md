@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-isenger-of-verdun.svg
 name: Saint Isenger of Verdun
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-beatrix-of-engelport.svg
 name: Blessed Beatrix of Engelport
 stub: false
 honorific: Blessed

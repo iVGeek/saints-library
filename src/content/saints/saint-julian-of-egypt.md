@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julian-of-egypt.svg
 name: Saint Julian of Egypt
 stub: false
 honorific: Saint

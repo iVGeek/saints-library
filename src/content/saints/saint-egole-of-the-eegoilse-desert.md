@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-egole-of-the-eegoilse-desert.svg
 name: Saint Egole of the Eegoilse Desert
 stub: true
 honorific: Saint

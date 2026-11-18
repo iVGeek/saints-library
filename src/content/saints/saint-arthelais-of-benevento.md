@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-arthelais-of-benevento.svg
 name: Saint Arthelais of Benevento
 stub: false
 honorific: Saint

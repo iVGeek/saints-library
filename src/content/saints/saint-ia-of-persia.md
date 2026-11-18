@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ia-of-persia.svg
 name: Saint Ia of Persia
 stub: false
 honorific: Saint

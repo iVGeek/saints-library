@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rutilus-of-thessalonica.svg
 name: Saint Rutilus of Thessalonica
 stub: true
 honorific: Saint

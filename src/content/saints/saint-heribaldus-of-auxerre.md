@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-heribaldus-of-auxerre.svg
 name: Saint Heribaldus of Auxerre
 stub: true
 honorific: Saint

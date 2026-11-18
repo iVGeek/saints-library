@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-abdelcalas.svg
 name: Saint Abdelcalas
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodemir-of-cordoba.svg
 name: Saint Theodemir of Cordoba
 stub: false
 honorific: Saint

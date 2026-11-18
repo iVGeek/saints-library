@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rumon-of-tavistock.svg
 name: Saint Rumon of Tavistock
 stub: true
 honorific: Saint

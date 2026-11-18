@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-oriculus.svg
 name: Saint Oriculus
 stub: false
 honorific: Saint

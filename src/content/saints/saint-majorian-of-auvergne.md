@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-majorian-of-auvergne.svg
 name: Saint Majorian of Auvergne
 stub: false
 honorific: Saint

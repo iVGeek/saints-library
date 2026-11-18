@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-wilfetrudis-of-nivelles.svg
 name: Saint Wilfetrudis of Nivelles
 stub: true
 honorific: Saint

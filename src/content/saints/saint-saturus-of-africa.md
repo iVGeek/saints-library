@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturus-of-africa.svg
 name: Saint Saturus of Africa
 stub: false
 honorific: Saint

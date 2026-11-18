@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-modianus-of-rome.svg
 name: Saint Modianus of Rome
 stub: false
 honorific: Saint

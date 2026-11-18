@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-lluis-jove-pach.svg
 name: Blessed Lluís Jové Pach
 stub: false
 honorific: Blessed

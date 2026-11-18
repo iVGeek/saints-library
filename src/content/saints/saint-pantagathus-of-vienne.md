@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pantagathus-of-vienne.svg
 name: Saint Pantagathus of Vienne
 stub: false
 honorific: Saint

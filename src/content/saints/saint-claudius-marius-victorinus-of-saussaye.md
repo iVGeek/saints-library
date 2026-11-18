@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-claudius-marius-victorinus-of-saussaye.svg
 name: Saint Claudius Marius Victorinus of Saussaye
 stub: false
 honorific: Saint

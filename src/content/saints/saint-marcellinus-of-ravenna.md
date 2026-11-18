@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcellinus-of-ravenna.svg
 name: Saint Marcellinus of Ravenna
 stub: true
 honorific: Saint

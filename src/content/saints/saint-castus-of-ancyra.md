@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-castus-of-ancyra.svg
 name: Saint Castus of Ancyra
 stub: true
 honorific: Saint

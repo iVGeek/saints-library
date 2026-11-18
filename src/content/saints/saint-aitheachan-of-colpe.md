@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-aitheachan-of-colpe.svg
 name: Saint Aitheachan of Colpe
 stub: false
 honorific: Saint

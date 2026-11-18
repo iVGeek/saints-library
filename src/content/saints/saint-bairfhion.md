@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bairfhion.svg
 name: Saint Bairfhion
 stub: true
 honorific: Saint

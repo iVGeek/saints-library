@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valentina-of-ephesus.svg
 name: Saint Valentina of Ephesus
 stub: true
 honorific: Saint

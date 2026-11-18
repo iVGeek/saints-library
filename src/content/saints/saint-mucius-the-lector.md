@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mucius-the-lector.svg
 name: Saint Mucius the Lector
 stub: false
 honorific: Saint

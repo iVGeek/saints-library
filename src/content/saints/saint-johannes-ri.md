@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-johannes-ri.svg
 name: Saint Johannes Ri
 stub: true
 honorific: Saint

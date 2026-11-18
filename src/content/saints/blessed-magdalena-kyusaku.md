@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-magdalena-kyusaku.svg
 name: Blessed Magdalena Kyusaku
 stub: false
 honorific: Blessed

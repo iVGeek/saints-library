@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-coman-mcernann.svg
 name: Saint Coman McErnann
 stub: false
 honorific: Saint

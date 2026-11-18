@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-arsenius-of-latro.svg
 name: Saint Arsenius of Latro
 stub: false
 honorific: Saint

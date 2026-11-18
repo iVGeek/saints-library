@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vambert-of-normandy.svg
 name: Saint Vambert of Normandy
 stub: false
 honorific: Saint

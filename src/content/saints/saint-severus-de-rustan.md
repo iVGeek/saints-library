@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-severus-de-rustan.svg
 name: Saint Severus de Rustan
 stub: false
 honorific: Saint

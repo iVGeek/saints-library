@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-photis-of-rome.svg
 name: Saint Photis of Rome
 stub: true
 honorific: Saint

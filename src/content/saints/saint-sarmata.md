@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sarmata.svg
 name: Saint Sarmata
 stub: true
 honorific: Saint

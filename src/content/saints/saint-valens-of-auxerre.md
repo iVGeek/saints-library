@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valens-of-auxerre.svg
 name: Saint Valens of Auxerre
 stub: true
 honorific: Saint

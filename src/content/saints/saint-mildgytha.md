@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mildgytha.svg
 name: Saint Mildgytha
 stub: false
 honorific: Saint

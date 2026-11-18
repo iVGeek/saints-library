@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-filagon-of-italy.svg
 name: Saint Filagon of Italy
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rhediw.svg
 name: Saint Rhediw
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-alrick-the-hermit.svg
 name: Saint Alrick the Hermit
 stub: false
 honorific: Saint

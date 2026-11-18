@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julius-of-durostorum.svg
 name: Saint Julius of Durostorum
 stub: true
 honorific: Saint

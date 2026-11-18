@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pomponia-of-albitina.svg
 name: Saint Pomponia of Albitina
 stub: false
 honorific: Saint

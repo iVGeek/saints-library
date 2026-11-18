@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theobald-of-vicenza.svg
 name: Saint Theobald of Vicenza
 stub: false
 honorific: Saint

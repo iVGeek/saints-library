@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nilus-of-phunon.svg
 name: Saint Nilus of Phunon
 stub: false
 honorific: Saint

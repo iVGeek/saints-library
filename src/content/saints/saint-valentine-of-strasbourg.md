@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valentine-of-strasbourg.svg
 name: Saint Valentine of Strasbourg
 stub: true
 honorific: Saint

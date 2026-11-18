@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fidelis-of-antwerp.svg
 name: Saint Fidelis of Antwerp
 stub: true
 honorific: Saint

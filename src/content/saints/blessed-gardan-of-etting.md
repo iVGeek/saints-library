@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gardan-of-etting.svg
 name: Blessed Gardan of Etting
 stub: false
 honorific: Blessed

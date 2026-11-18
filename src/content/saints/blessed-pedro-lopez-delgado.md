@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-pedro-lopez-delgado.svg
 name: Blessed Pedro López Delgado
 stub: false
 honorific: Blessed

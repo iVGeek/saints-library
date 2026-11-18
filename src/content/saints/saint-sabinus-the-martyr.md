@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sabinus-the-martyr.svg
 name: Saint Sabinus the Martyr
 stub: true
 honorific: Saint

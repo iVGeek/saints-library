@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-constantius-of-trier.svg
 name: Saint Constantius of Trier
 stub: true
 honorific: Saint

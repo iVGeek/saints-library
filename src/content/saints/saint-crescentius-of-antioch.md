@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crescentius-of-antioch.svg
 name: Saint Crescentius of Antioch
 stub: true
 honorific: Saint

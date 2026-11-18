@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ethelwald-of-lindisfarne.svg
 name: Saint Ethelwald of Lindisfarne
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theotychus-of-alexandria.svg
 name: Saint Theotychus of Alexandria
 stub: false
 honorific: Saint

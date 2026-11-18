@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ansologus-of-salzburg.svg
 name: Saint Ansologus of Salzburg
 stub: false
 honorific: Saint

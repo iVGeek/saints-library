@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-virianus-of-saddi.svg
 name: Saint Virianus of Saddi
 stub: true
 honorific: Saint

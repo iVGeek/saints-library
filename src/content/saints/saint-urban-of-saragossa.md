@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-urban-of-saragossa.svg
 name: Saint Urban of Saragossa
 stub: false
 honorific: Saint

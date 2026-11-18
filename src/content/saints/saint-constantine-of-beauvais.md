@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-constantine-of-beauvais.svg
 name: Saint Constantine of Beauvais
 stub: false
 honorific: Saint

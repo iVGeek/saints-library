@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-francisco-salamanca-bujalance.svg
 name: Blessed Francisco Salamanca Bujalance
 stub: false
 honorific: Blessed

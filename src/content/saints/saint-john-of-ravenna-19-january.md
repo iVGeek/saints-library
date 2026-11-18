@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-of-ravenna-19-january.svg
 name: Saint John of Ravenna
 stub: false
 honorific: Saint

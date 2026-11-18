@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-of-edessa.svg
 name: Saint John of Edessa
 stub: true
 honorific: Saint

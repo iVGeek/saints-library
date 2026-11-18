@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-namphasius.svg
 name: Saint Namphasius
 stub: false
 honorific: Saint

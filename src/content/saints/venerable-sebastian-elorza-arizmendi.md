@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-sebastian-elorza-arizmendi.svg
 name: Venerable Sebastián Elorza Arizmendi
 stub: true
 honorific: Venerable

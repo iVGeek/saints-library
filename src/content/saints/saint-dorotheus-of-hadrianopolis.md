@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dorotheus-of-hadrianopolis.svg
 name: Saint Dorotheus of Hadrianopolis
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sabinus-of-poitiers.svg
 name: Saint Sabinus of Poitiers
 stub: true
 honorific: Saint

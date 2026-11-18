@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-feredarius-of-iona.svg
 name: Saint Feredarius of Iona
 stub: true
 honorific: Saint

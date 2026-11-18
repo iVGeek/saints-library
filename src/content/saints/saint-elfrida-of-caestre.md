@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-elfrida-of-caestre.svg
 name: Saint Elfrida of Caëstre
 stub: false
 honorific: Saint

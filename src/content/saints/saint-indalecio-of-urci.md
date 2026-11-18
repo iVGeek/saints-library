@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-indalecio-of-urci.svg
 name: Saint Indalecio of Urci
 stub: true
 honorific: Saint

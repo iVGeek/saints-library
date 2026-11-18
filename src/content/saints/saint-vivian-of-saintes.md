@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vivian-of-saintes.svg
 name: Saint Vivian of Saintes
 stub: true
 honorific: Saint

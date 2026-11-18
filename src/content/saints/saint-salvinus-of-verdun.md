@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-salvinus-of-verdun.svg
 name: Saint Salvinus of Verdun
 stub: true
 honorific: Saint

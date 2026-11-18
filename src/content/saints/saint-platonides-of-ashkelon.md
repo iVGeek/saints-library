@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-platonides-of-ashkelon.svg
 name: Saint Platonides of Ashkelon
 stub: false
 honorific: Saint

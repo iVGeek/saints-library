@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-eusthenios-of-cyprus.svg
 name: Blessed Eusthénios of Cyprus
 stub: false
 honorific: Blessed

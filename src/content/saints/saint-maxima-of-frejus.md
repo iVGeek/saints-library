@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maxima-of-frejus.svg
 name: Saint Maxima of Fréjus
 stub: false
 honorific: Saint

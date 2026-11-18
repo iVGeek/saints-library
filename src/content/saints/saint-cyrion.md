@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyrion.svg
 name: Saint Cyrion
 stub: false
 honorific: Saint

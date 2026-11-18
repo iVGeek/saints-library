@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julian-of-syria-25-august.svg
 name: Saint Julian of Syria
 stub: true
 honorific: Saint

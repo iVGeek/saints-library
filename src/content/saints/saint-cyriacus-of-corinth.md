@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyriacus-of-corinth.svg
 name: Saint Cyriacus of Corinth
 stub: true
 honorific: Saint

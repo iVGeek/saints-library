@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-serano-of-oviedo.svg
 name: Saint Serano of Oviedo
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theobald-of-vienne.svg
 name: Saint Theobald of Vienne
 stub: true
 honorific: Saint

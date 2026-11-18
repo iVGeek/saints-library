@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eraclius-of-syrmium.svg
 name: Saint Eraclius of Syrmium
 stub: true
 honorific: Saint

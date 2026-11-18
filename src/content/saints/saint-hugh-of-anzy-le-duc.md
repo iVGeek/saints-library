@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hugh-of-anzy-le-duc.svg
 name: Saint Hugh of Anzy-le-Duc
 stub: false
 honorific: Saint

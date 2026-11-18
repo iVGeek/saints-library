@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-facundinus-of-taino.svg
 name: Saint Facundinus of Taino
 stub: true
 honorific: Saint

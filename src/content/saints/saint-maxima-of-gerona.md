@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maxima-of-gerona.svg
 name: Saint Maxima of Gerona
 stub: true
 honorific: Saint

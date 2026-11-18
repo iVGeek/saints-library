@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-silvius-of-alexandria.svg
 name: Saint Silvius of Alexandria
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-giuliano-mayali.svg
 name: Blessed Giuliano Mayali
 stub: false
 honorific: Blessed

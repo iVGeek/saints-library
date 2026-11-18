@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-auedebertus-of-senlis.svg
 name: Saint Auedebertus of Senlis
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-melitina.svg
 name: Saint Melitina
 stub: false
 honorific: Saint

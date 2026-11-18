@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-clara-ezcurra-urrutia.svg
 name: Blessed Clara Ezcurra Urrutia
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-pannonia.svg
 name: Saint Maximus of Pannonia
 stub: true
 honorific: Saint

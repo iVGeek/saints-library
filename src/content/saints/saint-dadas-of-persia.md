@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dadas-of-persia.svg
 name: Saint Dadas of Persia
 stub: false
 honorific: Saint

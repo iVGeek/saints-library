@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-faustus-of-rome-and-milan.svg
 name: Saint Faustus of Rome and Milan
 stub: true
 honorific: Saint

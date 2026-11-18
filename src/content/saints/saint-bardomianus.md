@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bardomianus.svg
 name: Saint Bardomianus
 stub: false
 honorific: Saint

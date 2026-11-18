@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gunthildis-of-biblisheim.svg
 name: Saint Gunthildis of Biblisheim
 stub: true
 honorific: Saint

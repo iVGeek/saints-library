@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-francoise-michau.svg
 name: Blessed Françoise Michau
 stub: false
 honorific: Blessed

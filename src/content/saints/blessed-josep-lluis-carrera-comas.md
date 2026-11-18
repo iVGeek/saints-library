@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-josep-lluis-carrera-comas.svg
 name: Blessed Josep Lluís Carrera Comas
 stub: false
 honorific: Blessed

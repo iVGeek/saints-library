@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julianus-of-thessalonica-4-april.svg
 name: Saint Julianus of Thessalonica
 stub: true
 honorific: Saint

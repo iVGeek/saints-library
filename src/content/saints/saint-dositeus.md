@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dositeus.svg
 name: Saint Dositeus
 stub: false
 honorific: Saint

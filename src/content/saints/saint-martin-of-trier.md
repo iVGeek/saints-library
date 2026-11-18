@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-martin-of-trier.svg
 name: Saint Martin of Trier
 stub: true
 honorific: Saint

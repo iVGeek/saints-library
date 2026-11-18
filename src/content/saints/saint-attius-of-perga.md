@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-attius-of-perga.svg
 name: Saint Attius of Perga
 stub: false
 honorific: Saint

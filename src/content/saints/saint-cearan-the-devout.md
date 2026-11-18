@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cearan-the-devout.svg
 name: Saint Cearan the Devout
 stub: true
 honorific: Saint

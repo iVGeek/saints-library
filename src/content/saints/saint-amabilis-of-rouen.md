@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-amabilis-of-rouen.svg
 name: Saint Amabilis of Rouen
 stub: true
 honorific: Saint

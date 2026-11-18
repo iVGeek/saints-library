@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturnius-of-saragossa.svg
 name: Saint Saturnius of Saragossa
 stub: false
 honorific: Saint

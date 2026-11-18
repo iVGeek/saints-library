@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cartherius-of-sebaste.svg
 name: Saint Cartherius of Sebaste
 stub: false
 honorific: Saint

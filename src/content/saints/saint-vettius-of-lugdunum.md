@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vettius-of-lugdunum.svg
 name: Saint Vettius of Lugdunum
 stub: false
 honorific: Saint

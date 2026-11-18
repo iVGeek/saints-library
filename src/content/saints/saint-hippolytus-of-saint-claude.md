@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hippolytus-of-saint-claude.svg
 name: Saint Hippolytus of Saint-Claude
 stub: true
 honorific: Saint

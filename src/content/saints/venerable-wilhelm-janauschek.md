@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-wilhelm-janauschek.svg
 name: Venerable Wilhelm Janauschek
 stub: true
 honorific: Venerable

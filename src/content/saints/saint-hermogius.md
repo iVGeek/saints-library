@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hermogius.svg
 name: Saint Hermogius of Tuy
 stub: false
 honorific: Saint

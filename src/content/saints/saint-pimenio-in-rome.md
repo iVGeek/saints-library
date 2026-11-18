@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pimenio-in-rome.svg
 name: Saint Pimenio in Rome
 stub: true
 honorific: Saint

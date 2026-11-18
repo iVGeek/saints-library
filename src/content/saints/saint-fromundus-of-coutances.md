@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fromundus-of-coutances.svg
 name: Saint Fromundus of Coutances
 stub: true
 honorific: Saint

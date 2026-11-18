@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-berius-of-constantinople.svg
 name: Saint Berius of Constantinople
 stub: true
 honorific: Saint

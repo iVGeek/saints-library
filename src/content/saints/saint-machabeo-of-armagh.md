@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-machabeo-of-armagh.svg
 name: Saint Machabeo of Armagh
 stub: false
 honorific: Saint

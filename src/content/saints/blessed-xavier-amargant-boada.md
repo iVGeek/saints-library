@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-xavier-amargant-boada.svg
 name: Blessed Xavier Amargant Boada
 stub: false
 honorific: Blessed

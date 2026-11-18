@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victoria-of-hippo.svg
 name: Saint Victoria of Hippo
 stub: false
 honorific: Saint

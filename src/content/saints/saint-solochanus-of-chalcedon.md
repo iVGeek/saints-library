@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-solochanus-of-chalcedon.svg
 name: Saint Solochanus of Chalcedon
 stub: false
 honorific: Saint

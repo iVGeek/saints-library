@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julian-of-cagliari.svg
 name: Saint Julian of Cagliari
 stub: true
 honorific: Saint

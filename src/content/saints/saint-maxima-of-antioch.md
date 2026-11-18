@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maxima-of-antioch.svg
 name: Saint Maxima of Antioch
 stub: true
 honorific: Saint

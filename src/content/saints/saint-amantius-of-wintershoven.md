@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-amantius-of-wintershoven.svg
 name: Saint Amantius of Wintershoven
 stub: false
 honorific: Saint

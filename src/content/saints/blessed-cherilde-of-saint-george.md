@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-cherilde-of-saint-george.svg
 name: Blessed Cherilde of Saint George
 stub: false
 honorific: Blessed

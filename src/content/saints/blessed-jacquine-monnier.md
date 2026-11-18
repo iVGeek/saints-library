@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jacquine-monnier.svg
 name: Blessed Jacquine Monnier
 stub: false
 honorific: Blessed

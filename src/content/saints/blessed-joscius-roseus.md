@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-joscius-roseus.svg
 name: Blessed Joscius Roseus
 stub: false
 honorific: Blessed

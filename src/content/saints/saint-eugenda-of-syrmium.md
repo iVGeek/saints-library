@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eugenda-of-syrmium.svg
 name: Saint Eugenda of Syrmium
 stub: true
 honorific: Saint

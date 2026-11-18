@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-engelram-of-metz.svg
 name: Saint Engelram of Metz
 stub: true
 honorific: Saint

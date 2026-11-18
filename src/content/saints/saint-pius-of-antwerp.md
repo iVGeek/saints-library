@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pius-of-antwerp.svg
 name: Saint Pius of Antwerp
 stub: true
 honorific: Saint

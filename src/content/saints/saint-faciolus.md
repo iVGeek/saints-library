@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-faciolus.svg
 name: Saint Faciolus
 stub: true
 honorific: Saint

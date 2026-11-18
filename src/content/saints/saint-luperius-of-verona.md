@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-luperius-of-verona.svg
 name: Saint Luperius of Verona
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tilinus-of-alexandria.svg
 name: Saint Tilinus of Alexandria
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lochinia-of-ireland.svg
 name: Saint Lochinia of Ireland
 stub: false
 honorific: Saint

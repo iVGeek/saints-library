@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-toma-toan.svg
 name: Saint Tôma Toán
 stub: false
 honorific: Venerable

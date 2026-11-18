@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dositheus-of-gaza.svg
 name: Saint Dositheus of Gaza
 stub: false
 honorific: Saint

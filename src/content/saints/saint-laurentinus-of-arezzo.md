@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-laurentinus-of-arezzo.svg
 name: Saint Laurentinus of Arezzo
 stub: true
 honorific: Saint

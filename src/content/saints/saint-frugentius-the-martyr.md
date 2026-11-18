@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-frugentius-the-martyr.svg
 name: Saint Frugentius the Martyr
 stub: true
 honorific: Saint

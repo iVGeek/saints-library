@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-constantly.svg
 name: Saint Constantly
 stub: false
 honorific: Saint

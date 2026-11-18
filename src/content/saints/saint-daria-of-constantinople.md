@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-daria-of-constantinople.svg
 name: Saint Daria of Constantinople
 stub: true
 honorific: Saint

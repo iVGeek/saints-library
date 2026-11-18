@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felician-of-lucania.svg
 name: Saint Felician of Lucania
 stub: true
 honorific: Saint

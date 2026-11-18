@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dositheus-of-egypt.svg
 name: Saint Dositheus of Egypt
 stub: false
 honorific: Saint

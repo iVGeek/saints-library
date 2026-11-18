@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hippolytus-of-atripalda.svg
 name: Saint Hippolytus of Atripalda
 stub: false
 honorific: Saint

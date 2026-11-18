@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-quadratus-of-herbipolis.svg
 name: Saint Quadratus of Herbipolis
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-servilius-of-istria.svg
 name: Saint Servilius of Istria
 stub: true
 honorific: Saint

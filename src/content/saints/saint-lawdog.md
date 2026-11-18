@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lawdog.svg
 name: Saint Lawdog
 stub: false
 honorific: Saint

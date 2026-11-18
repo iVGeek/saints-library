@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zeno-of-nicaea.svg
 name: Saint Zeno of Nicaea
 stub: true
 honorific: Saint

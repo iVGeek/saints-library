@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-antinogenes-of-merida.svg
 name: Saint Antinogenes of Merida
 stub: true
 honorific: Saint

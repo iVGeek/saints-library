@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-porphyrius-of-palestrina.svg
 name: Saint Porphyrius of Palestrina
 stub: true
 honorific: Saint

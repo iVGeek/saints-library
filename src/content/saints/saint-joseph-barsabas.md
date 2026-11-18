@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-joseph-barsabas.svg
 name: Saint Joseph Barsabas
 stub: false
 honorific: Saint

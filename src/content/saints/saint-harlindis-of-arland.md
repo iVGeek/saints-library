@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-harlindis-of-arland.svg
 name: Saint Harlindis of Arland
 stub: false
 honorific: Saint

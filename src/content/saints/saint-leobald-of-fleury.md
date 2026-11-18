@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-leobald-of-fleury.svg
 name: Saint Leobald of Fleury
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-publio-rodriguez-moslares.svg
 name: Blessed Publio Rodríguez Moslares
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fonteius-of-rome.svg
 name: Saint Fonteius of Rome
 stub: false
 honorific: Saint

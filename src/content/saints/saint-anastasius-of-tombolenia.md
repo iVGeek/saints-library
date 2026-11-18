@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-anastasius-of-tombolenia.svg
 name: Saint Anastasius of Tombolenia
 stub: false
 honorific: Saint

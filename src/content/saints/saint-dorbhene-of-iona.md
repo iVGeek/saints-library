@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dorbhene-of-iona.svg
 name: Saint Dorbhene of Iona
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-of-nicomedia.svg
 name: Saint Peter of Nicomedia
 stub: false
 honorific: Saint

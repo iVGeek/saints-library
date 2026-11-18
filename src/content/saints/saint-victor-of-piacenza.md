@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victor-of-piacenza.svg
 name: Saint Victor of Piacenza
 stub: false
 honorific: Saint

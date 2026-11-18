@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-santiago-de-prado-fernandez.svg
 name: Blessed Santiago de Prado Fernández
 stub: true
 honorific: Blessed

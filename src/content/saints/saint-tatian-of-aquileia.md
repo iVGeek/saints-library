@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tatian-of-aquileia.svg
 name: Saint Tatian of Aquileia
 stub: true
 honorific: Saint

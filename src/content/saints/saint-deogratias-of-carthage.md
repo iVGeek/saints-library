@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-deogratias-of-carthage.svg
 name: Saint Deogratias of Carthage
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-lucia-iida.svg
 name: Blessed Lucia Iida
 stub: false
 honorific: Blessed

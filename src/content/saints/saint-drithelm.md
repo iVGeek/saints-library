@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-drithelm.svg
 name: Saint Drithelm
 stub: false
 honorific: Saint

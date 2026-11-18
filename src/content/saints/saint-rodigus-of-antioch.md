@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rodigus-of-antioch.svg
 name: Saint Rodigus of Antioch
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-perfecto-del-rio-paramo.svg
 name: Blessed Perfecto Del Río Páramo
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jonah-the-presbyter.svg
 name: Saint Jonah the Presbyter
 stub: false
 honorific: Saint

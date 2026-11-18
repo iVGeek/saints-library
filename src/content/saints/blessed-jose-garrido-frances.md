@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jose-garrido-frances.svg
 name: Blessed José Garrido Francés
 stub: true
 honorific: Blessed

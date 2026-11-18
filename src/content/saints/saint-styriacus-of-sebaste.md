@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-styriacus-of-sebaste.svg
 name: Saint Styriacus of Sebaste
 stub: false
 honorific: Saint

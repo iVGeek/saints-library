@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cassian-of-todi.svg
 name: Saint Cassian of Todi
 stub: false
 honorific: Saint

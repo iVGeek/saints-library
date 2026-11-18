@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-francoise-pagis-epouse-railleau.svg
 name: Blessed Françoise Pagis épouse Railleau
 stub: false
 honorific: Blessed

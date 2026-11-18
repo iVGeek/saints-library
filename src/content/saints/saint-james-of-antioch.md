@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-james-of-antioch.svg
 name: Saint James of Antioch
 stub: true
 honorific: Saint

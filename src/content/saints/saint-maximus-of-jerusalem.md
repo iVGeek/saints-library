@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-jerusalem.svg
 name: Saint Maximus of Jerusalem
 stub: false
 honorific: Saint

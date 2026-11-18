@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-coliano-of-adria.svg
 name: Saint Coliano of Adria
 stub: true
 honorific: Saint

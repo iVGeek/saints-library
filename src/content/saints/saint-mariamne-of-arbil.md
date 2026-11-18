@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mariamne-of-arbil.svg
 name: Saint Mariamne of Arbil
 stub: false
 honorific: Saint

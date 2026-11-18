@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-petronius-of-verona.svg
 name: Saint Petronius of Verona
 stub: true
 honorific: Saint

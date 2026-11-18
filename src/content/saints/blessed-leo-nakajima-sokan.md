@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-leo-nakajima-sokan.svg
 name: Blessed Leo Nakajima Sokan
 stub: false
 honorific: Blessed

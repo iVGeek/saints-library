@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-domnolus-of-pouilly.svg
 name: Saint Domnolus of Pouilly
 stub: false
 honorific: Saint

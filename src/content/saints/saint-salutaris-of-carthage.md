@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-salutaris-of-carthage.svg
 name: Saint Salutaris of Carthage
 stub: false
 honorific: Saint

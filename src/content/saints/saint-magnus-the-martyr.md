@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-magnus-the-martyr.svg
 name: Saint Magnus the Martyr
 stub: true
 honorific: Saint

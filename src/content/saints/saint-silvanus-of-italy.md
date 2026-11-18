@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-silvanus-of-italy.svg
 name: Saint Silvanus of Italy
 stub: false
 honorific: Saint

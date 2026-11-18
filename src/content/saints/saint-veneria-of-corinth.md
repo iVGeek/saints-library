@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-veneria-of-corinth.svg
 name: Saint Veneria of Corinth
 stub: true
 honorific: Saint

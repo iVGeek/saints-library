@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-severus-of-bizye.svg
 name: Saint Severus of Bizye
 stub: false
 honorific: Saint

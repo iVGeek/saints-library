@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-bellatanus-of-perugia.svg
 name: Blessed Bellatanus of Perugia
 stub: true
 honorific: Blessed

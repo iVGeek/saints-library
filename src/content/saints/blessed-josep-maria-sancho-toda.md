@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-josep-maria-sancho-toda.svg
 name: Blessed Josep Maria Sancho Toda
 stub: false
 honorific: Blessed

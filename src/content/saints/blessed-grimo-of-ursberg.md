@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-grimo-of-ursberg.svg
 name: Blessed Grimo of Ursberg
 stub: false
 honorific: Blessed

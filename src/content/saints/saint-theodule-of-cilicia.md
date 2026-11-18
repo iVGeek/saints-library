@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodule-of-cilicia.svg
 name: Saint Theodule of Cilicia
 stub: true
 honorific: Saint

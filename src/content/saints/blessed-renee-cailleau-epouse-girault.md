@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-renee-cailleau-epouse-girault.svg
 name: Blessed Renée Cailleau épouse Girault
 stub: false
 honorific: Blessed

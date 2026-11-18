@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-florentius-of-seville.svg
 name: Saint Florentius of Seville
 stub: true
 honorific: Saint

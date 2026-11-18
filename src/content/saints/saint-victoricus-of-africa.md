@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victoricus-of-africa.svg
 name: Saint Victoricus of Africa
 stub: true
 honorific: Saint

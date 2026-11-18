@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-belina.svg
 name: Saint Belina of Troyes
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-severin-of-paris.svg
 name: Saint Severin of Paris
 stub: true
 honorific: Saint

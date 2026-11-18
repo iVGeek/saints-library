@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-genistus-of-limoges.svg
 name: Saint Genistus of Limoges
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-felix-alonso-muniz.svg
 name: Blessed Félix Alonso Muñiz
 stub: true
 honorific: Blessed

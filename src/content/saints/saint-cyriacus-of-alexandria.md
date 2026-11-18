@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyriacus-of-alexandria.svg
 name: Saint Cyriacus of Alexandria
 stub: true
 honorific: Saint

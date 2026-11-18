@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hadrian-of-africa.svg
 name: Saint Hadrian of Africa
 stub: true
 honorific: Saint

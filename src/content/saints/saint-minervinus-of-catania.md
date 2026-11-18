@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-minervinus-of-catania.svg
 name: Saint Minervinus of Catania
 stub: false
 honorific: Saint

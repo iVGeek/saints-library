@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-celina-of-meaux.svg
 name: Saint Celina of Meaux
 stub: false
 honorific: Saint

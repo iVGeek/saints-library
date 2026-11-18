@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-angelus-portasole.svg
 name: Blessed Angelus Portasole
 stub: true
 honorific: Blessed

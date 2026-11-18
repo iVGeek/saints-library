@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-aquilinus-of-fossombrone.svg
 name: Saint Aquilinus of Fossombrone
 stub: true
 honorific: Saint

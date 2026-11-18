@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-arnold-of-gemblours.svg
 name: Blessed Arnold of Gemblours
 stub: false
 honorific: Blessed

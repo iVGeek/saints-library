@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodosia-of-caesarea.svg
 name: Saint Theodosia of Caesarea
 stub: false
 honorific: Saint

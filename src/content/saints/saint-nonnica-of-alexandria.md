@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nonnica-of-alexandria.svg
 name: Saint Nonnica of Alexandria
 stub: true
 honorific: Saint

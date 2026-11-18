@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-isidore-of-cordoba.svg
 name: Saint Isidore of Cordoba
 stub: false
 honorific: Saint

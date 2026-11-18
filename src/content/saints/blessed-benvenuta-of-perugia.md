@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-benvenuta-of-perugia.svg
 name: Blessed Benvenuta of Perugia
 stub: false
 honorific: Blessed

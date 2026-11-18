@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-promo-of-ashkelon.svg
 name: Saint Promo of Ashkelon
 stub: true
 honorific: Saint

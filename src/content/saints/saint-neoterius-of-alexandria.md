@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-neoterius-of-alexandria.svg
 name: Saint Neoterius of Alexandria
 stub: true
 honorific: Saint

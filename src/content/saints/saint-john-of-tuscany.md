@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-of-tuscany.svg
 name: Saint John of Tuscany
 stub: false
 honorific: Saint

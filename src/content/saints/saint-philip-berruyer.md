@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-philip-berruyer.svg
 name: Saint Philip Berruyer
 stub: true
 honorific: Saint

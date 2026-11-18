@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-duban.svg
 name: Saint Duban
 stub: false
 honorific: Saint

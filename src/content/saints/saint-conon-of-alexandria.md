@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-conon-of-alexandria.svg
 name: Saint Conon of Alexandria
 stub: false
 honorific: Saint

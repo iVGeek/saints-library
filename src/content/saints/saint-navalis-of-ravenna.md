@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-navalis-of-ravenna.svg
 name: Saint Navalis of Ravenna
 stub: true
 honorific: Saint

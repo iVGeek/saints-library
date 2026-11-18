@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sanamis-of-africa.svg
 name: Saint Sanámis of Africa
 stub: false
 honorific: Saint

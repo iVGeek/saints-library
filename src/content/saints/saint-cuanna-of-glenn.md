@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cuanna-of-glenn.svg
 name: Saint Cuanna of Glenn
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secundus-of-greece.svg
 name: Saint Secundus of Greece
 stub: true
 honorific: Saint

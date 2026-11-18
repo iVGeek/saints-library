@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ulric-of-zell.svg
 name: Saint Ulric of Zell
 stub: false
 honorific: Saint

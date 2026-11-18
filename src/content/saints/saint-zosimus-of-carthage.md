@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zosimus-of-carthage.svg
 name: Saint Zosimus of Carthage
 stub: true
 honorific: Saint

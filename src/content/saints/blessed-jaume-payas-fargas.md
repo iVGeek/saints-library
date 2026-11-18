@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jaume-payas-fargas.svg
 name: Blessed Jaume Payás Fargas
 stub: false
 honorific: Blessed

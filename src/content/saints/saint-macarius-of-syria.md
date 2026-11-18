@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-macarius-of-syria.svg
 name: Saint Macarius of Syria
 stub: true
 honorific: Saint

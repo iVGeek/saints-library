@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-hildegun-of-schonau.svg
 name: Blessed Hildegun of Schönau
 stub: false
 honorific: Blessed

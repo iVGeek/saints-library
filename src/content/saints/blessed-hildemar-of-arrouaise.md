@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-hildemar-of-arrouaise.svg
 name: Blessed Hildemar of Arrouaise
 stub: false
 honorific: Blessed

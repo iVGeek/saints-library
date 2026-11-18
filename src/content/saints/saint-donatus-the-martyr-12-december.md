@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-donatus-the-martyr-12-december.svg
 name: Saint Donatus the Martyr
 stub: true
 honorific: Saint

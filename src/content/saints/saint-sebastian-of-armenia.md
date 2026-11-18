@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sebastian-of-armenia.svg
 name: Saint Sebastian of Armenia
 stub: true
 honorific: Saint

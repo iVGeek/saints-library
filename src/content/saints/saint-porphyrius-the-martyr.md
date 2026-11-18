@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-porphyrius-the-martyr.svg
 name: Saint Porphyrius the Martyr
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julian-of-apamea.svg
 name: Saint Julian of Apamea
 stub: false
 honorific: Saint

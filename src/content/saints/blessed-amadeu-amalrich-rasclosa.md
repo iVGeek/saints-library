@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-amadeu-amalrich-rasclosa.svg
 name: Blessed Amadeu Amalrich Rasclosa
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pelagius-of-laodicea.svg
 name: Saint Pelagius of Laodicea
 stub: false
 honorific: Saint

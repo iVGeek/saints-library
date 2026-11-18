@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-artilaus-of-africa.svg
 name: Saint Artilaus of Africa
 stub: true
 honorific: Saint

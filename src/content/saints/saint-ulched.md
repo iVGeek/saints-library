@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ulched.svg
 name: Saint Ulched
 stub: false
 honorific: Saint

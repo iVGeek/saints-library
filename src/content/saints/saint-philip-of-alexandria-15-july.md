@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-philip-of-alexandria-15-july.svg
 name: Saint Philip of Alexandria
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-finan-of-aberdeen.svg
 name: Saint Finan of Aberdeen
 stub: true
 honorific: Saint

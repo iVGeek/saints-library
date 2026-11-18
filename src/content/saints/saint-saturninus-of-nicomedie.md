@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturninus-of-nicomedie.svg
 name: Saint Saturninus of Nicomedië
 stub: true
 honorific: Saint

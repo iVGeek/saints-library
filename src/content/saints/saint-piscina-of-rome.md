@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-piscina-of-rome.svg
 name: Saint Piscina of Rome
 stub: false
 honorific: Saint

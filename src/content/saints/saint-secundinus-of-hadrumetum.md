@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secundinus-of-hadrumetum.svg
 name: Saint Secundinus of Hadrumetum
 stub: true
 honorific: Saint

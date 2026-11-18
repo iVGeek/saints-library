@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felician-of-rome.svg
 name: Saint Felician of Rome
 stub: true
 honorific: Saint

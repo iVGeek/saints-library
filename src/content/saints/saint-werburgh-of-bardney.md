@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-werburgh-of-bardney.svg
 name: Saint Werburgh of Bardney
 stub: true
 honorific: Saint

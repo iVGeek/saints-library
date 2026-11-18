@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-manuel-legua-marti.svg
 name: Blessed Manuel Legua Martí
 stub: false
 honorific: Blessed

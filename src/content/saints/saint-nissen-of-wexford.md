@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nissen-of-wexford.svg
 name: Saint Nissen of Wexford
 stub: false
 honorific: Saint

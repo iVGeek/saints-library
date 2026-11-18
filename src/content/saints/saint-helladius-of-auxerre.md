@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-helladius-of-auxerre.svg
 name: Saint Helladius of Auxerre
 stub: false
 honorific: Saint

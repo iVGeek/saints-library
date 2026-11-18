@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jacques-fermin.svg
 name: Saint Jacques Fermin
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crescens-of-africa.svg
 name: Saint Crescens of Africa
 stub: true
 honorific: Saint

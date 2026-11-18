@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-wolfang-of-steinkirchen.svg
 name: Blessed Wolfang of Steinkirchen
 stub: false
 honorific: Blessed

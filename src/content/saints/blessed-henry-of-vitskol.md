@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-henry-of-vitskol.svg
 name: Blessed Henry of Vitskøl
 stub: false
 honorific: Blessed

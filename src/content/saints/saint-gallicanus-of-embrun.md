@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gallicanus-of-embrun.svg
 name: Saint Gallicanus of Embrun
 stub: true
 honorific: Saint

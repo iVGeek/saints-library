@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victorinus-of-egypt.svg
 name: Saint Victorinus of Egypt
 stub: true
 honorific: Saint

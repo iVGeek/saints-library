@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-pere-caball-junca.svg
 name: Blessed Pere Caball Juncà
 stub: false
 honorific: Blessed

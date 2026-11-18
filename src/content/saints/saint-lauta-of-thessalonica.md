@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lauta-of-thessalonica.svg
 name: Saint Lauta of Thessalonica
 stub: true
 honorific: Saint

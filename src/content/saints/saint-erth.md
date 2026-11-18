@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-erth.svg
 name: Saint Erth of Cornwall
 stub: false
 honorific: Saint

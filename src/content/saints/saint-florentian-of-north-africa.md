@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-florentian-of-north-africa.svg
 name: Saint Florentian of North Africa
 stub: false
 honorific: Saint

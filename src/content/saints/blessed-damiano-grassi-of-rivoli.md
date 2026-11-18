@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-damiano-grassi-of-rivoli.svg
 name: Blessed Damiano Grassi of Rivoli
 stub: false
 honorific: Blessed

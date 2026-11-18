@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-magdalena-ariie.svg
 name: Blessed Magdalena Ariie
 stub: true
 honorific: Blessed

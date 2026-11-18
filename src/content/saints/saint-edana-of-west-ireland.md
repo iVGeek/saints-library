@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-edana-of-west-ireland.svg
 name: Saint Edana of West Ireland
 stub: false
 honorific: Saint

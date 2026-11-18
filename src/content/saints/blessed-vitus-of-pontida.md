@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-vitus-of-pontida.svg
 name: Blessed Vitus of Pontida
 stub: false
 honorific: Blessed

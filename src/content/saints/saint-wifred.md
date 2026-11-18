@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-wifred.svg
 name: Saint Wifred
 stub: true
 honorific: Saint

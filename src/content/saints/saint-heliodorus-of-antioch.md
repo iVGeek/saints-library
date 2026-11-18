@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-heliodorus-of-antioch.svg
 name: Saint Heliodorus of Antioch
 stub: true
 honorific: Saint

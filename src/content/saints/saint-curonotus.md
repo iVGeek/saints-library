@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-curonotus.svg
 name: Saint Curonotus of Iconium
 stub: false
 honorific: Saint

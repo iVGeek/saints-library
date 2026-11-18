@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-possemus-of-rome.svg
 name: Saint Possemus of Rome
 stub: true
 honorific: Saint

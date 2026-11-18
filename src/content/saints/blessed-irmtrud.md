@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-irmtrud.svg
 name: Blessed Irmtrud
 stub: false
 honorific: Blessed

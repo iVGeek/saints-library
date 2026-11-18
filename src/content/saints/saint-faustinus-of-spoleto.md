@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-faustinus-of-spoleto.svg
 name: Saint Faustinus of Spoleto
 stub: false
 honorific: Saint

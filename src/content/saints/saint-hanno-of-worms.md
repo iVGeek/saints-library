@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hanno-of-worms.svg
 name: Saint Hanno of Worms
 stub: false
 honorific: Saint

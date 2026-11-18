@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-juan-pedro-del-cotillo-fernandez.svg
 name: Blessed Juan Pedro del Cotillo Fernández
 stub: true
 honorific: Blessed

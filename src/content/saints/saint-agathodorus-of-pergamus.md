@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-agathodorus-of-pergamus.svg
 name: Saint Agathodorus of Pergamus
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vigilius-of-auxerre.svg
 name: Saint Vigilius of Auxerre
 stub: false
 honorific: Saint

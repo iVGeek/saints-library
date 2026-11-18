@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-parteus-of-noli.svg
 name: Saint Parteus of Noli
 stub: false
 honorific: Saint

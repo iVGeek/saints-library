@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gerlac-of-obermarchtal.svg
 name: Blessed Gerlac of Obermarchtal
 stub: false
 honorific: Blessed

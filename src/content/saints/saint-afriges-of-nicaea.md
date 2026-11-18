@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-afriges-of-nicaea.svg
 name: Saint Afriges of Nicaea
 stub: true
 honorific: Saint

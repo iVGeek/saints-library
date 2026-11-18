@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-paschasius-of-salamanca.svg
 name: Saint Paschasius of Salamanca
 stub: false
 honorific: Saint

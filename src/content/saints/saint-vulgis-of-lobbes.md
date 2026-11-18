@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vulgis-of-lobbes.svg
 name: Saint Vulgis of Lobbes
 stub: false
 honorific: Saint

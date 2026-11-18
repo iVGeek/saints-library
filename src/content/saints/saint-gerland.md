@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gerland.svg
 name: Saint Gerland
 stub: true
 honorific: Saint

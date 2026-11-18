@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ronan-of-kilmaronen.svg
 name: Saint Ronan of Kilmaronen
 stub: false
 honorific: Saint

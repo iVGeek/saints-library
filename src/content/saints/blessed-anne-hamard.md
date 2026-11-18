@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-anne-hamard.svg
 name: Blessed Anne Hamard
 stub: false
 honorific: Blessed

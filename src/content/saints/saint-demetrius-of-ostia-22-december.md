@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-demetrius-of-ostia-22-december.svg
 name: Saint Demetrius of Ostia
 stub: true
 honorific: Saint

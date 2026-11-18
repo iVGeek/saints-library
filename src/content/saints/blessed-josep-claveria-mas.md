@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-josep-claveria-mas.svg
 name: Blessed Josep Clavería Mas
 stub: false
 honorific: Blessed

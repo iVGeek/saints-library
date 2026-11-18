@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-thomas-plumtree.svg
 name: Blessed Thomas Plumtree
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-croniacke.svg
 name: Saint Croniacke
 stub: true
 honorific: Saint

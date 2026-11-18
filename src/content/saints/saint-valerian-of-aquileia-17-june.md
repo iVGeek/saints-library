@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valerian-of-aquileia-17-june.svg
 name: Saint Valerian of Aquileia
 stub: true
 honorific: Saint

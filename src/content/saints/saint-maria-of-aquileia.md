@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maria-of-aquileia.svg
 name: Saint Maria of Aquileia
 stub: true
 honorific: Saint

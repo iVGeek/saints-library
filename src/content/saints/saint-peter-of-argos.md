@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-of-argos.svg
 name: Saint Peter of Argos
 stub: false
 honorific: Saint

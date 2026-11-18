@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-grimkeld-of-croyland.svg
 name: Saint Grimkeld of Croyland
 stub: false
 honorific: Saint

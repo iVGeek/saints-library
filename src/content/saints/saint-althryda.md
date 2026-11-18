@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-althryda.svg
 name: Saint Althryda
 stub: false
 honorific: Saint

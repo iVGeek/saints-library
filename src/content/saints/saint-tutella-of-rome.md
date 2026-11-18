@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tutella-of-rome.svg
 name: Saint Tutella of Rome
 stub: true
 honorific: Saint

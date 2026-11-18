@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-blaise-of-verona.svg
 name: Saint Blaise of Verona
 stub: false
 honorific: Saint

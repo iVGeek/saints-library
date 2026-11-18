@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-bonannus-of-roio.svg
 name: Blessed Bonannus of Roio
 stub: false
 honorific: Blessed

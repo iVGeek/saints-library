@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-jan-leopold-tyranowski.svg
 name: Venerable Jan Leopold Tyranowski
 stub: true
 honorific: Venerable

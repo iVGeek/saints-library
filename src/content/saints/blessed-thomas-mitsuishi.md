@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-thomas-mitsuishi.svg
 name: Blessed Thomas Mitsuishi
 stub: true
 honorific: Blessed

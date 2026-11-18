@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodora-of-africa.svg
 name: Saint Theodora of Africa
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-chinon.svg
 name: Saint Maximus of Chinon
 stub: false
 honorific: Saint

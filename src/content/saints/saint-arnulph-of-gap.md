@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-arnulph-of-gap.svg
 name: Saint Arnulph of Gap
 stub: true
 honorific: Saint

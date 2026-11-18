@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-mechthild-of-lappion.svg
 name: Blessed Mechthild of Lappion
 stub: true
 honorific: Blessed

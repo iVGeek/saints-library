@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tertulla-of-the-via-aurelia.svg
 name: Saint Tertulla of the Via Aurelia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fructuosa-of-antioch.svg
 name: Saint Fructuosa of Antioch
 stub: false
 honorific: Saint

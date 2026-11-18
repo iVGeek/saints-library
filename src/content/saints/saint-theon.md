@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theon.svg
 name: Saint Theon
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zeno-of-alexandria-15-july.svg
 name: Saint Zeno of Alexandria
 stub: true
 honorific: Saint

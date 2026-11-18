@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eugraphus-of-alexandria.svg
 name: Saint Eugraphus of Alexandria
 stub: true
 honorific: Saint

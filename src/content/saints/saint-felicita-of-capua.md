@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felicita-of-capua.svg
 name: Saint Felicita of Capua
 stub: true
 honorific: Saint

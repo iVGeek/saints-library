@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-corman-of-iona.svg
 name: Saint Corman of Iona
 stub: false
 honorific: Saint

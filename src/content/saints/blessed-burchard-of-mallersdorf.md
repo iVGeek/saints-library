@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-burchard-of-mallersdorf.svg
 name: Blessed Burchard of Mallersdorf
 stub: false
 honorific: Blessed

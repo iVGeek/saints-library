@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dioscurus-of-nicomedia.svg
 name: Saint Dioscurus of Nicomedia
 stub: true
 honorific: Saint

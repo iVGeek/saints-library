@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hyacinth-of-rome-4-august.svg
 name: Saint Hyacinth of Rome
 stub: true
 honorific: Saint

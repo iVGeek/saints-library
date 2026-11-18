@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-doda-of-rheims.svg
 name: Saint Doda of Rheims
 stub: false
 honorific: Saint

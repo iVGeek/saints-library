@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-pedro-maria-alcalde-negredo.svg
 name: Blessed Pedro María Alcalde Negredo
 stub: false
 honorific: Blessed

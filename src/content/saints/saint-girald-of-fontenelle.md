@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-girald-of-fontenelle.svg
 name: Saint Girald of Fontenelle
 stub: false
 honorific: Saint

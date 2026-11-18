@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sotericus-of-ephesus.svg
 name: Saint Sotericus of Ephesus
 stub: true
 honorific: Saint

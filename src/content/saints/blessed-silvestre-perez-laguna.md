@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-silvestre-perez-laguna.svg
 name: Blessed Silvestre Perez Laguna
 stub: false
 honorific: Blessed

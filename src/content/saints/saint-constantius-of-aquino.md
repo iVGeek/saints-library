@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-constantius-of-aquino.svg
 name: Saint Constantius of Aquino
 stub: false
 honorific: Saint

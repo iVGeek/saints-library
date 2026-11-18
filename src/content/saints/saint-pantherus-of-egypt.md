@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pantherus-of-egypt.svg
 name: Saint Pantherus of Egypt
 stub: false
 honorific: Saint

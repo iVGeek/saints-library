@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-justin-of-trier.svg
 name: Saint Justin of Trier
 stub: true
 honorific: Saint

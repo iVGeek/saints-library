@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crementius-of-saragossa.svg
 name: Saint Crementius of Saragossa
 stub: true
 honorific: Saint

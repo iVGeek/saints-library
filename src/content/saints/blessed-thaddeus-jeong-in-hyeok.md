@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-thaddeus-jeong-in-hyeok.svg
 name: Blessed Thaddeus Jeong In-hyeok
 stub: true
 honorific: Blessed

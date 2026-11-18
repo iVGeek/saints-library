@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-renee-grillard.svg
 name: Blessed Renée Grillard
 stub: false
 honorific: Blessed

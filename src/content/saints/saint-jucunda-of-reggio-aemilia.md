@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jucunda-of-reggio-aemilia.svg
 name: Saint Jucunda of Reggio Aemilia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-arestus-of-tomi.svg
 name: Saint Arestus of Tomi
 stub: true
 honorific: Saint

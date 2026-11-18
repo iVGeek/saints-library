@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-rafael-sanchez-garcia.svg
 name: Venerable Rafael Sánchez García
 stub: false
 honorific: Venerable

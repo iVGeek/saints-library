@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-publius-of-north-africa-19-february.svg
 name: Saint Publius of North Africa
 stub: true
 honorific: Saint

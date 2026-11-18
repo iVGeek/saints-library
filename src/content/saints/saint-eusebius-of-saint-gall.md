@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eusebius-of-saint-gall.svg
 name: Saint Eusebius of Saint Gall
 stub: false
 honorific: Saint

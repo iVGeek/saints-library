@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufus-of-rome.svg
 name: Saint Rufus of Rome
 stub: false
 honorific: Saint

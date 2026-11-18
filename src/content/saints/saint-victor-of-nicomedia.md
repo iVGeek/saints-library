@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victor-of-nicomedia.svg
 name: Saint Victor of Nicomedia
 stub: true
 honorific: Saint

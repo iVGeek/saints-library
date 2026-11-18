@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodorus-of-africa.svg
 name: Saint Theodorus of Africa
 stub: true
 honorific: Saint

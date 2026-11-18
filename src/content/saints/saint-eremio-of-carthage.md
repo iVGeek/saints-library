@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eremio-of-carthage.svg
 name: Saint Eremio of Carthage
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-grivicianus-of-saddi.svg
 name: Saint Grivicianus of Saddi
 stub: true
 honorific: Saint

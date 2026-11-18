@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nicostratus-of-caesarea-philippi.svg
 name: Saint Nicostratus of Caesarea Philippi
 stub: true
 honorific: Saint

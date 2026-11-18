@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-marie-lenee-epouse-lepage-de-varance.svg
 name: Blessed Marie Lenée épouse Lepage de Varancé
 stub: false
 honorific: Blessed

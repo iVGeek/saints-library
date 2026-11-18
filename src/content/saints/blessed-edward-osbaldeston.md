@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-edward-osbaldeston.svg
 name: Blessed Edward Osbaldeston
 stub: false
 honorific: Blessed

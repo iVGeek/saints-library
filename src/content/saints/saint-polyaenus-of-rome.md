@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-polyaenus-of-rome.svg
 name: Saint Polyaenus of Rome
 stub: true
 honorific: Saint

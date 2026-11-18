@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-martinus-yi-jung-bae.svg
 name: Blessed Martinus Yi Jung-bae
 stub: true
 honorific: Blessed

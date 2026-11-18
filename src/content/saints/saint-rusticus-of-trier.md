@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rusticus-of-trier.svg
 name: Saint Rusticus of Trier
 stub: false
 honorific: Saint

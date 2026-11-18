@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-aventino-of-arbusto.svg
 name: Saint Aventino of Arbusto
 stub: false
 honorific: Saint

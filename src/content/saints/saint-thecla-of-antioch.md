@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thecla-of-antioch.svg
 name: Saint Thecla of Antioch
 stub: false
 honorific: Saint

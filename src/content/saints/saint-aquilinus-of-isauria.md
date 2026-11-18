@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-aquilinus-of-isauria.svg
 name: Saint Aquilinus of Isauria
 stub: true
 honorific: Saint

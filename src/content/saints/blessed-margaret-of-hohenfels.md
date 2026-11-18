@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-margaret-of-hohenfels.svg
 name: Blessed Margaret of Hohenfels
 stub: false
 honorific: Blessed

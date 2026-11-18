@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cummian-fada.svg
 name: Saint Cummian Fada
 stub: false
 honorific: Saint

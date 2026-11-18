@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-proculus-of-nicaea.svg
 name: Saint Proculus of Nicaea
 stub: true
 honorific: Saint

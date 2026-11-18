@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-candida-of-banoles.svg
 name: Saint Candida of Bañoles
 stub: false
 honorific: Saint

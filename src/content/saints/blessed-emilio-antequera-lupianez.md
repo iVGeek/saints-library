@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-emilio-antequera-lupianez.svg
 name: Blessed Emilio Antequera Lupiáñez
 stub: true
 honorific: Blessed

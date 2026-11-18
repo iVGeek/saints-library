@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-chrysotelus-of-persia.svg
 name: Saint Chrysotelus of Persia
 stub: true
 honorific: Saint

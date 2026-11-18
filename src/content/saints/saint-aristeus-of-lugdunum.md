@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-aristeus-of-lugdunum.svg
 name: Saint Aristeus of Lugdunum
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stephen-of-lyon.svg
 name: Saint Stephen of Lyon
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nomitia-of-rome.svg
 name: Saint Nomitia of Rome
 stub: false
 honorific: Saint

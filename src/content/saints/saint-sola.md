@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sola.svg
 name: Saint Sola
 stub: false
 honorific: Saint

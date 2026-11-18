@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zoticus-of-laodicea.svg
 name: Saint Zoticus of Laodicea
 stub: true
 honorific: Saint

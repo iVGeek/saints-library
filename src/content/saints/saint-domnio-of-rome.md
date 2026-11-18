@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-domnio-of-rome.svg
 name: Saint Domnio of Rome
 stub: false
 honorific: Saint

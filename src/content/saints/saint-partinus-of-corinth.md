@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-partinus-of-corinth.svg
 name: Saint Partinus of Corinth
 stub: true
 honorific: Saint

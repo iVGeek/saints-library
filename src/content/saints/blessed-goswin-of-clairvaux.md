@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-goswin-of-clairvaux.svg
 name: Blessed Goswin of Clairvaux
 stub: true
 honorific: Blessed

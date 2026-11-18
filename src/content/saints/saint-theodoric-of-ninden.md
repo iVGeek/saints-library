@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodoric-of-ninden.svg
 name: Saint Theodoric of Ninden
 stub: true
 honorific: Saint

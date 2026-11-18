@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-maria-pilar-solsona-lamban.svg
 name: Venerable María Pilar Solsona Lambán
 stub: true
 honorific: Venerable

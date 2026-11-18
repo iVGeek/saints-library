@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-joseph-abibos.svg
 name: Saint Joseph Abibos
 stub: true
 honorific: Saint

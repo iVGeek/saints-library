@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thespesius-of-nicea.svg
 name: Saint Thespesius of Nicea
 stub: true
 honorific: Saint

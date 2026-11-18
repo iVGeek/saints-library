@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mennas-of-alexandria.svg
 name: Saint Mennas of Alexandria
 stub: true
 honorific: Saint

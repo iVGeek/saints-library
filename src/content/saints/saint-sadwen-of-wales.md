@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sadwen-of-wales.svg
 name: Saint Sadwen of Wales
 stub: false
 honorific: Saint

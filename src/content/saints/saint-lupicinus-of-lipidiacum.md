@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lupicinus-of-lipidiacum.svg
 name: Saint Lupicinus of Lipidiacum
 stub: false
 honorific: Saint

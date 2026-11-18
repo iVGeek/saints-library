@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-everard-of-stahleck.svg
 name: Blessed Everard of Stahleck
 stub: false
 honorific: Blessed

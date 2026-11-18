@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-exuperius-of-ravenna.svg
 name: Saint Exuperius of Ravenna
 stub: false
 honorific: Saint

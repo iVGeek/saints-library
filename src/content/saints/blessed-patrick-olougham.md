@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-patrick-olougham.svg
 name: Blessed Patrick O'Lougham
 stub: true
 honorific: Blessed

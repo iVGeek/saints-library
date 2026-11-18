@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-lucas-martin-puente.svg
 name: Blessed Lucas Martín Puente
 stub: false
 honorific: Blessed

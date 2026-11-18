@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hadulfus-of-cambrai.svg
 name: Saint Hadulfus of Cambrai
 stub: false
 honorific: Saint

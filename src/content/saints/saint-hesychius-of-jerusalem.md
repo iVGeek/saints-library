@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hesychius-of-jerusalem.svg
 name: Saint Hesychius of Jerusalem
 stub: false
 honorific: Saint

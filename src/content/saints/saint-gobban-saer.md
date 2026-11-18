@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gobban-saer.svg
 name: Saint Gobban Saer
 stub: true
 honorific: Saint

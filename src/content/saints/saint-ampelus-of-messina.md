@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ampelus-of-messina.svg
 name: Saint Ampelus of Messina
 stub: true
 honorific: Saint

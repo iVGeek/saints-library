@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-dominica-amagasu.svg
 name: Blessed Dominica Amagasu
 stub: false
 honorific: Blessed

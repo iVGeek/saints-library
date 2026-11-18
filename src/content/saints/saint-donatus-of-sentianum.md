@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-donatus-of-sentianum.svg
 name: Saint Donatus of Sentianum
 stub: true
 honorific: Saint

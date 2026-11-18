@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-wilicarius-of-vienne.svg
 name: Saint Wilicarius of Vienne
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valens-of-verona.svg
 name: Saint Valens of Verona
 stub: true
 honorific: Saint

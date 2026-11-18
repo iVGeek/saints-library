@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-myrbad-of-cornwall.svg
 name: Saint Myrbad of Cornwall
 stub: false
 honorific: Saint

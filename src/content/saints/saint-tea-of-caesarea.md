@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tea-of-caesarea.svg
 name: Saint Tea of Caesarea
 stub: true
 honorific: Saint

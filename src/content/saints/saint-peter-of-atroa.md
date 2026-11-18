@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-of-atroa.svg
 name: Saint Peter of Atroa
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-aquilinus-of-africa.svg
 name: Saint Aquilinus of Africa
 stub: true
 honorific: Saint

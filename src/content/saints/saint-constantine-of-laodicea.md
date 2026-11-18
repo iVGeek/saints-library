@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-constantine-of-laodicea.svg
 name: Saint Constantine of Laodicea
 stub: true
 honorific: Saint

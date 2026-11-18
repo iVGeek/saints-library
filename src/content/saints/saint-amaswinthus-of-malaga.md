@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-amaswinthus-of-malaga.svg
 name: Saint Amaswinthus of Málaga
 stub: true
 honorific: Saint

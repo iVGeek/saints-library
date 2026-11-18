@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fronto-of-saragossa.svg
 name: Saint Fronto of Saragossa
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-firminus-of-apsaros.svg
 name: Saint Firminus of Apsaros
 stub: false
 honorific: Saint

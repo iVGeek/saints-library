@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-italius-of-cilicia.svg
 name: Saint Italius of Cilicia
 stub: true
 honorific: Saint

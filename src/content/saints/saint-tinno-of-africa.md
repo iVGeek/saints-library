@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tinno-of-africa.svg
 name: Saint Tinno of Africa
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-bernardino-of-rionero-sannitico.svg
 name: Blessed Bernardino of Rionero Sannitico
 stub: true
 honorific: Blessed

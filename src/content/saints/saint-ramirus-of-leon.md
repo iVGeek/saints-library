@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ramirus-of-leon.svg
 name: Saint Ramirus of Léon
 stub: false
 honorific: Saint

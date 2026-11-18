@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-irchard.svg
 name: Saint Irchard
 stub: false
 honorific: Saint

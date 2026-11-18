@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valerian-of-trebizond.svg
 name: Saint Valerian of Trebizond
 stub: false
 honorific: Saint

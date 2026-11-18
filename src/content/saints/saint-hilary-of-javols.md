@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hilary-of-javols.svg
 name: Saint Hilary of Javols
 stub: true
 honorific: Saint

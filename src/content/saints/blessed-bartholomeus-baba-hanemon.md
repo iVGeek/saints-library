@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-bartholomeus-baba-hanemon.svg
 name: Blessed Bartholomeus Baba Han'emon
 stub: true
 honorific: Blessed

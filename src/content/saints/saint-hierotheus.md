@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hierotheus.svg
 name: Saint Hierotheus
 stub: true
 honorific: Saint

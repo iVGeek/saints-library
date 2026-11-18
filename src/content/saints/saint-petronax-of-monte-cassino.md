@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-petronax-of-monte-cassino.svg
 name: Saint Petronax of Monte Cassino
 stub: false
 honorific: Saint

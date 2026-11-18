@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-joan-bover-teixidor.svg
 name: Blessed Joan Bover Teixidor
 stub: false
 honorific: Blessed

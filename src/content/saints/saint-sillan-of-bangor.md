@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sillan-of-bangor.svg
 name: Saint Sillan of Bangor
 stub: true
 honorific: Saint

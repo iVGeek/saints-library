@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hermes-of-north-africa.svg
 name: Saint Hermes of North Africa
 stub: true
 honorific: Saint

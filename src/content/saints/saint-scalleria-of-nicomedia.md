@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-scalleria-of-nicomedia.svg
 name: Saint Scalleria of Nicomedia
 stub: true
 honorific: Saint

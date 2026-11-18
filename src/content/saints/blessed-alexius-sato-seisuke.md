@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-alexius-sato-seisuke.svg
 name: Blessed Alexius Sato Seisuke
 stub: false
 honorific: Blessed

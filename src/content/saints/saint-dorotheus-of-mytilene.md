@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dorotheus-of-mytilene.svg
 name: Saint Dorotheus of Mytilene
 stub: true
 honorific: Saint

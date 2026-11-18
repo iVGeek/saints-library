@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-cisinandus-of-tarouca.svg
 name: Blessed Cisinandus of Tarouca
 stub: false
 honorific: Blessed

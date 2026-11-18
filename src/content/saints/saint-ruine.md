@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ruine.svg
 name: Saint Ruine
 stub: false
 honorific: Saint

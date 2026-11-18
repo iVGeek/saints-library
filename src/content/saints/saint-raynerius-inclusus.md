@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-raynerius-inclusus.svg
 name: Saint Raynerius Inclusus
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-simeon-of-persia.svg
 name: Saint Simeon of Persia
 stub: false
 honorific: Saint

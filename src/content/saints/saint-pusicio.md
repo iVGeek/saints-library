@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pusicio.svg
 name: Saint Pusicio
 stub: true
 honorific: Saint

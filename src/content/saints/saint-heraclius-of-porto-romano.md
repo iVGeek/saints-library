@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-heraclius-of-porto-romano.svg
 name: Saint Heraclius of Porto Romano
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-francoise-bellanger.svg
 name: Blessed Françoise Bellanger
 stub: false
 honorific: Blessed

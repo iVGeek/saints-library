@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dominica-of-shapwick.svg
 name: Saint Dominica of Shapwick
 stub: false
 honorific: Saint

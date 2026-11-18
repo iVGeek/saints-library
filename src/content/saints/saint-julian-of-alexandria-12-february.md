@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julian-of-alexandria-12-february.svg
 name: Saint Julian of Alexandria
 stub: true
 honorific: Saint

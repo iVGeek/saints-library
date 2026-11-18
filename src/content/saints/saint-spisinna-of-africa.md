@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-spisinna-of-africa.svg
 name: Saint Spisinna of Africa
 stub: true
 honorific: Saint

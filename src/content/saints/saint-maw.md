@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maw.svg
 name: Saint Maw
 stub: false
 honorific: Saint

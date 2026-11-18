@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ramon-illa-salvia.svg
 name: Blessed Ramon Illa Salvia
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-amoes-of-sketis.svg
 name: Saint Amoes of Sketis
 stub: false
 honorific: Saint

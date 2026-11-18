@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eustace-of-beauvais.svg
 name: Saint Eustace of Beauvais
 stub: false
 honorific: Saint

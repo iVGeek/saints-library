@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secundulus-of-carthage.svg
 name: Saint Secundulus of Carthage
 stub: true
 honorific: Saint

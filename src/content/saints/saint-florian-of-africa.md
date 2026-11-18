@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-florian-of-africa.svg
 name: Saint Florian of Africa
 stub: true
 honorific: Saint

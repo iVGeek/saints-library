@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-massimo-of-cyzicum.svg
 name: Saint Massimo of Cyzicum
 stub: false
 honorific: Saint

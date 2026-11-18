@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-herman-of-scheda.svg
 name: Blessed Herman of Scheda
 stub: false
 honorific: Blessed

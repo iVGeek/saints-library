@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tutilo-of-saint-gall.svg
 name: Saint Tutilo of Saint Gall
 stub: false
 honorific: Saint

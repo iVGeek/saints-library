@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eleutherius-of-auxerre.svg
 name: Saint Eleutherius of Auxerre
 stub: false
 honorific: Saint

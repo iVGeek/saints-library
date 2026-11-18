@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gundebert-of-gumber.svg
 name: Saint Gundebert of Gumber
 stub: false
 honorific: Saint

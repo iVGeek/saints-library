@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maria-consolatrice-of-verona.svg
 name: Saint Maria Consolatrice of Verona
 stub: false
 honorific: Saint

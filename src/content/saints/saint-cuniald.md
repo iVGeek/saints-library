@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cuniald.svg
 name: Saint Cuniald
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-franciscus-zhang-rong.svg
 name: Saint Franciscus Zhang Rong
 stub: false
 honorific: Venerable

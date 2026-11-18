@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dadnan-of-cell-cunga.svg
 name: Saint Dadnan of Cell Cunga
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ogasawara-yosaburo-genya.svg
 name: Blessed Ogasawara Yosaburo Gen'ya
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-januaria-of-rome.svg
 name: Saint Januaria of Rome
 stub: true
 honorific: Saint

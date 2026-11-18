@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-alonio.svg
 name: Saint Alonio
 stub: false
 honorific: Saint

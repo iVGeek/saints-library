@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mark-of-antioch-22-november.svg
 name: Saint Mark of Antioch
 stub: true
 honorific: Saint

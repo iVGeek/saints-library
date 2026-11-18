@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-recombus-of-egypt.svg
 name: Saint Recombus of Egypt
 stub: false
 honorific: Saint

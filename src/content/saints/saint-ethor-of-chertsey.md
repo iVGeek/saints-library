@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ethor-of-chertsey.svg
 name: Saint Ethor of Chertsey
 stub: false
 honorific: Saint

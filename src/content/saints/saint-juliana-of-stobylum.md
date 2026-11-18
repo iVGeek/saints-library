@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-juliana-of-stobylum.svg
 name: Saint Juliana of Stobylum
 stub: true
 honorific: Saint

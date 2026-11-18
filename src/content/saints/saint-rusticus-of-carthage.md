@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rusticus-of-carthage.svg
 name: Saint Rusticus of Carthage
 stub: true
 honorific: Saint

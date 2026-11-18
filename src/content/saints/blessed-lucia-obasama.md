@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-lucia-obasama.svg
 name: Blessed Lucia Obasama
 stub: false
 honorific: Blessed

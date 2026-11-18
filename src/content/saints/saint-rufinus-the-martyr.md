@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufinus-the-martyr.svg
 name: Saint Rufinus the Martyr
 stub: false
 honorific: Saint

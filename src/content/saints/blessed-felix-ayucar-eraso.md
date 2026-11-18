@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-felix-ayucar-eraso.svg
 name: Blessed Félix Ayúcar Eraso
 stub: false
 honorific: Blessed

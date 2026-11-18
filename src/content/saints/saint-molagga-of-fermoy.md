@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-molagga-of-fermoy.svg
 name: Saint Molagga of Fermoy
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-veranus-of-lyon.svg
 name: Saint Veranus of Lyon
 stub: true
 honorific: Saint

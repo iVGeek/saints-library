@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rogation-of-africa.svg
 name: Saint Rogation of Africa
 stub: true
 honorific: Saint

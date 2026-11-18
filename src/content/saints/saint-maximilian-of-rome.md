@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximilian-of-rome.svg
 name: Saint Maximilian of Rome
 stub: true
 honorific: Saint

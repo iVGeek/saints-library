@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-huno.svg
 name: Saint Huno
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-heraclius-of-noviodunum.svg
 name: Saint Heraclius of Noviodunum
 stub: true
 honorific: Saint

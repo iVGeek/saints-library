@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tetradius-of-bourges.svg
 name: Saint Tetradius of Bourges
 stub: false
 honorific: Saint

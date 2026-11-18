@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-constantius-of-ancona.svg
 name: Saint Constantius of Ancona
 stub: true
 honorific: Saint

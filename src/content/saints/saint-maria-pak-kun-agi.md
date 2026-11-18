@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maria-pak-kun-agi.svg
 name: Saint Maria Pak K'Un-agi
 stub: true
 honorific: Venerable

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ramon-cervilla-luis.svg
 name: Blessed Ramón Cervilla Luis
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zeno-of-gaza-21-september.svg
 name: Saint Zeno of Gaza
 stub: false
 honorific: Saint

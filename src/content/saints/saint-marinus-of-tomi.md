@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marinus-of-tomi.svg
 name: Saint Marinus of Tomi
 stub: true
 honorific: Saint

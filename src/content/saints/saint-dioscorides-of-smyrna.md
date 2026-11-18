@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dioscorides-of-smyrna.svg
 name: Saint Dioscorides of Smyrna
 stub: true
 honorific: Saint

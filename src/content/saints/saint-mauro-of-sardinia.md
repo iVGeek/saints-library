@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mauro-of-sardinia.svg
 name: Saint Mauro of Sardinia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vulpian-of-tyre.svg
 name: Saint Vulpian of Tyre
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-luca-of-rome.svg
 name: Saint Luca of Rome
 stub: true
 honorific: Saint

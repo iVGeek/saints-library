@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-phero-nguyen-van-luu.svg
 name: Saint Phêrô Nguyen Van Luu
 stub: false
 honorific: Saint

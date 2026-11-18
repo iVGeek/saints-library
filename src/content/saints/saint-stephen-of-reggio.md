@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stephen-of-reggio.svg
 name: Saint Stephen of Reggio
 stub: false
 honorific: Saint

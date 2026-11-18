@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gerwald-of-saxony.svg
 name: Saint Gerwald of Saxony
 stub: true
 honorific: Saint

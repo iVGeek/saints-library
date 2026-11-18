@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-rene-dubroux.svg
 name: Blessed René Dubroux
 stub: true
 honorific: Blessed

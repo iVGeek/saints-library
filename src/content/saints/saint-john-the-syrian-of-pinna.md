@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-the-syrian-of-pinna.svg
 name: Saint John the Syrian of Pinna
 stub: false
 honorific: Saint

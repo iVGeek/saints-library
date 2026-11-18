@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-abclasta.svg
 name: Saint Abclasta of Ebsdorf
 stub: false
 honorific: Saint

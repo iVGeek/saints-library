@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-piperion-the-martyr.svg
 name: Saint Piperion the Martyr
 stub: true
 honorific: Saint

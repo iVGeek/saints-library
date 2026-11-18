@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-connat.svg
 name: Saint Connat
 stub: true
 honorific: Saint

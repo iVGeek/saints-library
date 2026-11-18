@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theophilus-the-potter.svg
 name: Saint Theophilus the Potter
 stub: true
 honorific: Saint

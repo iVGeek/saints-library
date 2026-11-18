@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-faustus-of-messina.svg
 name: Saint Faustus of Messina
 stub: true
 honorific: Saint

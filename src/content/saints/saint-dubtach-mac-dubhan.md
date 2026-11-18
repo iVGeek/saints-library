@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dubtach-mac-dubhan.svg
 name: Saint Dubtach Mac Dubhan
 stub: true
 honorific: Saint

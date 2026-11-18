@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-columbinus-of-lure.svg
 name: Saint Columbinus of Lure
 stub: true
 honorific: Saint

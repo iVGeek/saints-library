@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nabor-the-martyr.svg
 name: Saint Nabor the Martyr
 stub: false
 honorific: Saint

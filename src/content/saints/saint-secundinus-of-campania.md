@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secundinus-of-campania.svg
 name: Saint Secundinus of Campania
 stub: false
 honorific: Saint

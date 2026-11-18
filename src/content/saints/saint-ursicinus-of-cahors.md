@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ursicinus-of-cahors.svg
 name: Saint Ursicinus of Cahors
 stub: false
 honorific: Saint

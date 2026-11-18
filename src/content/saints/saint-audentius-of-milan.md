@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-audentius-of-milan.svg
 name: Saint Audentius of Milan
 stub: false
 honorific: Saint

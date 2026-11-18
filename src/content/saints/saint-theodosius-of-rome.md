@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodosius-of-rome.svg
 name: Saint Theodosius of Rome
 stub: false
 honorific: Saint

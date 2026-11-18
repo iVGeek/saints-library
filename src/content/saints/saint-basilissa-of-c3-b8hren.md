@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-basilissa-of-c3-b8hren.svg
 name: Saint Basilissa of Øhren
 stub: true
 honorific: Saint

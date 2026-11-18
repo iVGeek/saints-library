@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-balsamus-of-cava.svg
 name: Blessed Balsamus of Cava
 stub: true
 honorific: Blessed

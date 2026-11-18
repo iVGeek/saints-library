@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eithne.svg
 name: Saint Eithne
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodore-of-tiberiopolis.svg
 name: Saint Theodore of Tiberiopolis
 stub: false
 honorific: Saint

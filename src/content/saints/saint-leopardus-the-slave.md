@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-leopardus-the-slave.svg
 name: Saint Leopardus the Slave
 stub: true
 honorific: Saint

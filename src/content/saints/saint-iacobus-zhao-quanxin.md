@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-iacobus-zhao-quanxin.svg
 name: Saint Iacobus Zhao Quanxin
 stub: false
 honorific: Venerable

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hildebert-of-ghent.svg
 name: Saint Hildebert of Ghent
 stub: false
 honorific: Saint

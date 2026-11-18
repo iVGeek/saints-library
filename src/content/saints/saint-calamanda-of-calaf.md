@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-calamanda-of-calaf.svg
 name: Saint Calamanda of Calaf
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-egbert-of-rathemigisi.svg
 name: Saint Egbert of Rathemigisi
 stub: false
 honorific: Saint

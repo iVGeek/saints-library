@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ust-1-may.svg
 name: Saint Ust
 stub: false
 honorific: Saint

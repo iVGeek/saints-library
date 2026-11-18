@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-concordius-of-toledo.svg
 name: Saint Concordius of Toledo
 stub: true
 honorific: Saint

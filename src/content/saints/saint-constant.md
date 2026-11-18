@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-constant.svg
 name: Saint Constant
 stub: true
 honorific: Saint

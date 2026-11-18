@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gratus-of-thagura.svg
 name: Saint Gratus of Thagura
 stub: false
 honorific: Saint

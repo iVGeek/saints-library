@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-emilian-of-rennes.svg
 name: Saint Emilian of Rennes
 stub: true
 honorific: Saint

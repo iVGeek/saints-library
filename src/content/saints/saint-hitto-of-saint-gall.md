@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hitto-of-saint-gall.svg
 name: Saint Hitto of Saint-Gall
 stub: false
 honorific: Saint

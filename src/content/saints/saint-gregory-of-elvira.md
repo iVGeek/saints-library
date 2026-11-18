@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gregory-of-elvira.svg
 name: Saint Gregory of Elvira
 stub: false
 honorific: Saint

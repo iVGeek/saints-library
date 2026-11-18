@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-orestes-of-sebaste.svg
 name: Saint Orestes of Sebaste
 stub: true
 honorific: Saint

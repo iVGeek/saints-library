@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-coprio.svg
 name: Saint Coprio
 stub: false
 honorific: Saint

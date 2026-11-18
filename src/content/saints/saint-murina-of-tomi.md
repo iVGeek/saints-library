@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-murina-of-tomi.svg
 name: Saint Murina of Tomi
 stub: true
 honorific: Saint

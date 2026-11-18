@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victor-the-martyr-30-march.svg
 name: Saint Victor the Martyr
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ignatius-iida-soemon.svg
 name: Blessed Ignatius Iida Soemon
 stub: true
 honorific: Blessed

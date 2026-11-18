@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-heliodoros-of-constantinople.svg
 name: Saint Heliodoros of Constantinople
 stub: false
 honorific: Saint

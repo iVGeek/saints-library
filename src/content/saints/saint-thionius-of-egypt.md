@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thionius-of-egypt.svg
 name: Saint Thionius of Egypt
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-magdalveus-of-verdun.svg
 name: Saint Magdalveus of Verdun
 stub: true
 honorific: Saint

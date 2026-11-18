@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-foedosa-of-thessalonica.svg
 name: Saint Foedosa of Thessalonica
 stub: true
 honorific: Saint

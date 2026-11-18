@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nanterius-of-saint-mihiel.svg
 name: Saint Nanterius of Saint-Mihiel
 stub: true
 honorific: Saint

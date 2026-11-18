@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saethryth.svg
 name: Saint Saethryth
 stub: false
 honorific: Saint

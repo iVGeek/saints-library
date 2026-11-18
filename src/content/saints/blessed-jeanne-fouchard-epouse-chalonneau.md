@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jeanne-fouchard-epouse-chalonneau.svg
 name: Blessed Jeanne Fouchard épouse Chalonneau
 stub: false
 honorific: Blessed

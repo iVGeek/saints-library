@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-minnborinus.svg
 name: Saint Minnborinus
 stub: true
 honorific: Saint

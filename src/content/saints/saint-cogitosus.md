@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cogitosus.svg
 name: Saint Cogitosus
 stub: true
 honorific: Saint

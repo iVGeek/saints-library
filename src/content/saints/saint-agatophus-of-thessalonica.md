@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-agatophus-of-thessalonica.svg
 name: Saint Agatophus of Thessalonica
 stub: false
 honorific: Saint

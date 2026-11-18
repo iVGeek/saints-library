@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rogatus-the-martyr.svg
 name: Saint Rogatus the Martyr
 stub: false
 honorific: Saint

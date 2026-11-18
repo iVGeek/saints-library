@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-trophimus-of-synnada.svg
 name: Saint Trophimus of Synnada
 stub: true
 honorific: Saint

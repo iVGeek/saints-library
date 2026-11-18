@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tryphon-of-alexandria.svg
 name: Saint Tryphon of Alexandria
 stub: false
 honorific: Saint

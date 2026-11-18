@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dioscorus.svg
 name: Saint Dioscorus
 stub: false
 honorific: Saint

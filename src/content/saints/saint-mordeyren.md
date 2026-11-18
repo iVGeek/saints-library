@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mordeyren.svg
 name: Saint Mordeyren
 stub: true
 honorific: Saint

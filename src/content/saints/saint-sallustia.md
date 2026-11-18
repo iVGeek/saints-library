@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sallustia.svg
 name: Saint Sallustia
 stub: false
 honorific: Saint

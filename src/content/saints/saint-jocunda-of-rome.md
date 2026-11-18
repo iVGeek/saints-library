@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jocunda-of-rome.svg
 name: Saint Jocunda of Rome
 stub: false
 honorific: Saint

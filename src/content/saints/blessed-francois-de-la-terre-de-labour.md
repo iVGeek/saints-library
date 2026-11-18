@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-francois-de-la-terre-de-labour.svg
 name: Blessed François de la Terre de Labour
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nigorus-of-italy.svg
 name: Saint Nigorus of Italy
 stub: false
 honorific: Saint

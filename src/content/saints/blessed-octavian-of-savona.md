@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-octavian-of-savona.svg
 name: Blessed Octavian of Savona
 stub: false
 honorific: Blessed

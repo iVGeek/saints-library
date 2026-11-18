@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-benedict-dalignan.svg
 name: Blessed Benedict d'Alignan
 stub: false
 honorific: Blessed

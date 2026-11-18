@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-vicente-alberich-lluch.svg
 name: Blessed Vicente Alberich Lluch
 stub: true
 honorific: Blessed

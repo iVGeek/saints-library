@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-anthusa-of-africa.svg
 name: Saint Anthusa of Africa
 stub: false
 honorific: Saint

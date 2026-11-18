@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-kigwe.svg
 name: Saint Kigwe
 stub: false
 honorific: Saint

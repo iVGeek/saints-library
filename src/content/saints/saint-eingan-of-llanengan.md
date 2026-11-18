@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eingan-of-llanengan.svg
 name: Saint Eingan of Llanengan
 stub: false
 honorific: Saint

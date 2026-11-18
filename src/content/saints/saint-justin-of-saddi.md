@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-justin-of-saddi.svg
 name: Saint Justin of Saddi
 stub: true
 honorific: Saint

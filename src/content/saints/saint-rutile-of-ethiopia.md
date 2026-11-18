@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rutile-of-ethiopia.svg
 name: Saint Rutile of Ethiopia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-phaolo-tong-viet-buong.svg
 name: Saint Phaolô Tong Viet Buong
 stub: false
 honorific: Venerable

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bono-of-novellara.svg
 name: Saint Bono of Novellara
 stub: true
 honorific: Saint

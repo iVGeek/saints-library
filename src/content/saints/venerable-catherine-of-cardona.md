@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-catherine-of-cardona.svg
 name: Venerable Catherine of Cardona
 stub: false
 honorific: Venerable

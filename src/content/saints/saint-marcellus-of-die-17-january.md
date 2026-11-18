@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcellus-of-die-17-january.svg
 name: Saint Marcellus of Die
 stub: false
 honorific: Saint

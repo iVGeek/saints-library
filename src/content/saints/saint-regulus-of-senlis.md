@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-regulus-of-senlis.svg
 name: Saint Regulus of Senlis
 stub: true
 honorific: Saint

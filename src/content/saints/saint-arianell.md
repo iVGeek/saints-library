@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-arianell.svg
 name: Saint Arianell
 stub: false
 honorific: Saint

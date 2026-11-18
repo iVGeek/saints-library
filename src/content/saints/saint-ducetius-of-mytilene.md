@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ducetius-of-mytilene.svg
 name: Saint Ducetius of Mytilene
 stub: true
 honorific: Saint

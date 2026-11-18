@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-quintilla-of-sorrento.svg
 name: Saint Quintilla of Sorrento
 stub: true
 honorific: Saint

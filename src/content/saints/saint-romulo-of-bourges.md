@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-romulo-of-bourges.svg
 name: Saint Rómulo of Bourges
 stub: true
 honorific: Saint

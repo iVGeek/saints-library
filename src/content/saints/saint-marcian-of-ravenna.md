@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcian-of-ravenna.svg
 name: Saint Marcian of Ravenna
 stub: true
 honorific: Saint

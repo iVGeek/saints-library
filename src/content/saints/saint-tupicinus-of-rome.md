@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tupicinus-of-rome.svg
 name: Saint Tupicinus of Rome
 stub: true
 honorific: Saint

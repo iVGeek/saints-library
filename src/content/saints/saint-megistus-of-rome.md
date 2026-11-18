@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-megistus-of-rome.svg
 name: Saint Megistus of Rome
 stub: false
 honorific: Saint

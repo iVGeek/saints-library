@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tecla-of-novellara.svg
 name: Saint Tecla of Novellara
 stub: true
 honorific: Saint

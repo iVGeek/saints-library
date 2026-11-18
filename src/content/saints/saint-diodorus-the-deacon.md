@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-diodorus-the-deacon.svg
 name: Saint Diodorus the Deacon
 stub: true
 honorific: Saint

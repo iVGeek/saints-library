@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-symphronius-the-slave.svg
 name: Saint Symphronius the Slave
 stub: false
 honorific: Saint

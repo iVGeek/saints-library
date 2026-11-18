@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-isleifur-gissurarson-of-skalholt.svg
 name: Blessed Ísleifur Gissurarson of Skálholt
 stub: false
 honorific: Blessed

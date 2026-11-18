@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-felicitas-cendoya-araquistain.svg
 name: Blessed Felícitas Cendoya Araquistain
 stub: true
 honorific: Blessed

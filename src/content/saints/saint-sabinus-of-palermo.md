@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sabinus-of-palermo.svg
 name: Saint Sabinus of Palermo
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thomas-hioji-nishi-rokuzaemon.svg
 name: Saint Thomas Hioji Nishi Rokuzaemon
 stub: false
 honorific: Venerable

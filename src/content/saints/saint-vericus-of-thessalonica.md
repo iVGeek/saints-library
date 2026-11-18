@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vericus-of-thessalonica.svg
 name: Saint Vericus of Thessalonica
 stub: true
 honorific: Saint

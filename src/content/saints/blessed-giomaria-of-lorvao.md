@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-giomaria-of-lorvao.svg
 name: Blessed Giomaria of Lorvão
 stub: false
 honorific: Blessed

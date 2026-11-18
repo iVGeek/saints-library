@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-silvanus-of-emesa.svg
 name: Saint Silvanus of Emesa
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valerian-of-noviodunum.svg
 name: Saint Valerian of Noviodunum
 stub: true
 honorific: Saint

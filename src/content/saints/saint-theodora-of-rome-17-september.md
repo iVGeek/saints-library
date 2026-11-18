@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodora-of-rome-17-september.svg
 name: Saint Theodora of Rome
 stub: false
 honorific: Saint

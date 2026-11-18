@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julius-of-gelduba.svg
 name: Saint Julius of Gelduba
 stub: true
 honorific: Saint

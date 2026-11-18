@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rambold-of-ratisbon.svg
 name: Saint Rambold of Ratisbon
 stub: false
 honorific: Saint

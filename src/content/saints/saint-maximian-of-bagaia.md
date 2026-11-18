@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximian-of-bagaia.svg
 name: Saint Maximian of Bagaia
 stub: false
 honorific: Saint

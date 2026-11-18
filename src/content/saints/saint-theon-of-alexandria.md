@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theon-of-alexandria.svg
 name: Saint Theon of Alexandria
 stub: true
 honorific: Saint

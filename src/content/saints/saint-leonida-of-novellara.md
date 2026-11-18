@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-leonida-of-novellara.svg
 name: Saint Leonida of Novellara
 stub: true
 honorific: Saint

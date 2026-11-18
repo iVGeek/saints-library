@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-giuseppe-codice.svg
 name: Venerable Giuseppe Codicè
 stub: false
 honorific: Venerable

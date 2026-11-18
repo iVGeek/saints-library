@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-angeloptes.svg
 name: Saint John Angeloptes
 stub: false
 honorific: Saint

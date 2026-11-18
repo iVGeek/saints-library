@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-waldrada-of-metz.svg
 name: Saint Waldrada of Metz
 stub: false
 honorific: Saint

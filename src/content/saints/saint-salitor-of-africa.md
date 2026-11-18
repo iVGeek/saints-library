@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-salitor-of-africa.svg
 name: Saint Salitor of Africa
 stub: true
 honorific: Saint

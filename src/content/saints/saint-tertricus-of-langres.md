@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tertricus-of-langres.svg
 name: Saint Tertricus of Langres
 stub: false
 honorific: Saint

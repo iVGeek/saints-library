@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-septimius.svg
 name: Saint Septimius
 stub: true
 honorific: Saint

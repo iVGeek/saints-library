@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-archangel-of-agnone.svg
 name: Blessed Archangel of Agnone
 stub: true
 honorific: Blessed

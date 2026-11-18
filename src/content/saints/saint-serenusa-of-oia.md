@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-serenusa-of-oia.svg
 name: Saint Serenusa of Oia
 stub: false
 honorific: Saint

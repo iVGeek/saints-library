@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-edburga-of-gloucester.svg
 name: Saint Edburga of Gloucester
 stub: false
 honorific: Saint

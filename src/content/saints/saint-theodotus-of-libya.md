@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodotus-of-libya.svg
 name: Saint Theodotus of Libya
 stub: true
 honorific: Saint

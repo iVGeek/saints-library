@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thyrsus-of-apollonia.svg
 name: Saint Thyrsus of Apollonia
 stub: true
 honorific: Saint

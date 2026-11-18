@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-camasus-of-nyon.svg
 name: Saint Camasus of Nyon
 stub: true
 honorific: Saint

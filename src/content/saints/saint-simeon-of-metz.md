@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-simeon-of-metz.svg
 name: Saint Simeon of Metz
 stub: true
 honorific: Saint

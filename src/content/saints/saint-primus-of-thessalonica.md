@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-primus-of-thessalonica.svg
 name: Saint Primus of Thessalonica
 stub: true
 honorific: Saint

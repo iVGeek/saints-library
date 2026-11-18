@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyril-of-thessaloniki.svg
 name: Saint Cyril of Thessaloniki
 stub: false
 honorific: Saint

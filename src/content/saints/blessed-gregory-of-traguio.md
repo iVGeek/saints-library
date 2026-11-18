@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gregory-of-traguio.svg
 name: Blessed Gregory of Traguio
 stub: false
 honorific: Blessed

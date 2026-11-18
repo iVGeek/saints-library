@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ebrulfus.svg
 name: Saint Ebrulfus
 stub: true
 honorific: Saint

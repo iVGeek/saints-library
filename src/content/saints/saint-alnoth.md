@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-alnoth.svg
 name: Saint Alnoth
 stub: false
 honorific: Saint

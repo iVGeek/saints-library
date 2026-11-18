@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-catus-of-numidia.svg
 name: Saint Catus of Numidia
 stub: true
 honorific: Saint

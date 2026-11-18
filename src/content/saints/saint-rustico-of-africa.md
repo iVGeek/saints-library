@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rustico-of-africa.svg
 name: Saint Rustico of Africa
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyria-of-caesarea.svg
 name: Saint Cyria of Caesarea
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-longinus-of-rome.svg
 name: Saint Longinus of Rome
 stub: false
 honorific: Saint

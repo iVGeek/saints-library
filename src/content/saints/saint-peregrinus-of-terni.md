@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peregrinus-of-terni.svg
 name: Saint Peregrinus of Terni
 stub: true
 honorific: Saint

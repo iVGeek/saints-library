@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-evodius-of-syracuse.svg
 name: Saint Evodius of Syracuse
 stub: true
 honorific: Saint

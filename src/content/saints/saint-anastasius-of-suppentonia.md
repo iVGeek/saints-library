@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-anastasius-of-suppentonia.svg
 name: Saint Anastasius of Suppentonia
 stub: false
 honorific: Saint

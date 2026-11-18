@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mlada-of-prague.svg
 name: Saint Mlada of Prague
 stub: false
 honorific: Saint

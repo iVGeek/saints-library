@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-richard-of-vaucelles.svg
 name: Saint Richard of Vaucelles
 stub: false
 honorific: Saint

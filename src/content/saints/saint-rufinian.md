@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufinian.svg
 name: Saint Rufinian
 stub: true
 honorific: Saint

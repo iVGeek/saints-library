@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ciwg-ap-arawn.svg
 name: Saint Ciwg ap Arawn
 stub: false
 honorific: Saint

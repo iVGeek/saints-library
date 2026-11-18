@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felix-de-atares.svg
 name: Saint Felix de Atarés
 stub: false
 honorific: Saint

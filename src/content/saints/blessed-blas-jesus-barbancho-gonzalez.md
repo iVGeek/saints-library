@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-blas-jesus-barbancho-gonzalez.svg
 name: Blessed Blas Jesús Barbancho González
 stub: false
 honorific: Blessed

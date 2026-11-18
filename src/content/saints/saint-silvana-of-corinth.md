@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-silvana-of-corinth.svg
 name: Saint Silvana of Corinth
 stub: true
 honorific: Saint

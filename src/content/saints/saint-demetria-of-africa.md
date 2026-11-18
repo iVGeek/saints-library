@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-demetria-of-africa.svg
 name: Saint Demetria of Africa
 stub: true
 honorific: Saint

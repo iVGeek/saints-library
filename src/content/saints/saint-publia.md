@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-publia.svg
 name: Saint Publia
 stub: false
 honorific: Saint

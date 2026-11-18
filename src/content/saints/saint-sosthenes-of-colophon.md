@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sosthenes-of-colophon.svg
 name: Saint Sosthenes of Colophon
 stub: false
 honorific: Saint

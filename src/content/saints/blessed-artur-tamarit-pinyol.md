@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-artur-tamarit-pinyol.svg
 name: Blessed Artur Tamarit Pinyol
 stub: false
 honorific: Blessed

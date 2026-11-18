@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ammonius-of-alexandria-2.svg
 name: Saint Ammonius of Alexandria
 stub: false
 honorific: Saint

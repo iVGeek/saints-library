@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-trien-of-killelga.svg
 name: Saint Trien of Killelga
 stub: false
 honorific: Saint

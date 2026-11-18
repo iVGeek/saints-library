@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-donata-of-north-africa.svg
 name: Saint Donata of North Africa
 stub: true
 honorific: Saint

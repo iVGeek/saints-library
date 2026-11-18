@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ormond-of-maire.svg
 name: Saint Ormond of Mairé
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cynibild.svg
 name: Saint Cynibild of Laestingaeu
 stub: false
 honorific: Saint

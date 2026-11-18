@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-turibius-of-palencia.svg
 name: Saint Turibius of Palencia
 stub: false
 honorific: Saint

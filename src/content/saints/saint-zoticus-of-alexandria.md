@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zoticus-of-alexandria.svg
 name: Saint Zoticus of Alexandria
 stub: true
 honorific: Saint

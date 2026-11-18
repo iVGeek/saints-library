@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-boethian-of-pierrepont.svg
 name: Saint Boethian of Pierrepont
 stub: false
 honorific: Saint

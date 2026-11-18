@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tytirus-of-alexandria.svg
 name: Saint Tytirus of Alexandria
 stub: true
 honorific: Saint

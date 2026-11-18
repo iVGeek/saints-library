@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-quinctillianus-of-dorostorum.svg
 name: Saint Quinctillianus of Dorostorum
 stub: true
 honorific: Saint

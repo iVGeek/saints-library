@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-veranus.svg
 name: Saint Veranus
 stub: false
 honorific: Saint

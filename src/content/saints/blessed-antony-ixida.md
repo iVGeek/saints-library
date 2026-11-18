@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-antony-ixida.svg
 name: Blessed Antony Ixida
 stub: true
 honorific: Blessed

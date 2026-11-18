@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dionysius-of-caesarea.svg
 name: Saint Dionysius of Caesarea
 stub: true
 honorific: Saint

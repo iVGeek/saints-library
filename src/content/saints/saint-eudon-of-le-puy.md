@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eudon-of-le-puy.svg
 name: Saint Eudon of Le Puy
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-simeon-of-syracuse.svg
 name: Saint Simeon of Syracuse
 stub: false
 honorific: Saint

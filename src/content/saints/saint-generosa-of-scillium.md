@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-generosa-of-scillium.svg
 name: Saint Generosa of Scillium
 stub: false
 honorific: Saint

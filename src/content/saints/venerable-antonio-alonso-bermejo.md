@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-antonio-alonso-bermejo.svg
 name: Venerable Antonio Alonso Bermejo
 stub: false
 honorific: Venerable

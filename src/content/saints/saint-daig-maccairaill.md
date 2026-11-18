@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-daig-maccairaill.svg
 name: Saint Daig MacCairaill
 stub: false
 honorific: Saint

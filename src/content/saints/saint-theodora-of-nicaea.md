@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodora-of-nicaea.svg
 name: Saint Theodora of Nicaea
 stub: true
 honorific: Saint

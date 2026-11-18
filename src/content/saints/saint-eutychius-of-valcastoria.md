@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eutychius-of-valcastoria.svg
 name: Saint Eutychius of Valcastoria
 stub: false
 honorific: Saint

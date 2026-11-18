@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victoria-of-gerona.svg
 name: Saint Victoria of Gerona
 stub: true
 honorific: Saint

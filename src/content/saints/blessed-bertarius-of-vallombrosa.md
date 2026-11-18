@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-bertarius-of-vallombrosa.svg
 name: Blessed Bertarius of Vallombrosa
 stub: false
 honorific: Blessed

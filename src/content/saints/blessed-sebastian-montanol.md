@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-sebastian-montanol.svg
 name: Blessed Sebastian Montanol
 stub: false
 honorific: Blessed

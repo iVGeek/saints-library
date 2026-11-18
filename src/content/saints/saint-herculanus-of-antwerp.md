@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-herculanus-of-antwerp.svg
 name: Saint Herculanus of Antwerp
 stub: true
 honorific: Saint

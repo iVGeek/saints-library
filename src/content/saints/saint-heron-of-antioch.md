@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-heron-of-antioch.svg
 name: Saint Heron of Antioch
 stub: false
 honorific: Saint

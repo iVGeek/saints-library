@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodore-of-tabenna.svg
 name: Saint Theodore of Tabenna
 stub: false
 honorific: Saint

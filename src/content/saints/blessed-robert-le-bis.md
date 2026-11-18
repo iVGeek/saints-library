@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-robert-le-bis.svg
 name: Blessed Robert le Bis
 stub: true
 honorific: Blessed

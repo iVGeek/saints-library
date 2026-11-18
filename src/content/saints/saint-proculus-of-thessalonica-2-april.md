@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-proculus-of-thessalonica-2-april.svg
 name: Saint Proculus of Thessalonica
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturus-of-rome.svg
 name: Saint Saturus of Rome
 stub: false
 honorific: Saint

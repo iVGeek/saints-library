@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-euphemia-of-altenmunster.svg
 name: Blessed Euphemia of Altenmünster
 stub: false
 honorific: Blessed

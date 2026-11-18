@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-benigno-of-vallumbrosa.svg
 name: Blessed Benigno of Vallumbrosa
 stub: false
 honorific: Blessed

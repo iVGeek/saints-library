@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-drausinus-of-soissons.svg
 name: Saint Drausinus of Soissons
 stub: false
 honorific: Saint

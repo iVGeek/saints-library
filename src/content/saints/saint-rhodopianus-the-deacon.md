@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rhodopianus-the-deacon.svg
 name: Saint Rhodopianus the Deacon
 stub: true
 honorific: Saint

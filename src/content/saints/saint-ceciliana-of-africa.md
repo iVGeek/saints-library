@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ceciliana-of-africa.svg
 name: Saint Ceciliana of Africa
 stub: false
 honorific: Saint

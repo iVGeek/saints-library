@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cremete.svg
 name: Saint Cremete
 stub: false
 honorific: Saint

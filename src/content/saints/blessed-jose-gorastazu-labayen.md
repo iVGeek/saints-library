@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jose-gorastazu-labayen.svg
 name: Blessed José Gorastazu Labayen
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-the-soldier.svg
 name: Saint Peter the Soldier
 stub: false
 honorific: Saint

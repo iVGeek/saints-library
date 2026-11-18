@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-antoni-casany-villarrasa.svg
 name: Blessed Antoni Casany Villarrasa
 stub: false
 honorific: Blessed

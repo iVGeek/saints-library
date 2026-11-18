@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ajabosus-of-marula.svg
 name: Saint Ajabosus of Marula
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-echa-of-crayke.svg
 name: Saint Echa of Crayke
 stub: true
 honorific: Saint

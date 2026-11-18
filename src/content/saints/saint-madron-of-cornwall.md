@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-madron-of-cornwall.svg
 name: Saint Madron of Cornwall
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hesychius-of-durres.svg
 name: Saint Hesychius of Durres
 stub: false
 honorific: Saint

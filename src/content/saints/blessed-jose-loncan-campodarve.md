@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jose-loncan-campodarve.svg
 name: Blessed José Loncán Campodarve
 stub: false
 honorific: Blessed

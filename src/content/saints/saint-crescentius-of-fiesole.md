@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crescentius-of-fiesole.svg
 name: Saint Crescentius of Fiesole
 stub: true
 honorific: Saint

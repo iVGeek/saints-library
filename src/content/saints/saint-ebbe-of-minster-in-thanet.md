@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ebbe-of-minster-in-thanet.svg
 name: Saint Ebbe of Minster-in-Thanet
 stub: false
 honorific: Saint

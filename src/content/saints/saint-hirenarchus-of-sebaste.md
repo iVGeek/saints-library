@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hirenarchus-of-sebaste.svg
 name: Saint Hirenarchus of Sebaste
 stub: false
 honorific: Saint

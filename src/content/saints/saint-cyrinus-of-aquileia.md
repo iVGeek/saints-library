@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyrinus-of-aquileia.svg
 name: Saint Cyrinus of Aquileia
 stub: false
 honorific: Saint

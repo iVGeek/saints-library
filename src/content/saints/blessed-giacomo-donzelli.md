@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-giacomo-donzelli.svg
 name: Blessed Giacomo Donzelli
 stub: false
 honorific: Blessed

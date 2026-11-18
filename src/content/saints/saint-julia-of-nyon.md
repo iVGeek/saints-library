@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julia-of-nyon.svg
 name: Saint Julia of Nyon
 stub: true
 honorific: Saint

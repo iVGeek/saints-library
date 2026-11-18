@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zoticus-of-lugdunum.svg
 name: Saint Zoticus of Lugdunum
 stub: false
 honorific: Saint

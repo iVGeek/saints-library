@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-matrona-of-rome-2.svg
 name: Saint Matrona of Rome
 stub: false
 honorific: Saint

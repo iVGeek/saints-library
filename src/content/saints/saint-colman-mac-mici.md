@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-colman-mac-mici.svg
 name: Saint Colman mac Mici
 stub: true
 honorific: Saint

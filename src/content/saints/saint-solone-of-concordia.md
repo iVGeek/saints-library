@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-solone-of-concordia.svg
 name: Saint Solone of Concordia
 stub: false
 honorific: Saint

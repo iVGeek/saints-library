@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thalilaeus.svg
 name: Saint Thalilaeus
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-patrunia.svg
 name: Saint Patrunia
 stub: true
 honorific: Saint

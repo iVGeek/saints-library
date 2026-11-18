@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-masculas-of-africa.svg
 name: Saint Masculas of Africa
 stub: true
 honorific: Saint

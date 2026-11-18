@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eleutherius-of-constantinople.svg
 name: Saint Eleutherius of Constantinople
 stub: true
 honorific: Saint

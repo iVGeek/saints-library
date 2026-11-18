@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyriacus-of-trier.svg
 name: Saint Cyriacus of Trier
 stub: false
 honorific: Saint

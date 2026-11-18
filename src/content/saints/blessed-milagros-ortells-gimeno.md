@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-milagros-ortells-gimeno.svg
 name: Blessed Milagros Ortells Gimeno
 stub: true
 honorific: Blessed

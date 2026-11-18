@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dorotheus-of-tarsus.svg
 name: Saint Dorotheus of Tarsus
 stub: true
 honorific: Saint

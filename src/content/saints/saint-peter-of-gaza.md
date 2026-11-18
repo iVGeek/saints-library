@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-of-gaza.svg
 name: Saint Peter of Gaza
 stub: true
 honorific: Saint

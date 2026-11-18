@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-folcuino-of-therouanne.svg
 name: Saint Folcuino of Therouanne
 stub: true
 honorific: Saint

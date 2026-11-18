@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-luigi-bosio.svg
 name: Venerable Luigi Bosio
 stub: true
 honorific: Venerable

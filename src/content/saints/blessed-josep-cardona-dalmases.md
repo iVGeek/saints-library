@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-josep-cardona-dalmases.svg
 name: Blessed Josep Cardona Dalmases
 stub: false
 honorific: Blessed

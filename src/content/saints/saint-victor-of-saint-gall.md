@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victor-of-saint-gall.svg
 name: Saint Victor of Saint Gall
 stub: true
 honorific: Saint

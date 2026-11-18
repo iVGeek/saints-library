@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-philologus.svg
 name: Saint Philologus
 stub: false
 honorific: Saint

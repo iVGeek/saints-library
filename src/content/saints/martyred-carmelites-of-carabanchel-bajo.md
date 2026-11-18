@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/martyred-carmelites-of-carabanchel-bajo.svg
 name: Martyred Carmelites of Carabanchel Bajo
 stub: false
 honorific: Venerable

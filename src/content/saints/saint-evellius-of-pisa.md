@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-evellius-of-pisa.svg
 name: Saint Evellius of Pisa
 stub: false
 honorific: Saint

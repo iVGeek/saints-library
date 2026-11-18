@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gregory-of-besians.svg
 name: Blessed Gregory of Besians
 stub: false
 honorific: Blessed

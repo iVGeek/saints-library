@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-domitian-of-nicomedia.svg
 name: Saint Domitian of Nicomedia
 stub: true
 honorific: Saint

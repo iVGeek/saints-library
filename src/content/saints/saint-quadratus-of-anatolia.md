@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-quadratus-of-anatolia.svg
 name: Saint Quadratus of Anatolia
 stub: false
 honorific: Saint

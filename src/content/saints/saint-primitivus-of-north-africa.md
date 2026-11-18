@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-primitivus-of-north-africa.svg
 name: Saint Primitivus of North Africa
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-leoncio-ibanez-caballero.svg
 name: Blessed Leoncio Ibáñez Caballero
 stub: false
 honorific: Blessed

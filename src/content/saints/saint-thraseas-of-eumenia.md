@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thraseas-of-eumenia.svg
 name: Saint Thraseas of Eumenia
 stub: false
 honorific: Saint

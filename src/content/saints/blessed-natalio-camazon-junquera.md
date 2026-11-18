@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-natalio-camazon-junquera.svg
 name: Blessed Natalio Camazón Junquera
 stub: false
 honorific: Blessed

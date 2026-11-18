@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-privatus-of-africa.svg
 name: Saint Privatus of Africa
 stub: true
 honorific: Saint

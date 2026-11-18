@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-walter-of-quesnoy.svg
 name: Blessed Walter of Quesnoy
 stub: false
 honorific: Blessed

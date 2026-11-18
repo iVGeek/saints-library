@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sigolinus-of-stavelot.svg
 name: Saint Sigolinus of Stavelot
 stub: true
 honorific: Saint

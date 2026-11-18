@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-procopius-of-decapolis.svg
 name: Saint Procopius of Decapolis
 stub: false
 honorific: Saint

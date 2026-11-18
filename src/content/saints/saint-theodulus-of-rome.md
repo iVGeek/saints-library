@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodulus-of-rome.svg
 name: Saint Theodulus of Rome
 stub: false
 honorific: Saint

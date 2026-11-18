@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victoria-of-carthage.svg
 name: Saint Victoria of Carthage
 stub: false
 honorific: Saint

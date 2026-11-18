@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-carterius-of-caesarea.svg
 name: Saint Carterius of Caesarea
 stub: true
 honorific: Saint

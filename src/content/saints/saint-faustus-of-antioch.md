@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-faustus-of-antioch.svg
 name: Saint Faustus of Antioch
 stub: true
 honorific: Saint

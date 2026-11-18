@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-odrian-of-waterford.svg
 name: Saint Odrian of Waterford
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hortulanus-of-north-africa.svg
 name: Saint Hortulanus of North Africa
 stub: false
 honorific: Saint

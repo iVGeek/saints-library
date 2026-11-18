@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-generoso-of-the-crucified.svg
 name: Venerable Generoso of the Crucified
 stub: true
 honorific: Venerable

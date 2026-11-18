@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gagus-of-thessalonica-2-april.svg
 name: Saint Gagus of Thessalonica
 stub: false
 honorific: Saint

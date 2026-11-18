@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zoticus-the-martyr.svg
 name: Saint Zoticus the Martyr
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gislain-of-luxemburg.svg
 name: Saint Gislain of Luxemburg
 stub: false
 honorific: Saint

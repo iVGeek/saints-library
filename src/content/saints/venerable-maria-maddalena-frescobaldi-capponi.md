@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-maria-maddalena-frescobaldi-capponi.svg
 name: Venerable Maria Maddalena Frescobaldi Capponi
 stub: false
 honorific: Venerable

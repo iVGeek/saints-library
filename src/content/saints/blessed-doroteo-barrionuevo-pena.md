@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-doroteo-barrionuevo-pena.svg
 name: Blessed Doroteo Barrionuevo Peña
 stub: false
 honorific: Blessed

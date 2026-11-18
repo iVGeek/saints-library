@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vitalis-of-alexandria.svg
 name: Saint Vitalis of Alexandria
 stub: true
 honorific: Saint

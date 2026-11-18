@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-emilian-of-membressa.svg
 name: Saint Emilian of Membressa
 stub: true
 honorific: Saint

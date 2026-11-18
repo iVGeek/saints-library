@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ierace-of-rome.svg
 name: Saint Ierace of Rome
 stub: false
 honorific: Saint

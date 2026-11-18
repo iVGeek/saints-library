@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-capitolinus-of-africa.svg
 name: Saint Capitolinus of Africa
 stub: true
 honorific: Saint

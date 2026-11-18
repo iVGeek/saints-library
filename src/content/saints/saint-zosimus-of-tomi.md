@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zosimus-of-tomi.svg
 name: Saint Zosimus of Tomi
 stub: true
 honorific: Saint

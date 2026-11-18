@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-derfel-gadarn.svg
 name: Saint Derfel Gadarn
 stub: false
 honorific: Saint

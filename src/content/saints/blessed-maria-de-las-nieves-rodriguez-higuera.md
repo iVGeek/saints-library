@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-maria-de-las-nieves-rodriguez-higuera.svg
 name: Blessed María de Las Nieves Rodríguez Higuera
 stub: true
 honorific: Blessed

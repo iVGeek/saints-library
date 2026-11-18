@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-tottone-of-ottobeuren.svg
 name: Blessed Tottone of Ottobeuren
 stub: false
 honorific: Blessed

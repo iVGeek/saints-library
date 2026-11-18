@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-justa-of-sardinia.svg
 name: Saint Justa of Sardinia
 stub: true
 honorific: Saint

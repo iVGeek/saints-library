@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hermas-of-rome-9-may.svg
 name: Saint Hermas of Rome
 stub: false
 honorific: Saint

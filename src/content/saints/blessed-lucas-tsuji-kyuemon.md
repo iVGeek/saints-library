@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-lucas-tsuji-kyuemon.svg
 name: Blessed Lucas Tsuji Kyuemon
 stub: false
 honorific: Blessed

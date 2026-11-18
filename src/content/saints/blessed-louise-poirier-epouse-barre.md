@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-louise-poirier-epouse-barre.svg
 name: Blessed Louise Poirier épouse Barré
 stub: false
 honorific: Blessed

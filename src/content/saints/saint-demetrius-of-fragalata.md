@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-demetrius-of-fragalata.svg
 name: Saint Demetrius of Fragalata
 stub: false
 honorific: Saint

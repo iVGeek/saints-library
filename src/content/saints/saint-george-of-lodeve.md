@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-george-of-lodeve.svg
 name: Saint George of Lodève
 stub: false
 honorific: Saint

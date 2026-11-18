@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-carpus-of-troas.svg
 name: Saint Carpus of Troas
 stub: false
 honorific: Saint

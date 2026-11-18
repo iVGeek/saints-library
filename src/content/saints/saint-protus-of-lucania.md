@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-protus-of-lucania.svg
 name: Saint Protus of Lucania
 stub: true
 honorific: Saint

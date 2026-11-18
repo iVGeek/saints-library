@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-quiriacus-of-africa.svg
 name: Saint Quiriacus of Africa
 stub: true
 honorific: Saint

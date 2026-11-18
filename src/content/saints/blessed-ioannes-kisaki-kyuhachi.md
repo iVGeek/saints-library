@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ioannes-kisaki-kyuhachi.svg
 name: Blessed Ioannes Kisaki Kyuhachi
 stub: true
 honorific: Blessed

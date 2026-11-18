@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-terence-of-carthage.svg
 name: Saint Terence of Carthage
 stub: false
 honorific: Saint

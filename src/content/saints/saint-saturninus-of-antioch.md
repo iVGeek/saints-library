@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturninus-of-antioch.svg
 name: Saint Saturninus of Antioch
 stub: true
 honorific: Saint

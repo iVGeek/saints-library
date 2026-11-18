@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rusticus-of-narbonne.svg
 name: Saint Rusticus of Narbonne
 stub: false
 honorific: Saint

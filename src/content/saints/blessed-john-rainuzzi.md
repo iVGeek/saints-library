@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-john-rainuzzi.svg
 name: Blessed John Rainuzzi
 stub: false
 honorific: Blessed

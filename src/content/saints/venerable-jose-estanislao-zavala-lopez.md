@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-jose-estanislao-zavala-lopez.svg
 name: Venerable José Estanislao Zavala López
 stub: true
 honorific: Venerable

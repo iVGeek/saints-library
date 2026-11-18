@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyprian-of-perigueux.svg
 name: Saint Cyprian of Périgueux
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-marthe-poulain-de-la-forestrie.svg
 name: Blessed Marthe Poulain de la Forestrie
 stub: false
 honorific: Blessed

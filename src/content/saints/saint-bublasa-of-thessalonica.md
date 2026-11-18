@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bublasa-of-thessalonica.svg
 name: Saint Bublasa of Thessalonica
 stub: true
 honorific: Saint

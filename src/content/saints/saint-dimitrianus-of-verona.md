@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dimitrianus-of-verona.svg
 name: Saint Dimitrianus of Verona
 stub: true
 honorific: Saint

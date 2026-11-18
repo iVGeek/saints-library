@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-wilhelm-of-kirchberg.svg
 name: Blessed Wilhelm of Kirchberg
 stub: false
 honorific: Blessed

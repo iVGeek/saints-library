@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-athernaise-of-fife.svg
 name: Saint Athernaise of Fife
 stub: true
 honorific: Saint

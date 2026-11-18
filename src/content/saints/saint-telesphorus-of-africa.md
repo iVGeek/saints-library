@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-telesphorus-of-africa.svg
 name: Saint Telesphorus of Africa
 stub: false
 honorific: Saint

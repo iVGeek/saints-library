@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-monessa.svg
 name: Saint Monessa
 stub: false
 honorific: Saint

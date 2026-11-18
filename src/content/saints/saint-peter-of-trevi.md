@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-of-trevi.svg
 name: Saint Peter of Trevi
 stub: false
 honorific: Saint

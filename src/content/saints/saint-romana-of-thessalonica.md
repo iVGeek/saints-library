@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-romana-of-thessalonica.svg
 name: Saint Romana of Thessalonica
 stub: true
 honorific: Saint

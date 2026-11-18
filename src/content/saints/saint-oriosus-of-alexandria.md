@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-oriosus-of-alexandria.svg
 name: Saint Oriosus of Alexandria
 stub: true
 honorific: Saint

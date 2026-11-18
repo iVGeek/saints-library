@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felix-of-africa-3-february.svg
 name: Saint Felix of Africa
 stub: true
 honorific: Saint

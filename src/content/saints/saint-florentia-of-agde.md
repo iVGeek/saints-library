@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-florentia-of-agde.svg
 name: Saint Florentia of Agde
 stub: true
 honorific: Saint

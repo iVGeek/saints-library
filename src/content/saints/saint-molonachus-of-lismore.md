@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-molonachus-of-lismore.svg
 name: Saint Molonachus of Lismore
 stub: false
 honorific: Saint

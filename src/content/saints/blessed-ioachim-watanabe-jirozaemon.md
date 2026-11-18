@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ioachim-watanabe-jirozaemon.svg
 name: Blessed Ioachim Watanabe Jirozaemon
 stub: true
 honorific: Blessed

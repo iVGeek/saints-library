@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-supporina-of-clermont.svg
 name: Saint Supporina of Clermont
 stub: false
 honorific: Saint

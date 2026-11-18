@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rumwold-the-prince.svg
 name: Saint Rumwold the Prince
 stub: false
 honorific: Saint

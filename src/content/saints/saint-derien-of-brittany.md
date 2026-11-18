@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-derien-of-brittany.svg
 name: Saint Derien of Brittany
 stub: false
 honorific: Saint

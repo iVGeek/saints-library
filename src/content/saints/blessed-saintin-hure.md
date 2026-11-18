@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-saintin-hure.svg
 name: Blessed Saintin Huré
 stub: true
 honorific: Blessed

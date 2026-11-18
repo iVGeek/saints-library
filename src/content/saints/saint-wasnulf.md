@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-wasnulf.svg
 name: Saint Wasnulf
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-regina-kyusaku.svg
 name: Blessed Regina Kyusaku
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victorinus-of-assisi.svg
 name: Saint Victorinus of Assisi
 stub: false
 honorific: Saint

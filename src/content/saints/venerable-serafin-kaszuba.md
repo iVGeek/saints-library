@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-serafin-kaszuba.svg
 name: Venerable Serafin Kaszuba
 stub: true
 honorific: Venerable

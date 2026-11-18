@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gormeal-of-ardoilen.svg
 name: Saint Gormeal of Ardoilen
 stub: true
 honorific: Saint

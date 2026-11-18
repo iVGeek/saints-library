@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufinus-of-africa.svg
 name: Saint Rufinus of Africa
 stub: false
 honorific: Saint

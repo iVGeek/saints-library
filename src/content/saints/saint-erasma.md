@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-erasma.svg
 name: Saint Erasma of Aquileia
 stub: false
 honorific: Saint

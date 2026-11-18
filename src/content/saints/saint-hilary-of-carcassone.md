@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hilary-of-carcassone.svg
 name: Saint Hilary of Carcassone
 stub: false
 honorific: Saint

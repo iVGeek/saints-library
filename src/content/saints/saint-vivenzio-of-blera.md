@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vivenzio-of-blera.svg
 name: Saint Vivenzio of Blera
 stub: false
 honorific: Saint

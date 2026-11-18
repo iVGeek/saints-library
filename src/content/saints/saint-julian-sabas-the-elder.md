@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julian-sabas-the-elder.svg
 name: Saint Julian Sabas the Elder
 stub: false
 honorific: Saint

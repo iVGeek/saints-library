@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-donatus-of-north-africa.svg
 name: Saint Donatus of North Africa
 stub: true
 honorific: Saint

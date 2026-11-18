@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-wulfsi.svg
 name: Saint Wulfsi
 stub: false
 honorific: Saint

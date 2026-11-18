@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-colocer-of-saint-brieuc.svg
 name: Saint Colocer of Saint-Brieuc
 stub: false
 honorific: Saint

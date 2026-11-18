@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-spolicostus-of-greece.svg
 name: Saint Spolicostus of Greece
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-italica-of-africa.svg
 name: Saint Italica of Africa
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-priscus-of-caesarea.svg
 name: Saint Priscus of Caesarea
 stub: false
 honorific: Saint

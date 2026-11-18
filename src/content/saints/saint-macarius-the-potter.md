@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-macarius-the-potter.svg
 name: Saint Macarius the Potter
 stub: true
 honorific: Saint

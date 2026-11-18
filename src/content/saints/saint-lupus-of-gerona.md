@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lupus-of-gerona.svg
 name: Saint Lupus of Gerona
 stub: true
 honorific: Saint

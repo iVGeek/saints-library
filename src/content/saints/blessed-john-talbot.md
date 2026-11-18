@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-john-talbot.svg
 name: Blessed John Talbot
 stub: false
 honorific: Blessed

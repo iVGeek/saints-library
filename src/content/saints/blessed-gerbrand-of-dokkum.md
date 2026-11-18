@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gerbrand-of-dokkum.svg
 name: Blessed Gerbrand of Dokkum
 stub: false
 honorific: Blessed

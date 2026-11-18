@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hesperius-of-metz.svg
 name: Saint Hespérius of Metz
 stub: false
 honorific: Saint

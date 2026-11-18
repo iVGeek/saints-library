@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-trophimus-of-antioch.svg
 name: Saint Trophimus of Antioch
 stub: true
 honorific: Saint

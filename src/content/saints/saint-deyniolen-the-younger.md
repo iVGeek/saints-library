@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-deyniolen-the-younger.svg
 name: Saint Deyniolen the Younger
 stub: true
 honorific: Saint

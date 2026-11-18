@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cuan-of-airbhre.svg
 name: Saint Cuán of Airbhre
 stub: false
 honorific: Saint

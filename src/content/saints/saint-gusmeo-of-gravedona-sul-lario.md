@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gusmeo-of-gravedona-sul-lario.svg
 name: Saint Gusmeo of Gravedona sul Lario
 stub: true
 honorific: Saint

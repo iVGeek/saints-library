@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theophila-of-nicomedia.svg
 name: Saint Theophila of Nicomedia
 stub: false
 honorific: Saint

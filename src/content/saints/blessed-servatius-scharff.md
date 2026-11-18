@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-servatius-scharff.svg
 name: Blessed Servatius Scharff
 stub: false
 honorific: Blessed

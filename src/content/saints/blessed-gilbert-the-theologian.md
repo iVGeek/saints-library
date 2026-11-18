@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gilbert-the-theologian.svg
 name: Blessed Gilbert the Theologian
 stub: false
 honorific: Blessed

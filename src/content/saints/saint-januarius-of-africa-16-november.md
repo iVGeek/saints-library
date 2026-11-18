@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-januarius-of-africa-16-november.svg
 name: Saint Januarius of Africa
 stub: true
 honorific: Saint

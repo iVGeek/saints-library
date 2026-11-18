@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-litteus-of-sigum.svg
 name: Saint Litteus of Sigum
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pinna-of-tomi.svg
 name: Saint Pinna of Tomi
 stub: false
 honorific: Saint

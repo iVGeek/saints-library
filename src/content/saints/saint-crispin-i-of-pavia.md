@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crispin-i-of-pavia.svg
 name: Saint Crispin I of Pavia
 stub: true
 honorific: Saint

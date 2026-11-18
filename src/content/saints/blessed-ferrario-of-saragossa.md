@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ferrario-of-saragossa.svg
 name: Blessed Ferrario of Saragossa
 stub: true
 honorific: Blessed

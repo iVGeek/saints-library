@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-macarius-of-valdesaz.svg
 name: Saint Macarius of Valdesaz
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gregor-of-rome.svg
 name: Saint Gregor of Rome
 stub: true
 honorific: Saint

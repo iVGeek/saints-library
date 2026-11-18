@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zetula-of-rome.svg
 name: Saint Zetula of Rome
 stub: true
 honorific: Saint

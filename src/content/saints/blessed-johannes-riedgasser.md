@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-johannes-riedgasser.svg
 name: Blessed Johannes Riedgasser
 stub: false
 honorific: Blessed

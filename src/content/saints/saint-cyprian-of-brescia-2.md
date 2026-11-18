@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyprian-of-brescia-2.svg
 name: Saint Cyprian of Brescia
 stub: true
 honorific: Saint

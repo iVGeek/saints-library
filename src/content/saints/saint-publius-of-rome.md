@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-publius-of-rome.svg
 name: Saint Publius of Rome
 stub: true
 honorific: Saint

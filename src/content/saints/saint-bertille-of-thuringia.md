@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bertille-of-thuringia.svg
 name: Saint Bertille of Thuringia
 stub: false
 honorific: Saint

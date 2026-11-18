@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gerinus.svg
 name: Saint Gerinus
 stub: false
 honorific: Saint

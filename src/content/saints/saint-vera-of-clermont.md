@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vera-of-clermont.svg
 name: Saint Vera of Clermont
 stub: false
 honorific: Saint

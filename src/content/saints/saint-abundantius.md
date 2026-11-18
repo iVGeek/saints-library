@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-abundantius.svg
 name: Saint Abundantius
 stub: true
 honorific: Saint

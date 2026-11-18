@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-columbanus-the-younger.svg
 name: Saint Columbanus the Younger
 stub: false
 honorific: Saint

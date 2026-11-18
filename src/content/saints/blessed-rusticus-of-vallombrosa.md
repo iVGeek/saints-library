@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-rusticus-of-vallombrosa.svg
 name: Blessed Rusticus of Vallombrosa
 stub: false
 honorific: Blessed

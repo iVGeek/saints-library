@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-liebert.svg
 name: Saint Liebert
 stub: true
 honorific: Saint

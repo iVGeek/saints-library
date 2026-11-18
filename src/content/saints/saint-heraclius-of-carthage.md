@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-heraclius-of-carthage.svg
 name: Saint Heraclius of Carthage
 stub: true
 honorific: Saint

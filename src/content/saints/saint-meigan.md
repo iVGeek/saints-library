@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-meigan.svg
 name: Saint Meigan
 stub: true
 honorific: Saint

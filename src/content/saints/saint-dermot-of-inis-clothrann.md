@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dermot-of-inis-clothrann.svg
 name: Saint Dermot of Inis Clothrann
 stub: false
 honorific: Saint

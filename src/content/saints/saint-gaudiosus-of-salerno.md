@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gaudiosus-of-salerno.svg
 name: Saint Gaudiosus of Salerno
 stub: true
 honorific: Saint

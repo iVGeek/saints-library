@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cathcan-of-rath-derthaighe.svg
 name: Saint Cathcan of Rath-derthaighe
 stub: true
 honorific: Saint

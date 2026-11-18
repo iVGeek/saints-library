@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-urban-of-north-africa-28-november.svg
 name: Saint Urban of North Africa
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bassian-of-north-africa.svg
 name: Saint Bassian of North Africa
 stub: true
 honorific: Saint

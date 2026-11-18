@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nabor-of-rome.svg
 name: Saint Nabor of Rome
 stub: false
 honorific: Saint

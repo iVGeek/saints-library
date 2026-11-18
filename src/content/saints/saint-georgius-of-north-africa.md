@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-georgius-of-north-africa.svg
 name: Saint Georgius of North Africa
 stub: true
 honorific: Saint

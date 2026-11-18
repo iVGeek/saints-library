@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-herculanus-the-soldier.svg
 name: Saint Herculanus the Soldier
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-potentino-of-karden.svg
 name: Saint Potentino of Karden
 stub: false
 honorific: Saint

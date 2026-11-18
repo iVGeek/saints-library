@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-colman-of-senboth-fola.svg
 name: Saint Colman of Senboth-Fola
 stub: false
 honorific: Saint

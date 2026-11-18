@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-epagathus-of-lugdunum.svg
 name: Saint Epagathus of Lugdunum
 stub: false
 honorific: Saint

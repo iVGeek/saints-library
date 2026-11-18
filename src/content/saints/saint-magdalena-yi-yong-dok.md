@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-magdalena-yi-yong-dok.svg
 name: Saint Magdalena Yi Yong-Dok
 stub: true
 honorific: Venerable

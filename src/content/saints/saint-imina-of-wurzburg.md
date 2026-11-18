@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-imina-of-wurzburg.svg
 name: Saint Imina of Würzburg
 stub: false
 honorific: Saint

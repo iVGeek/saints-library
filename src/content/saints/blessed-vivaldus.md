@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-vivaldus.svg
 name: Blessed Vivaldus
 stub: false
 honorific: Blessed

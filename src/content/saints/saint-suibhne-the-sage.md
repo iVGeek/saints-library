@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-suibhne-the-sage.svg
 name: Saint Suibhne the Sage
 stub: true
 honorific: Saint

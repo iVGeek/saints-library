@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valerius-of-san-pedro-de-montes.svg
 name: Saint Valerius of San Pedro de Montes
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-partenopeus-of-noli.svg
 name: Saint Partenopeus of Noli
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-robert-francois-guerin-du-rocher.svg
 name: Blessed Robert-François Guérin du Rocher
 stub: true
 honorific: Blessed

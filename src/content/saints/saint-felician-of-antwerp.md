@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felician-of-antwerp.svg
 name: Saint Felician of Antwerp
 stub: true
 honorific: Saint

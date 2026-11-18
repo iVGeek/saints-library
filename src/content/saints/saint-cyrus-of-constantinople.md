@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyrus-of-constantinople.svg
 name: Saint Cyrus of Constantinople
 stub: false
 honorific: Saint

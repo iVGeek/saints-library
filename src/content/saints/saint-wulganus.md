@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-wulganus.svg
 name: Saint Wulganus
 stub: false
 honorific: Saint

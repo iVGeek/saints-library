@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-silvius-of-lugdunum.svg
 name: Saint Silvius of Lugdunum
 stub: false
 honorific: Saint

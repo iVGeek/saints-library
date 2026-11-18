@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturninus-of-alexandria-31-january.svg
 name: Saint Saturninus of Alexandria
 stub: true
 honorific: Saint

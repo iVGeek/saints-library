@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victorinus-of-amiterme.svg
 name: Saint Victorinus of Amiterme
 stub: true
 honorific: Saint

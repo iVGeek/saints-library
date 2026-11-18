@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-degno-of-africa.svg
 name: Saint Degno of Africa
 stub: false
 honorific: Saint

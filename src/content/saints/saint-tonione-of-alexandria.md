@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tonione-of-alexandria.svg
 name: Saint Tonione of Alexandria
 stub: true
 honorific: Saint

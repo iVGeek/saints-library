@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-julian-villanueva-alza.svg
 name: Blessed Julian Villanueva Alza
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-romanus-of-nepi.svg
 name: Saint Romanus of Nepi
 stub: true
 honorific: Saint

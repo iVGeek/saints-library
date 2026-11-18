@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-prothadius-of-besancon.svg
 name: Saint Prothadius of Besançon
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hirena-of-antwerp.svg
 name: Saint Hirena of Antwerp
 stub: true
 honorific: Saint

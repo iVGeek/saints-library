@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marinus-of-maurienne.svg
 name: Saint Marinus of Maurienne
 stub: false
 honorific: Saint

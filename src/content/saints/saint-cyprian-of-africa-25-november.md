@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyprian-of-africa-25-november.svg
 name: Saint Cyprian of Africa
 stub: false
 honorific: Saint

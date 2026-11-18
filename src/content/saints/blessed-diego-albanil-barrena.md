@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-diego-albanil-barrena.svg
 name: Blessed Diego Albañil Barrena
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-priamus-of-sardinia.svg
 name: Saint Priamus of Sardinia
 stub: false
 honorific: Saint

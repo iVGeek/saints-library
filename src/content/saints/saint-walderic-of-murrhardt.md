@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-walderic-of-murrhardt.svg
 name: Saint Walderic of Murrhardt
 stub: false
 honorific: Saint

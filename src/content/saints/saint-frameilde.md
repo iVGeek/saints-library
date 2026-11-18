@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-frameilde.svg
 name: Saint Frameilde
 stub: false
 honorific: Saint

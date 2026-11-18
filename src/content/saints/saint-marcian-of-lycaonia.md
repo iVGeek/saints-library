@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcian-of-lycaonia.svg
 name: Saint Marcian of Lycaonia
 stub: false
 honorific: Saint

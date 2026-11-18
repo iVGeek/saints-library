@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-adeltrude-of-aurillac.svg
 name: Saint Adeltrude of Aurillac
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-conrad-of-trier.svg
 name: Saint Conrad of Trier
 stub: false
 honorific: Saint

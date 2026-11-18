@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mucian-of-mesia.svg
 name: Saint Mucian of Mesia
 stub: true
 honorific: Saint

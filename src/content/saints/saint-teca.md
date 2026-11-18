@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-teca.svg
 name: Saint Teca
 stub: true
 honorific: Saint

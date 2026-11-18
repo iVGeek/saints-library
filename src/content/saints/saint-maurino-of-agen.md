@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maurino-of-agen.svg
 name: Saint Maurino of Agen
 stub: false
 honorific: Saint

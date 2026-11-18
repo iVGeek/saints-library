@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-manuel-martinez-jarauta.svg
 name: Blessed Manuel Martínez Jarauta
 stub: true
 honorific: Blessed

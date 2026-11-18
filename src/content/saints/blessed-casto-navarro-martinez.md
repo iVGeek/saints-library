@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-casto-navarro-martinez.svg
 name: Blessed Casto Navarro Martínez
 stub: false
 honorific: Blessed

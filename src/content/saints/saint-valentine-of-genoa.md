@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valentine-of-genoa.svg
 name: Saint Valentine of Genoa
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-benatius-of-kilcooley.svg
 name: Saint Benatius of Kilcooley
 stub: true
 honorific: Saint

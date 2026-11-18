@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-helias-of-bardiaboch.svg
 name: Saint Helias of Bardiaboch
 stub: false
 honorific: Saint

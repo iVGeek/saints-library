@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-maria-fenollosa-alcaina.svg
 name: Blessed María Fenollosa Alcaina
 stub: false
 honorific: Blessed

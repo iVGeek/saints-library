@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufina-of-rome-3-june.svg
 name: Saint Rufina of Rome
 stub: true
 honorific: Saint

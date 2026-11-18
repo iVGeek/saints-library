@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victorinus-of-corinth-28-february.svg
 name: Saint Victorinus of Corinth
 stub: true
 honorific: Saint

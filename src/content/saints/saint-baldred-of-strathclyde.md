@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-baldred-of-strathclyde.svg
 name: Saint Baldred of Strathclyde
 stub: false
 honorific: Saint

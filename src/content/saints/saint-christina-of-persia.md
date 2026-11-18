@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-christina-of-persia.svg
 name: Saint Christina of Persia
 stub: true
 honorific: Saint

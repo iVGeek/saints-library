@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rutulus-of-north-africa.svg
 name: Saint Rutulus of North Africa
 stub: false
 honorific: Saint

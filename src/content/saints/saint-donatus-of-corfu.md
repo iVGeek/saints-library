@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-donatus-of-corfu.svg
 name: Saint Donatus of Corfu
 stub: false
 honorific: Saint

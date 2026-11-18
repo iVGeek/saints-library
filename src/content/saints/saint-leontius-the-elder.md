@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-leontius-the-elder.svg
 name: Saint Leontius the Elder
 stub: true
 honorific: Saint

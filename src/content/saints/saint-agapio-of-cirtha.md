@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-agapio-of-cirtha.svg
 name: Saint Agapio of Cirtha
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodulus-of-edessa.svg
 name: Saint Theodulus of Edessa
 stub: false
 honorific: Saint

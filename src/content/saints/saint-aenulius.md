@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-aenulius.svg
 name: Saint Aenulius
 stub: true
 honorific: Saint

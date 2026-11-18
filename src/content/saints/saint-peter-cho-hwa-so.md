@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-cho-hwa-so.svg
 name: Saint Peter Cho Hwa-so
 stub: false
 honorific: Venerable

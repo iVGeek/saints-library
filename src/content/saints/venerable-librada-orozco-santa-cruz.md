@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-librada-orozco-santa-cruz.svg
 name: Venerable Librada Orozco Santa Cruz
 stub: true
 honorific: Venerable

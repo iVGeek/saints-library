@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lucian-of-durres.svg
 name: Saint Lucian of Durres
 stub: false
 honorific: Saint

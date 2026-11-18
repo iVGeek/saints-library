@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyriacus-of-rome-18-june.svg
 name: Saint Cyriacus of Rome
 stub: true
 honorific: Saint

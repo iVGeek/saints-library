@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-phero-vo-dng-khoa.svg
 name: Saint Phêrô Võ Ðang Khoa
 stub: false
 honorific: Venerable

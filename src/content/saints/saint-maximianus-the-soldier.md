@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximianus-the-soldier.svg
 name: Saint Maximianus the Soldier
 stub: false
 honorific: Saint

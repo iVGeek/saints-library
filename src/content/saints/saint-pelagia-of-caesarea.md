@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pelagia-of-caesarea.svg
 name: Saint Pelagia of Caesarea
 stub: true
 honorific: Saint

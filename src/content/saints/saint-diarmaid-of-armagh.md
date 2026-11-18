@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-diarmaid-of-armagh.svg
 name: Saint Diarmaid of Armagh
 stub: false
 honorific: Saint

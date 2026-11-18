@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufinus-of-alexandria.svg
 name: Saint Rufinus of Alexandria
 stub: false
 honorific: Saint

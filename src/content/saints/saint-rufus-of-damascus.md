@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufus-of-damascus.svg
 name: Saint Rufus of Damascus
 stub: false
 honorific: Saint

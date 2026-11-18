@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-timothy-the-martyr.svg
 name: Saint Timothy the Martyr
 stub: true
 honorific: Saint

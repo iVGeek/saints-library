@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-maximiano-valdes-subercaseaux.svg
 name: Venerable Maximiano Valdés Subercaseaux
 stub: false
 honorific: Venerable

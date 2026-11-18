@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-baldegundis.svg
 name: Saint Baldegundis
 stub: true
 honorific: Saint

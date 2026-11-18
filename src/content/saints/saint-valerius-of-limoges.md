@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valerius-of-limoges.svg
 name: Saint Valerius of Limoges
 stub: false
 honorific: Saint

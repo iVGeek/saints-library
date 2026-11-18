@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-regulus-of-rheims.svg
 name: Saint Regulus of Rheims
 stub: false
 honorific: Saint

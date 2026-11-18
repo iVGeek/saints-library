@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-edistius-of-ravenna.svg
 name: Saint Edistius of Ravenna
 stub: true
 honorific: Saint

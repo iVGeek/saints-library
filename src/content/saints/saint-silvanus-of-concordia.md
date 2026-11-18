@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-silvanus-of-concordia.svg
 name: Saint Silvanus of Concordia
 stub: false
 honorific: Saint

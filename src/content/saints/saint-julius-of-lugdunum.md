@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julius-of-lugdunum.svg
 name: Saint Julius of Lugdunum
 stub: false
 honorific: Saint

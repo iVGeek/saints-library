@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-felix-redondo-olivares.svg
 name: Venerable Félix Redondo Olivares
 stub: false
 honorific: Venerable

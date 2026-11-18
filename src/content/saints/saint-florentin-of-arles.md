@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-florentin-of-arles.svg
 name: Saint Florentin of Arles
 stub: true
 honorific: Saint

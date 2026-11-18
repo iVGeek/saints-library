@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-sostenaeus.svg
 name: Blessed Sostenaeus
 stub: true
 honorific: Blessed

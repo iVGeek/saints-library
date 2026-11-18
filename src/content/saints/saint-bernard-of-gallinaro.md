@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bernard-of-gallinaro.svg
 name: Saint Bernard of Gallinaro
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-artifas-of-africa.svg
 name: Saint Artifas of Africa
 stub: true
 honorific: Saint

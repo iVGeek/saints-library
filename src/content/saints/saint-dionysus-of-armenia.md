@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dionysus-of-armenia.svg
 name: Saint Dionysus of Armenia
 stub: true
 honorific: Saint

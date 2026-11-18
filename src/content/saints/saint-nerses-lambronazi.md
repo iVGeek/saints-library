@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nerses-lambronazi.svg
 name: Saint Nerses Lambronazi
 stub: false
 honorific: Saint

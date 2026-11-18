@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-augia-of-apt.svg
 name: Saint Augia of Apt
 stub: true
 honorific: Saint

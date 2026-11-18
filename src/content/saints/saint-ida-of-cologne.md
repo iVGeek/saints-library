@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ida-of-cologne.svg
 name: Saint Ida of Cologne
 stub: false
 honorific: Saint

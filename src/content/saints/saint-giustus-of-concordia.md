@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-giustus-of-concordia.svg
 name: Saint Giustus of Concordia
 stub: false
 honorific: Saint

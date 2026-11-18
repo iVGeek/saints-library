@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-israel-of-limoges.svg
 name: Saint Israel of Limoges
 stub: true
 honorific: Saint

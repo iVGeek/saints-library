@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thalalaeus-of-edessa.svg
 name: Saint Thalalaeus of Edessa
 stub: true
 honorific: Saint

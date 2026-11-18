@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eutychius-of-ferentino.svg
 name: Saint Eutychius of Ferentino
 stub: true
 honorific: Saint

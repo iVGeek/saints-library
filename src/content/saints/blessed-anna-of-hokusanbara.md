@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-anna-of-hokusanbara.svg
 name: Blessed Anna of Hokusanbara
 stub: false
 honorific: Blessed

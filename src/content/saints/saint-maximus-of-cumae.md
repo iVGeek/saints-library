@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-cumae.svg
 name: Saint Maximus of Cumae
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-thecla-kurogane.svg
 name: Blessed Thecla Kurogane
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-robert-gruthuysen.svg
 name: Blessed Robert Gruthuysen
 stub: false
 honorific: Blessed

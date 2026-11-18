@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ursicinus-of-sens.svg
 name: Saint Ursicinus of Sens
 stub: true
 honorific: Saint

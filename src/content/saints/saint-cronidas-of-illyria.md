@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cronidas-of-illyria.svg
 name: Saint Cronidas of Illyria
 stub: true
 honorific: Saint

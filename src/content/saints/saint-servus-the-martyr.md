@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-servus-the-martyr.svg
 name: Saint Servus the Martyr
 stub: false
 honorific: Saint

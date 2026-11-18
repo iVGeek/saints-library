@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-papocinicus-of-africa.svg
 name: Saint Papocinicus of Africa
 stub: true
 honorific: Saint

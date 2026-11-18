@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-menander-of-prusa.svg
 name: Saint Menander of Prusa
 stub: true
 honorific: Saint

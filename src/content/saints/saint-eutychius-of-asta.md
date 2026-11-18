@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eutychius-of-asta.svg
 name: Saint Eutychius of Asta
 stub: true
 honorific: Saint

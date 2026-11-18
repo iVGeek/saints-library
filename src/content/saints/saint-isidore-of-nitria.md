@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-isidore-of-nitria.svg
 name: Saint Isidore of Nitria
 stub: false
 honorific: Saint

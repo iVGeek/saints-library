@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vilfinus-of-die.svg
 name: Saint Vilfinus of Die
 stub: true
 honorific: Saint

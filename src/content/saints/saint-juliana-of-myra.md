@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-juliana-of-myra.svg
 name: Saint Juliana of Myra
 stub: true
 honorific: Saint

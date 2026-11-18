@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-paulus-nishihori-shikibu.svg
 name: Blessed Paulus Nishihori Shikibu
 stub: true
 honorific: Blessed

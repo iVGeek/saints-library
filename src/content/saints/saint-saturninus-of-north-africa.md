@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturninus-of-north-africa.svg
 name: Saint Saturninus of North Africa
 stub: false
 honorific: Saint

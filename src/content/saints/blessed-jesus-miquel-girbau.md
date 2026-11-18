@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jesus-miquel-girbau.svg
 name: Blessed Jesús Miquel Girbau
 stub: false
 honorific: Blessed

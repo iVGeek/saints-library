@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-josep-auselle-rigau.svg
 name: Blessed Josep Ausellé Rigau
 stub: true
 honorific: Blessed

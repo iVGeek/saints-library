@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-notburga-of-cologne.svg
 name: Saint Notburga of Cologne
 stub: true
 honorific: Saint

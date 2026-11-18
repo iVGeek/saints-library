@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felix-of-thagura.svg
 name: Saint Felix of Thagura
 stub: false
 honorific: Saint

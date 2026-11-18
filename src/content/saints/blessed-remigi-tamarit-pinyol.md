@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-remigi-tamarit-pinyol.svg
 name: Blessed Remigi Tamarit Pinyol
 stub: false
 honorific: Blessed

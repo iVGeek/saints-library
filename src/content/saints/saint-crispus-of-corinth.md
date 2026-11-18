@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crispus-of-corinth.svg
 name: Saint Crispus of Corinth
 stub: false
 honorific: Saint

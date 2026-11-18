@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-romana-of-sirmium.svg
 name: Saint Romana of Sirmium
 stub: false
 honorific: Saint

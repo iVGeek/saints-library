@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-philonilla.svg
 name: Saint Philonilla
 stub: false
 honorific: Saint

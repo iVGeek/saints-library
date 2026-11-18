@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tochumra-of-kilmore.svg
 name: Saint Tochumra of Kilmore
 stub: false
 honorific: Saint

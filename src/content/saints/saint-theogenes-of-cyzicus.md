@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theogenes-of-cyzicus.svg
 name: Saint Theogenes of Cyzicus
 stub: false
 honorific: Saint

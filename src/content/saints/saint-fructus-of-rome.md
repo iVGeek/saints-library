@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fructus-of-rome.svg
 name: Saint Fructus of Rome
 stub: true
 honorific: Saint

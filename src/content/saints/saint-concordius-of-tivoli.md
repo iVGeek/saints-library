@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-concordius-of-tivoli.svg
 name: Saint Concordius of Tivoli
 stub: false
 honorific: Saint

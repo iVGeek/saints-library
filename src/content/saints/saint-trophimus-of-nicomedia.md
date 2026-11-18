@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-trophimus-of-nicomedia.svg
 name: Saint Trophimus of Nicomedia
 stub: false
 honorific: Saint

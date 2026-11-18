@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-moroc-of-scotland.svg
 name: Saint Moroc of Scotland
 stub: false
 honorific: Saint

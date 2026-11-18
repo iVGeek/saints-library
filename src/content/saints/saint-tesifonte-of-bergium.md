@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tesifonte-of-bergium.svg
 name: Saint Tesifonte of Bergium
 stub: true
 honorific: Saint

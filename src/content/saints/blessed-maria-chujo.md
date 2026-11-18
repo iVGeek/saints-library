@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-maria-chujo.svg
 name: Blessed Maria Chujo
 stub: true
 honorific: Blessed

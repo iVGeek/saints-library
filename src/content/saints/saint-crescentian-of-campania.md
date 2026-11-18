@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crescentian-of-campania.svg
 name: Saint Crescentian of Campania
 stub: true
 honorific: Saint

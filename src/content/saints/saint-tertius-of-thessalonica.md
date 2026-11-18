@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tertius-of-thessalonica.svg
 name: Saint Tertius of Thessalonica
 stub: true
 honorific: Saint

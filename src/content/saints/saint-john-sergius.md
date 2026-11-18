@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-sergius.svg
 name: Saint John Sergius
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eusebius-of-fano.svg
 name: Saint Eusebius of Fano
 stub: true
 honorific: Saint

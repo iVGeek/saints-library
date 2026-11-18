@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-margherita-of-albitina.svg
 name: Saint Margherita of Albitina
 stub: false
 honorific: Saint

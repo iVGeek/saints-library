@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-brogan-of-mothil.svg
 name: Saint Brogan of Mothil
 stub: false
 honorific: Saint

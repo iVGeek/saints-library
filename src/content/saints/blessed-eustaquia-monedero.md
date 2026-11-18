@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-eustaquia-monedero.svg
 name: Blessed Eustáquia Monedero
 stub: true
 honorific: Blessed

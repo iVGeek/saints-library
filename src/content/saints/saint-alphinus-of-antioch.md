@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-alphinus-of-antioch.svg
 name: Saint Alphinus of Antioch
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-emmanuel-kosaburo.svg
 name: Blessed Emmanuel Kosaburo
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-senator-of-milan.svg
 name: Saint Senator of Milan
 stub: false
 honorific: Saint

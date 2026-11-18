@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-devinicus.svg
 name: Saint Devinicus
 stub: false
 honorific: Saint

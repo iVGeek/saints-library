@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-proculus-of-terni-13-april.svg
 name: Saint Proculus of Terni
 stub: true
 honorific: Saint

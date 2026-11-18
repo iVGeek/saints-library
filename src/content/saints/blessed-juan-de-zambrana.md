@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-juan-de-zambrana.svg
 name: Blessed Juan de Zambrana
 stub: false
 honorific: Blessed

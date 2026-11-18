@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyrinus-of-rome.svg
 name: Saint Cyrinus of Rome
 stub: true
 honorific: Saint

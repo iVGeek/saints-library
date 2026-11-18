@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyril-of-antioch.svg
 name: Saint Cyril of Antioch
 stub: true
 honorific: Saint

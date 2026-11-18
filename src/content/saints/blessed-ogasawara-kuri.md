@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ogasawara-kuri.svg
 name: Blessed Ogasawara Kuri
 stub: false
 honorific: Blessed

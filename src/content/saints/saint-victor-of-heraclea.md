@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victor-of-heraclea.svg
 name: Saint Victor of Heraclea
 stub: true
 honorific: Saint

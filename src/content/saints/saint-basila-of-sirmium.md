@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-basila-of-sirmium.svg
 name: Saint Basila of Sirmium
 stub: true
 honorific: Saint

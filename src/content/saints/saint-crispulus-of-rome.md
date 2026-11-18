@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crispulus-of-rome.svg
 name: Saint Crispulus of Rome
 stub: false
 honorific: Saint

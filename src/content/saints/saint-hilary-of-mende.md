@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hilary-of-mende.svg
 name: Saint Hilary of Mende
 stub: false
 honorific: Saint

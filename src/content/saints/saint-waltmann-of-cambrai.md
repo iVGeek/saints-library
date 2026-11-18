@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-waltmann-of-cambrai.svg
 name: Saint Waltmann of Cambrai
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-pedro-jose-cano-cebrian.svg
 name: Blessed Pedro José Cano Cebrían
 stub: false
 honorific: Blessed

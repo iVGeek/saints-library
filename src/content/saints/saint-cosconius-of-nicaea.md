@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cosconius-of-nicaea.svg
 name: Saint Cosconius of Nicaea
 stub: true
 honorific: Saint

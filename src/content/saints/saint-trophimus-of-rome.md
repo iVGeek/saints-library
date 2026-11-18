@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-trophimus-of-rome.svg
 name: Saint Trophimus of Rome
 stub: true
 honorific: Saint

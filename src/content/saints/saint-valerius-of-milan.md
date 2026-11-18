@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valerius-of-milan.svg
 name: Saint Valerius of Milan
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-clateus-of-brescia.svg
 name: Saint Clateus of Brescia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-nemesio-garcia-arevalo-hinojosa.svg
 name: Blessed Nemesio García-Arévalo Hinojosa
 stub: true
 honorific: Blessed

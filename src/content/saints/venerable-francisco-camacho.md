@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-francisco-camacho.svg
 name: Venerable Francisco Camacho
 stub: false
 honorific: Venerable

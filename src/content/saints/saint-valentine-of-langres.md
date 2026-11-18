@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valentine-of-langres.svg
 name: Saint Valentine of Langres
 stub: true
 honorific: Saint

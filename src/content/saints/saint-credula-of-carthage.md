@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-credula-of-carthage.svg
 name: Saint Credula of Carthage
 stub: true
 honorific: Saint

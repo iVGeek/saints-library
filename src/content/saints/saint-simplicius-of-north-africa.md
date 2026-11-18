@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-simplicius-of-north-africa.svg
 name: Saint Simplicius of North Africa
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mazota-of-abernethy.svg
 name: Saint Mazota of Abernethy
 stub: true
 honorific: Saint

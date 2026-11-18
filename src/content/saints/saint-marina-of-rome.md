@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marina-of-rome.svg
 name: Saint Marina of Rome
 stub: true
 honorific: Saint

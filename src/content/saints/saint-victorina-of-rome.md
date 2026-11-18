@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victorina-of-rome.svg
 name: Saint Victorina of Rome
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-martinian-of-mauretania.svg
 name: Saint Martinian of Mauretania
 stub: false
 honorific: Saint

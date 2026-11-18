@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rogatius.svg
 name: Saint Rogatius
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcian-of-egypt.svg
 name: Saint Marcian of Egypt
 stub: true
 honorific: Saint

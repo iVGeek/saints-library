@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-zacarias-cuesta-campo.svg
 name: Blessed Zacarías Cuesta Campo
 stub: false
 honorific: Blessed

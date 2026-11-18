@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-phero-doan-cong-quy.svg
 name: Saint Phêrô Ðoàn Công Quý
 stub: false
 honorific: Saint

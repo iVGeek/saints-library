@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-culmatius-of-arezzo.svg
 name: Saint Culmatius of Arezzo
 stub: false
 honorific: Saint

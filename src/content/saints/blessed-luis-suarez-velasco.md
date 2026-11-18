@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-luis-suarez-velasco.svg
 name: Blessed Luis Suárez Velasco
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-honulphus-of-sens.svg
 name: Saint Honulphus of Sens
 stub: true
 honorific: Saint

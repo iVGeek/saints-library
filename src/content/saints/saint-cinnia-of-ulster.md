@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cinnia-of-ulster.svg
 name: Saint Cinnia of Ulster
 stub: false
 honorific: Saint

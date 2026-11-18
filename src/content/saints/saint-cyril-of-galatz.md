@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyril-of-galatz.svg
 name: Saint Cyril of Galatz
 stub: false
 honorific: Saint

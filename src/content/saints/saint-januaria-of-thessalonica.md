@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-januaria-of-thessalonica.svg
 name: Saint Januaria of Thessalonica
 stub: true
 honorific: Saint

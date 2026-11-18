@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-antonius-of-noto.svg
 name: Blessed Antonius of Noto
 stub: false
 honorific: Blessed

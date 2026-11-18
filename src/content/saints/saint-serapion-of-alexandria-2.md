@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-serapion-of-alexandria-2.svg
 name: Saint Serapion of Alexandria
 stub: true
 honorific: Saint

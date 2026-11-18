@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-domninus-of-grenoble.svg
 name: Saint Domninus of Grenoble
 stub: true
 honorific: Saint

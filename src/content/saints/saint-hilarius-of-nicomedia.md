@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hilarius-of-nicomedia.svg
 name: Saint Hilarius of Nicomedia
 stub: true
 honorific: Saint

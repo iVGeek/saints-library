@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-libania-of-busano.svg
 name: Blessed Libania of Busano
 stub: false
 honorific: Blessed

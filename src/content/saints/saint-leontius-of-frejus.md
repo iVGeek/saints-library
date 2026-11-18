@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-leontius-of-frejus.svg
 name: Saint Leontius of Fréjus
 stub: false
 honorific: Saint

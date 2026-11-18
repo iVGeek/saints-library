@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-saturnino-feliciano-cabrera-calero.svg
 name: Blessed Saturnino Feliciano Cabrera Calero
 stub: false
 honorific: Blessed

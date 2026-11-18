@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-afesius-of-africa.svg
 name: Saint Afesius of Africa
 stub: true
 honorific: Saint

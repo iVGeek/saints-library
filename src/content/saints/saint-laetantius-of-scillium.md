@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-laetantius-of-scillium.svg
 name: Saint Laetantius of Scillium
 stub: false
 honorific: Saint

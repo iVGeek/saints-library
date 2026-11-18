@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nicophorus-of-corinth.svg
 name: Saint Nicophorus of Corinth
 stub: true
 honorific: Saint

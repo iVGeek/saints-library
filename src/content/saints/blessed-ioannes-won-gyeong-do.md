@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ioannes-won-gyeong-do.svg
 name: Blessed Ioannes Won Gyeong-do
 stub: true
 honorific: Blessed

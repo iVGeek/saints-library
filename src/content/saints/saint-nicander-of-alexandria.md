@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nicander-of-alexandria.svg
 name: Saint Nicander of Alexandria
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-exuerantia-of-troyes.svg
 name: Saint Exuerantia of Troyes
 stub: false
 honorific: Saint

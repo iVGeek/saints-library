@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-protea-of-egypt.svg
 name: Saint Protea of Egypt
 stub: false
 honorific: Saint

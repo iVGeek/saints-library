@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tatwine-of-canterbury.svg
 name: Saint Tatwine of Canterbury
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-codrato.svg
 name: Saint Codrato
 stub: true
 honorific: Saint

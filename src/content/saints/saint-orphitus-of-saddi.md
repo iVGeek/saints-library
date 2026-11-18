@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-orphitus-of-saddi.svg
 name: Saint Orphitus of Saddi
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-renee-marie-feillatreau-epouse-dumont.svg
 name: Blessed Renée-Marie Feillatreau épouse Dumont
 stub: false
 honorific: Blessed

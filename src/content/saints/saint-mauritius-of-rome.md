@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mauritius-of-rome.svg
 name: Saint Mauritius of Rome
 stub: true
 honorific: Saint

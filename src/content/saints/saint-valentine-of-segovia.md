@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valentine-of-segovia.svg
 name: Saint Valentine of Segovia
 stub: false
 honorific: Saint

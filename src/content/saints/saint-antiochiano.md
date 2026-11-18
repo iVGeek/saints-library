@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-antiochiano.svg
 name: Saint Antiochiano
 stub: true
 honorific: Saint

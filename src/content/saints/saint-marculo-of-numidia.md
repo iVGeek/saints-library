@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marculo-of-numidia.svg
 name: Saint Marculo of Numidia
 stub: false
 honorific: Saint

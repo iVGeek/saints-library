@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valerius-of-ravenna.svg
 name: Saint Valerius of Ravenna
 stub: false
 honorific: Saint

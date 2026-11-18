@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eutyches-of-rome.svg
 name: Saint Eutyches of Rome
 stub: false
 honorific: Saint

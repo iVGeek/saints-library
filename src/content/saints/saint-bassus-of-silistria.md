@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bassus-of-silistria.svg
 name: Saint Bassus of Silistria
 stub: true
 honorific: Saint

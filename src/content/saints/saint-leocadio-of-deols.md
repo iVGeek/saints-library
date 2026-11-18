@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-leocadio-of-deols.svg
 name: Saint Leocadio of Déols
 stub: false
 honorific: Saint

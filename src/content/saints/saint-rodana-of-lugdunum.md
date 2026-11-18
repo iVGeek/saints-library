@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rodana-of-lugdunum.svg
 name: Saint Rodana of Lugdunum
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-kenan-of-damleag.svg
 name: Saint Kenan of Damleag
 stub: false
 honorific: Saint

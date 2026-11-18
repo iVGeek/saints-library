@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-olympiades-of-persia.svg
 name: Saint Olympiades of Persia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ebustus-of-nyon.svg
 name: Saint Ebustus of Nyon
 stub: true
 honorific: Saint

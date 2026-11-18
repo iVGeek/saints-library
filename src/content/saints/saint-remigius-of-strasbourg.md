@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-remigius-of-strasbourg.svg
 name: Saint Remigius of Strasbourg
 stub: false
 honorific: Saint

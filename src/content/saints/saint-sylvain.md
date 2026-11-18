@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sylvain.svg
 name: Saint Sylvain
 stub: false
 honorific: Saint

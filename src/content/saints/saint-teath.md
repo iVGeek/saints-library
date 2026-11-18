@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-teath.svg
 name: Saint Teath
 stub: false
 honorific: Saint

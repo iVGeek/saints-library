@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tryphon-of-africa.svg
 name: Saint Tryphon of Africa
 stub: true
 honorific: Saint

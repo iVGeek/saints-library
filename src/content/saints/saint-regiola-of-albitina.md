@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-regiola-of-albitina.svg
 name: Saint Regiola of Albitina
 stub: false
 honorific: Saint

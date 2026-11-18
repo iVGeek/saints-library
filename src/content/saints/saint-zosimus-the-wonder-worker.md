@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zosimus-the-wonder-worker.svg
 name: Saint Zosimus the Wonder Worker
 stub: true
 honorific: Saint

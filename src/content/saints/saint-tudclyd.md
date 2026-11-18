@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tudclyd.svg
 name: Saint Tudclyd
 stub: true
 honorific: Saint

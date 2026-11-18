@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ginia-of-cagliari.svg
 name: Saint Ginia of Cagliari
 stub: true
 honorific: Saint

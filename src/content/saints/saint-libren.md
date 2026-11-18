@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-libren.svg
 name: Saint Librén
 stub: false
 honorific: Saint

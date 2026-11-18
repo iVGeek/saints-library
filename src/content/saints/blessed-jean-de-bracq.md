@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jean-de-bracq.svg
 name: Blessed Jean de Bracq
 stub: false
 honorific: Blessed

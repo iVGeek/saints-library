@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-spinulus.svg
 name: Saint Spinulus
 stub: false
 honorific: Saint

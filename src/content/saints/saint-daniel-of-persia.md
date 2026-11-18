@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-daniel-of-persia.svg
 name: Saint Daniel of Persia
 stub: true
 honorific: Saint

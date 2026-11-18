@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-justo-gonzalez-lorente.svg
 name: Blessed Justo González Lorente
 stub: true
 honorific: Blessed

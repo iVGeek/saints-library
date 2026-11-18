@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sabinus-of-damascus.svg
 name: Saint Sabinus of Damascus
 stub: true
 honorific: Saint

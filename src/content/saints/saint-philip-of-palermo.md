@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-philip-of-palermo.svg
 name: Saint Philip of Palermo
 stub: false
 honorific: Saint

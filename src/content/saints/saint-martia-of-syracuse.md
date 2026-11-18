@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-martia-of-syracuse.svg
 name: Saint Martia of Syracuse
 stub: true
 honorific: Saint

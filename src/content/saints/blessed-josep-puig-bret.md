@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-josep-puig-bret.svg
 name: Blessed Josep Puig Bret
 stub: false
 honorific: Blessed

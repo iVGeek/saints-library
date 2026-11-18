@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-severinus-of-trier.svg
 name: Saint Severinus of Trier
 stub: true
 honorific: Saint

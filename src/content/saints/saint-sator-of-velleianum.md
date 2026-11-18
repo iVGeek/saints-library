@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sator-of-velleianum.svg
 name: Saint Sator of Velleianum
 stub: true
 honorific: Saint

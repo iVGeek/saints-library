@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gordian-of-pontus.svg
 name: Saint Gordian of Pontus
 stub: true
 honorific: Saint

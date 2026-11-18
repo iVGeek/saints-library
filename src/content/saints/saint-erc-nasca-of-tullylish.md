@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-erc-nasca-of-tullylish.svg
 name: Saint Erc Nasca of Tullylish
 stub: false
 honorific: Saint

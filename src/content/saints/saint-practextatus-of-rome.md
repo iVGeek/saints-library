@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-practextatus-of-rome.svg
 name: Saint Practextatus of Rome
 stub: false
 honorific: Saint

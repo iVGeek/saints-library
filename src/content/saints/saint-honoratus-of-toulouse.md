@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-honoratus-of-toulouse.svg
 name: Saint Honoratus of Toulouse
 stub: true
 honorific: Saint

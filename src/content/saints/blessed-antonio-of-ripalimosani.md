@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-antonio-of-ripalimosani.svg
 name: Blessed Antonio of Ripalimosani
 stub: false
 honorific: Blessed

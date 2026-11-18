@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-pascual-roda-diaz.svg
 name: Blessed Pascuál Roda Díaz
 stub: true
 honorific: Blessed

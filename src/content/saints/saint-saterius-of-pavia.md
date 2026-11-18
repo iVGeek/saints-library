@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saterius-of-pavia.svg
 name: Saint Saterius of Pavia
 stub: true
 honorific: Saint

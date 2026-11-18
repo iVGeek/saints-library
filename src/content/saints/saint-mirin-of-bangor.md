@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mirin-of-bangor.svg
 name: Saint Mirin of Bangor
 stub: false
 honorific: Saint

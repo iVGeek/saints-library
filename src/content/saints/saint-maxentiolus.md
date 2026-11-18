@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maxentiolus.svg
 name: Saint Maxentiolus
 stub: false
 honorific: Saint

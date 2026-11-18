@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-martinus-of-thessalonica.svg
 name: Saint Martinus of Thessalonica
 stub: true
 honorific: Saint

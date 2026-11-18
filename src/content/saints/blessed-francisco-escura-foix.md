@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-francisco-escura-foix.svg
 name: Blessed Francisco Escura Foix
 stub: true
 honorific: Blessed

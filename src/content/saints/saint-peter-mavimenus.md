@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-mavimenus.svg
 name: Saint Peter Mavimenus
 stub: true
 honorific: Saint

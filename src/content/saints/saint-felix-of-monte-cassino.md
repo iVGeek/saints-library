@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felix-of-monte-cassino.svg
 name: Blessed Felix of Monte Cassino
 stub: false
 honorific: Blessed

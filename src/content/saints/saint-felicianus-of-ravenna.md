@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felicianus-of-ravenna.svg
 name: Saint Felicianus of Ravenna
 stub: true
 honorific: Saint

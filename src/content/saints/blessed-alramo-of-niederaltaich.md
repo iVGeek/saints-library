@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-alramo-of-niederaltaich.svg
 name: Blessed Alramo of Niederaltaich
 stub: false
 honorific: Blessed

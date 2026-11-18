@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-marie-genevieve-poulain-de-la-forestrie.svg
 name: Blessed Marie-Genevieve Poulain de la Forestrie
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-syntyche-of-philippi.svg
 name: Saint Syntyche of Philippi
 stub: false
 honorific: Saint

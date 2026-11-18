@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-chaeremon-of-nilopolis.svg
 name: Saint Chaeremon of Nilopolis
 stub: false
 honorific: Saint

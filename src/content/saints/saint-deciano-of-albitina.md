@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-deciano-of-albitina.svg
 name: Saint Deciano of Albitina
 stub: false
 honorific: Saint

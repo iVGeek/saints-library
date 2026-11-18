@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secunda-of-tebourba.svg
 name: Saint Secunda of Tebourba
 stub: true
 honorific: Saint

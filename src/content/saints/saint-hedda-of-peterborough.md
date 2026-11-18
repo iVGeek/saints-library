@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hedda-of-peterborough.svg
 name: Saint Hedda of Peterborough
 stub: false
 honorific: Saint

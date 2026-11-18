@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-paulus-sanjuro.svg
 name: Blessed Paulus Sanjuro
 stub: false
 honorific: Blessed

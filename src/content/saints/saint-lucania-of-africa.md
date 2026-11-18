@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lucania-of-africa.svg
 name: Saint Lucania of Africa
 stub: false
 honorific: Saint

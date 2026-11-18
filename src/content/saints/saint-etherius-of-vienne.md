@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-etherius-of-vienne.svg
 name: Saint Etherius of Vienne
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-meugant.svg
 name: Saint Meugant
 stub: false
 honorific: Saint

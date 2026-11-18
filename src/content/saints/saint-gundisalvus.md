@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gundisalvus.svg
 name: Saint Gundisalvus
 stub: false
 honorific: Saint

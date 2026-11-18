@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-justa-of-the-via-aurelia.svg
 name: Saint Justa of the Via Aurelia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-pascual-castro-herrera.svg
 name: Blessed Pascual Castro Herrera
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secundinus-of-north-africa.svg
 name: Saint Secundinus of North Africa
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gaudinus-of-soissons.svg
 name: Saint Gaudinus of Soissons
 stub: false
 honorific: Saint

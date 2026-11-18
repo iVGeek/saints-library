@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-heliodorus-of-persia.svg
 name: Saint Heliodorus of Persia
 stub: true
 honorific: Saint

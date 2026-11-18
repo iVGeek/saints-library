@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-narcissus-of-tomi.svg
 name: Saint Narcissus of Tomi
 stub: false
 honorific: Saint

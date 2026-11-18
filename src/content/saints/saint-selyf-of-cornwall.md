@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-selyf-of-cornwall.svg
 name: Saint Selyf of Cornwall
 stub: true
 honorific: Saint

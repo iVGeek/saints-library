@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-anre-tran-van-trong.svg
 name: Saint Anrê Tran Van Trông
 stub: false
 honorific: Venerable

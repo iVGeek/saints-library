@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-drusus-of-syria.svg
 name: Saint Drusus of Syria
 stub: false
 honorific: Saint

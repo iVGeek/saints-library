@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-adrianopolis.svg
 name: Saint Maximus of Adrianopolis
 stub: true
 honorific: Saint

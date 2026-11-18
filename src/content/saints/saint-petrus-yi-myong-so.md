@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-petrus-yi-myong-so.svg
 name: Saint Petrus Yi Myong-So
 stub: true
 honorific: Venerable

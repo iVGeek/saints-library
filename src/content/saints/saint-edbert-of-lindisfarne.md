@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-edbert-of-lindisfarne.svg
 name: Saint Edbert of Lindisfarne
 stub: false
 honorific: Saint

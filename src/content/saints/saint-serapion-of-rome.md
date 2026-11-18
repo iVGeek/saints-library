@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-serapion-of-rome.svg
 name: Saint Serapion of Rome
 stub: true
 honorific: Saint

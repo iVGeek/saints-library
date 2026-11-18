@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-guillaume-antoine-delfaut.svg
 name: Blessed Guillaume-Antoine Delfaut
 stub: true
 honorific: Blessed

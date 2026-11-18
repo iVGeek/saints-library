@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-uni-of-bremen.svg
 name: Saint Uni of Bremen
 stub: false
 honorific: Saint

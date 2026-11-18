@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-francesc-sola-peix.svg
 name: Blessed Francesc Solá Peix
 stub: true
 honorific: Blessed

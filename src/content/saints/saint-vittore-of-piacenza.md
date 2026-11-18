@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vittore-of-piacenza.svg
 name: Saint Vittore of Piacenza
 stub: true
 honorific: Saint

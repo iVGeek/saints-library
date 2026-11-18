@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gennaro-of-albitina.svg
 name: Saint Gennaro of Albitina
 stub: false
 honorific: Saint

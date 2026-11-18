@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julius-of-africa.svg
 name: Saint Julius of Africa
 stub: true
 honorific: Saint

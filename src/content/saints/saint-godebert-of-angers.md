@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-godebert-of-angers.svg
 name: Saint Godebert of Angers
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fraternus-of-auxerre.svg
 name: Saint Fraternus of Auxerre
 stub: true
 honorific: Saint

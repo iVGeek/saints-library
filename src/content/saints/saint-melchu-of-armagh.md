@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-melchu-of-armagh.svg
 name: Saint Melchu of Armagh
 stub: false
 honorific: Saint

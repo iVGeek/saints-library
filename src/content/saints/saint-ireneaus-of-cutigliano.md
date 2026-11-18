@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ireneaus-of-cutigliano.svg
 name: Saint Ireneaus of Cutigliano
 stub: true
 honorific: Saint

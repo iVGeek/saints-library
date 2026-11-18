@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-suairlech-of-linn-duachaille.svg
 name: Saint Súairlech of Linn Duachaille
 stub: true
 honorific: Saint

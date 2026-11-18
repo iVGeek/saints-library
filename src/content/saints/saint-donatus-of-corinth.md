@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-donatus-of-corinth.svg
 name: Saint Donatus of Corinth
 stub: true
 honorific: Saint

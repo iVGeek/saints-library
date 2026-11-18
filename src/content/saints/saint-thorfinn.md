@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thorfinn.svg
 name: Saint Thorfinn
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cantidianus.svg
 name: Saint Cantidianus
 stub: true
 honorific: Saint

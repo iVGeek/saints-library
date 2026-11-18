@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tatian-of-meros.svg
 name: Saint Tatian of Meros
 stub: false
 honorific: Saint

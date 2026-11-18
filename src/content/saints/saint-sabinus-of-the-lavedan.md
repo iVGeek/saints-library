@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sabinus-of-the-lavedan.svg
 name: Saint Sabinus of the Lavedan
 stub: false
 honorific: Saint

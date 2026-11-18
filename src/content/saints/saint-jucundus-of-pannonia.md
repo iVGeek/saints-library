@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jucundus-of-pannonia.svg
 name: Saint Jucundus of Pannonia
 stub: true
 honorific: Saint

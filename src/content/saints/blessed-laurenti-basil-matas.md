@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-laurenti-basil-matas.svg
 name: Blessed Laurentí Basil Matas
 stub: false
 honorific: Blessed

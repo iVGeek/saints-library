@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-severus-of-alexandria-30-december.svg
 name: Saint Severus of Alexandria
 stub: false
 honorific: Saint

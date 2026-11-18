@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturninus-the-martyr.svg
 name: Saint Saturninus the Martyr
 stub: true
 honorific: Saint

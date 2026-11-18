@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-paulica-of-gerona.svg
 name: Saint Paulica of Gerona
 stub: true
 honorific: Saint

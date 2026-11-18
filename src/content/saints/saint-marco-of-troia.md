@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marco-of-troia.svg
 name: Saint Marco of Troia
 stub: true
 honorific: Saint

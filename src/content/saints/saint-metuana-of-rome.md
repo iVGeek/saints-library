@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-metuana-of-rome.svg
 name: Saint Metuana of Rome
 stub: true
 honorific: Saint

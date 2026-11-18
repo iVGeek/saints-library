@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-severus-of-agde.svg
 name: Saint Severus of Agde
 stub: false
 honorific: Saint

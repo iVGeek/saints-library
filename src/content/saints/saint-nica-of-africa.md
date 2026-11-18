@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nica-of-africa.svg
 name: Saint Nica of Africa
 stub: true
 honorific: Saint

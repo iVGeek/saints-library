@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-invenzio-of-pavia.svg
 name: Saint Invenzio of Pavia
 stub: false
 honorific: Saint

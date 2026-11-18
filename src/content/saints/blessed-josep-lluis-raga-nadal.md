@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-josep-lluis-raga-nadal.svg
 name: Blessed Josep Lluis Raga Nadal
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-james-of-sasseau.svg
 name: Saint James of Sasseau
 stub: false
 honorific: Saint

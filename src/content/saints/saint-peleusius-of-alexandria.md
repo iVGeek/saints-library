@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peleusius-of-alexandria.svg
 name: Saint Peleusius of Alexandria
 stub: true
 honorific: Saint

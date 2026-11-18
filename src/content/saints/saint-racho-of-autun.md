@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-racho-of-autun.svg
 name: Saint Racho of Autun
 stub: true
 honorific: Saint

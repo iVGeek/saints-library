@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-evelpisto-of-rome.svg
 name: Saint Evelpisto of Rome
 stub: false
 honorific: Saint

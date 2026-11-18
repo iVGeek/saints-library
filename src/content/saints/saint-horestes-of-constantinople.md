@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-horestes-of-constantinople.svg
 name: Saint Horestes of Constantinople
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lughna-the-deacon.svg
 name: Saint Lughna the Deacon
 stub: true
 honorific: Saint

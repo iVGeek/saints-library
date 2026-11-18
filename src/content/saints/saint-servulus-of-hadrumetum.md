@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-servulus-of-hadrumetum.svg
 name: Saint Servulus of Hadrumetum
 stub: true
 honorific: Saint

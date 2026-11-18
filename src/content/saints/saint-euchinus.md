@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-euchinus.svg
 name: Saint Euchinus
 stub: true
 honorific: Saint

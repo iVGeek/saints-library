@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cuthbert-of-canterbury.svg
 name: Saint Cuthbert of Canterbury
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-severinus-of-como.svg
 name: Saint Severinus of Como
 stub: false
 honorific: Saint

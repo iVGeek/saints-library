@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jovinian-of-sicily.svg
 name: Saint Jovinian of Sicily
 stub: true
 honorific: Saint

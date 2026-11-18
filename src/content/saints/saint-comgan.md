@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-comgan.svg
 name: Saint Comgan
 stub: true
 honorific: Saint

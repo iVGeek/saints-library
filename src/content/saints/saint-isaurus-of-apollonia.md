@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-isaurus-of-apollonia.svg
 name: Saint Isaurus of Apollonia
 stub: false
 honorific: Saint

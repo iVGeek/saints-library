@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-teturo-of-africa.svg
 name: Saint Teturo of Africa
 stub: false
 honorific: Saint

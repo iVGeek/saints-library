@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-balthasar-kagayama-hanzaemon.svg
 name: Blessed Balthasar Kagayama Hanzaemon
 stub: false
 honorific: Blessed

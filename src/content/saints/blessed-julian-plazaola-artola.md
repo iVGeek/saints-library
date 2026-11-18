@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-julian-plazaola-artola.svg
 name: Blessed Julián Plazaola Artola
 stub: false
 honorific: Blessed

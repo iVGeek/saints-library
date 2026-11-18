@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodosius-of-antioch-16-july.svg
 name: Saint Theodosius of Antioch
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-isidore-of-antioch.svg
 name: Saint Isidore of Antioch
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-revocata.svg
 name: Saint Revocata
 stub: true
 honorific: Saint

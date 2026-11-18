@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zosima-of-porto.svg
 name: Saint Zosima of Porto
 stub: true
 honorific: Saint

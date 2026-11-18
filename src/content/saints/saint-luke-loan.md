@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-luke-loan.svg
 name: Saint Luke Loan
 stub: false
 honorific: Saint

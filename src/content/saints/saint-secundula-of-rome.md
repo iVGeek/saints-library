@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secundula-of-rome.svg
 name: Saint Secundula of Rome
 stub: true
 honorific: Saint

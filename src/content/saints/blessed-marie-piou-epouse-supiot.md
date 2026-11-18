@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-marie-piou-epouse-supiot.svg
 name: Blessed Marie Piou épouse Supiot
 stub: false
 honorific: Blessed

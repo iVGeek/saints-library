@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pedro-de-osma.svg
 name: Saint Pedro de Osma
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-beatrice-hermosilla-of-valladolid.svg
 name: Blessed Beatrice Hermosilla of Valladolid
 stub: false
 honorific: Blessed

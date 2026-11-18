@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufus-of-metz.svg
 name: Saint Rufus of Metz
 stub: false
 honorific: Saint

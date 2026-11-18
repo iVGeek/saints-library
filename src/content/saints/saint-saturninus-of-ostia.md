@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturninus-of-ostia.svg
 name: Saint Saturninus of Ostia
 stub: true
 honorific: Saint

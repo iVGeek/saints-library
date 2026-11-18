@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tella-of-corinth.svg
 name: Saint Tella of Corinth
 stub: true
 honorific: Saint

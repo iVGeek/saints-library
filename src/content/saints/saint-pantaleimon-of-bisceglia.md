@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pantaleimon-of-bisceglia.svg
 name: Saint Pantaleimon of Bisceglia
 stub: true
 honorific: Saint

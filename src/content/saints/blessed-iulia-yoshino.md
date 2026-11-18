@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-iulia-yoshino.svg
 name: Blessed Iulia Yoshino
 stub: false
 honorific: Blessed

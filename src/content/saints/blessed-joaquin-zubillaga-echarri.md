@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-joaquin-zubillaga-echarri.svg
 name: Blessed Joaquín Zubillaga Echarri
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secunda-of-silistria.svg
 name: Saint Secunda of Silistria
 stub: true
 honorific: Saint

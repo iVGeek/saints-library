@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fortunatus-of-camogli.svg
 name: Saint Fortunatus of Camogli
 stub: false
 honorific: Saint

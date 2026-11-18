@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-julian-zarco-cuevas.svg
 name: Blessed Julián Zarco Cuevas
 stub: true
 honorific: Blessed

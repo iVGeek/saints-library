@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cronan-of-ferns.svg
 name: Saint Cronan of Ferns
 stub: true
 honorific: Saint

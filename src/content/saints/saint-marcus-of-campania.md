@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcus-of-campania.svg
 name: Saint Marcus of Campania
 stub: false
 honorific: Saint

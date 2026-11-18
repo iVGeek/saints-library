@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eleutherius-of-nicomedia.svg
 name: Saint Eleutherius of Nicomedia
 stub: false
 honorific: Saint

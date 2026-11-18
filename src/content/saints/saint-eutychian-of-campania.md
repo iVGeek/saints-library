@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eutychian-of-campania.svg
 name: Saint Eutychian of Campania
 stub: true
 honorific: Saint

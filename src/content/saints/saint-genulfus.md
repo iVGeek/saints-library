@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-genulfus.svg
 name: Saint Genulfus
 stub: true
 honorific: Saint

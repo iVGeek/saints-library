@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-matthew-of-albano.svg
 name: Blessed Matthew of Albano
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-petronius-of-nicomedia.svg
 name: Saint Petronius of Nicomedia
 stub: true
 honorific: Saint

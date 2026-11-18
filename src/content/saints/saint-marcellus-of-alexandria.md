@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcellus-of-alexandria.svg
 name: Saint Marcellus of Alexandria
 stub: true
 honorific: Saint

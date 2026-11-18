@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-januaria-of-scillium.svg
 name: Saint Januaria of Scillium
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-mechthild-of-hochsal.svg
 name: Blessed Mechthild of Hochsal
 stub: true
 honorific: Blessed

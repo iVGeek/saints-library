@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jucundinus-of-troyes.svg
 name: Saint Jucundinus of Troyes
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-simon-kiyota-bokusai.svg
 name: Blessed Simon Kiyota Bokusai
 stub: false
 honorific: Blessed

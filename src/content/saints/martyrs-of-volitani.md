@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/martyrs-of-volitani.svg
 name: Martyrs of Volitani
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victorinus-of-piacenza.svg
 name: Saint Victorinus of Piacenza
 stub: true
 honorific: Saint

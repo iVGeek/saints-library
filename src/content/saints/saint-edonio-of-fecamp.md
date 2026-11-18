@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-edonio-of-fecamp.svg
 name: Saint Edonio of Fécamp
 stub: false
 honorific: Saint

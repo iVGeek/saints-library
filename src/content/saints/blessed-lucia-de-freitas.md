@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-lucia-de-freitas.svg
 name: Blessed Lucia de Freitas
 stub: false
 honorific: Blessed

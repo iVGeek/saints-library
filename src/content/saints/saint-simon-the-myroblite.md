@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-simon-the-myroblite.svg
 name: Saint Simon the Myroblite
 stub: false
 honorific: Saint

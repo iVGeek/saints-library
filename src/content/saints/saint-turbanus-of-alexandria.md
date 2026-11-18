@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-turbanus-of-alexandria.svg
 name: Saint Turbanus of Alexandria
 stub: true
 honorific: Saint

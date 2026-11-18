@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hermippus.svg
 name: Saint Hermippus
 stub: true
 honorific: Saint

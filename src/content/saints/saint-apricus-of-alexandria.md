@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-apricus-of-alexandria.svg
 name: Saint Apricus of Alexandria
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-teoprepio-of-thrace.svg
 name: Saint Teoprepio of Thrace
 stub: true
 honorific: Saint

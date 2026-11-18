@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ioannes-chen-xianheng.svg
 name: Saint Ioannes Chen Xianheng
 stub: false
 honorific: Venerable

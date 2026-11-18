@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-maddallena-of-the-conception.svg
 name: Blessed Maddallena of the Conception
 stub: false
 honorific: Blessed

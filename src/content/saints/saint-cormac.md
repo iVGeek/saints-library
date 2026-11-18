@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cormac.svg
 name: Saint Cormac
 stub: true
 honorific: Saint

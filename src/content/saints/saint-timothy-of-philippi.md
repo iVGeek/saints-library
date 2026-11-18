@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-timothy-of-philippi.svg
 name: Saint Timothy of Philippi
 stub: true
 honorific: Saint

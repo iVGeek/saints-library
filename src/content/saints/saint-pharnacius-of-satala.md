@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pharnacius-of-satala.svg
 name: Saint Pharnacius of Satala
 stub: false
 honorific: Saint

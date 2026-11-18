@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-felipe-ruiz-pena.svg
 name: Blessed Felipe Ruiz Peña
 stub: false
 honorific: Blessed

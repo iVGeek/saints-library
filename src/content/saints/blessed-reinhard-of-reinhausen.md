@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-reinhard-of-reinhausen.svg
 name: Blessed Reinhard of Reinhausen
 stub: false
 honorific: Blessed

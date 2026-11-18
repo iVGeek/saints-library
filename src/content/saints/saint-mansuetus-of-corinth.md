@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mansuetus-of-corinth.svg
 name: Saint Mansuetus of Corinth
 stub: true
 honorific: Saint

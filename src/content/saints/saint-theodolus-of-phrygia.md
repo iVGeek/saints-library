@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodolus-of-phrygia.svg
 name: Saint Theodolus of Phrygia
 stub: true
 honorific: Saint

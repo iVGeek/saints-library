@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-salvius-of-albelda.svg
 name: Saint Salvius of Albelda
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-nicholaus-of-vangadizza.svg
 name: Blessed Nicholaus of Vangadizza
 stub: false
 honorific: Blessed

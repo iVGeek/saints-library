@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-senary-of-avranches.svg
 name: Saint Senary of Avranches
 stub: true
 honorific: Saint

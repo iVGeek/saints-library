@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dasius-of-africa.svg
 name: Saint Dasius of Africa
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-clarus-of-vallis-regia.svg
 name: Saint Clarus of Vallis Regia
 stub: false
 honorific: Saint

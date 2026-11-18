@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/martyrs-of-colonia-suffetulana.svg
 name: Martyrs of Colonia Suffetulana
 stub: true
 honorific: Saint

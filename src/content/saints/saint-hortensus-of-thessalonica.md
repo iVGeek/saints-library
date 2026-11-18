@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hortensus-of-thessalonica.svg
 name: Saint Hortensus of Thessalonica
 stub: true
 honorific: Saint

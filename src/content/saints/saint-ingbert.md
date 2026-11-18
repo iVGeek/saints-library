@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ingbert.svg
 name: Saint Ingbert
 stub: true
 honorific: Saint

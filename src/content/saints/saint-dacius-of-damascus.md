@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dacius-of-damascus.svg
 name: Saint Dacius of Damascus
 stub: true
 honorific: Saint

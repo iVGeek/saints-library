@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufinus-of-ancyra.svg
 name: Saint Rufinus of Ancyra
 stub: false
 honorific: Saint

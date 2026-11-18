@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-colman-mac-ronan.svg
 name: Saint Colman mac Rónán
 stub: true
 honorific: Saint

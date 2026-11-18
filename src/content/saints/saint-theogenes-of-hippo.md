@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theogenes-of-hippo.svg
 name: Saint Theogenes of Hippo
 stub: false
 honorific: Saint

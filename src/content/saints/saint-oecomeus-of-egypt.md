@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-oecomeus-of-egypt.svg
 name: Saint Oecomeus of Egypt
 stub: false
 honorific: Saint

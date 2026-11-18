@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-perrine-charlotte-phelippeaux-epouse-sailland-depinatz.svg
 name: Blessed Perrine-Charlotte Phelippeaux épouse Sailland d’Epinatz
 stub: false
 honorific: Blessed

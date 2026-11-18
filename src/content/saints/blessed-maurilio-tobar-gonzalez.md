@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-maurilio-tobar-gonzalez.svg
 name: Blessed Maurilio Tobar González
 stub: false
 honorific: Blessed

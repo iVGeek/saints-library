@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-elpideforus.svg
 name: Saint Elpideforus
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fabius-of-sabina.svg
 name: Saint Fabius of Sabina
 stub: true
 honorific: Saint

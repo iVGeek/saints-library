@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-giovanna-meneghini.svg
 name: Venerable Giovanna Meneghini
 stub: true
 honorific: Venerable

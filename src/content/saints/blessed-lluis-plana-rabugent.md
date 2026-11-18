@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-lluis-plana-rabugent.svg
 name: Blessed Lluís Plana Rabugent
 stub: false
 honorific: Blessed

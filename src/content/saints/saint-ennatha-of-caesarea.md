@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ennatha-of-caesarea.svg
 name: Saint Ennatha of Caesarea
 stub: false
 honorific: Saint

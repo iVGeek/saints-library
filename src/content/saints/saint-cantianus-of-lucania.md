@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cantianus-of-lucania.svg
 name: Saint Cantianus of Lucania
 stub: true
 honorific: Saint

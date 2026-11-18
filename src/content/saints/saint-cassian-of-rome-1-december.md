@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cassian-of-rome-1-december.svg
 name: Saint Cassian of Rome
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vittorino-of-albitina.svg
 name: Saint Vittorino of Albitina
 stub: false
 honorific: Saint

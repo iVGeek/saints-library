@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-marie-leroy-epouse-brevet.svg
 name: Blessed Marie Leroy épouse Brevet
 stub: false
 honorific: Blessed

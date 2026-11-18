@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-santino-of-verdun.svg
 name: Saint Santino of Verdun
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-runach.svg
 name: Saint Rúnach
 stub: false
 honorific: Saint

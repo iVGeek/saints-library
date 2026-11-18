@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-soturnina-of-rome.svg
 name: Saint Soturnina of Rome
 stub: false
 honorific: Saint

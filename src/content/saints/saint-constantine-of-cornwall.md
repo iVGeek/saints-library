@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-constantine-of-cornwall.svg
 name: Saint Constantine of Cornwall
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-honorius-of-ostia.svg
 name: Saint Honorius of Ostia
 stub: true
 honorific: Saint

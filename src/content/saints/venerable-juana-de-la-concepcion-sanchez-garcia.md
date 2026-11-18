@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-juana-de-la-concepcion-sanchez-garcia.svg
 name: Venerable Juana de la Concepción Sanchez Garcia
 stub: true
 honorific: Venerable

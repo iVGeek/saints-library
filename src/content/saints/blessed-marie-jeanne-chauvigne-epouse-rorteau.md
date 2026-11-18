@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-marie-jeanne-chauvigne-epouse-rorteau.svg
 name: Blessed Marie-Jeanne Chauvigné épouse Rorteau
 stub: false
 honorific: Blessed

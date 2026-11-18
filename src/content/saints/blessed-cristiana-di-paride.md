@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-cristiana-di-paride.svg
 name: Blessed Cristiana di Paride
 stub: false
 honorific: Blessed

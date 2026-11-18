@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lawrence-the-illuminator.svg
 name: Saint Lawrence the Illuminator
 stub: false
 honorific: Saint

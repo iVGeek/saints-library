@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-leon-inchausti-minteguia.svg
 name: Blessed León Inchausti Minteguía
 stub: true
 honorific: Blessed

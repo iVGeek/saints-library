@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fortunatus-of-saddi.svg
 name: Saint Fortunatus of Saddi
 stub: true
 honorific: Saint

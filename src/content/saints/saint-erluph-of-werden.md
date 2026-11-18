@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-erluph-of-werden.svg
 name: Saint Erluph of Werden
 stub: true
 honorific: Saint

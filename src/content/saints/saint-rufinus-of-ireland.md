@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufinus-of-ireland.svg
 name: Saint Rufinus of Ireland
 stub: false
 honorific: Saint

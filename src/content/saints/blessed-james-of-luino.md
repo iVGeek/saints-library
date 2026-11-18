@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-james-of-luino.svg
 name: Blessed James of Luino
 stub: false
 honorific: Blessed

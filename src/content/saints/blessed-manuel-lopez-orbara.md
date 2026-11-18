@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-manuel-lopez-orbara.svg
 name: Blessed Manuel López Orbara
 stub: false
 honorific: Blessed

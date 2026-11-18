@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyriacus-of-lower-moesia.svg
 name: Saint Cyriacus of Lower Moesia
 stub: true
 honorific: Saint

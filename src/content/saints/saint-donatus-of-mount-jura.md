@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-donatus-of-mount-jura.svg
 name: Saint Donatus of Mount Jura
 stub: false
 honorific: Saint

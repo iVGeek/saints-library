@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-faustina-of-rome-9-july.svg
 name: Saint Faustina of Rome
 stub: true
 honorific: Saint

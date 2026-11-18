@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fionnchu-of-bangor.svg
 name: Saint Fionnchu of Bangor
 stub: true
 honorific: Saint

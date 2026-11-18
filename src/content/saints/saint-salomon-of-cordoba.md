@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-salomon-of-cordoba.svg
 name: Saint Salomon of Cordoba
 stub: true
 honorific: Saint

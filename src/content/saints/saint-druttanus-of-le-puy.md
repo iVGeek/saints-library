@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-druttanus-of-le-puy.svg
 name: Saint Druttanus of Le Puy
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ariusus-of-alexandria.svg
 name: Saint Ariusus of Alexandria
 stub: true
 honorific: Saint

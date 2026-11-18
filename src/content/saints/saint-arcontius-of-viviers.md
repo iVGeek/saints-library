@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-arcontius-of-viviers.svg
 name: Saint Arcontius of Viviers
 stub: false
 honorific: Saint

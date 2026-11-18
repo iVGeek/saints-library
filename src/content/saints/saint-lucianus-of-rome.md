@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lucianus-of-rome.svg
 name: Saint Lucianus of Rome
 stub: true
 honorific: Saint

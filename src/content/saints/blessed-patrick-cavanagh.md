@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-patrick-cavanagh.svg
 name: Blessed Patrick Cavanagh
 stub: false
 honorific: Blessed

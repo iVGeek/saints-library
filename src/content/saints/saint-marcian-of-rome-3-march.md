@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcian-of-rome-3-march.svg
 name: Saint Marcian of Rome
 stub: true
 honorific: Saint

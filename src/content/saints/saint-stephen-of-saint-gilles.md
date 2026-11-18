@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stephen-of-saint-gilles.svg
 name: Saint Stephen of Saint-Gilles
 stub: true
 honorific: Saint

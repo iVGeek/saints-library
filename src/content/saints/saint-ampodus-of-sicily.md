@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ampodus-of-sicily.svg
 name: Saint Ampodus of Sicily
 stub: true
 honorific: Saint

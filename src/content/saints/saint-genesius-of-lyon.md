@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-genesius-of-lyon.svg
 name: Saint Genesius of Lyon
 stub: false
 honorific: Saint

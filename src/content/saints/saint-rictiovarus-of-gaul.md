@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rictiovarus-of-gaul.svg
 name: Saint Rictiovarus of Gaul
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-of-parma.svg
 name: Saint John of Parma
 stub: false
 honorific: Saint

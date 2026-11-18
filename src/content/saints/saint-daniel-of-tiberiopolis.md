@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-daniel-of-tiberiopolis.svg
 name: Saint Daniel of Tiberiopolis
 stub: false
 honorific: Saint

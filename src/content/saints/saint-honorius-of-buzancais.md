@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-honorius-of-buzancais.svg
 name: Saint Honorius of Buzançais
 stub: false
 honorific: Saint

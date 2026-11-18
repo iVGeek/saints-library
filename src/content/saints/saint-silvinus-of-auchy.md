@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-silvinus-of-auchy.svg
 name: Saint Silvinus of Auchy
 stub: false
 honorific: Saint

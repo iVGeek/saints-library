@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-honorius-of-casalvieri.svg
 name: Saint Honorius of Casalvieri
 stub: true
 honorific: Saint

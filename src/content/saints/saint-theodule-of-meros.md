@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodule-of-meros.svg
 name: Saint Theodule of Meros
 stub: false
 honorific: Saint

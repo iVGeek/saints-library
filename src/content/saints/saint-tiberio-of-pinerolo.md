@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tiberio-of-pinerolo.svg
 name: Saint Tiberio of Pinerolo
 stub: true
 honorific: Saint

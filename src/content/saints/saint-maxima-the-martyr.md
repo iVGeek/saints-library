@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maxima-the-martyr.svg
 name: Saint Maxima the Martyr
 stub: false
 honorific: Saint

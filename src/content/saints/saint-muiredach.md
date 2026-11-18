@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-muiredach.svg
 name: Saint Muiredach
 stub: true
 honorific: Saint

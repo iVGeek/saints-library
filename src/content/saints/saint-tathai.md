@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tathai.svg
 name: Saint Tathai
 stub: false
 honorific: Saint

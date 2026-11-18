@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marius-of-bodon.svg
 name: Saint Marius of Bodon
 stub: false
 honorific: Saint

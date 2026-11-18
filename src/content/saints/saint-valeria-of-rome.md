@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valeria-of-rome.svg
 name: Saint Valeria of Rome
 stub: true
 honorific: Saint

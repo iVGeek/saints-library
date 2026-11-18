@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-midan-of-anglesey.svg
 name: Saint Midan of Anglesey
 stub: false
 honorific: Saint

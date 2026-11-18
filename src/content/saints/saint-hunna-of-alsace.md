@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hunna-of-alsace.svg
 name: Saint Hunna of Alsace
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-leoncio-perez-gomez.svg
 name: Blessed Leoncio Pérez Gómez
 stub: false
 honorific: Blessed

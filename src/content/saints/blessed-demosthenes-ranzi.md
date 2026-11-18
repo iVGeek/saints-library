@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-demosthenes-ranzi.svg
 name: Blessed Demosthenes Ranzi
 stub: false
 honorific: Blessed

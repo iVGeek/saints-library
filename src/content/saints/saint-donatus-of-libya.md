@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-donatus-of-libya.svg
 name: Saint Donatus of Libya
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cumine-the-white.svg
 name: Saint Cumine the White
 stub: false
 honorific: Saint

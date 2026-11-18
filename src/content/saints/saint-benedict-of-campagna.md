@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-benedict-of-campagna.svg
 name: Saint Benedict of Campagna
 stub: false
 honorific: Saint

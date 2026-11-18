@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-claudia-of-ancyra.svg
 name: Saint Claudia of Ancyra
 stub: true
 honorific: Saint

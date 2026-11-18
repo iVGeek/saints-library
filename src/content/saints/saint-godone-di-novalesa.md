@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-godone-di-novalesa.svg
 name: Saint Godone di Novalesa
 stub: false
 honorific: Saint

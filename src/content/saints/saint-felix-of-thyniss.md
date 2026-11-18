@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felix-of-thyniss.svg
 name: Saint Felix of Thyniss
 stub: false
 honorific: Saint

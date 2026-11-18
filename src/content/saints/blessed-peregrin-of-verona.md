@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-peregrin-of-verona.svg
 name: Blessed Pérégrin of Verona
 stub: true
 honorific: Blessed

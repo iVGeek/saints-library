@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-barhadbescialas.svg
 name: Saint Barhadbescialas
 stub: false
 honorific: Saint

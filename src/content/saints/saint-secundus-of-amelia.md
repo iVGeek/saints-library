@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secundus-of-amelia.svg
 name: Saint Secundus of Amelia
 stub: true
 honorific: Saint

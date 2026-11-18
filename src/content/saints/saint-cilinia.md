@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cilinia.svg
 name: Saint Cilinia
 stub: false
 honorific: Saint

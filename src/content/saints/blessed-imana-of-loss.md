@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-imana-of-loss.svg
 name: Blessed Imana of Loss
 stub: false
 honorific: Blessed

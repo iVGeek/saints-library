@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-firmian-of-nicomedia.svg
 name: Saint Firmian of Nicomedia
 stub: true
 honorific: Saint

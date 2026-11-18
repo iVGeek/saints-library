@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ensfrid-of-cologne.svg
 name: Saint Ensfrid of Cologne
 stub: false
 honorific: Saint

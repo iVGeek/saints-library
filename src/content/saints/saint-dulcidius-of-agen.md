@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dulcidius-of-agen.svg
 name: Saint Dulcidius of Agen
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-hedwig-of-hreford.svg
 name: Blessed Hedwig of Hreford
 stub: false
 honorific: Blessed

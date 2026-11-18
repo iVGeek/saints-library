@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-angela-serafina-correggiari.svg
 name: Blessed Angela Serafina Correggiari
 stub: false
 honorific: Blessed

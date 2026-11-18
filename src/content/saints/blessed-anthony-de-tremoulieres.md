@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-anthony-de-tremoulieres.svg
 name: Blessed Anthony de Tremoulières
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jose-roman-garcia-gonzalez.svg
 name: Blessed José Román García González
 stub: true
 honorific: Blessed

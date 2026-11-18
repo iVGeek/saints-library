@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyrus-of-carthage.svg
 name: Saint Cyrus of Carthage
 stub: true
 honorific: Saint

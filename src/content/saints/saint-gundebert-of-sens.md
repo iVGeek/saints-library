@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gundebert-of-sens.svg
 name: Saint Gundebert of Sens
 stub: false
 honorific: Saint

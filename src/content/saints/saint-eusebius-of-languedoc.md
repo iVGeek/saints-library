@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eusebius-of-languedoc.svg
 name: Saint Eusebius of Languedoc
 stub: true
 honorific: Saint

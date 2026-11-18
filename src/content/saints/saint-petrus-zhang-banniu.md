@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-petrus-zhang-banniu.svg
 name: Saint Petrus Zhang Banniu
 stub: false
 honorific: Venerable

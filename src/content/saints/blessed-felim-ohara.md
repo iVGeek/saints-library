@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-felim-ohara.svg
 name: Blessed Felim O'Hara
 stub: true
 honorific: Blessed

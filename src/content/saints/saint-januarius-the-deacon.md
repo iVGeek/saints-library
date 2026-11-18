@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-januarius-the-deacon.svg
 name: Saint Januarius the Deacon
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-eginus-of-verona.svg
 name: Blessed Eginus of Verona
 stub: false
 honorific: Blessed

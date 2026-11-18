@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-syra-of-faremoutiers.svg
 name: Saint Syra of Faremoutiers
 stub: true
 honorific: Saint

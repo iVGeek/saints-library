@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-enrique-pedro-gonzalvez-andreu.svg
 name: Blessed Enrique Pedro Gonzálvez Andreu
 stub: false
 honorific: Blessed

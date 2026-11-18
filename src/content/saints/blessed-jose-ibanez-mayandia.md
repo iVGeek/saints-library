@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jose-ibanez-mayandia.svg
 name: Blessed José Ibañez Mayandia
 stub: false
 honorific: Blessed

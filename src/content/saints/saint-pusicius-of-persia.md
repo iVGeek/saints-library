@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pusicius-of-persia.svg
 name: Saint Pusicius of Persia
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valeria-2-december.svg
 name: Saint Valeria
 stub: true
 honorific: Saint

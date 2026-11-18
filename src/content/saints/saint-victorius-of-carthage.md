@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victorius-of-carthage.svg
 name: Saint Victorius of Carthage
 stub: false
 honorific: Saint

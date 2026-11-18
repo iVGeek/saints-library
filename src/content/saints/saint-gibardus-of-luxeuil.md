@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gibardus-of-luxeuil.svg
 name: Saint Gibardus of Luxeuil
 stub: false
 honorific: Saint

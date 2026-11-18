@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rogato-of-albitina.svg
 name: Saint Rogato of Albitina
 stub: false
 honorific: Saint

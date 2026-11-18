@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-castus-of-heraclea.svg
 name: Saint Castus of Heraclea
 stub: true
 honorific: Saint

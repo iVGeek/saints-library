@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-orsisius.svg
 name: Saint Orsisius
 stub: false
 honorific: Saint

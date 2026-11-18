@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-magdalena-hayashida-of-mount-unzen.svg
 name: Blessed Magdalena Hayashida of Mount Unzen
 stub: true
 honorific: Blessed

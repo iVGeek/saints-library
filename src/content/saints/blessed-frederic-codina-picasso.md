@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-frederic-codina-picasso.svg
 name: Blessed Frederic Codina Picasso
 stub: false
 honorific: Blessed

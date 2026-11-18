@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-clerina-of-carthage.svg
 name: Saint Clerina of Carthage
 stub: false
 honorific: Saint

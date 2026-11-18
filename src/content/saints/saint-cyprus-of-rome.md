@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyprus-of-rome.svg
 name: Saint Cyprus of Rome
 stub: true
 honorific: Saint

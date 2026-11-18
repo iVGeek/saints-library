@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ethelred-of-eastry.svg
 name: Saint Ethelred of Eastry
 stub: true
 honorific: Saint

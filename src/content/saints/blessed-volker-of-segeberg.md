@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-volker-of-segeberg.svg
 name: Blessed Volker of Segeberg
 stub: false
 honorific: Blessed

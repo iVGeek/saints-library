@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-praepedigna-of-rome.svg
 name: Saint Praepedigna of Rome
 stub: false
 honorific: Saint

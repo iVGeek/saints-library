@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-felipe-arce-fernandez.svg
 name: Blessed Felipe Arce Fernández
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-polychronius-of-babylon.svg
 name: Saint Polychronius of Babylon
 stub: true
 honorific: Saint

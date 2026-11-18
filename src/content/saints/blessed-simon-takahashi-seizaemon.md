@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-simon-takahashi-seizaemon.svg
 name: Blessed Simon Takahashi Seizaemon
 stub: false
 honorific: Blessed

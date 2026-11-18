@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-zedazneli.svg
 name: Saint John Zedazneli
 stub: false
 honorific: Saint

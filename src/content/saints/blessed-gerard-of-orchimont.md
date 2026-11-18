@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gerard-of-orchimont.svg
 name: Blessed Gerard of Orchimont
 stub: true
 honorific: Blessed

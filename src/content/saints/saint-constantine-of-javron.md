@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-constantine-of-javron.svg
 name: Saint Constantine of Javron
 stub: false
 honorific: Saint

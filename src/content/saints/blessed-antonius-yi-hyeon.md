@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-antonius-yi-hyeon.svg
 name: Blessed Antonius Yi Hyeon
 stub: false
 honorific: Blessed

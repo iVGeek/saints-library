@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-pedro-gambin-perez.svg
 name: Blessed Pedro Gambín Pérez
 stub: true
 honorific: Blessed

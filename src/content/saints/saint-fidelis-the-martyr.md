@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fidelis-the-martyr.svg
 name: Saint Fidelis the Martyr
 stub: true
 honorific: Saint

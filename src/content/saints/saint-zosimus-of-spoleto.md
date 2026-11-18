@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zosimus-of-spoleto.svg
 name: Saint Zosimus of Spoleto
 stub: true
 honorific: Saint

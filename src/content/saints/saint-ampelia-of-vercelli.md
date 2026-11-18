@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ampelia-of-vercelli.svg
 name: Saint Ampelia of Vercelli
 stub: false
 honorific: Saint

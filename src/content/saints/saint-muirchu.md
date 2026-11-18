@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-muirchu.svg
 name: Saint Muirchu
 stub: false
 honorific: Saint

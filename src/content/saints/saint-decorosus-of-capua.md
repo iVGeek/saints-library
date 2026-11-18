@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-decorosus-of-capua.svg
 name: Saint Decorosus of Capua
 stub: false
 honorific: Saint

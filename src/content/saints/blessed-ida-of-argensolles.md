@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ida-of-argensolles.svg
 name: Blessed Ida of Argensolles
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-wisinto-of-kremsmunster.svg
 name: Blessed Wisinto of Kremsmünster
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-donatus-of-italy.svg
 name: Saint Donatus of Italy
 stub: false
 honorific: Saint

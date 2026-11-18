@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-seustio.svg
 name: Saint Seustio
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sarbelius.svg
 name: Saint Sarbelius
 stub: false
 honorific: Saint

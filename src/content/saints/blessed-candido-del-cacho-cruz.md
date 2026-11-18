@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-candido-del-cacho-cruz.svg
 name: Blessed Cándido del Cacho Cruz
 stub: false
 honorific: Blessed

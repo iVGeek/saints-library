@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-privatus-of-rome.svg
 name: Saint Privatus of Rome
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-bartolome-gelabert-pericas.svg
 name: Blessed Bartolomé Gelabert Pericás
 stub: false
 honorific: Blessed

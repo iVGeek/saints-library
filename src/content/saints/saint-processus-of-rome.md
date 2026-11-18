@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-processus-of-rome.svg
 name: Saint Processus of Rome
 stub: true
 honorific: Saint

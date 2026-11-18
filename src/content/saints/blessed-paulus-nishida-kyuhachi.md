@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-paulus-nishida-kyuhachi.svg
 name: Blessed Paulus Nishida Kyuhachi
 stub: true
 honorific: Blessed

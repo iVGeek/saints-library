@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-arduin-of-gallinaro.svg
 name: Saint Arduin of Gallinaro
 stub: true
 honorific: Saint

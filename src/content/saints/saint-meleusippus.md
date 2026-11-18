@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-meleusippus.svg
 name: Saint Meleusippus
 stub: false
 honorific: Saint

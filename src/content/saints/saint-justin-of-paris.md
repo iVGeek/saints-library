@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-justin-of-paris.svg
 name: Saint Justin of Paris
 stub: true
 honorific: Saint

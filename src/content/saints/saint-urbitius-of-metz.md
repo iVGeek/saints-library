@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-urbitius-of-metz.svg
 name: Saint Urbitius of Metz
 stub: false
 honorific: Saint

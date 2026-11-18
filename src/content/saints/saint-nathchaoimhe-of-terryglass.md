@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nathchaoimhe-of-terryglass.svg
 name: Saint Nathchaoimhe of Terryglass
 stub: true
 honorific: Saint

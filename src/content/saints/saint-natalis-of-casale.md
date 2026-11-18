@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-natalis-of-casale.svg
 name: Saint Natalis of Casale
 stub: true
 honorific: Saint

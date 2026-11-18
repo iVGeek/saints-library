@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valerius-of-sorrento.svg
 name: Saint Valerius of Sorrento
 stub: false
 honorific: Saint

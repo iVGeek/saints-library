@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rogatian-of-rome-2-february.svg
 name: Saint Rogatian of Rome
 stub: true
 honorific: Saint

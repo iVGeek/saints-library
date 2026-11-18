@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zoilus-of-africa.svg
 name: Saint Zoilus of Africa
 stub: true
 honorific: Saint

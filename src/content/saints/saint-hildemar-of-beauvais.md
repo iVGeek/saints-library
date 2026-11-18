@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hildemar-of-beauvais.svg
 name: Saint Hildemar of Beauvais
 stub: true
 honorific: Saint

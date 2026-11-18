@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-madeleine-du-bois-de-fontaines.svg
 name: Venerable Madeleine Du Bois de Fontaines
 stub: false
 honorific: Venerable

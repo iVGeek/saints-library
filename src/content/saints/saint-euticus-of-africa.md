@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-euticus-of-africa.svg
 name: Saint Euticus of Africa
 stub: true
 honorific: Saint

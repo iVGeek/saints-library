@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-daircheall-of-gleann-da-locha.svg
 name: Saint Daircheall of Gleann-da-locha
 stub: true
 honorific: Saint

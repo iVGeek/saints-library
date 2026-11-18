@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-spretus-of-corinth.svg
 name: Saint Spretus of Corinth
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-venantius-of-spalato.svg
 name: Saint Venantius of Spalato
 stub: false
 honorific: Saint

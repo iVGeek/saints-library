@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-colgan.svg
 name: Saint Colgan of Clonmacnoise
 stub: false
 honorific: Saint

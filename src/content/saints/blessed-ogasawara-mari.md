@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ogasawara-mari.svg
 name: Blessed Ogasawara Mari
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-codratus-of-nicomedie.svg
 name: Saint Codratus of Nicomedië
 stub: false
 honorific: Saint

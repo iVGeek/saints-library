@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jacob-clou.svg
 name: Blessed Jacob Clou
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-rafael-cubero-martin.svg
 name: Blessed Rafael Cubero Martín
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vitalis-of-salzburg.svg
 name: Saint Vitalis of Salzburg
 stub: false
 honorific: Saint

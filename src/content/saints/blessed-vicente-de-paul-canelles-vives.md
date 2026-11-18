@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-vicente-de-paul-canelles-vives.svg
 name: Blessed Vicente de Paúl Canelles Vives
 stub: false
 honorific: Blessed

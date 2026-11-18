@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julian-of-ankyra.svg
 name: Saint Julian of Ankyra
 stub: true
 honorific: Saint

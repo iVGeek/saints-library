@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-macarius-of-arabia.svg
 name: Saint Macarius of Arabia
 stub: false
 honorific: Saint

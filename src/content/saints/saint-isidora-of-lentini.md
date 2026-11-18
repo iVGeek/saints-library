@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-isidora-of-lentini.svg
 name: Saint Isidora of Lentini
 stub: false
 honorific: Saint

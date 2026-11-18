@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-macarius-of-antwerp.svg
 name: Saint Macarius of Antwerp
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-galata-of-melitene.svg
 name: Saint Galata of Melitene
 stub: true
 honorific: Saint

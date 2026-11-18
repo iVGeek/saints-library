@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thyrsus-of-autun.svg
 name: Saint Thyrsus of Autun
 stub: false
 honorific: Saint

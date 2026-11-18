@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dioscorus-of-africa.svg
 name: Saint Dioscorus of Africa
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-euflamia.svg
 name: Saint Euflamia
 stub: true
 honorific: Saint

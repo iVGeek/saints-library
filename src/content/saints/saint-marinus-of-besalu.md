@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marinus-of-besalu.svg
 name: Saint Marinus of Besalu
 stub: true
 honorific: Saint

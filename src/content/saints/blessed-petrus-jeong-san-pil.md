@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-petrus-jeong-san-pil.svg
 name: Blessed Petrus Jeong San-pil
 stub: true
 honorific: Blessed

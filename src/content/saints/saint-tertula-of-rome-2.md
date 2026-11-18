@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tertula-of-rome-2.svg
 name: Saint Tertula of Rome
 stub: false
 honorific: Saint

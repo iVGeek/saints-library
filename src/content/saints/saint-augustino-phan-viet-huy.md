@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-augustino-phan-viet-huy.svg
 name: Saint Augustinô Phan Viet Huy
 stub: false
 honorific: Venerable

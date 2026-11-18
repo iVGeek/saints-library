@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-francoise-micheneau-veuve-gillot.svg
 name: Blessed Françoise Micheneau veuve Gillot
 stub: false
 honorific: Blessed

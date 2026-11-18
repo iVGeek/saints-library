@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-cesar-gonzalo-zurro-fanjul.svg
 name: Blessed Cesar Gonzalo Zurro Fanjul
 stub: false
 honorific: Blessed

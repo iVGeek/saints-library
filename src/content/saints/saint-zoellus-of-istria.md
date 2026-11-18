@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zoellus-of-istria.svg
 name: Saint Zöellus of Istria
 stub: true
 honorific: Saint

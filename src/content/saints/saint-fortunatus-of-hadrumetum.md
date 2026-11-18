@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fortunatus-of-hadrumetum.svg
 name: Saint Fortunatus of Hadrumetum
 stub: true
 honorific: Saint

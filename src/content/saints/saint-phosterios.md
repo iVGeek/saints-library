@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-phosterios.svg
 name: Saint Phosterios
 stub: false
 honorific: Saint

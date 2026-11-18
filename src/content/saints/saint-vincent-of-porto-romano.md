@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vincent-of-porto-romano.svg
 name: Saint Vincent of Porto Romano
 stub: true
 honorific: Saint

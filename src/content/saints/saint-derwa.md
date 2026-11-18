@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-derwa.svg
 name: Saint Derwa
 stub: true
 honorific: Saint

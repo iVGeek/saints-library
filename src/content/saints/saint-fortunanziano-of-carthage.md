@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fortunanziano-of-carthage.svg
 name: Saint Fortunanziano of Carthage
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pupulus-of-alexandria.svg
 name: Saint Pupulus of Alexandria
 stub: true
 honorific: Saint

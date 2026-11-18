@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-guillermo-fernandez-aguilera.svg
 name: Blessed Guillermo Fernández Aguilera
 stub: false
 honorific: Blessed

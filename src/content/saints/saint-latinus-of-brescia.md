@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-latinus-of-brescia.svg
 name: Saint Latinus of Brescia
 stub: false
 honorific: Saint

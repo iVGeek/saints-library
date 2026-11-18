@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-swethin-of-croyland.svg
 name: Saint Swethin of Croyland
 stub: true
 honorific: Saint

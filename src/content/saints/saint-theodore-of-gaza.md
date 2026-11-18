@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodore-of-gaza.svg
 name: Saint Theodore of Gaza
 stub: true
 honorific: Saint

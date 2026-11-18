@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-florus-of-pannonia.svg
 name: Saint Florus of Pannonia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-quarcia-of-lugdunum.svg
 name: Saint Quarcia of Lugdunum
 stub: false
 honorific: Saint

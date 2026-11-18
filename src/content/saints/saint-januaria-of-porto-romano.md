@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-januaria-of-porto-romano.svg
 name: Saint Januaria of Porto Romano
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-joseph-of-rome-15-february.svg
 name: Saint Joseph of Rome
 stub: true
 honorific: Saint

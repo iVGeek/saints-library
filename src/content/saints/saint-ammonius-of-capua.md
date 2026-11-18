@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ammonius-of-capua.svg
 name: Saint Ammonius of Capua
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-celestine-of-alexandria.svg
 name: Saint Celestine of Alexandria
 stub: true
 honorific: Saint

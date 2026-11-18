@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-leoncio-lopez-ramos.svg
 name: Blessed Leoncio López Ramos
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-voloc.svg
 name: Saint Voloc
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bertrand-of-saint-quentin.svg
 name: Saint Bertrand of Saint Quentin
 stub: false
 honorific: Saint

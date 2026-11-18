@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-laetus-of-orleans.svg
 name: Saint Laetus of Orléans
 stub: true
 honorific: Saint

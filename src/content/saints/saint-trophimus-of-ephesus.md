@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-trophimus-of-ephesus.svg
 name: Saint Trophimus of Ephesus
 stub: false
 honorific: Saint

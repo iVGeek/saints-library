@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felicitas-of-north-africa.svg
 name: Saint Felicitas of North Africa
 stub: true
 honorific: Saint

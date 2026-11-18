@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-leontius-of-rostov.svg
 name: Blessed Leontius of Rostov
 stub: false
 honorific: Blessed

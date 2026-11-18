@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crescens-of-tivoli.svg
 name: Saint Crescens of Tivoli
 stub: true
 honorific: Saint

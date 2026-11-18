@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maura-of-picardy.svg
 name: Saint Maura of Picardy
 stub: true
 honorific: Saint

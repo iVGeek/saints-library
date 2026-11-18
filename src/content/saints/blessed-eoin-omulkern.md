@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-eoin-omulkern.svg
 name: Blessed Eoin O'Mulkern
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-arborius-of-verona.svg
 name: Saint Arborius of Verona
 stub: true
 honorific: Saint

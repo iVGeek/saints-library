@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-archileone-of-paterno.svg
 name: Saint Archileone of Paternò
 stub: false
 honorific: Saint

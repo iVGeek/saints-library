@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ailvin-of-armorica.svg
 name: Saint Ailvin of Armorica
 stub: false
 honorific: Saint

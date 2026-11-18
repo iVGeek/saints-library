@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-proculus-of-narni.svg
 name: Saint Proculus of Narni
 stub: true
 honorific: Saint

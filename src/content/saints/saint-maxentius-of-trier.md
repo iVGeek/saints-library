@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maxentius-of-trier.svg
 name: Saint Maxentius of Trier
 stub: true
 honorific: Saint

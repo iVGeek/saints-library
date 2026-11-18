@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-francis-colmenario.svg
 name: Blessed Francis Colmenario
 stub: false
 honorific: Blessed

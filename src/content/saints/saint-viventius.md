@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-viventius.svg
 name: Saint Viventius
 stub: false
 honorific: Saint

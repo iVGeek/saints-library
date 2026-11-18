@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ramon-roca-buscalla.svg
 name: Blessed Ramon Roca Buscallà
 stub: false
 honorific: Blessed

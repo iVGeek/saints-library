@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ethelburgh-of-kent.svg
 name: Saint Ethelburgh of Kent
 stub: false
 honorific: Saint

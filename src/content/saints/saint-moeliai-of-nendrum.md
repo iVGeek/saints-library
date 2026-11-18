@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-moeliai-of-nendrum.svg
 name: Saint Moeliai of Nendrum
 stub: true
 honorific: Saint

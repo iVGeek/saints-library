@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-evetius-of-nicomedia.svg
 name: Saint Evetius of Nicomedia
 stub: false
 honorific: Saint

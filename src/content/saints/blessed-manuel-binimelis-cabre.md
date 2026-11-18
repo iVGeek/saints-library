@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-manuel-binimelis-cabre.svg
 name: Blessed Manuel Binimelis Cabré
 stub: true
 honorific: Blessed

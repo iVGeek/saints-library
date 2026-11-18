@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lucidius-of-verona.svg
 name: Saint Lucidius of Verona
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fermerius.svg
 name: Saint Fermerius
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-grimoald-of-saintes.svg
 name: Saint Grimoald of Saintes
 stub: true
 honorific: Saint

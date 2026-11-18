@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cillene.svg
 name: Saint Cillene
 stub: true
 honorific: Saint

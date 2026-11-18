@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-kata-ivanisevic.svg
 name: Blessed Kata Ivaniševic
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-edith-of-aylesbury.svg
 name: Saint Edith of Aylesbury
 stub: false
 honorific: Saint

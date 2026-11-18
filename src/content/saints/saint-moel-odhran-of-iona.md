@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-moel-odhran-of-iona.svg
 name: Saint Moel-Odhran of Iona
 stub: true
 honorific: Saint

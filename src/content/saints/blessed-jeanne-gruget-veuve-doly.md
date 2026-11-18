@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jeanne-gruget-veuve-doly.svg
 name: Blessed Jeanne Gruget veuve Doly
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-pedro-da-teruel.svg
 name: Blessed Pedro da Teruel
 stub: false
 honorific: Blessed

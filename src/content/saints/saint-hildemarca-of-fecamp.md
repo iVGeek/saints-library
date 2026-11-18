@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hildemarca-of-fecamp.svg
 name: Saint Hildemarca of Fécamp
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-menelaus-of-constantinople.svg
 name: Saint Menelaus of Constantinople
 stub: false
 honorific: Saint

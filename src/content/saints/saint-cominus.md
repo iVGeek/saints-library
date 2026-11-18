@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cominus.svg
 name: Saint Cominus
 stub: true
 honorific: Saint

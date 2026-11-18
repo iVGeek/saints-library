@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-melchior-kumagai-motonao.svg
 name: Blessed Melchior Kumagai Motonao
 stub: true
 honorific: Blessed

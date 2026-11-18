@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julian-of-jerusalem.svg
 name: Saint Julian of Jerusalem
 stub: false
 honorific: Saint

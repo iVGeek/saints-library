@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-heraclius-the-soldier.svg
 name: Saint Heraclius the Soldier
 stub: true
 honorific: Saint

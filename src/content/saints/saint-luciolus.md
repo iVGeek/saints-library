@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-luciolus.svg
 name: Saint Luciolus
 stub: true
 honorific: Saint

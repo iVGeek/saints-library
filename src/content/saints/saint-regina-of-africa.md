@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-regina-of-africa.svg
 name: Saint Regina of Africa
 stub: true
 honorific: Saint

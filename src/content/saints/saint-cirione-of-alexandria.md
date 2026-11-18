@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cirione-of-alexandria.svg
 name: Saint Cirione of Alexandria
 stub: true
 honorific: Saint

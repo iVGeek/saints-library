@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-christa-of-cilicia.svg
 name: Saint Christa of Cilicia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyril-the-deacon.svg
 name: Saint Cyril the Deacon
 stub: false
 honorific: Saint

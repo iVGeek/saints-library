@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-winewald-of-beverley.svg
 name: Saint Winewald of Beverley
 stub: true
 honorific: Saint

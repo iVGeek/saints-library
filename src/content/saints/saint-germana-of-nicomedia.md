@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-germana-of-nicomedia.svg
 name: Saint Germana of Nicomedia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-heron-of-alexandria-28-june.svg
 name: Saint Heron of Alexandria
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-caesarius-of-epidamnus.svg
 name: Saint Caesarius of Epidamnus
 stub: false
 honorific: Saint

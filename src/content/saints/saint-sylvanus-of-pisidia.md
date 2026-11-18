@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sylvanus-of-pisidia.svg
 name: Saint Sylvanus of Pisidia
 stub: true
 honorific: Saint

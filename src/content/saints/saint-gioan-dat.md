@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gioan-dat.svg
 name: Saint Gioan Ðat
 stub: false
 honorific: Venerable

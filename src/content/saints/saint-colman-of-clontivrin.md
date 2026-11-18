@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-colman-of-clontivrin.svg
 name: Saint Colman of Clontivrin
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marius-aventicus.svg
 name: Saint Marius Aventicus
 stub: false
 honorific: Saint

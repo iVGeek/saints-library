@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eupsychius-of-cappadocia.svg
 name: Saint Eupsychius of Cappadocia
 stub: false
 honorific: Saint

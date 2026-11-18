@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-louise-olympe-rallier-de-la-tertiniere-veuve-dean-de-luigne.svg
 name: Blessed Louise-Olympe Rallier de la Tertinière veuve Déan de Luigné
 stub: false
 honorific: Blessed

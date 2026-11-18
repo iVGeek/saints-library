@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vindonius-of-campania.svg
 name: Saint Vindonius of Campania
 stub: false
 honorific: Saint

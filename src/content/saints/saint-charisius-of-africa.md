@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-charisius-of-africa.svg
 name: Saint Charisius of Africa
 stub: true
 honorific: Saint

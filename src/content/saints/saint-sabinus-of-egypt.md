@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sabinus-of-egypt.svg
 name: Saint Sabinus of Egypt
 stub: false
 honorific: Saint

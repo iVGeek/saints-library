@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-richard-of-saint-vannes.svg
 name: Saint Richard of Saint Vannes
 stub: true
 honorific: Saint

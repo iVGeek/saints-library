@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-elias-of-cordoba.svg
 name: Saint Elias of Cordoba
 stub: false
 honorific: Saint

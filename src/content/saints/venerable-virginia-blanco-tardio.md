@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-virginia-blanco-tardio.svg
 name: Venerable Virginia Blanco Tardío
 stub: false
 honorific: Venerable

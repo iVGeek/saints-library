@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-guy-of-baume.svg
 name: Saint Guy of Baume
 stub: false
 honorific: Saint

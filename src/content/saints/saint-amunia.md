@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-amunia.svg
 name: Saint Amunia of San Millán
 stub: true
 honorific: Saint

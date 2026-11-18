@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-talarican.svg
 name: Saint Talarican of Sodor
 stub: false
 honorific: Saint

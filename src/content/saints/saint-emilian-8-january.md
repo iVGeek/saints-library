@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-emilian-8-january.svg
 name: Saint Emilian
 stub: true
 honorific: Saint

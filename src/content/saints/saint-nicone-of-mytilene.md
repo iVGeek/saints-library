@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nicone-of-mytilene.svg
 name: Saint Nicone of Mytilene
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-lluis-hortos-tura.svg
 name: Blessed Lluís Hortós Tura
 stub: false
 honorific: Blessed

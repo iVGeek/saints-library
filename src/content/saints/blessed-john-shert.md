@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-john-shert.svg
 name: Blessed John Shert
 stub: false
 honorific: Blessed

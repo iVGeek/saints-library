@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-leonius-of-poitiers.svg
 name: Saint Leonius of Poitiers
 stub: false
 honorific: Saint

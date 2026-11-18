@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gorgonius-of-africa.svg
 name: Saint Gorgonius of Africa
 stub: true
 honorific: Saint

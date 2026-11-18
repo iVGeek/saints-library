@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-egelred-of-crowland.svg
 name: Saint Egelred of Crowland
 stub: true
 honorific: Saint

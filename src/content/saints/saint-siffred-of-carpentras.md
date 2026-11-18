@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-siffred-of-carpentras.svg
 name: Saint Siffred of Carpentras
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-suibhne-of-iona.svg
 name: Saint Suibhne of Iona
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saba-the-younger.svg
 name: Saint Saba the Younger
 stub: false
 honorific: Saint

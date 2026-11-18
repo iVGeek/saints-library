@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-serapion-of-pentapolis.svg
 name: Saint Serapion of Pentapolis
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pastafius-of-alexandria.svg
 name: Saint Pastafius of Alexandria
 stub: true
 honorific: Saint

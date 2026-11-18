@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-torquatus-of-saint-paul-trois-chateaux.svg
 name: Saint Torquatus of Saint-Paul-Trois-Châteaux
 stub: true
 honorific: Saint

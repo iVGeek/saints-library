@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-of-pavia.svg
 name: Saint Peter of Pavia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-botmaele-of-brittany.svg
 name: Saint Botmaele of Brittany
 stub: true
 honorific: Saint

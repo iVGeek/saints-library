@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufinus-of-mercia.svg
 name: Saint Rufinus of Mercia
 stub: false
 honorific: Saint

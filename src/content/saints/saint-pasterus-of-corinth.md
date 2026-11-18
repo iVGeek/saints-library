@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pasterus-of-corinth.svg
 name: Saint Pasterus of Corinth
 stub: true
 honorific: Saint

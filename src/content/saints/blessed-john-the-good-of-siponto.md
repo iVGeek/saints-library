@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-john-the-good-of-siponto.svg
 name: Blessed John the Good of Siponto
 stub: false
 honorific: Blessed

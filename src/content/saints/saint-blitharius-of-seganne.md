@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-blitharius-of-seganne.svg
 name: Saint Blitharius of Seganne
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ursus-of-africa.svg
 name: Saint Ursus of Africa
 stub: true
 honorific: Saint

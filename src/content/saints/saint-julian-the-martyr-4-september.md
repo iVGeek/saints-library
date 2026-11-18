@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julian-the-martyr-4-september.svg
 name: Saint Julian the Martyr
 stub: true
 honorific: Saint

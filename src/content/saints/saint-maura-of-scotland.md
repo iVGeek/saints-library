@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maura-of-scotland.svg
 name: Saint Maura of Scotland
 stub: false
 honorific: Saint

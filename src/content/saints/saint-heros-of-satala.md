@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-heros-of-satala.svg
 name: Saint Heros of Satala
 stub: false
 honorific: Saint

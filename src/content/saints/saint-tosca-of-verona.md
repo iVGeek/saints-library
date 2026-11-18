@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tosca-of-verona.svg
 name: Saint Tosca of Verona
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vincent-of-thessalonica.svg
 name: Saint Vincent of Thessalonica
 stub: true
 honorific: Saint

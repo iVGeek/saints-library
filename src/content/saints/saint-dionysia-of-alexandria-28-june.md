@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dionysia-of-alexandria-28-june.svg
 name: Saint Dionysia of Alexandria
 stub: true
 honorific: Saint

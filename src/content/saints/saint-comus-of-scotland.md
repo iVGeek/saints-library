@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-comus-of-scotland.svg
 name: Saint Comus of Scotland
 stub: true
 honorific: Saint

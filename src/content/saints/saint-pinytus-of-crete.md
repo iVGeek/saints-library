@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pinytus-of-crete.svg
 name: Saint Pinytus of Crete
 stub: false
 honorific: Saint

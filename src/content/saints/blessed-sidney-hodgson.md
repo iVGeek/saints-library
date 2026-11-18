@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-sidney-hodgson.svg
 name: Blessed Sidney Hodgson
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyran-of-brenne.svg
 name: Saint Cyran of Brenne
 stub: true
 honorific: Saint

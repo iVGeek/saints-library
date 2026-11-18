@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-francisco-garcia-balanza.svg
 name: Blessed Francisco García Balanza
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-frumentius-of-hadrumetum.svg
 name: Saint Frumentius of Hadrumetum
 stub: false
 honorific: Saint

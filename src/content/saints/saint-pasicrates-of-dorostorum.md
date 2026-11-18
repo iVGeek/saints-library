@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pasicrates-of-dorostorum.svg
 name: Saint Pasicrates of Dorostorum
 stub: false
 honorific: Saint

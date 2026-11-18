@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hieronides-of-alexandria.svg
 name: Saint Hieronides of Alexandria
 stub: true
 honorific: Saint

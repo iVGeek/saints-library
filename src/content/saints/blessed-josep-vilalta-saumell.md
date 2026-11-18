@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-josep-vilalta-saumell.svg
 name: Blessed Josep Vilalta Saumell
 stub: false
 honorific: Blessed

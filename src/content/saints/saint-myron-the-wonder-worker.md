@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-myron-the-wonder-worker.svg
 name: Saint Myron the Wonder Worker
 stub: false
 honorific: Saint

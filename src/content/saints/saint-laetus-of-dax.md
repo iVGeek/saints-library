@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-laetus-of-dax.svg
 name: Saint Laetus of Dax
 stub: true
 honorific: Saint

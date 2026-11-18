@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dionysius-of-bologna.svg
 name: Saint Dionysius of Bologna
 stub: true
 honorific: Saint

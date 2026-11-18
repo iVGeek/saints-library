@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-francisco-fuente-puebla.svg
 name: Blessed Francisco Fuente Puebla
 stub: true
 honorific: Blessed

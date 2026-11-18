@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dorus-of-benevento.svg
 name: Saint Dorus of Benevento
 stub: true
 honorific: Saint

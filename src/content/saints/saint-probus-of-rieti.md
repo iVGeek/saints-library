@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-probus-of-rieti.svg
 name: Saint Probus of Rieti
 stub: true
 honorific: Saint

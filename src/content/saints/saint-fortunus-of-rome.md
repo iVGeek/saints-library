@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fortunus-of-rome.svg
 name: Saint Fortunus of Rome
 stub: true
 honorific: Saint

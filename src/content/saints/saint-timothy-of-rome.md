@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-timothy-of-rome.svg
 name: Saint Timothy of Rome
 stub: false
 honorific: Saint

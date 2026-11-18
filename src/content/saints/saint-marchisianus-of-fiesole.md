@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marchisianus-of-fiesole.svg
 name: Saint Marchisianus of Fiesole
 stub: true
 honorific: Saint

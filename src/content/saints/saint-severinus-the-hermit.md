@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-severinus-the-hermit.svg
 name: Saint Severinus the Hermit
 stub: false
 honorific: Saint

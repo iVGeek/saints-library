@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-francisco-morquillas-fernandez.svg
 name: Blessed Francisco Morquillas Fernández
 stub: false
 honorific: Blessed

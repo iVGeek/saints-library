@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zota-of-cyrene.svg
 name: Saint Zota of Cyrene
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-filippa-ghisileri.svg
 name: Blessed Filippa Ghisileri
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/three-daughters-of-eltin.svg
 name: Three Daughters of Eltin
 stub: true
 honorific: Saint

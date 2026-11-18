@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-casta-of-thessalonica.svg
 name: Saint Casta of Thessalonica
 stub: true
 honorific: Saint

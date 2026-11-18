@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sabaudus-of-trier.svg
 name: Saint Sabaudus of Trier
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ueratia-of-corinth.svg
 name: Saint Ueratia of Corinth
 stub: true
 honorific: Saint

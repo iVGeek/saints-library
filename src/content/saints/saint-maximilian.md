@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximilian.svg
 name: Saint Maximilian
 stub: false
 honorific: Saint

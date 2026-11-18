@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-liberius-of-achad-bo.svg
 name: Saint Liberius of Achad-Bo
 stub: false
 honorific: Saint

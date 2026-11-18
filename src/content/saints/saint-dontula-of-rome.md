@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dontula-of-rome.svg
 name: Saint Dontula of Rome
 stub: false
 honorific: Saint

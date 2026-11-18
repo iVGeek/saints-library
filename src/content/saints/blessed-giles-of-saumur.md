@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-giles-of-saumur.svg
 name: Blessed Giles of Saumur
 stub: false
 honorific: Blessed

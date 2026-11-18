@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-calimerius-of-montechiaro.svg
 name: Blessed Calimerius of Montechiaro
 stub: false
 honorific: Blessed

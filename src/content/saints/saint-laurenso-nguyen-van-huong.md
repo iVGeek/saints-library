@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-laurenso-nguyen-van-huong.svg
 name: Saint Laurensô Nguyen Van Huong
 stub: false
 honorific: Saint

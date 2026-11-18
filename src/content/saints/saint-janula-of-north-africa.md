@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-janula-of-north-africa.svg
 name: Saint Janula of North Africa
 stub: true
 honorific: Saint

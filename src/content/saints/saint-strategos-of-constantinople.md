@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-strategos-of-constantinople.svg
 name: Saint Strategos of Constantinople
 stub: false
 honorific: Saint

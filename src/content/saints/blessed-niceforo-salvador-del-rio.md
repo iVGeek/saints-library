@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-niceforo-salvador-del-rio.svg
 name: Blessed Nicéforo Salvador del Río
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felician-of-sicily.svg
 name: Saint Felician of Sicily
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-heliodorus.svg
 name: Saint Heliodorus
 stub: true
 honorific: Saint

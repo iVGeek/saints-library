@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rhenus-of-carthage.svg
 name: Saint Rhenus of Carthage
 stub: false
 honorific: Saint

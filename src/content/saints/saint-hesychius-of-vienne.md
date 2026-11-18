@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hesychius-of-vienne.svg
 name: Saint Hesychius of Vienne
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-beaudoin-of-beaumont.svg
 name: Blessed Beaudoin of Beaumont
 stub: false
 honorific: Blessed

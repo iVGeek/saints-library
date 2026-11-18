@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-brithwald-of-canterbury.svg
 name: Saint Brithwald of Canterbury
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-faeldobair-of-clochar.svg
 name: Saint Faeldobair of Clochar
 stub: true
 honorific: Saint

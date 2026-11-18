@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-vyevain-of-york.svg
 name: Blessed Vyevain of York
 stub: true
 honorific: Blessed

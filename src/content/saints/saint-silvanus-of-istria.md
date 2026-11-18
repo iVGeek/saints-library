@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-silvanus-of-istria.svg
 name: Saint Silvanus of Istria
 stub: true
 honorific: Saint

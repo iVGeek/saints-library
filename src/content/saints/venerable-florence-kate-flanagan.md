@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-florence-kate-flanagan.svg
 name: Venerable Florence Kate Flanagan
 stub: false
 honorific: Venerable

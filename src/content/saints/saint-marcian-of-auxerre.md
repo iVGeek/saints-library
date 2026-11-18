@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcian-of-auxerre.svg
 name: Saint Marcian of Auxerre
 stub: false
 honorific: Saint

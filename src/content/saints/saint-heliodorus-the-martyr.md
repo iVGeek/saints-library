@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-heliodorus-the-martyr.svg
 name: Saint Heliodorus the Martyr
 stub: true
 honorific: Saint

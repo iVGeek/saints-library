@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ultan-of-crayke.svg
 name: Saint Ultan of Crayke
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-renovatus-of-merida.svg
 name: Saint Renovatus of Merida
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-leonard-of-cava.svg
 name: Blessed Leonard of Cava
 stub: false
 honorific: Blessed

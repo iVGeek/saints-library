@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dionysius-of-pamphylia.svg
 name: Saint Dionysius of Pamphylia
 stub: true
 honorific: Saint

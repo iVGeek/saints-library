@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-isauro.svg
 name: Saint John Isauro
 stub: false
 honorific: Saint

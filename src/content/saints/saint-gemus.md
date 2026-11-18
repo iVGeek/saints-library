@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gemus.svg
 name: Saint Gemus
 stub: true
 honorific: Saint

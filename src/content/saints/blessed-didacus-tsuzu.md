@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-didacus-tsuzu.svg
 name: Blessed Didacus Tsuzu
 stub: true
 honorific: Blessed

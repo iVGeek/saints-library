@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-primus-of-antwerp.svg
 name: Saint Primus of Antwerp
 stub: true
 honorific: Saint

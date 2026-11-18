@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-neopista-of-rome.svg
 name: Saint Neopista of Rome
 stub: true
 honorific: Saint

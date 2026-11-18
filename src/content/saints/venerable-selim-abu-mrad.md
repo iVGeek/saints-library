@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-selim-abu-mrad.svg
 name: Venerable Sélim Abu Mrad
 stub: true
 honorific: Venerable

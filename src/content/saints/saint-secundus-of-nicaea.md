@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secundus-of-nicaea.svg
 name: Saint Secundus of Nicaea
 stub: true
 honorific: Saint

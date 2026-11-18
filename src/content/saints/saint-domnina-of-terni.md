@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-domnina-of-terni.svg
 name: Saint Domnina of Terni
 stub: true
 honorific: Saint

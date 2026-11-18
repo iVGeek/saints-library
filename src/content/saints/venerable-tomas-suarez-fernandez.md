@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-tomas-suarez-fernandez.svg
 name: Venerable Tomás Suárez Fernández
 stub: true
 honorific: Venerable

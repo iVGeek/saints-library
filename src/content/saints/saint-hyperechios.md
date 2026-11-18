@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hyperechios.svg
 name: Saint Hyperechios
 stub: false
 honorific: Saint

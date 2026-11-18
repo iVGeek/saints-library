@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-colman-of-killeroran.svg
 name: Saint Colman of Killeroran
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zoticus-of-africa.svg
 name: Saint Zoticus of Africa
 stub: true
 honorific: Saint

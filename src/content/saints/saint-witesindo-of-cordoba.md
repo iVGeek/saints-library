@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-witesindo-of-cordoba.svg
 name: Saint Witesindo of Cordoba
 stub: false
 honorific: Saint

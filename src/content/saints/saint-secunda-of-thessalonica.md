@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secunda-of-thessalonica.svg
 name: Saint Secunda of Thessalonica
 stub: true
 honorific: Saint

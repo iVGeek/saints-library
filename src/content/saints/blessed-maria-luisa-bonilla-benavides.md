@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-maria-luisa-bonilla-benavides.svg
 name: Blessed María Luisa Bonilla Benavides
 stub: true
 honorific: Blessed

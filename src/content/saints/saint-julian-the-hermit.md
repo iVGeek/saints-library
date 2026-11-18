@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julian-the-hermit.svg
 name: Saint Julian the Hermit
 stub: false
 honorific: Saint

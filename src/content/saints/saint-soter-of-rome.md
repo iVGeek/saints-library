@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-soter-of-rome.svg
 name: Saint Soter of Rome
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-agofridus-of-lacroix.svg
 name: Saint Agofridus of Lacroix
 stub: false
 honorific: Saint

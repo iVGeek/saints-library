@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcian-of-pampeluna.svg
 name: Saint Marcian of Pampeluna
 stub: true
 honorific: Saint

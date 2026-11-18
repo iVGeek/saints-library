@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-iacobus-of-hiji.svg
 name: Blessed Iacobus of Hiji
 stub: false
 honorific: Blessed

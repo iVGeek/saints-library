@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-paolinus-of-pavia.svg
 name: Saint Paolinus of Pavia
 stub: true
 honorific: Saint

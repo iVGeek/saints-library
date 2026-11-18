@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-roque-guillen-garces.svg
 name: Blessed Roque Guillén Garcés
 stub: false
 honorific: Blessed

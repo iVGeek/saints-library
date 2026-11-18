@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-matthias-araki-hyozaemon.svg
 name: Blessed Matthias Araki Hyozaemon
 stub: true
 honorific: Blessed

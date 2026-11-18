@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-luciolus-of-africa.svg
 name: Saint Luciolus of Africa
 stub: true
 honorific: Saint

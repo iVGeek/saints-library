@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secunda-of-laodicea.svg
 name: Saint Secunda of Laodicea
 stub: true
 honorific: Saint

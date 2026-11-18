@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-germanus-of-durres.svg
 name: Saint Germanus of Durres
 stub: false
 honorific: Saint

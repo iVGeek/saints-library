@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rexius-of-campania.svg
 name: Saint Rexius of Campania
 stub: false
 honorific: Saint

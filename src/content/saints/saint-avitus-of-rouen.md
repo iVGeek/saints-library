@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-avitus-of-rouen.svg
 name: Saint Avitus of Rouen
 stub: false
 honorific: Saint

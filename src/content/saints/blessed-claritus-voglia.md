@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-claritus-voglia.svg
 name: Blessed Claritus Voglia
 stub: false
 honorific: Blessed

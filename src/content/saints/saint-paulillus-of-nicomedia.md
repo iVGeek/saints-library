@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-paulillus-of-nicomedia.svg
 name: Saint Paulillus of Nicomedia
 stub: true
 honorific: Saint

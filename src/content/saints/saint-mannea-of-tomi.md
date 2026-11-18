@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mannea-of-tomi.svg
 name: Saint Mannea of Tomi
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valentine-of-verona.svg
 name: Saint Valentine of Verona
 stub: false
 honorific: Saint

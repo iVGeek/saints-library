@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-urpasian-of-nicomedia.svg
 name: Saint Urpasian of Nicomedia
 stub: false
 honorific: Saint

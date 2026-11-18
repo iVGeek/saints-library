@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stercorius-of-africa.svg
 name: Saint Stercorius of Africa
 stub: true
 honorific: Saint

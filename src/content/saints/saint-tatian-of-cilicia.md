@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tatian-of-cilicia.svg
 name: Saint Tatian of Cilicia
 stub: true
 honorific: Saint

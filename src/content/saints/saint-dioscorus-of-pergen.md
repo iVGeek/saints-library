@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dioscorus-of-pergen.svg
 name: Saint Dioscorus of Pergen
 stub: true
 honorific: Saint

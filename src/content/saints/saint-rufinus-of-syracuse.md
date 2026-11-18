@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufinus-of-syracuse.svg
 name: Saint Rufinus of Syracuse
 stub: false
 honorific: Saint

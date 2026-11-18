@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-wiltrudis-of-bergen.svg
 name: Saint Wiltrudis of Bergen
 stub: false
 honorific: Saint

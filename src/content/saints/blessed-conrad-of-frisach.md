@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-conrad-of-frisach.svg
 name: Blessed Conrad of Frisach
 stub: false
 honorific: Blessed

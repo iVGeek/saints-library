@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-blasius-of-armentarius.svg
 name: Saint Blasius of Armentarius
 stub: false
 honorific: Saint

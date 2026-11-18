@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bythonius.svg
 name: Saint Bythonius
 stub: false
 honorific: Saint

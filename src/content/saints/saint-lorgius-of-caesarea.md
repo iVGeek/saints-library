@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lorgius-of-caesarea.svg
 name: Saint Lorgius of Caesarea
 stub: true
 honorific: Saint

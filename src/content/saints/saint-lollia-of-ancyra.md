@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lollia-of-ancyra.svg
 name: Saint Lollia of Ancyra
 stub: false
 honorific: Saint

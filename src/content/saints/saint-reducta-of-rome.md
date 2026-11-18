@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-reducta-of-rome.svg
 name: Saint Reducta of Rome
 stub: false
 honorific: Saint

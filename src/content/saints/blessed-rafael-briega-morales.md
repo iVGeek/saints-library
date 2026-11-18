@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-rafael-briega-morales.svg
 name: Blessed Rafael Briega Morales
 stub: true
 honorific: Blessed

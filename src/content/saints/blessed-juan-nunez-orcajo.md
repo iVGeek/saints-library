@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-juan-nunez-orcajo.svg
 name: Blessed Juan Nuñez Orcajo
 stub: false
 honorific: Blessed

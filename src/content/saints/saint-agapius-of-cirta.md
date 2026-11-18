@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-agapius-of-cirta.svg
 name: Saint Agapius of Cirta
 stub: true
 honorific: Saint

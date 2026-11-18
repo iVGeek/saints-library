@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-memorius-of-troyes.svg
 name: Saint Memorius of Troyes
 stub: false
 honorific: Saint

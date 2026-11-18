@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-solomon-i.svg
 name: Saint Solomon I
 stub: false
 honorific: Saint

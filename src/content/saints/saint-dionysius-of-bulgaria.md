@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dionysius-of-bulgaria.svg
 name: Saint Dionysius of Bulgaria
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dominic-of-north-africa.svg
 name: Saint Dominic of North Africa
 stub: true
 honorific: Saint

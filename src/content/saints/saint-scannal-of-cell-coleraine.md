@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-scannal-of-cell-coleraine.svg
 name: Saint Scannal of Cell-Coleraine
 stub: true
 honorific: Saint

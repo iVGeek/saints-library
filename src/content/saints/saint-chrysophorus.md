@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-chrysophorus.svg
 name: Saint Chrysophorus
 stub: false
 honorific: Saint

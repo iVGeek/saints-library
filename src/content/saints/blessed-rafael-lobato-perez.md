@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-rafael-lobato-perez.svg
 name: Blessed Rafael Lobato Pérez
 stub: false
 honorific: Blessed

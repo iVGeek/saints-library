@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hyacinth-of-amastris.svg
 name: Saint Hyacinth of Amastris
 stub: true
 honorific: Saint

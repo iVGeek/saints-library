@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-romana-of-capua.svg
 name: Saint Romana of Capua
 stub: false
 honorific: Saint

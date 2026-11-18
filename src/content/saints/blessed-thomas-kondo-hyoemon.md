@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-thomas-kondo-hyoemon.svg
 name: Blessed Thomas Kondo Hyoemon
 stub: false
 honorific: Blessed

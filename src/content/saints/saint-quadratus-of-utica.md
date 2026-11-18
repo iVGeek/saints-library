@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-quadratus-of-utica.svg
 name: Saint Quadratus of Utica
 stub: true
 honorific: Saint

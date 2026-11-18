@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-john-baptist-turpin-du-cormier.svg
 name: Blessed John Baptist Turpin du Cormier
 stub: false
 honorific: Blessed

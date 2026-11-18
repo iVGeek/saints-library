@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-marceliano-alonso-santamaria.svg
 name: Blessed Marceliano Alonso Santamaría
 stub: false
 honorific: Blessed

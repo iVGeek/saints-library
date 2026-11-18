@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-senan-of-wales.svg
 name: Saint Senan of Wales
 stub: true
 honorific: Saint

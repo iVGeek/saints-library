@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ceratius-of-grenoble.svg
 name: Saint Ceratius of Grenoble
 stub: false
 honorific: Saint

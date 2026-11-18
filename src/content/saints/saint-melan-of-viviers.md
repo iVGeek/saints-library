@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-melan-of-viviers.svg
 name: Saint Melan of Viviers
 stub: true
 honorific: Saint

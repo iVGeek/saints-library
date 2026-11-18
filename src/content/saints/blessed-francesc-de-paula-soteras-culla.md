@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-francesc-de-paula-soteras-culla.svg
 name: Blessed Francesc de Paula Soteras Culla
 stub: false
 honorific: Blessed

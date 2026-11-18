@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-corrado-the-teuton.svg
 name: Blessed Corrado the Teuton
 stub: false
 honorific: Blessed

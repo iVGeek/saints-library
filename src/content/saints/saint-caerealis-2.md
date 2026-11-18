@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-caerealis-2.svg
 name: Saint Caerealis
 stub: false
 honorific: Saint

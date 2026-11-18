@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-heinrich-hahn.svg
 name: Venerable Heinrich Hahn
 stub: false
 honorific: Venerable

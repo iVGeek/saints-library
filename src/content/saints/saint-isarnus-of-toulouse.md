@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-isarnus-of-toulouse.svg
 name: Saint Isarnus of Toulouse
 stub: false
 honorific: Saint

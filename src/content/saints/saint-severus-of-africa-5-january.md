@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-severus-of-africa-5-january.svg
 name: Saint Severus of Africa
 stub: false
 honorific: Saint

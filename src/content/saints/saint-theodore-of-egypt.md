@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodore-of-egypt.svg
 name: Saint Theodore of Egypt
 stub: false
 honorific: Saint

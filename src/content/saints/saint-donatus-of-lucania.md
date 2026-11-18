@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-donatus-of-lucania.svg
 name: Saint Donatus of Lucania
 stub: true
 honorific: Saint

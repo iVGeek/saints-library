@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-constantius-of-cologne.svg
 name: Saint Constantius of Cologne
 stub: true
 honorific: Saint

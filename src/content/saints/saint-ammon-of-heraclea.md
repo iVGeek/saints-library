@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ammon-of-heraclea.svg
 name: Saint Ammon of Heraclea
 stub: false
 honorific: Saint

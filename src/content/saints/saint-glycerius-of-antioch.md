@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-glycerius-of-antioch.svg
 name: Saint Glycerius of Antioch
 stub: true
 honorific: Saint

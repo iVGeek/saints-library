@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cathan-of-tamlacht.svg
 name: Saint Cathan of Tamlacht
 stub: true
 honorific: Saint

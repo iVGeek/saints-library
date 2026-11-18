@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fintan-the-missionary.svg
 name: Saint Fintan the Missionary
 stub: false
 honorific: Saint

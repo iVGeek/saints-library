@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hildelith-of-barking.svg
 name: Saint Hildelith of Barking
 stub: false
 honorific: Saint

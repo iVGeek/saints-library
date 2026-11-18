@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-donatilla-of-tebourba.svg
 name: Saint Donatilla of Tebourba
 stub: true
 honorific: Saint

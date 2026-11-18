@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-tomas-urdanoz-aldaz.svg
 name: Blessed Tomás Urdánoz Aldaz
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-edburga-of-caistor.svg
 name: Saint Edburga of Caistor
 stub: false
 honorific: Saint

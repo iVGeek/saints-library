@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-orion-of-egypt.svg
 name: Saint Orion of Egypt
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saula-of-cologne.svg
 name: Saint Saula of Cologne
 stub: true
 honorific: Saint

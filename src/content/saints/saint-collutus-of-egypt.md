@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-collutus-of-egypt.svg
 name: Saint Collutus of Egypt
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-olympius-the-tribune.svg
 name: Saint Olympius the Tribune
 stub: false
 honorific: Saint

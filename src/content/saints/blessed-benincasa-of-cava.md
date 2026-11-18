@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-benincasa-of-cava.svg
 name: Blessed Benincasa of Cava
 stub: false
 honorific: Blessed

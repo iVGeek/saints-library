@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rusticus-of-sirmium.svg
 name: Saint Rusticus of Sirmium
 stub: true
 honorific: Saint

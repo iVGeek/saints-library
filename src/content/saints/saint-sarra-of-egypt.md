@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sarra-of-egypt.svg
 name: Saint Sarra of Egypt
 stub: false
 honorific: Saint

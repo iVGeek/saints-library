@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-juan-duran-cintas.svg
 name: Blessed Juan Durán Cintas
 stub: false
 honorific: Blessed

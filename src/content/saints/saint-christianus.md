@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-christianus.svg
 name: Saint Christianus
 stub: true
 honorific: Saint

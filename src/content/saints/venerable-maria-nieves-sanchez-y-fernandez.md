@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-maria-nieves-sanchez-y-fernandez.svg
 name: Venerable Maria Nieves Sánchez y Fernández
 stub: true
 honorific: Venerable

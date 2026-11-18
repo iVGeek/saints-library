@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-of-constantinople.svg
 name: Saint Peter of Constantinople
 stub: false
 honorific: Saint

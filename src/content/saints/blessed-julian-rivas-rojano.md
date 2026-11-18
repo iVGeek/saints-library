@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-julian-rivas-rojano.svg
 name: Blessed Julián Rivas Rojano
 stub: false
 honorific: Blessed

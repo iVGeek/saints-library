@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-euphrasius-of-corfu.svg
 name: Saint Euphrasius of Corfu
 stub: false
 honorific: Saint

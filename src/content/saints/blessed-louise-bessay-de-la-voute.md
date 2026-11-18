@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-louise-bessay-de-la-voute.svg
 name: Blessed Louise Bessay de la Voûte
 stub: false
 honorific: Blessed

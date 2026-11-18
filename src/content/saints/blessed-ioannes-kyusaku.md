@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ioannes-kyusaku.svg
 name: Blessed Ioannes Kyusaku
 stub: false
 honorific: Blessed

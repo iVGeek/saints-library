@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-leobatius-of-sennevieres.svg
 name: Saint Leobatius of Sennevières
 stub: false
 honorific: Saint

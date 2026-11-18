@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-timon-the-deacon.svg
 name: Saint Timon the Deacon
 stub: false
 honorific: Saint

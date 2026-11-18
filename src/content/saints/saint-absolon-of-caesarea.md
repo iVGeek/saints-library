@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-absolon-of-caesarea.svg
 name: Saint Absolon of Caesarea
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-trofima-of-lugdunum.svg
 name: Saint Trófima of Lugdunum
 stub: false
 honorific: Saint

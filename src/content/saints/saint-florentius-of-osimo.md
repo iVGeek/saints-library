@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-florentius-of-osimo.svg
 name: Saint Florentius of Osimo
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-maria-del-carmen-alejandra-cabrera-llergo-de-blanco.svg
 name: Blessed María Del Carmen Alejandra Cabrera Llergo de Blanco
 stub: false
 honorific: Blessed

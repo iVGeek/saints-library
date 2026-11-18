@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-magin-morera-y-feixas.svg
 name: Venerable Magín Morera y Feixas
 stub: false
 honorific: Venerable

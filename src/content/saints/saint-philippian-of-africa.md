@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-philippian-of-africa.svg
 name: Saint Philippian of Africa
 stub: true
 honorific: Saint

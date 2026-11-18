@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julius-of-caerleon.svg
 name: Saint Julius of Caerleon
 stub: true
 honorific: Saint

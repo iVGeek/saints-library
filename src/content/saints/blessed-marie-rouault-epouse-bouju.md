@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-marie-rouault-epouse-bouju.svg
 name: Blessed Marie Rouault épouse Bouju
 stub: false
 honorific: Blessed

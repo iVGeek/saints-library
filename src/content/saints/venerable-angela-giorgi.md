@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-angela-giorgi.svg
 name: Venerable Angela Giorgi
 stub: true
 honorific: Venerable

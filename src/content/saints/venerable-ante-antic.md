@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-ante-antic.svg
 name: Venerable Ante Antic
 stub: true
 honorific: Venerable

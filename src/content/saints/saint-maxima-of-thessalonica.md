@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maxima-of-thessalonica.svg
 name: Saint Maxima of Thessalonica
 stub: true
 honorific: Saint

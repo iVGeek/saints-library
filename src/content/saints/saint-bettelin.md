@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bettelin.svg
 name: Saint Bettelin of Stafford
 stub: false
 honorific: Saint

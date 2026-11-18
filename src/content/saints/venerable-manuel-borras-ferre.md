@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-manuel-borras-ferre.svg
 name: Venerable Manuel Borràs Ferré
 stub: true
 honorific: Venerable

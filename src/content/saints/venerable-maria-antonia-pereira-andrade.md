@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-maria-antonia-pereira-andrade.svg
 name: Venerable María Antonia Pereira Andrade
 stub: true
 honorific: Venerable

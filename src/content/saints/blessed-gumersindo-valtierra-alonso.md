@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gumersindo-valtierra-alonso.svg
 name: Blessed Gumersindo Valtierra Alonso
 stub: false
 honorific: Blessed

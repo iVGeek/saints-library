@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-faustus-of-cordoba.svg
 name: Saint Faustus of Cordoba
 stub: false
 honorific: Saint

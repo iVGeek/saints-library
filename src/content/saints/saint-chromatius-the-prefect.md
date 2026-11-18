@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-chromatius-the-prefect.svg
 name: Saint Chromatius the Prefect
 stub: false
 honorific: Saint

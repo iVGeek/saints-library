@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-paulus-uchibori-sakuemon.svg
 name: Blessed Paulus Uchibori Sakuemon
 stub: false
 honorific: Blessed

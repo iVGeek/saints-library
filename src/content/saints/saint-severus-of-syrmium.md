@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-severus-of-syrmium.svg
 name: Saint Severus of Syrmium
 stub: true
 honorific: Saint

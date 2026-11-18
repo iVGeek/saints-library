@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcia-the-martyr.svg
 name: Saint Marcia the Martyr
 stub: true
 honorific: Saint

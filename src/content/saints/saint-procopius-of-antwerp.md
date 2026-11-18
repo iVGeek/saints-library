@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-procopius-of-antwerp.svg
 name: Saint Procopius of Antwerp
 stub: true
 honorific: Saint

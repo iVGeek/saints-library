@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-materna-of-lugdunum.svg
 name: Saint Materna of Lugdunum
 stub: false
 honorific: Saint

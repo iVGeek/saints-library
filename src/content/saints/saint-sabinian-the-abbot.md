@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sabinian-the-abbot.svg
 name: Saint Sabinian the Abbot
 stub: true
 honorific: Saint

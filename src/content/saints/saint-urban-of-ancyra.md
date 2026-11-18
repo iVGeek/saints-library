@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-urban-of-ancyra.svg
 name: Saint Urban of Ancyra
 stub: false
 honorific: Saint

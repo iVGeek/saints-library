@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-calorus-of-corinth.svg
 name: Saint Calorus of Corinth
 stub: true
 honorific: Saint

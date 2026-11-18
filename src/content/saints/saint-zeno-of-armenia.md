@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zeno-of-armenia.svg
 name: Saint Zeno of Armenia
 stub: false
 honorific: Saint

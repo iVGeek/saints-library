@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zeno-of-rome.svg
 name: Saint Zeno of Rome
 stub: true
 honorific: Saint

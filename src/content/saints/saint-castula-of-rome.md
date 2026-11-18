@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-castula-of-rome.svg
 name: Saint Castula of Rome
 stub: true
 honorific: Saint

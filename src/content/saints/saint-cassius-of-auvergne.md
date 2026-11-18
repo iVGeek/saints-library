@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cassius-of-auvergne.svg
 name: Saint Cassius of Auvergne
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-maria-giuseppina-benvenuti.svg
 name: Venerable Maria Giuseppina Benvenuti
 stub: false
 honorific: Venerable

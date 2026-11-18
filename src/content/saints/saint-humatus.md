@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-humatus.svg
 name: Saint Humatus
 stub: true
 honorific: Saint

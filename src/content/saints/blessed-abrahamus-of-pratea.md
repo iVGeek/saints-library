@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-abrahamus-of-pratea.svg
 name: Blessed Abrahamus of Pratea
 stub: false
 honorific: Blessed

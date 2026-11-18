@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-josep-maria-aragones-mateu.svg
 name: Blessed Josep Maria Aragones Mateu
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-damian-of-scotland.svg
 name: Saint Damian of Scotland
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sanctius-of-vienne.svg
 name: Saint Sanctius of Vienne
 stub: false
 honorific: Saint

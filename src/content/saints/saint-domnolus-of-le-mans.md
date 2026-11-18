@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-domnolus-of-le-mans.svg
 name: Saint Domnolus of Le Mans
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felicissimus-of-todi.svg
 name: Saint Felicissimus of Todi
 stub: true
 honorific: Saint

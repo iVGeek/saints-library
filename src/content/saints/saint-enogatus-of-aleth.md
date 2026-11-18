@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-enogatus-of-aleth.svg
 name: Saint Enogatus of Aleth
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-talida-of-antinoe.svg
 name: Saint Talida of Antinoë
 stub: false
 honorific: Saint

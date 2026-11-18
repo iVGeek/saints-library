@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-pere-sitges-obiols.svg
 name: Blessed Pere Sitges Obiols
 stub: false
 honorific: Blessed

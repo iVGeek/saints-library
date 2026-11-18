@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-severa-of-saint-gemma.svg
 name: Saint Severa of Saint Gemma
 stub: false
 honorific: Saint

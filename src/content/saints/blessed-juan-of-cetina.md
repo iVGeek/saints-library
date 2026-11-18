@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-juan-of-cetina.svg
 name: Blessed Juan of Cetina
 stub: false
 honorific: Blessed

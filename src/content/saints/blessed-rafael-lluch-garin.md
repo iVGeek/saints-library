@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-rafael-lluch-garin.svg
 name: Blessed Rafael Lluch Garín
 stub: false
 honorific: Blessed

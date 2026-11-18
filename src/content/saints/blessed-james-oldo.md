@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-james-oldo.svg
 name: Blessed James Oldo
 stub: false
 honorific: Blessed

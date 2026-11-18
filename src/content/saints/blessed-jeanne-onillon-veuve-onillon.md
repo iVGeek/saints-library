@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jeanne-onillon-veuve-onillon.svg
 name: Blessed Jeanne Onillon veuve Onillon
 stub: false
 honorific: Blessed

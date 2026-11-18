@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secundus-of-africa-5-january.svg
 name: Saint Secundus of Africa
 stub: false
 honorific: Saint

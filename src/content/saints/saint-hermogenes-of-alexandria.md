@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hermogenes-of-alexandria.svg
 name: Saint Hermogenes of Alexandria
 stub: true
 honorific: Saint

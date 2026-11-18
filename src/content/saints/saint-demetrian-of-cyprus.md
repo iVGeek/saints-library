@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-demetrian-of-cyprus.svg
 name: Saint Demetrian of Cyprus
 stub: false
 honorific: Saint

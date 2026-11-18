@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-alexander-of-apema.svg
 name: Saint Alexander of Apema
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-philippus-zhang-zhihe.svg
 name: Saint Philippus Zhang Zhihe
 stub: false
 honorific: Venerable

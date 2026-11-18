@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-zechariah.svg
 name: Blessed Zechariah
 stub: false
 honorific: Blessed

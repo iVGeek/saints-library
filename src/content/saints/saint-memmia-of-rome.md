@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-memmia-of-rome.svg
 name: Saint Memmia of Rome
 stub: true
 honorific: Saint

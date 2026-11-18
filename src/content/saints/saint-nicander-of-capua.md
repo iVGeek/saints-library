@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nicander-of-capua.svg
 name: Saint Nicander of Capua
 stub: false
 honorific: Saint

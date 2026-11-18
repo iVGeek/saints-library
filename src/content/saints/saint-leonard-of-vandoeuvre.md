@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-leonard-of-vandoeuvre.svg
 name: Saint Leonard of Vandoeuvre
 stub: true
 honorific: Saint

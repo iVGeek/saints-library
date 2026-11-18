@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-colman-of-orkney.svg
 name: Saint Colmán of Orkney
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jovin-of-the-via-latina.svg
 name: Saint Jovin of the Via Latina
 stub: true
 honorific: Saint

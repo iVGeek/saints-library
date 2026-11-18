@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nilus-of-stolbensk.svg
 name: Saint Nilus of Stolbensk
 stub: false
 honorific: Saint

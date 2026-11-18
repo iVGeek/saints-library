@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-margaret-sinclair.svg
 name: Venerable Margaret Sinclair
 stub: true
 honorific: Venerable

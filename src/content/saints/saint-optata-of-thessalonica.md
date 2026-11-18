@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-optata-of-thessalonica.svg
 name: Saint Optata of Thessalonica
 stub: true
 honorific: Saint

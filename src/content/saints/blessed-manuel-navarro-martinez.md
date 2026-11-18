@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-manuel-navarro-martinez.svg
 name: Blessed Manuel Navarro Martínez
 stub: true
 honorific: Blessed

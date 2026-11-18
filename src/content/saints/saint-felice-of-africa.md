@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felice-of-africa.svg
 name: Saint Felice of Africa
 stub: false
 honorific: Saint

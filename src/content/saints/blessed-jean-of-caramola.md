@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jean-of-caramola.svg
 name: Blessed Jean of Caramola
 stub: false
 honorific: Blessed

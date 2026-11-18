@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-henry-of-zweifalten.svg
 name: Blessed Henry of Zweifalten
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eleuchadius.svg
 name: Saint Eleuchadius of Ravenna
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-selesius-of-alexandria.svg
 name: Saint Selesius of Alexandria
 stub: true
 honorific: Saint

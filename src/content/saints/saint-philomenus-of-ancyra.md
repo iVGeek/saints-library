@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-philomenus-of-ancyra.svg
 name: Saint Philomenus of Ancyra
 stub: true
 honorific: Saint

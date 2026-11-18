@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vincenzo-of-albitina.svg
 name: Saint Vincenzo of Albitina
 stub: false
 honorific: Saint

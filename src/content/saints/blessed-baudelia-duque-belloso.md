@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-baudelia-duque-belloso.svg
 name: Blessed Baudelia Duque Belloso
 stub: false
 honorific: Blessed

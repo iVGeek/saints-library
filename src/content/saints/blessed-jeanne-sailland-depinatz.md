@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jeanne-sailland-depinatz.svg
 name: Blessed Jeanne Sailland d'Epinatz
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theneva.svg
 name: Saint Theneva
 stub: false
 honorific: Saint

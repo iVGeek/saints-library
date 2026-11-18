@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hardulf-of-breedon.svg
 name: Saint Hardulf of Breedon
 stub: true
 honorific: Saint

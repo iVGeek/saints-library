@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-alfred-gregori.svg
 name: Venerable Alfred Gregori
 stub: false
 honorific: Venerable

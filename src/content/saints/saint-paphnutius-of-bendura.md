@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-paphnutius-of-bendura.svg
 name: Saint Paphnutius of Bendura
 stub: true
 honorific: Saint

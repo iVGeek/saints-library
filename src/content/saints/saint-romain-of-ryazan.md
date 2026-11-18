@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-romain-of-ryazan.svg
 name: Saint Romain of Ryazan
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-donatus-of-aulona.svg
 name: Saint Donatus of Aulona
 stub: true
 honorific: Saint

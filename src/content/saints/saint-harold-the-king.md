@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-harold-the-king.svg
 name: Saint Harold the King
 stub: false
 honorific: Saint

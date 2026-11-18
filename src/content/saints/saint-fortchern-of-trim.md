@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fortchern-of-trim.svg
 name: Saint Fortchern of Trim
 stub: false
 honorific: Saint

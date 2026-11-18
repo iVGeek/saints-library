@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victoria-of-rome.svg
 name: Saint Victoria of Rome
 stub: true
 honorific: Saint

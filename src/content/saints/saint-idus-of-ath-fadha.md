@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-idus-of-ath-fadha.svg
 name: Saint Idus of Ath-Fadha
 stub: false
 honorific: Saint

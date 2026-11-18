@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-relindis-of-eyck.svg
 name: Saint Relindis of Eyck
 stub: false
 honorific: Saint

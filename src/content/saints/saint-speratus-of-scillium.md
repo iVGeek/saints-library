@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-speratus-of-scillium.svg
 name: Saint Speratus of Scillium
 stub: false
 honorific: Saint

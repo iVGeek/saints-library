@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vittorino-of-albano.svg
 name: Saint Vittorino of Albano
 stub: true
 honorific: Saint

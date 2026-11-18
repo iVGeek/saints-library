@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-simon-of-crepy.svg
 name: Saint Simon of Crépy
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-the-spaniard.svg
 name: Saint Peter the Spaniard
 stub: true
 honorific: Saint

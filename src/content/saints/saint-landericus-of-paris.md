@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-landericus-of-paris.svg
 name: Saint Landericus of Paris
 stub: false
 honorific: Saint

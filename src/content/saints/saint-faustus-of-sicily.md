@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-faustus-of-sicily.svg
 name: Saint Faustus of Sicily
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tigrinus-of-rome.svg
 name: Saint Tigrinus of Rome
 stub: true
 honorific: Saint

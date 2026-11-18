@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-harduin-of-fontenelle.svg
 name: Saint Harduin of Fontenelle
 stub: false
 honorific: Saint

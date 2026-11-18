@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gurnin.svg
 name: Saint Gurnin
 stub: false
 honorific: Saint

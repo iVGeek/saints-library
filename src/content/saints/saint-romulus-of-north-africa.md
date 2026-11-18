@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-romulus-of-north-africa.svg
 name: Saint Romulus of North Africa
 stub: true
 honorific: Saint

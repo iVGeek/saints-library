@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dionysia-the-martyr.svg
 name: Saint Dionysia the Martyr
 stub: false
 honorific: Saint

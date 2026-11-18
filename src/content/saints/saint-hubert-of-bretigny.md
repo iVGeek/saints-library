@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hubert-of-bretigny.svg
 name: Saint Hubert of Bretigny
 stub: false
 honorific: Saint

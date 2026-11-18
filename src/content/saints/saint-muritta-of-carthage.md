@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-muritta-of-carthage.svg
 name: Saint Muritta of Carthage
 stub: false
 honorific: Saint

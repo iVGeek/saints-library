@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eutychianus-of-salamanca.svg
 name: Saint Eutychianus of Salamanca
 stub: false
 honorific: Saint

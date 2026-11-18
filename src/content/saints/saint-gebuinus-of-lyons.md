@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gebuinus-of-lyons.svg
 name: Saint Gebuinus of Lyons
 stub: true
 honorific: Saint

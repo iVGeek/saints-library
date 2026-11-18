@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-renee-bourgeais-veuve-juret.svg
 name: Blessed Renée Bourgeais veuve Juret
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-urban-of-rome.svg
 name: Saint Urban of Rome
 stub: true
 honorific: Saint

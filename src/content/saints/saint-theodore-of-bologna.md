@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodore-of-bologna.svg
 name: Saint Theodore of Bologna
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturninus-of-nyon.svg
 name: Saint Saturninus of Nyon
 stub: true
 honorific: Saint

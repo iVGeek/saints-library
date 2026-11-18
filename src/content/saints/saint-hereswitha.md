@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hereswitha.svg
 name: Saint Hereswitha
 stub: false
 honorific: Saint

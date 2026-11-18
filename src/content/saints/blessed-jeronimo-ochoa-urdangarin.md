@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jeronimo-ochoa-urdangarin.svg
 name: Blessed Jerónimo Ochoa Urdangarín
 stub: false
 honorific: Blessed

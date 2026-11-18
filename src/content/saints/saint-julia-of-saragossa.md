@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julia-of-saragossa.svg
 name: Saint Julia of Saragossa
 stub: false
 honorific: Saint

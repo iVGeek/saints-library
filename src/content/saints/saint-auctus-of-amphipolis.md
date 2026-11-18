@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-auctus-of-amphipolis.svg
 name: Saint Auctus of Amphipolis
 stub: true
 honorific: Saint

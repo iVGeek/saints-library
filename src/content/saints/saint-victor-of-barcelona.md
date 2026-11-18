@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victor-of-barcelona.svg
 name: Saint Victor of Barcelona
 stub: true
 honorific: Saint

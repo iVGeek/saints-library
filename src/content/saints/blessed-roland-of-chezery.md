@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-roland-of-chezery.svg
 name: Blessed Roland of Chézery
 stub: false
 honorific: Blessed

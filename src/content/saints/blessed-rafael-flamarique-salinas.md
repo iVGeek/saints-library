@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-rafael-flamarique-salinas.svg
 name: Blessed Rafaél Flamarique Salinas
 stub: false
 honorific: Blessed

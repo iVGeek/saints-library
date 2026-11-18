@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-felix-celestin-gombert-olympe.svg
 name: Blessed Félix-Célestin Gombert Olympe
 stub: false
 honorific: Blessed

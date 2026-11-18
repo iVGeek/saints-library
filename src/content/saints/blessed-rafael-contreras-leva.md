@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-rafael-contreras-leva.svg
 name: Blessed Rafael Contreras Leva
 stub: false
 honorific: Blessed

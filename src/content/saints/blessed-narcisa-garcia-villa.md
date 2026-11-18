@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-narcisa-garcia-villa.svg
 name: Blessed Narcisa García Villa
 stub: true
 honorific: Blessed

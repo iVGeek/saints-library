@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-speciosus.svg
 name: Saint Speciosus
 stub: false
 honorific: Saint

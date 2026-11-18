@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-benedicta-hyong-kyong-nyon.svg
 name: Saint Benedicta Hyong Kyong-Nyon
 stub: false
 honorific: Venerable

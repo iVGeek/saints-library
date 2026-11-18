@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pothamius-of-cyprus.svg
 name: Saint Pothamius of Cyprus
 stub: true
 honorific: Saint

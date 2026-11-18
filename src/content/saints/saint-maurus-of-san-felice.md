@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maurus-of-san-felice.svg
 name: Saint Maurus of San Felice
 stub: false
 honorific: Saint

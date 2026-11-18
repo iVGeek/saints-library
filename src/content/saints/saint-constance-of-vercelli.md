@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-constance-of-vercelli.svg
 name: Saint Constance of Vercelli
 stub: false
 honorific: Saint

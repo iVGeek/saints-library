@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-ancyra.svg
 name: Saint Maximus of Ancyra
 stub: true
 honorific: Saint

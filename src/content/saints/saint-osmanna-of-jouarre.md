@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-osmanna-of-jouarre.svg
 name: Saint Osmanna of Jouarre
 stub: true
 honorific: Saint

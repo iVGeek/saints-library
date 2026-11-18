@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jose-ignacio-gordon-de-la-serna.svg
 name: Blessed José Ignacio Gordón de la Serna
 stub: false
 honorific: Blessed

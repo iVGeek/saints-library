@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-abundius-of-rome.svg
 name: Saint Abundius of Rome
 stub: true
 honorific: Saint

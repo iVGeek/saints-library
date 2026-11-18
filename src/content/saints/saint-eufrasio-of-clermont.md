@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eufrasio-of-clermont.svg
 name: Saint Eufrasio of Clermont
 stub: false
 honorific: Saint

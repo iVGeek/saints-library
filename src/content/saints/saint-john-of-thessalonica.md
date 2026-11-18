@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-of-thessalonica.svg
 name: Saint John of Thessalonica
 stub: true
 honorific: Saint

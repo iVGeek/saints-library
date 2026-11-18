@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lazarus-of-bardiaboch.svg
 name: Saint Lazarus of Bardiaboch
 stub: false
 honorific: Saint

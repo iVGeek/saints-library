@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodulus-of-crete.svg
 name: Saint Theodulus of Crete
 stub: false
 honorific: Saint

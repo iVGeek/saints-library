@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nennus-of-arran.svg
 name: Saint Nennus of Arran
 stub: false
 honorific: Saint

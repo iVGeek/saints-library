@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-juan-jose-jaime-bonal-cortada.svg
 name: Venerable Juan José Jaime Bonal Cortada
 stub: false
 honorific: Venerable

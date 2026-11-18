@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-idda.svg
 name: Saint Idda
 stub: false
 honorific: Saint

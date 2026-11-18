@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodoric-of-cambrai-arras.svg
 name: Saint Theodoric of Cambrai-Arras
 stub: true
 honorific: Saint

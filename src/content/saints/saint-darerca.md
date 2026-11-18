@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-darerca.svg
 name: Saint Darerca
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-william-of-dongelberg.svg
 name: Blessed William of Dongelberg
 stub: false
 honorific: Blessed

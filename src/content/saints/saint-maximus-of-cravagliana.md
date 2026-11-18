@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-cravagliana.svg
 name: Saint Maximus of Cravagliana
 stub: true
 honorific: Saint

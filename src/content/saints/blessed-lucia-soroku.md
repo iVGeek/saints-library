@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-lucia-soroku.svg
 name: Blessed Lucia Soroku
 stub: false
 honorific: Blessed

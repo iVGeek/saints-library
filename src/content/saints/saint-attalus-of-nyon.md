@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-attalus-of-nyon.svg
 name: Saint Attalus of Nyon
 stub: true
 honorific: Saint

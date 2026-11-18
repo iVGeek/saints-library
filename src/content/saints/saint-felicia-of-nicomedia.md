@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felicia-of-nicomedia.svg
 name: Saint Felicia of Nicomedia
 stub: true
 honorific: Saint

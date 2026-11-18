@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hilary-of-vulturno.svg
 name: Saint Hilary of Vulturno
 stub: false
 honorific: Saint

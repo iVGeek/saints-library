@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-surdida-of-thessalonica.svg
 name: Saint Surdida of Thessalonica
 stub: true
 honorific: Saint

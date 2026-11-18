@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-waltheof-of-melrose.svg
 name: Saint Waltheof of Melrose
 stub: false
 honorific: Saint

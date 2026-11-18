@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hedda-the-abbot.svg
 name: Saint Hedda the Abbot
 stub: false
 honorific: Saint

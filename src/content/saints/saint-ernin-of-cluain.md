@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ernin-of-cluain.svg
 name: Saint Ernin of Cluain
 stub: false
 honorific: Saint

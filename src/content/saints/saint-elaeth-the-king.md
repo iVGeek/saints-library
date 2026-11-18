@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-elaeth-the-king.svg
 name: Saint Elaeth the King
 stub: false
 honorific: Saint

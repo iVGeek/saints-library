@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-audactus-of-thibiuca.svg
 name: Saint Audactus of Thibiuca
 stub: true
 honorific: Saint

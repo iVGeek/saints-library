@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-amai-of-arbil.svg
 name: Saint Amai of Arbil
 stub: false
 honorific: Saint

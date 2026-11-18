@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-matthias-kozasa.svg
 name: Blessed Matthias Kozasa
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-urban-of-penalba.svg
 name: Saint Urban of Peñalba
 stub: false
 honorific: Saint

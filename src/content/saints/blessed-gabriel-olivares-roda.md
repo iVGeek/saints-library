@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gabriel-olivares-roda.svg
 name: Blessed Gabriel Olivares Roda
 stub: true
 honorific: Blessed

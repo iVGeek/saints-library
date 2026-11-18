@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-aquilinus-of-noyon.svg
 name: Saint Aquilinus of Noyon
 stub: true
 honorific: Saint

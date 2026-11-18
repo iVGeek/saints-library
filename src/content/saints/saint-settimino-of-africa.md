@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-settimino-of-africa.svg
 name: Saint Settimino of Africa
 stub: false
 honorific: Saint

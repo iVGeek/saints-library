@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-daniel-of-ungrispach.svg
 name: Blessed Daniel of Ungrispach
 stub: false
 honorific: Blessed

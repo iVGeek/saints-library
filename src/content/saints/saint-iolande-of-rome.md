@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-iolande-of-rome.svg
 name: Saint Iolande of Rome
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-john-travers.svg
 name: Venerable John Travers
 stub: false
 honorific: Venerable

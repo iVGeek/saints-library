@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-marie-de-la-dive-veuve-du-verdier-de-la-soriniere.svg
 name: Blessed Marie de la Dive veuve du Verdier de la Sorinière
 stub: false
 honorific: Blessed

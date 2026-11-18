@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-paternus-of-auch.svg
 name: Saint Paternus of Auch
 stub: true
 honorific: Saint

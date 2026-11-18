@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-januarius-of-thibiuca.svg
 name: Saint Januarius of Thibiuca
 stub: true
 honorific: Saint

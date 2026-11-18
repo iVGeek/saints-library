@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-damian-the-missionary.svg
 name: Saint Damian the Missionary
 stub: false
 honorific: Saint

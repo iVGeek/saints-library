@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-serenicus-of-hyesmes.svg
 name: Saint Serenicus of Hyesmes
 stub: false
 honorific: Saint

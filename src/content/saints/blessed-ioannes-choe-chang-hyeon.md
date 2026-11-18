@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ioannes-choe-chang-hyeon.svg
 name: Blessed Ioannes Choe Chang-hyeon
 stub: true
 honorific: Blessed

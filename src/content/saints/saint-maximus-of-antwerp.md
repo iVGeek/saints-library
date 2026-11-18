@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-antwerp.svg
 name: Saint Maximus of Antwerp
 stub: true
 honorific: Saint

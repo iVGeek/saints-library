@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jose-rada-royo.svg
 name: Blessed José Rada Royo
 stub: true
 honorific: Blessed

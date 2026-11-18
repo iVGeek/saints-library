@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-diogenius-of-tomi.svg
 name: Saint Diogenius of Tomi
 stub: false
 honorific: Saint

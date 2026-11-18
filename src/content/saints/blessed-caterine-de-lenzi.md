@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-caterine-de-lenzi.svg
 name: Blessed Caterine de' Lenzi
 stub: false
 honorific: Blessed

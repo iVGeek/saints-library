@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-consolata-of-genoa.svg
 name: Saint Consolata of Genoa
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-martinian-of-belozersk.svg
 name: Saint Martinian of Belozersk
 stub: false
 honorific: Saint

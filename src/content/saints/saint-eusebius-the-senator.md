@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eusebius-the-senator.svg
 name: Saint Eusebius the Senator
 stub: false
 honorific: Saint

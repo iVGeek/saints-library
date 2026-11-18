@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-dionisio-arizaleta-salvador.svg
 name: Blessed Dionisio Arizaleta Salvador
 stub: true
 honorific: Blessed

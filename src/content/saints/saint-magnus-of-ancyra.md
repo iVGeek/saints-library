@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-magnus-of-ancyra.svg
 name: Saint Magnus of Ancyra
 stub: true
 honorific: Saint

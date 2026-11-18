@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-of-antioch.svg
 name: Saint Peter of Antioch
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-octubre-of-lugdunum.svg
 name: Saint Octubre of Lugdunum
 stub: false
 honorific: Saint

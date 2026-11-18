@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eufridus.svg
 name: Saint Eufridus
 stub: false
 honorific: Saint

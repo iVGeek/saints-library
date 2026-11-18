@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-froilan-lanero-villadangos.svg
 name: Blessed Froilán Lanero Villadangos
 stub: true
 honorific: Blessed

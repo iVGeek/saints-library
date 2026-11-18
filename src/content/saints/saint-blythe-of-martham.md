@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-blythe-of-martham.svg
 name: Saint Blythe of Martham
 stub: false
 honorific: Saint

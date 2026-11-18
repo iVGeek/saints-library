@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-servilia-of-corinth.svg
 name: Saint Servilia of Corinth
 stub: true
 honorific: Saint

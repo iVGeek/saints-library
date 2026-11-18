@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bianor-of-pisidia.svg
 name: Saint Bianor of Pisidia
 stub: true
 honorific: Saint

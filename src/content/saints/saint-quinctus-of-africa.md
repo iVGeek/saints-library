@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-quinctus-of-africa.svg
 name: Saint Quinctus of Africa
 stub: false
 honorific: Saint

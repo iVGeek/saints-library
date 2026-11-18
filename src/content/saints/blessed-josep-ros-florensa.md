@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-josep-ros-florensa.svg
 name: Blessed Josep Ros Florensa
 stub: true
 honorific: Blessed

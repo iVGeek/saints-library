@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-magdalena-of-hokusanbara.svg
 name: Blessed Magdalena of Hokusanbara
 stub: false
 honorific: Blessed

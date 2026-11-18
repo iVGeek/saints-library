@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-juan-jesus-adradas-gonzalo.svg
 name: Blessed Juan Jesús Adradas Gonzalo
 stub: false
 honorific: Blessed

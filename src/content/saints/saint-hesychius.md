@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hesychius.svg
 name: Saint Hesychius
 stub: true
 honorific: Saint

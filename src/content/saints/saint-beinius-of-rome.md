@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-beinius-of-rome.svg
 name: Saint Beinius of Rome
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-meletius-the-soldier.svg
 name: Saint Meletius the Soldier
 stub: false
 honorific: Saint

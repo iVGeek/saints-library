@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-severian-of-puy.svg
 name: Saint Severian of Puy
 stub: false
 honorific: Saint

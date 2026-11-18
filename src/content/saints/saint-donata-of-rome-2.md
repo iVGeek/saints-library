@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-donata-of-rome-2.svg
 name: Saint Donata of Rome
 stub: false
 honorific: Saint

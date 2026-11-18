@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felicissima-the-blind.svg
 name: Saint Felicissima the Blind
 stub: false
 honorific: Saint

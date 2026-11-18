@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-phaina-of-ancyra.svg
 name: Saint Phaina of Ancyra
 stub: true
 honorific: Saint

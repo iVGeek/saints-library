@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secundus-of-sirmium.svg
 name: Saint Secundus of Sirmium
 stub: false
 honorific: Saint

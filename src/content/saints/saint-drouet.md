@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-drouet.svg
 name: Saint Drouet of Auxerre
 stub: true
 honorific: Saint

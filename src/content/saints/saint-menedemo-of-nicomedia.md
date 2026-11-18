@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-menedemo-of-nicomedia.svg
 name: Saint Menedemo of Nicomedia
 stub: true
 honorific: Saint

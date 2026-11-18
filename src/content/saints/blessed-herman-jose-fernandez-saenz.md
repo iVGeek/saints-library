@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-herman-jose-fernandez-saenz.svg
 name: Blessed Herman José Fernández Sáenz
 stub: false
 honorific: Blessed

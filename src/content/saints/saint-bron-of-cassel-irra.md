@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bron-of-cassel-irra.svg
 name: Saint Bron of Cassel-Irra
 stub: true
 honorific: Saint

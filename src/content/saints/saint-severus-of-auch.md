@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-severus-of-auch.svg
 name: Saint Severus of Auch
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-edith-of-tamworth.svg
 name: Saint Edith of Tamworth
 stub: false
 honorific: Saint

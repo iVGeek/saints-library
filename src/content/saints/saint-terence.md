@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-terence.svg
 name: Saint Terence of Iconium
 stub: false
 honorific: Saint

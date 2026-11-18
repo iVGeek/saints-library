@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felicissimus-of-carthage.svg
 name: Saint Felicissimus of Carthage
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-melas-of-rhinocolura.svg
 name: Saint Melas of Rhinocolura
 stub: false
 honorific: Saint

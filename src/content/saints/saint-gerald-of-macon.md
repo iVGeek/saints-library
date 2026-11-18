@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gerald-of-macon.svg
 name: Saint Gerald of Mâcon
 stub: false
 honorific: Saint

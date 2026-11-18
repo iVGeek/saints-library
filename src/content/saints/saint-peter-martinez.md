@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-martinez.svg
 name: Saint Peter Martinez
 stub: false
 honorific: Saint

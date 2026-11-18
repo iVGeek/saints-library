@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-james-harrison.svg
 name: Venerable James Harrison
 stub: false
 honorific: Venerable

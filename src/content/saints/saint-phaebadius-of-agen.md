@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-phaebadius-of-agen.svg
 name: Saint Phaebadius of Agen
 stub: false
 honorific: Saint

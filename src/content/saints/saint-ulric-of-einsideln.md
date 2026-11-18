@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ulric-of-einsideln.svg
 name: Saint Ulric of Einsideln
 stub: false
 honorific: Saint

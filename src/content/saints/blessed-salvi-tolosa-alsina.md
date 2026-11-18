@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-salvi-tolosa-alsina.svg
 name: Blessed Salvi Tolosa Alsina
 stub: true
 honorific: Blessed

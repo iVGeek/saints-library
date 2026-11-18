@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-nicomedes-andres-vecilla.svg
 name: Blessed Nicomedes Andrés Vecilla
 stub: false
 honorific: Blessed

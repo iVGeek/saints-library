@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-heraclio-matute-tobias.svg
 name: Blessed Heraclio Matute Tobias
 stub: false
 honorific: Blessed

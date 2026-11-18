@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-geminianus-of-lugdunum.svg
 name: Saint Geminianus of Lugdunum
 stub: false
 honorific: Saint

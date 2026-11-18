@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-isidre-costa-hons.svg
 name: Blessed Isidre Costa Hons
 stub: false
 honorific: Blessed

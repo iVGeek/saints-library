@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-meingosus-of-weingarten.svg
 name: Blessed Meingosus of Weingarten
 stub: false
 honorific: Blessed

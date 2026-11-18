@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-adelmann-of-beauvais.svg
 name: Saint Adelmann of Beauvais
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-juan-de-las-varillas.svg
 name: Blessed Juan de Las Varillas
 stub: false
 honorific: Blessed

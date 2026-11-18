@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-arcontius-of-capua.svg
 name: Saint Arcontius of Capua
 stub: true
 honorific: Saint

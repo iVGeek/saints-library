@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-senzio-of-bieda.svg
 name: Saint Senzio of Bieda
 stub: true
 honorific: Saint

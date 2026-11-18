@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jeremias-of-cordoba.svg
 name: Saint Jeremias of Cordoba
 stub: false
 honorific: Saint

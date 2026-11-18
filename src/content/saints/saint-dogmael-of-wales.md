@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dogmael-of-wales.svg
 name: Saint Dogmael of Wales
 stub: true
 honorific: Saint

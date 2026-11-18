@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-cesar-elexgaray-otazua.svg
 name: Blessed César Elexgaray Otazua
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-taurino-of-porto-romano.svg
 name: Saint Taurino of Porto Romano
 stub: true
 honorific: Saint

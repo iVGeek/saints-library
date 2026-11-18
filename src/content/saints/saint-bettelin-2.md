@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bettelin-2.svg
 name: Saint Bettelin
 stub: true
 honorific: Saint

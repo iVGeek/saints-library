@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ethelgiva-of-shaftesbury.svg
 name: Saint Ethelgiva of Shaftesbury
 stub: false
 honorific: Saint

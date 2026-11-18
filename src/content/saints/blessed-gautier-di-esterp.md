@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gautier-di-esterp.svg
 name: Blessed Gautier di Esterp
 stub: false
 honorific: Blessed

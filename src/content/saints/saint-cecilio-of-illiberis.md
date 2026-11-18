@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cecilio-of-illiberis.svg
 name: Saint Cecilio of Illiberis
 stub: true
 honorific: Saint

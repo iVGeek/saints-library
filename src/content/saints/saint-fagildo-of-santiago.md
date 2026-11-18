@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fagildo-of-santiago.svg
 name: Saint Fagildo of Santiago
 stub: false
 honorific: Saint

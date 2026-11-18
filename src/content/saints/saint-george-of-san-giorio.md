@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-george-of-san-giorio.svg
 name: Saint George of San Giorio
 stub: false
 honorific: Saint

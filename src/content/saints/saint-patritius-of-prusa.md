@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-patritius-of-prusa.svg
 name: Saint Patritius of Prusa
 stub: true
 honorific: Saint

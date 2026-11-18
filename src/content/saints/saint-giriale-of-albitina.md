@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-giriale-of-albitina.svg
 name: Saint Giriale of Albitina
 stub: false
 honorific: Saint

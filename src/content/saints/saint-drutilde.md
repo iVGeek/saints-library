@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-drutilde.svg
 name: Saint Drutilde
 stub: false
 honorific: Saint

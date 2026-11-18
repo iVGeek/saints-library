@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-hesso-of-beinwil.svg
 name: Blessed Hesso of Beinwil
 stub: false
 honorific: Blessed

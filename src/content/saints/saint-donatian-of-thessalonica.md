@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-donatian-of-thessalonica.svg
 name: Saint Donatian of Thessalonica
 stub: true
 honorific: Saint

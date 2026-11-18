@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-rizziero-of-muccia.svg
 name: Blessed Rizziero of Muccia
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marina-of-alexandria.svg
 name: Saint Marina of Alexandria
 stub: true
 honorific: Saint

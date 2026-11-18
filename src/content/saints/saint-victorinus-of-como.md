@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victorinus-of-como.svg
 name: Saint Victorinus of Como
 stub: true
 honorific: Saint

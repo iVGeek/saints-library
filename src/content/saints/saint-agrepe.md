@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-agrepe.svg
 name: Saint Agrepe
 stub: false
 honorific: Saint

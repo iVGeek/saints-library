@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-francesco-gattola.svg
 name: Venerable Francesco Gattola
 stub: false
 honorific: Venerable

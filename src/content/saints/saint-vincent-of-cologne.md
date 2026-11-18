@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vincent-of-cologne.svg
 name: Saint Vincent of Cologne
 stub: true
 honorific: Saint

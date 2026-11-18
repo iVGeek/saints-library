@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valerian-of-hippo.svg
 name: Saint Valerian of Hippo
 stub: false
 honorific: Saint

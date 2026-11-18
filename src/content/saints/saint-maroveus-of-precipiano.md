@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maroveus-of-precipiano.svg
 name: Saint Maroveus of Precipiano
 stub: false
 honorific: Saint

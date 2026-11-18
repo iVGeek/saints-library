@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-procula-of-africa.svg
 name: Saint Procula of Africa
 stub: true
 honorific: Saint

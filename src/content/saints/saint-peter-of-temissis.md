@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-of-temissis.svg
 name: Saint Peter of Temissis
 stub: false
 honorific: Saint

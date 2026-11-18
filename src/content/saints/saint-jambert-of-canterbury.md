@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jambert-of-canterbury.svg
 name: Saint Jambert of Canterbury
 stub: false
 honorific: Saint

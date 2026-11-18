@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-theodora-of-rossano.svg
 name: Blessed Theodora of Rossano
 stub: true
 honorific: Blessed

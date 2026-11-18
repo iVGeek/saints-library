@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mary-of-arbil.svg
 name: Saint Mary of Arbil
 stub: false
 honorific: Saint

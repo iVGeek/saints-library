@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-joan-buxo-font.svg
 name: Blessed Joan Buxó Font
 stub: true
 honorific: Blessed

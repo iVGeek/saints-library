@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-abundantius-of-rome.svg
 name: Saint Abundantius of Rome
 stub: false
 honorific: Saint

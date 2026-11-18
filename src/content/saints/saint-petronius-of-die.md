@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-petronius-of-die.svg
 name: Saint Petronius of Die
 stub: false
 honorific: Saint

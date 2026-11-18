@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-nicolas-rueda-barriocanal.svg
 name: Blessed Nicolás Rueda Barriocanal
 stub: true
 honorific: Blessed

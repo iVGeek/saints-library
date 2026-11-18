@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-josep-padrell-navarro.svg
 name: Blessed Josep Padrell Navarro
 stub: false
 honorific: Blessed

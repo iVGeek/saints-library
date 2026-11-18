@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-angelus-sinesius.svg
 name: Blessed Angelus Sinesius
 stub: false
 honorific: Blessed

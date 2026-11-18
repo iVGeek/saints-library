@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secundus-of-palestrina.svg
 name: Saint Secundus of Palestrina
 stub: true
 honorific: Saint

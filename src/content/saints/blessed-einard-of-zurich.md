@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-einard-of-zurich.svg
 name: Blessed Einard of Zurich
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-iosephus-han-won-so.svg
 name: Saint Iosephus Han Won-So
 stub: true
 honorific: Venerable

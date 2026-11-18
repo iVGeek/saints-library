@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-waldalenus-of-beze.svg
 name: Saint Waldalenus of Bèze
 stub: false
 honorific: Saint

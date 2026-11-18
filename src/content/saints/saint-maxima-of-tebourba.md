@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maxima-of-tebourba.svg
 name: Saint Maxima of Tebourba
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-prosperus-of-como.svg
 name: Saint Prosperus of Como
 stub: true
 honorific: Saint

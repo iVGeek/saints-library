@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fionnchan-of-druim-eanaigh.svg
 name: Saint Fionnchan of Druim-Eanaigh
 stub: true
 honorific: Saint

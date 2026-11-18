@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-mainz.svg
 name: Saint Maximus of Mainz
 stub: true
 honorific: Saint

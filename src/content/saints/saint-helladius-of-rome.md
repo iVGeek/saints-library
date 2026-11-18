@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-helladius-of-rome.svg
 name: Saint Helladius of Rome
 stub: true
 honorific: Saint

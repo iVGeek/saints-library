@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fulk-of-fontenelle.svg
 name: Saint Fulk of Fontenelle
 stub: true
 honorific: Saint

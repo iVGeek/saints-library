@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-patricius-of-tomi.svg
 name: Saint Patricius of Tomi
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mareas.svg
 name: Saint Mareas
 stub: true
 honorific: Saint

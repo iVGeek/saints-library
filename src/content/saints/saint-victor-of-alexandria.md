@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victor-of-alexandria.svg
 name: Saint Victor of Alexandria
 stub: true
 honorific: Saint

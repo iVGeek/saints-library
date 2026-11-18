@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-germelina-of-nicomedia.svg
 name: Saint Germelina of Nicomedia
 stub: true
 honorific: Saint

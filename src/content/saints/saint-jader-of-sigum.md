@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jader-of-sigum.svg
 name: Saint Jader of Sigum
 stub: false
 honorific: Saint

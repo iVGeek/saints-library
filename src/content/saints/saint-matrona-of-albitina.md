@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-matrona-of-albitina.svg
 name: Saint Matrona of Albitina
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gerebald-of-chalons.svg
 name: Saint Gerebald of Chalons
 stub: false
 honorific: Saint

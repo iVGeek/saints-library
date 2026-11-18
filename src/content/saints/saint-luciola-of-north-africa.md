@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-luciola-of-north-africa.svg
 name: Saint Luciola of North Africa
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-claudia-of-ethiopia.svg
 name: Saint Claudia of Ethiopia
 stub: true
 honorific: Saint

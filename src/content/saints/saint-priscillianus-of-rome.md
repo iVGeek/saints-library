@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-priscillianus-of-rome.svg
 name: Saint Priscillianus of Rome
 stub: true
 honorific: Saint

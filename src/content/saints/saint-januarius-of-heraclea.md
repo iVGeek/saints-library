@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-januarius-of-heraclea.svg
 name: Saint Januarius of Heraclea
 stub: true
 honorific: Saint

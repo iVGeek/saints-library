@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-caesarea.svg
 name: Saint Maximus of Caesarea
 stub: true
 honorific: Saint

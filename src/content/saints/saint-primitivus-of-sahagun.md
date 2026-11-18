@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-primitivus-of-sahagun.svg
 name: Saint Primitivus of Sahagun
 stub: true
 honorific: Saint

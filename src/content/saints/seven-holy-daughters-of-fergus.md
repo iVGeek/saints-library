@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/seven-holy-daughters-of-fergus.svg
 name: Seven Holy Daughters of Fergus
 stub: false
 honorific: Saint

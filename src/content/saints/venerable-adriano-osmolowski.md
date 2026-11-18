@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-adriano-osmolowski.svg
 name: Venerable Adriano Osmolowski
 stub: true
 honorific: Venerable

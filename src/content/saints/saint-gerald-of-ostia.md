@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gerald-of-ostia.svg
 name: Saint Gerald of Ostia
 stub: false
 honorific: Saint

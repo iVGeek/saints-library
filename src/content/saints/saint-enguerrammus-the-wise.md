@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-enguerrammus-the-wise.svg
 name: Saint Enguerrammus the Wise
 stub: false
 honorific: Saint

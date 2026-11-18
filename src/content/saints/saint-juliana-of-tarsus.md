@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-juliana-of-tarsus.svg
 name: Saint Juliana of Tarsus
 stub: true
 honorific: Saint

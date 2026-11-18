@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-liminius-of-auvergne.svg
 name: Saint Liminius of Auvergne
 stub: false
 honorific: Saint

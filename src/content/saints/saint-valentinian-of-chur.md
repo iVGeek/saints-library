@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valentinian-of-chur.svg
 name: Saint Valentinian of Chur
 stub: false
 honorific: Saint

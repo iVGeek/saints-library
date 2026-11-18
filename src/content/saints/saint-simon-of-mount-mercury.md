@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-simon-of-mount-mercury.svg
 name: Saint Simon of Mount Mercury
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crispin-of-ecija.svg
 name: Saint Crispin of Ecija
 stub: false
 honorific: Saint

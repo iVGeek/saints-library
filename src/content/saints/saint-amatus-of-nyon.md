@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-amatus-of-nyon.svg
 name: Saint Amatus of Nyon
 stub: true
 honorific: Saint

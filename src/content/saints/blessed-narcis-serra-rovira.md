@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-narcis-serra-rovira.svg
 name: Blessed Narcis Serra Rovira
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-liliosa-of-toul.svg
 name: Saint Liliosa of Toul
 stub: false
 honorific: Saint

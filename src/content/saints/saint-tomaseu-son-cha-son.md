@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tomaseu-son-cha-son.svg
 name: Saint Tomaseu Son Cha-son
 stub: false
 honorific: Venerable

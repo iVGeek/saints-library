@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pleosus-of-africa.svg
 name: Saint Pleosus of Africa
 stub: true
 honorific: Saint

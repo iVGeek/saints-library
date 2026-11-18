@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vitalis-of-rome.svg
 name: Saint Vitalis of Rome
 stub: true
 honorific: Saint

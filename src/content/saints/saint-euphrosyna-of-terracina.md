@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-euphrosyna-of-terracina.svg
 name: Saint Euphrosyna of Terracina
 stub: false
 honorific: Saint

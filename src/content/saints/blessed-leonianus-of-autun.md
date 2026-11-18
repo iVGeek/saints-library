@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-leonianus-of-autun.svg
 name: Blessed Leonianus of Autun
 stub: false
 honorific: Blessed

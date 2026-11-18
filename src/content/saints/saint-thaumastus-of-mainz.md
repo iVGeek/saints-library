@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thaumastus-of-mainz.svg
 name: Saint Thaumastus of Mainz
 stub: false
 honorific: Saint

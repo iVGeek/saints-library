@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nicander-of-mytilene.svg
 name: Saint Nicander of Mytilene
 stub: true
 honorific: Saint

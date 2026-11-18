@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lasar.svg
 name: Saint Lasar
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-henry-webley.svg
 name: Blessed Henry Webley
 stub: false
 honorific: Blessed

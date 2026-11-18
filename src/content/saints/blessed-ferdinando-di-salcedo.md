@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ferdinando-di-salcedo.svg
 name: Blessed Ferdinando di Salcedo
 stub: false
 honorific: Blessed

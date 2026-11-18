@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-roland-of-hasnon.svg
 name: Blessed Roland of Hasnon
 stub: false
 honorific: Blessed

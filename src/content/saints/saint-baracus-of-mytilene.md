@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-baracus-of-mytilene.svg
 name: Saint Baracus of Mytilene
 stub: true
 honorific: Saint

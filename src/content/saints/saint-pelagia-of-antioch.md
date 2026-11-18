@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pelagia-of-antioch.svg
 name: Saint Pelagia of Antioch
 stub: false
 honorific: Saint

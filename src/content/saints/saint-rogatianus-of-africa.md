@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rogatianus-of-africa.svg
 name: Saint Rogatianus of Africa
 stub: false
 honorific: Saint

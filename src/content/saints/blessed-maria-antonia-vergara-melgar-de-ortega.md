@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-maria-antonia-vergara-melgar-de-ortega.svg
 name: Blessed María Antonia Vergara Melgar de Ortega
 stub: false
 honorific: Blessed

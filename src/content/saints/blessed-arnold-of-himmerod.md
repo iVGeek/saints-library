@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-arnold-of-himmerod.svg
 name: Blessed Arnold of Himmerod
 stub: false
 honorific: Blessed

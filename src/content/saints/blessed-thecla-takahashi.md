@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-thecla-takahashi.svg
 name: Blessed Thecla Takahashi
 stub: false
 honorific: Blessed

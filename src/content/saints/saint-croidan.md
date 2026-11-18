@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-croidan.svg
 name: Saint Croidan
 stub: true
 honorific: Saint

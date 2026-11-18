@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-diodateus-of-mytilene.svg
 name: Saint Diodateus of Mytilene
 stub: true
 honorific: Saint

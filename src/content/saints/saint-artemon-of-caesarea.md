@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-artemon-of-caesarea.svg
 name: Saint Artemón of Caesarea
 stub: false
 honorific: Saint

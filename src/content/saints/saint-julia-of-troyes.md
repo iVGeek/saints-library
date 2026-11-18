@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julia-of-troyes.svg
 name: Saint Julia of Troyes
 stub: false
 honorific: Saint

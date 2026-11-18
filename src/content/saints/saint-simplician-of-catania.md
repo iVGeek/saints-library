@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-simplician-of-catania.svg
 name: Saint Simplician of Catania
 stub: false
 honorific: Saint

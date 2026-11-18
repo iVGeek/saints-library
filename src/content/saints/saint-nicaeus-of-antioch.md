@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nicaeus-of-antioch.svg
 name: Saint Nicaeus of Antioch
 stub: true
 honorific: Saint

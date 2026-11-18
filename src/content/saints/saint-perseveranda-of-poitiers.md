@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-perseveranda-of-poitiers.svg
 name: Saint Perseveranda of Poitiers
 stub: false
 honorific: Saint

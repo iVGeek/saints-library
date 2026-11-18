@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-optatus-of-saragossa.svg
 name: Saint Optatus of Saragossa
 stub: false
 honorific: Saint

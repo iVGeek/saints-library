@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-exuperius-of-vienne.svg
 name: Saint Exuperius of Vienne
 stub: true
 honorific: Saint

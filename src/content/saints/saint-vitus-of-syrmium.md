@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vitus-of-syrmium.svg
 name: Saint Vitus of Syrmium
 stub: true
 honorific: Saint

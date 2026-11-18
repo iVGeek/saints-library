@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-boninus-of-pavia.svg
 name: Saint Boninus of Pavia
 stub: true
 honorific: Saint

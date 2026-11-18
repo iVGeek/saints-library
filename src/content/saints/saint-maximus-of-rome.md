@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-rome.svg
 name: Saint Maximus of Rome
 stub: true
 honorific: Saint

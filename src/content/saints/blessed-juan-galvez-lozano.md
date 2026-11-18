@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-juan-galvez-lozano.svg
 name: Blessed Juan Gálvez Lozano
 stub: false
 honorific: Blessed

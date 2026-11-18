@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-of-pannonia.svg
 name: Saint Peter of Pannonia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-josep-maria-masip-tamarit.svg
 name: Blessed Josep Maria Masip Tamarit
 stub: true
 honorific: Blessed

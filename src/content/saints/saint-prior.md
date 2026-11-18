@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-prior.svg
 name: Saint Prior
 stub: false
 honorific: Saint

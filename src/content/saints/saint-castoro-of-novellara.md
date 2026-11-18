@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-castoro-of-novellara.svg
 name: Saint Castoro of Novellara
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-celedonius-of-north-africa.svg
 name: Saint Celedonius of North Africa
 stub: true
 honorific: Saint

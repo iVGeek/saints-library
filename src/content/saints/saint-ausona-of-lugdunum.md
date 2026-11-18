@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ausona-of-lugdunum.svg
 name: Saint Ausona of Lugdunum
 stub: false
 honorific: Saint

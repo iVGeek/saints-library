@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-isabel-calduch-rovira.svg
 name: Blessed Isabel Calduch Rovira
 stub: true
 honorific: Blessed

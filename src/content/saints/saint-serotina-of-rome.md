@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-serotina-of-rome.svg
 name: Saint Serotina of Rome
 stub: true
 honorific: Saint

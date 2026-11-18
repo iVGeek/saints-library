@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lauriano-of-vistin.svg
 name: Saint Lauriano of Vistin
 stub: true
 honorific: Saint

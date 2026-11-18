@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-servusdei.svg
 name: Saint Servusdei of Cordoba
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyriacus-the-executioner.svg
 name: Saint Cyriacus the Executioner
 stub: false
 honorific: Saint

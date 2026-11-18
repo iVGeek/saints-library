@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bessia-of-laodicea.svg
 name: Saint Bessia of Laodicea
 stub: true
 honorific: Saint

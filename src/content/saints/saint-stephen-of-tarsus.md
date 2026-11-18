@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stephen-of-tarsus.svg
 name: Saint Stephen of Tarsus
 stub: true
 honorific: Saint

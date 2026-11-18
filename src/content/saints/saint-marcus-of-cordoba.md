@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcus-of-cordoba.svg
 name: Saint Marcus of Cordoba
 stub: false
 honorific: Saint

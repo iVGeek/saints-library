@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-odran-7-july.svg
 name: Saint Odran
 stub: false
 honorific: Saint

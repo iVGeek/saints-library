@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sequanus.svg
 name: Saint Sequanus
 stub: false
 honorific: Saint

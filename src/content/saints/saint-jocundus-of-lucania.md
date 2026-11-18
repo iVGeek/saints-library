@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jocundus-of-lucania.svg
 name: Saint Jocundus of Lucania
 stub: true
 honorific: Saint

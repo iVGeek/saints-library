@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-emilian-of-citra.svg
 name: Saint Emilian of Citra
 stub: true
 honorific: Saint

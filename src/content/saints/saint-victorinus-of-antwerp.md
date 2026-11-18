@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victorinus-of-antwerp.svg
 name: Saint Victorinus of Antwerp
 stub: true
 honorific: Saint

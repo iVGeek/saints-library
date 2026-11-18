@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-geruntius-of-italica.svg
 name: Saint Geruntius of Italica
 stub: false
 honorific: Saint

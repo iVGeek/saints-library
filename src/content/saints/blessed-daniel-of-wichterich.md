@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-daniel-of-wichterich.svg
 name: Blessed Daniel of Wichterich
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eperentius-of-syrmium.svg
 name: Saint Eperentius of Syrmium
 stub: true
 honorific: Saint

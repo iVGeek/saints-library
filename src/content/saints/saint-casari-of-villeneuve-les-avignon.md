@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-casari-of-villeneuve-les-avignon.svg
 name: Saint Casari of Villeneuve-lès-Avignon
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eptadius-of-autun.svg
 name: Saint Eptadius of Autun
 stub: false
 honorific: Saint

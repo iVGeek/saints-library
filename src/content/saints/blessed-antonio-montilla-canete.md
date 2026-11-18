@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-antonio-montilla-canete.svg
 name: Blessed Antonio Montilla Cañete
 stub: true
 honorific: Blessed

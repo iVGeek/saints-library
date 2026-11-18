@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sammata-of-rome.svg
 name: Saint Sammata of Rome
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cywyllog-ferch-caw.svg
 name: Saint Cywyllog ferch Caw
 stub: false
 honorific: Saint

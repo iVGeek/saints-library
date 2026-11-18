@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jose-ruiz-de-la-torre.svg
 name: Blessed José Ruiz de la Torre
 stub: false
 honorific: Blessed

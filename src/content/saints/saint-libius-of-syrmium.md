@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-libius-of-syrmium.svg
 name: Saint Libius of Syrmium
 stub: true
 honorific: Saint

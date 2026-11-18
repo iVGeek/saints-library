@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hermes-of-adrianople.svg
 name: Saint Hermes of Adrianople
 stub: false
 honorific: Saint

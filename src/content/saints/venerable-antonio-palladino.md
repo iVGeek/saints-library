@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-antonio-palladino.svg
 name: Venerable Antonio Palladino
 stub: false
 honorific: Venerable

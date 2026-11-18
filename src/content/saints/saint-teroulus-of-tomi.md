@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-teroulus-of-tomi.svg
 name: Saint Teroulus of Tomi
 stub: true
 honorific: Saint

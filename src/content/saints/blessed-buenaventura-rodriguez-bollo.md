@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-buenaventura-rodriguez-bollo.svg
 name: Blessed Buenaventura Rodríguez Bollo
 stub: true
 honorific: Blessed

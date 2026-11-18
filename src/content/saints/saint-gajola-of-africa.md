@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gajola-of-africa.svg
 name: Saint Gajola of Africa
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-asclas-of-antinoe.svg
 name: Saint Asclas of Antinoe
 stub: false
 honorific: Saint

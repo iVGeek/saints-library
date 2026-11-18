@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-albian-of-albee.svg
 name: Saint Albian of Albee
 stub: true
 honorific: Saint

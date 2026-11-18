@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sarnat.svg
 name: Saint Sarnat
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hadelin-of-lobbes.svg
 name: Saint Hadelin of Lobbes
 stub: false
 honorific: Saint

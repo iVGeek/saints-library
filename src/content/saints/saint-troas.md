@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-troas.svg
 name: Saint Troas
 stub: false
 honorific: Saint

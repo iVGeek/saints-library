@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-licinius-of-como.svg
 name: Saint Licinius of Como
 stub: false
 honorific: Saint

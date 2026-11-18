@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-falitrus-of-chabris.svg
 name: Saint Falitrus of Chabris
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-loevan-of-brittany.svg
 name: Saint Loëvan of Brittany
 stub: false
 honorific: Saint

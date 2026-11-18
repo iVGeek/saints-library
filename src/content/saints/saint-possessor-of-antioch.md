@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-possessor-of-antioch.svg
 name: Saint Possessor of Antioch
 stub: true
 honorific: Saint

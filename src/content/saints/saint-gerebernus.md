@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gerebernus.svg
 name: Saint Gerebernus
 stub: false
 honorific: Saint

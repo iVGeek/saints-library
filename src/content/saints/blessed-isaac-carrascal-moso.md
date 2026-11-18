@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-isaac-carrascal-moso.svg
 name: Blessed Isaac Carrascal Moso
 stub: false
 honorific: Blessed

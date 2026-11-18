@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valerian-of-antioch.svg
 name: Saint Valerian of Antioch
 stub: false
 honorific: Saint

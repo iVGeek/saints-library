@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stephen-of-sweden.svg
 name: Saint Stephen of Sweden
 stub: false
 honorific: Saint

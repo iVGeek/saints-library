@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sinnidia-of-tomi.svg
 name: Saint Sinnidia of Tomi
 stub: true
 honorific: Saint

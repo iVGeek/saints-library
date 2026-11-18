@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fidolus-of-aumont.svg
 name: Saint Fidolus of Aumont
 stub: false
 honorific: Saint

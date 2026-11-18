@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-giles-of-seville.svg
 name: Blessed Giles of Seville
 stub: false
 honorific: Blessed

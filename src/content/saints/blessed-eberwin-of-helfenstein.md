@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-eberwin-of-helfenstein.svg
 name: Blessed Eberwin of Helfenstein
 stub: false
 honorific: Blessed

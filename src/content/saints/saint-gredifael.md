@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gredifael.svg
 name: Saint Gredifael of Wales
 stub: false
 honorific: Saint

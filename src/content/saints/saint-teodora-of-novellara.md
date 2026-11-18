@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-teodora-of-novellara.svg
 name: Saint Teodora of Novellara
 stub: true
 honorific: Saint

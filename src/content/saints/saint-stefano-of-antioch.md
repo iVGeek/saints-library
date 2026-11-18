@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stefano-of-antioch.svg
 name: Saint Stefano of Antioch
 stub: true
 honorific: Saint

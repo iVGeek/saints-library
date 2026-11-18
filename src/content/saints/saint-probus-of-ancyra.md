@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-probus-of-ancyra.svg
 name: Saint Probus of Ancyra
 stub: false
 honorific: Saint

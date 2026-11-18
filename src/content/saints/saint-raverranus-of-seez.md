@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-raverranus-of-seez.svg
 name: Saint Raverranus of Séez
 stub: true
 honorific: Saint

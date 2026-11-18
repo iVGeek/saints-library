@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ioannes-zhang-jingguang.svg
 name: Saint Ioannes Zhang Jingguang
 stub: false
 honorific: Venerable

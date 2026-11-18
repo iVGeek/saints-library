@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-formerio-of-banares.svg
 name: Saint Formerio of Bañares
 stub: true
 honorific: Saint

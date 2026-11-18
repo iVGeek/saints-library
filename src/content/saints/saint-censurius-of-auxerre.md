@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-censurius-of-auxerre.svg
 name: Saint Censurius of Auxerre
 stub: true
 honorific: Saint

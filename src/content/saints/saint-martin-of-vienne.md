@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-martin-of-vienne.svg
 name: Saint Martin of Vienne
 stub: false
 honorific: Saint

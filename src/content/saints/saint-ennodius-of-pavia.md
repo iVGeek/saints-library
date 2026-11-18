@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ennodius-of-pavia.svg
 name: Saint Ennodius of Pavia
 stub: false
 honorific: Saint

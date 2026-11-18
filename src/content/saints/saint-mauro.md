@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mauro.svg
 name: Saint Mauro
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zoticus-of-tivoli.svg
 name: Saint Zoticus of Tivoli
 stub: true
 honorific: Saint

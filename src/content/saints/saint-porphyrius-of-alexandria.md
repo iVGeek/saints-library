@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-porphyrius-of-alexandria.svg
 name: Saint Porphyrius of Alexandria
 stub: false
 honorific: Saint

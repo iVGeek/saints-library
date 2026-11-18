@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-bertrada-of-saint-gallen.svg
 name: Blessed Bertrada of Saint Gallen
 stub: false
 honorific: Blessed

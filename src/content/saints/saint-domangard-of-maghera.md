@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-domangard-of-maghera.svg
 name: Saint Domangard of Maghera
 stub: true
 honorific: Saint

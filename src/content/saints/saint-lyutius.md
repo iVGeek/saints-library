@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lyutius.svg
 name: Saint Lyutius
 stub: false
 honorific: Saint

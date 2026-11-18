@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-emmanuel-nguyen-van-trieu.svg
 name: Saint Emmanuel Nguyen Van Trieu
 stub: false
 honorific: Venerable

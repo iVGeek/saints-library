@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julius-of-numidia.svg
 name: Saint Julius of Numidia
 stub: true
 honorific: Saint

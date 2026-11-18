@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-wolfrid.svg
 name: Saint Wolfrid of Hohentwiel
 stub: false
 honorific: Saint

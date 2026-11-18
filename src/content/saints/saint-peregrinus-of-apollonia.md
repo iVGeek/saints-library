@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peregrinus-of-apollonia.svg
 name: Saint Peregrinus of Apollonia
 stub: false
 honorific: Saint

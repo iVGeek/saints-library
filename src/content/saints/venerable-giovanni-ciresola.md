@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-giovanni-ciresola.svg
 name: Venerable Giovanni Ciresola
 stub: false
 honorific: Venerable

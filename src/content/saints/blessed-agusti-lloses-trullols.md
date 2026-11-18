@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-agusti-lloses-trullols.svg
 name: Blessed Agustí Llosés Trullols
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dativus-of-sigum.svg
 name: Saint Dativus of Sigum
 stub: false
 honorific: Saint

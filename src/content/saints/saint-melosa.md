@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-melosa.svg
 name: Saint Melosa
 stub: true
 honorific: Saint

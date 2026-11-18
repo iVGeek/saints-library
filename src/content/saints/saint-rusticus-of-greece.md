@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rusticus-of-greece.svg
 name: Saint Rusticus of Greece
 stub: true
 honorific: Saint

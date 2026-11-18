@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-eumenios.svg
 name: Blessed Euménios
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rumon-of-audierne.svg
 name: Saint Rumon of Audierne
 stub: false
 honorific: Saint

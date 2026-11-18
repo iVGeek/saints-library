@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-monitor-of-orleans.svg
 name: Saint Monitor of Orleans
 stub: true
 honorific: Saint

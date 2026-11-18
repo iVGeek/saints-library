@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-beocca-of-chertsey.svg
 name: Saint Beocca of Chertsey
 stub: false
 honorific: Saint

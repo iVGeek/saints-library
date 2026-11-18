@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cwenburgh-of-wimborne.svg
 name: Saint Cwenburgh of Wimborne
 stub: false
 honorific: Saint

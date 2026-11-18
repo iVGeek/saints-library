@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lambert-of-lyon.svg
 name: Saint Lambert of Lyon
 stub: false
 honorific: Saint

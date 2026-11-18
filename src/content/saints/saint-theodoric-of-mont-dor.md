@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodoric-of-mont-dor.svg
 name: Saint Theodoric of Mont d'Or
 stub: false
 honorific: Saint

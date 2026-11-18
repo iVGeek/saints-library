@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-aedhgein-of-fobhar.svg
 name: Saint Aedhgein of Fobhar
 stub: true
 honorific: Saint

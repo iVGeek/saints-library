@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-injuriosus-of-auvergne.svg
 name: Saint Injuriosus of Auvergne
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-themoius.svg
 name: Saint Themoius
 stub: true
 honorific: Saint

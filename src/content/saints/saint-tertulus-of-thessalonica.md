@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tertulus-of-thessalonica.svg
 name: Saint Tertulus of Thessalonica
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secundian-of-rome.svg
 name: Saint Secundian of Rome
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-bonaventura-relli.svg
 name: Blessed Bonaventura Relli
 stub: false
 honorific: Blessed

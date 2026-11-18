@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pienza-of-vilcassin.svg
 name: Saint Pienza of Vilcassin
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-antonio-borges-da-cunha-de-leytoa.svg
 name: Venerable António Borges da Cunha de Leytoa
 stub: true
 honorific: Venerable

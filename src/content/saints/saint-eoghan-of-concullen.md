@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eoghan-of-concullen.svg
 name: Saint Eoghan of Concullen
 stub: true
 honorific: Saint

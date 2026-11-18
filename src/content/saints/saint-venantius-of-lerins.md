@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-venantius-of-lerins.svg
 name: Saint Venantius of Lérins
 stub: false
 honorific: Saint

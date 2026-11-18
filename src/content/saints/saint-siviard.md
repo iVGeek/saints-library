@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-siviard.svg
 name: Saint Siviard
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-castorino-of-saint-paul-trois-chateaux.svg
 name: Saint Castorino of Saint-Paul-Trois-Châteaux
 stub: false
 honorific: Saint

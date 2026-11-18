@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-drogo-of-baume.svg
 name: Blessed Drogo of Baume
 stub: false
 honorific: Blessed

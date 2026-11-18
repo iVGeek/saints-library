@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-palotinus-of-thessalonica.svg
 name: Saint Palotinus of Thessalonica
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-guy-of-vicogne.svg
 name: Blessed Guy of Vicogne
 stub: false
 honorific: Blessed

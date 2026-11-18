@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-isidore-of-besancon.svg
 name: Saint Isidore of Besançon
 stub: false
 honorific: Saint

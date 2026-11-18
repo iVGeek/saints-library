@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-menalippus-the-martyr.svg
 name: Saint Menalippus the Martyr
 stub: true
 honorific: Saint

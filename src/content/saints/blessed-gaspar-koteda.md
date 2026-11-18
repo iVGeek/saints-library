@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gaspar-koteda.svg
 name: Blessed Gaspar Koteda
 stub: false
 honorific: Blessed

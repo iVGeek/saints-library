@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-michel-francois-de-lagardette.svg
 name: Blessed Michel-François de la Gardette
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gundekar.svg
 name: Saint Gundekar
 stub: true
 honorific: Saint

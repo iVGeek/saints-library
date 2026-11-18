@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-domitius-of-caesarea.svg
 name: Saint Domitius of Caesarea
 stub: false
 honorific: Saint

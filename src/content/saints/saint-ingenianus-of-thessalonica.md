@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ingenianus-of-thessalonica.svg
 name: Saint Ingenianus of Thessalonica
 stub: true
 honorific: Saint

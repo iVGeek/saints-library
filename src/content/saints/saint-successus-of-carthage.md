@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-successus-of-carthage.svg
 name: Saint Successus of Carthage
 stub: false
 honorific: Saint

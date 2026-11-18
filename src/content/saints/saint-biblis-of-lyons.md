@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-biblis-of-lyons.svg
 name: Saint Biblis of Lyons
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pompanus-of-rome.svg
 name: Saint Pompanus of Rome
 stub: true
 honorific: Saint

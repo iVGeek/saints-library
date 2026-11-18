@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-riginos.svg
 name: Saint Riginos
 stub: true
 honorific: Saint

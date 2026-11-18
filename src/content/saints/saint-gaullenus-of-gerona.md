@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gaullenus-of-gerona.svg
 name: Saint Gaullenus of Gerona
 stub: true
 honorific: Saint

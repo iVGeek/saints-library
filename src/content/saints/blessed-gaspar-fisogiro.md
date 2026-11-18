@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gaspar-fisogiro.svg
 name: Blessed Gaspar Fisogiro
 stub: false
 honorific: Blessed

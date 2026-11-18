@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bagne-of-terouanne.svg
 name: Saint Bagne of Terouanne
 stub: false
 honorific: Saint

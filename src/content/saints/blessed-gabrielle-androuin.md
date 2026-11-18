@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gabrielle-androuin.svg
 name: Blessed Gabrielle Androuin
 stub: false
 honorific: Blessed

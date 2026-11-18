@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-curcodomus.svg
 name: Saint Curcodomus
 stub: true
 honorific: Saint

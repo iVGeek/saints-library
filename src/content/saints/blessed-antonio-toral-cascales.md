@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-antonio-toral-cascales.svg
 name: Blessed Antonio Toral Cascales
 stub: false
 honorific: Blessed

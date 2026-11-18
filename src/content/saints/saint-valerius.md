@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valerius.svg
 name: Saint Valerius
 stub: true
 honorific: Saint

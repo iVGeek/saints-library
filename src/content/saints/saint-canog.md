@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-canog.svg
 name: Saint Canog ap Brychan
 stub: false
 honorific: Saint

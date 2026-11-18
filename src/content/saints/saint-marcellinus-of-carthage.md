@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcellinus-of-carthage.svg
 name: Saint Marcellinus of Carthage
 stub: false
 honorific: Saint

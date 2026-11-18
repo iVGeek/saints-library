@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcellus-of-nicomedia.svg
 name: Saint Marcellus of Nicomedia
 stub: false
 honorific: Saint

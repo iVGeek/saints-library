@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tatta-of-damascus.svg
 name: Saint Tatta of Damascus
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mariana-of-britonia.svg
 name: Saint Mariana of Britonia
 stub: true
 honorific: Saint

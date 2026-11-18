@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zenobius-of-sidon.svg
 name: Saint Zenobius of Sidon
 stub: false
 honorific: Saint

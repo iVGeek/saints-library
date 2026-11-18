@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cecilia-of-thessalonica.svg
 name: Saint Cecilia of Thessalonica
 stub: true
 honorific: Saint

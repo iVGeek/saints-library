@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-odilone-of-stavelot-malamedy.svg
 name: Blessed Odilone of Stavelot-Malamédy
 stub: false
 honorific: Blessed

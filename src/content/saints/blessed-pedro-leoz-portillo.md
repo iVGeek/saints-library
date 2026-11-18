@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-pedro-leoz-portillo.svg
 name: Blessed Pedro Leoz Portillo
 stub: true
 honorific: Blessed

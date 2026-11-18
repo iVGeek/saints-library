@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-thomas-koshima-shinshiro.svg
 name: Blessed Thomas Koshima Shinshiro
 stub: false
 honorific: Blessed

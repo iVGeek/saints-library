@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-haindrit-of-etting.svg
 name: Blessed Haindrit of Etting
 stub: false
 honorific: Blessed

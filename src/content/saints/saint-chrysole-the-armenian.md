@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-chrysole-the-armenian.svg
 name: Saint Chrysole the Armenian
 stub: false
 honorific: Saint

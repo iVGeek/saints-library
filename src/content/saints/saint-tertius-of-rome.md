@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tertius-of-rome.svg
 name: Saint Tertius of Rome
 stub: false
 honorific: Saint

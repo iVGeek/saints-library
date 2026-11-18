@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cutonius-of-campania.svg
 name: Saint Cutonius of Campania
 stub: false
 honorific: Saint

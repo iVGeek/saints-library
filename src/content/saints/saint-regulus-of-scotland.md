@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-regulus-of-scotland.svg
 name: Saint Regulus of Scotland
 stub: false
 honorific: Saint

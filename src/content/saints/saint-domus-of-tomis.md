@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-domus-of-tomis.svg
 name: Saint Domus of Tomis
 stub: true
 honorific: Saint

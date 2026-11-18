@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eufrasio-of-ilitirgi.svg
 name: Saint Eufrasio of Ilitirgi
 stub: true
 honorific: Saint

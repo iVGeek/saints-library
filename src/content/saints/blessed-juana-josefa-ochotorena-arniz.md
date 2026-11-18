@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-juana-josefa-ochotorena-arniz.svg
 name: Blessed Juana Josefa Ochotorena Arniz
 stub: true
 honorific: Blessed

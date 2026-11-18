@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-pedro-ibanez-alonso.svg
 name: Blessed Pedro Ibáñez Alonso
 stub: true
 honorific: Blessed

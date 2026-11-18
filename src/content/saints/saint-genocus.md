@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-genocus.svg
 name: Saint Genocus
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-elias-of-syracuse.svg
 name: Saint Elias of Syracuse
 stub: true
 honorific: Saint

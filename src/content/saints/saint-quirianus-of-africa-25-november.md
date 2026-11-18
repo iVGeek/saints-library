@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-quirianus-of-africa-25-november.svg
 name: Saint Quirianus of Africa
 stub: false
 honorific: Saint

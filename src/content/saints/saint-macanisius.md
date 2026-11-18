@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-macanisius.svg
 name: Saint Macanisius
 stub: false
 honorific: Saint

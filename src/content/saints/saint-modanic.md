@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-modanic.svg
 name: Saint Modanic
 stub: false
 honorific: Saint

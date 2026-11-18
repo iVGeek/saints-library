@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-montfort-scott.svg
 name: Blessed Montfort Scott
 stub: false
 honorific: Blessed

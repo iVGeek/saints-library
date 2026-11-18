@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-of-moyenmoutier.svg
 name: Saint John of Moyenmoutier
 stub: false
 honorific: Saint

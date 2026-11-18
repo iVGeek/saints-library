@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-beatus-of-trier.svg
 name: Saint Beatus of Trier
 stub: true
 honorific: Saint

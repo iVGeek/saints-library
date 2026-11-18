@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-aretius-of-rome.svg
 name: Saint Aretius of Rome
 stub: true
 honorific: Saint

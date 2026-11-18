@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-datius-of-north-africa.svg
 name: Saint Datius of North Africa
 stub: true
 honorific: Saint

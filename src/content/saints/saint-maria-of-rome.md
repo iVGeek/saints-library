@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maria-of-rome.svg
 name: Saint Maria of Rome
 stub: false
 honorific: Saint

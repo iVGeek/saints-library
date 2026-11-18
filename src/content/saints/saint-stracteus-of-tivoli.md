@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stracteus-of-tivoli.svg
 name: Saint Stracteus of Tivoli
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eudoxia-of-canope.svg
 name: Saint Eudoxia of Canope
 stub: false
 honorific: Saint

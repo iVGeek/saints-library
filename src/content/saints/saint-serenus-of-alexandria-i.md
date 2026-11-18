@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-serenus-of-alexandria-i.svg
 name: Saint Serenus of Alexandria
 stub: true
 honorific: Saint

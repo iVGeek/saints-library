@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodosia-the-martyr.svg
 name: Saint Theodosia the Martyr
 stub: true
 honorific: Saint

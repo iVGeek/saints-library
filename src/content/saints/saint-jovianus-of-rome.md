@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jovianus-of-rome.svg
 name: Saint Jovianus of Rome
 stub: false
 honorific: Saint

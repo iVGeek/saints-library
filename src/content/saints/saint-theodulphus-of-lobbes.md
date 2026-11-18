@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodulphus-of-lobbes.svg
 name: Saint Theodulphus of Lobbes
 stub: true
 honorific: Saint

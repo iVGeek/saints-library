@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-pascasio-of-lyon.svg
 name: Blessed Pascasio of Lyon
 stub: true
 honorific: Blessed

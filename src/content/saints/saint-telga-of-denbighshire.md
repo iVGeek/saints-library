@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-telga-of-denbighshire.svg
 name: Saint Telga of Denbighshire
 stub: false
 honorific: Saint

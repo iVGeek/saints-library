@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufinus.svg
 name: Saint Rufinus
 stub: false
 honorific: Saint

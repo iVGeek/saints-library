@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vodoaldus-of-soissons.svg
 name: Saint Vodoaldus of Soissons
 stub: false
 honorific: Saint

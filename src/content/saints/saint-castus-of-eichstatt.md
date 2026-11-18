@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-castus-of-eichstatt.svg
 name: Saint Castus of Eichstätt
 stub: true
 honorific: Saint

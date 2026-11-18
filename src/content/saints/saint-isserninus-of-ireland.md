@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-isserninus-of-ireland.svg
 name: Saint Isserninus of Ireland
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-posima-of-rome.svg
 name: Saint Posima of Rome
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-moderata-of-sirmium.svg
 name: Saint Moderata of Sirmium
 stub: false
 honorific: Saint

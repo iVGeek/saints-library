@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gaspar-nagai-sohan.svg
 name: Blessed Gaspar Nagai Sohan
 stub: false
 honorific: Blessed

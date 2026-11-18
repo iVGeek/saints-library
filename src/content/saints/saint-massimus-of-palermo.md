@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-massimus-of-palermo.svg
 name: Saint Massimus of Palermo
 stub: false
 honorific: Saint

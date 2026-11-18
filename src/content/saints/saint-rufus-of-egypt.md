@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufus-of-egypt.svg
 name: Saint Rufus of Egypt
 stub: true
 honorific: Saint

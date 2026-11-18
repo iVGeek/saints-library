@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zanitas-of-bardiaboch.svg
 name: Saint Zanitas of Bardiaboch
 stub: false
 honorific: Saint

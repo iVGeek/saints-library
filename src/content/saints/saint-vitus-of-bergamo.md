@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vitus-of-bergamo.svg
 name: Saint Vitus of Bergamo
 stub: true
 honorific: Saint

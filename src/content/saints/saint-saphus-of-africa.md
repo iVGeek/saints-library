@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saphus-of-africa.svg
 name: Saint Saphus of Africa
 stub: true
 honorific: Saint

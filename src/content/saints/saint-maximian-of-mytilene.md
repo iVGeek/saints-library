@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximian-of-mytilene.svg
 name: Saint Maximian of Mytilene
 stub: true
 honorific: Saint

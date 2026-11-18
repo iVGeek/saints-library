@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-salvius-of-north-africa.svg
 name: Saint Salvius of North Africa
 stub: true
 honorific: Saint

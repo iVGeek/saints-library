@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cappa-of-rome.svg
 name: Saint Cappa of Rome
 stub: true
 honorific: Saint

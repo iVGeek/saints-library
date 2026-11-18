@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-evarist-bueria-biosca.svg
 name: Blessed Evarist Bueria Biosca
 stub: false
 honorific: Blessed

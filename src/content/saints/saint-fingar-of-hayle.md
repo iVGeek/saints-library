@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fingar-of-hayle.svg
 name: Saint Fingar of Hayle
 stub: false
 honorific: Saint

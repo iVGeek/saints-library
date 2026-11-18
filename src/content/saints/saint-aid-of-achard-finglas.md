@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-aid-of-achard-finglas.svg
 name: Saint Aid of Achard-Finglas
 stub: false
 honorific: Saint

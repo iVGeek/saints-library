@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victorius-of-leon.svg
 name: Saint Victorius of Léon
 stub: false
 honorific: Saint

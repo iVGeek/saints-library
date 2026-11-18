@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valerius-of-africa-2.svg
 name: Saint Valerius of Africa
 stub: true
 honorific: Saint

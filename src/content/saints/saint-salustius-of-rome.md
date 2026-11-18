@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-salustius-of-rome.svg
 name: Saint Salustius of Rome
 stub: true
 honorific: Saint

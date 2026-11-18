@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bairfhion-of-killbarron.svg
 name: Saint Bairfhion of Killbarron
 stub: false
 honorific: Saint

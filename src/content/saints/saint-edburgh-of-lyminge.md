@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-edburgh-of-lyminge.svg
 name: Saint Edburgh of Lyminge
 stub: true
 honorific: Saint

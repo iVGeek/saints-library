@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-solemnis-of-chartres.svg
 name: Saint Solemnis of Chartres
 stub: true
 honorific: Saint

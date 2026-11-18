@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victorinus-of-ravenna.svg
 name: Saint Victorinus of Ravenna
 stub: true
 honorific: Saint

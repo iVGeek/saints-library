@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-marcelli-mur-blanch.svg
 name: Blessed Marcelli Mur Blanch
 stub: false
 honorific: Blessed

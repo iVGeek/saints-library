@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zosimus-of-lugdunum.svg
 name: Saint Zosimus of Lugdunum
 stub: false
 honorific: Saint

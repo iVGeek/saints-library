@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gowan-of-wales.svg
 name: Saint Gowan of Wales
 stub: false
 honorific: Saint

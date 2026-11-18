@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eusebius-the-martyr.svg
 name: Saint Eusebius the Martyr
 stub: true
 honorific: Saint

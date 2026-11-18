@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hildebrand-of-saint-gilles.svg
 name: Saint Hildebrand of Saint-Gilles
 stub: true
 honorific: Saint

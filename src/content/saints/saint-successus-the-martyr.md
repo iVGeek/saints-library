@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-successus-the-martyr.svg
 name: Saint Successus the Martyr
 stub: false
 honorific: Saint

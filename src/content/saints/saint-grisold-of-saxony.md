@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-grisold-of-saxony.svg
 name: Saint Grisold of Saxony
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-medran.svg
 name: Saint Medran
 stub: true
 honorific: Saint

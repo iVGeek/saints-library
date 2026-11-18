@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-rafael-touceda-fernandez.svg
 name: Blessed Rafael Touceda Fernández
 stub: false
 honorific: Blessed

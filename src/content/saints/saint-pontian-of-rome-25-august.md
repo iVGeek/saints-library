@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pontian-of-rome-25-august.svg
 name: Saint Pontian of Rome
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eugentus-of-tomi.svg
 name: Saint Eugentus of Tomi
 stub: false
 honorific: Saint

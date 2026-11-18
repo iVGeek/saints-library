@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dada-of-durostorum.svg
 name: Saint Dada of Durostorum
 stub: true
 honorific: Saint

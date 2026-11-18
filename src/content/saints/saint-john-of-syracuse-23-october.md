@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-of-syracuse-23-october.svg
 name: Saint John of Syracuse
 stub: false
 honorific: Saint

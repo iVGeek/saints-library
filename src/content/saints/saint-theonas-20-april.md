@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theonas-20-april.svg
 name: Saint Theonas
 stub: false
 honorific: Saint

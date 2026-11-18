@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodotus-of-africa.svg
 name: Saint Theodotus of Africa
 stub: true
 honorific: Saint

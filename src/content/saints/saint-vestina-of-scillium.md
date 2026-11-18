@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vestina-of-scillium.svg
 name: Saint Vestina of Scillium
 stub: false
 honorific: Saint

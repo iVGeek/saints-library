@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-owen.svg
 name: Saint Owen
 stub: false
 honorific: Saint

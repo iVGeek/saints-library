@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-juan-iniguez-de-ciriano-abechuco.svg
 name: Blessed Juan Iñiguez de Ciriano Abechuco
 stub: true
 honorific: Blessed

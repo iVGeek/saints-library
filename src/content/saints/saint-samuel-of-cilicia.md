@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-samuel-of-cilicia.svg
 name: Saint Samuel of Cilicia
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sulpicius.svg
 name: Saint Sulpicius
 stub: true
 honorific: Saint

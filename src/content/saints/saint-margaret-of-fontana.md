@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-margaret-of-fontana.svg
 name: Saint Margaret of Fontana
 stub: false
 honorific: Saint

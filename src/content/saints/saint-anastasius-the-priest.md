@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-anastasius-the-priest.svg
 name: Saint Anastasius the Priest
 stub: false
 honorific: Saint

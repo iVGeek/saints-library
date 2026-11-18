@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-florus-of-ostia.svg
 name: Saint Florus of Ostia
 stub: true
 honorific: Saint

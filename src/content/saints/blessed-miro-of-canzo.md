@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-miro-of-canzo.svg
 name: Blessed Miro of Canzo
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-metrobius-of-tripoli.svg
 name: Saint Metrobius of Tripoli
 stub: true
 honorific: Saint

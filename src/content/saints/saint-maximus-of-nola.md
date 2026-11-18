@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-nola.svg
 name: Saint Maximus of Nola
 stub: false
 honorific: Saint

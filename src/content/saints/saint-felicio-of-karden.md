@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felicio-of-karden.svg
 name: Saint Felicio of Karden
 stub: false
 honorific: Saint

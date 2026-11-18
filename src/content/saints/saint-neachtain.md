@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-neachtain.svg
 name: Saint Neachtain of Cill-Uinche
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximinus-of-antioch.svg
 name: Saint Maximinus of Antioch
 stub: false
 honorific: Saint

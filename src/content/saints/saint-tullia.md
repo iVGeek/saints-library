@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tullia.svg
 name: Saint Tullia
 stub: false
 honorific: Saint

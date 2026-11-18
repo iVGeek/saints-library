@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-teleforus-of-gerona.svg
 name: Saint Teleforus of Gerona
 stub: true
 honorific: Saint

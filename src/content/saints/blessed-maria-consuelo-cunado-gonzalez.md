@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-maria-consuelo-cunado-gonzalez.svg
 name: Blessed María Consuelo Cuñado González
 stub: true
 honorific: Blessed

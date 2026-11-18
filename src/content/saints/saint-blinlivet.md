@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-blinlivet.svg
 name: Saint Blinlivet
 stub: true
 honorific: Saint

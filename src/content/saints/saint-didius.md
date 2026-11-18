@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-didius.svg
 name: Saint Didius
 stub: true
 honorific: Saint

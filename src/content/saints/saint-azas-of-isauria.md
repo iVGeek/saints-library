@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-azas-of-isauria.svg
 name: Saint Azas of Isauria
 stub: false
 honorific: Saint

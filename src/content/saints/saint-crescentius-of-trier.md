@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crescentius-of-trier.svg
 name: Saint Crescentius of Trier
 stub: true
 honorific: Saint

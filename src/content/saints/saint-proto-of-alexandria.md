@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-proto-of-alexandria.svg
 name: Saint Proto of Alexandria
 stub: true
 honorific: Saint

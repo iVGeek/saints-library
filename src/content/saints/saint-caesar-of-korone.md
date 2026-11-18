@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-caesar-of-korone.svg
 name: Saint Caesar of Korone
 stub: false
 honorific: Saint

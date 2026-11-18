@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-orasus-of-rome.svg
 name: Saint Orasus of Rome
 stub: true
 honorific: Saint

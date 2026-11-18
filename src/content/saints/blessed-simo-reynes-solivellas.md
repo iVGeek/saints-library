@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-simo-reynes-solivellas.svg
 name: Blessed Simó Reynés Solivellas
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-servan-of-culross.svg
 name: Saint Servan of Culross
 stub: true
 honorific: Saint

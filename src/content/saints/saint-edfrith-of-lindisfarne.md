@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-edfrith-of-lindisfarne.svg
 name: Saint Edfrith of Lindisfarne
 stub: false
 honorific: Saint

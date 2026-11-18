@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-exuperantius-of-como.svg
 name: Saint Exuperantius of Como
 stub: true
 honorific: Saint

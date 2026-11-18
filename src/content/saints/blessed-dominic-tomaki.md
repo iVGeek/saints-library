@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-dominic-tomaki.svg
 name: Blessed Dominic Tomaki
 stub: true
 honorific: Blessed

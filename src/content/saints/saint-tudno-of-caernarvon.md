@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tudno-of-caernarvon.svg
 name: Saint Tudno of Caernarvon
 stub: true
 honorific: Saint

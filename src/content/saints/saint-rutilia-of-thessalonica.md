@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rutilia-of-thessalonica.svg
 name: Saint Rutilia of Thessalonica
 stub: true
 honorific: Saint

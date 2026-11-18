@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-louthiern.svg
 name: Saint Louthiern
 stub: true
 honorific: Saint

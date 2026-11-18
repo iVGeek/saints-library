@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-extricata-of-rome.svg
 name: Saint Extricata of Rome
 stub: false
 honorific: Saint

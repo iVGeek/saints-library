@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-reinhildis-of-riesenbeck.svg
 name: Saint Reinhildis of Riesenbeck
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ursus-of-troyes.svg
 name: Saint Ursus of Troyes
 stub: true
 honorific: Saint

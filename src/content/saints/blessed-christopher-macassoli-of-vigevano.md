@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-christopher-macassoli-of-vigevano.svg
 name: Blessed Christopher Macassoli of Vigevano
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcellinus-of-thessalonica.svg
 name: Saint Marcellinus of Thessalonica
 stub: true
 honorific: Saint

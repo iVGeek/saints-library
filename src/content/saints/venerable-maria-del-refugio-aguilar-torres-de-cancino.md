@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-maria-del-refugio-aguilar-torres-de-cancino.svg
 name: Venerable María del Refugio Aguilar Torres de Cancino
 stub: true
 honorific: Venerable

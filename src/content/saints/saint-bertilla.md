@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bertilla.svg
 name: Saint Bertilla
 stub: true
 honorific: Saint

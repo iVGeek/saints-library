@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-kennocha-of-fife.svg
 name: Saint Kennocha of Fife
 stub: false
 honorific: Saint

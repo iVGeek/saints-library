@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cadroe.svg
 name: Saint Cadroe
 stub: false
 honorific: Saint

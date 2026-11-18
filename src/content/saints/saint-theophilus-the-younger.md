@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theophilus-the-younger.svg
 name: Saint Theophilus the Younger
 stub: false
 honorific: Saint

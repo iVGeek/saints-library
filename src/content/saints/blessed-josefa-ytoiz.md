@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-josefa-ytoiz.svg
 name: Blessed Josefa Ytóiz
 stub: true
 honorific: Blessed

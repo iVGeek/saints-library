@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-etherius-of-lyons.svg
 name: Saint Etherius of Lyons
 stub: true
 honorific: Saint

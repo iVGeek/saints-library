@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-serrano.svg
 name: Saint Serrano
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-herman-of-heidelberg.svg
 name: Blessed Herman of Heidelberg
 stub: false
 honorific: Blessed

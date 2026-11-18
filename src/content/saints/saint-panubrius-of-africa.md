@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-panubrius-of-africa.svg
 name: Saint Panubrius of Africa
 stub: true
 honorific: Saint

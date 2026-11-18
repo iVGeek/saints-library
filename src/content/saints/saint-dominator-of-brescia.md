@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dominator-of-brescia.svg
 name: Saint Dominator of Brescia
 stub: true
 honorific: Saint

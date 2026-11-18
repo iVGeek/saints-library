@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-duthus-of-ross.svg
 name: Saint Duthus of Ross
 stub: true
 honorific: Saint

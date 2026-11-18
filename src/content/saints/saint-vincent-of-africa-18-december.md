@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vincent-of-africa-18-december.svg
 name: Saint Vincent of Africa
 stub: false
 honorific: Saint

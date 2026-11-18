@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-camelian-of-troyes.svg
 name: Saint Camelian of Troyes
 stub: false
 honorific: Saint

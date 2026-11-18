@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-piscus-of-greece.svg
 name: Saint Piscus of Greece
 stub: true
 honorific: Saint

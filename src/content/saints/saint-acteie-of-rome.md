@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-acteie-of-rome.svg
 name: Saint Acteie of Rome
 stub: true
 honorific: Saint

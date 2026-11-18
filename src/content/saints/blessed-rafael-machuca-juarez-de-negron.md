@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-rafael-machuca-juarez-de-negron.svg
 name: Blessed Rafael Machuca Juárez de Negrón
 stub: false
 honorific: Blessed

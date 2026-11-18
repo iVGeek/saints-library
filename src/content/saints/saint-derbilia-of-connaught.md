@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-derbilia-of-connaught.svg
 name: Saint Derbilia of Connaught
 stub: false
 honorific: Saint

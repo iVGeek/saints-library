@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-luc-sy.svg
 name: Blessed Luc Sy
 stub: false
 honorific: Blessed

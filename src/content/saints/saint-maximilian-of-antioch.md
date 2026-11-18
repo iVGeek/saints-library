@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximilian-of-antioch.svg
 name: Saint Maximilian of Antioch
 stub: false
 honorific: Saint

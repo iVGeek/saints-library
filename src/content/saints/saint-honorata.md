@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-honorata.svg
 name: Saint Honorata
 stub: true
 honorific: Saint

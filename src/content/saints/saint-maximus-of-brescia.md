@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-brescia.svg
 name: Saint Maximus of Brescia
 stub: true
 honorific: Saint

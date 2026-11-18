@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-phaolo-nguyen-ngan.svg
 name: Saint Phaolô Nguyen Ngân
 stub: false
 honorific: Venerable

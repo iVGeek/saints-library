@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gregory-of-nonantula.svg
 name: Blessed Gregory of Nonantula
 stub: true
 honorific: Blessed

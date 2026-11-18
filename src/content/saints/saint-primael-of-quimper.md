@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-primael-of-quimper.svg
 name: Saint Primael of Quimper
 stub: true
 honorific: Saint

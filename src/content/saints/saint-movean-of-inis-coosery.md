@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-movean-of-inis-coosery.svg
 name: Saint Movean of Inis-Coosery
 stub: false
 honorific: Saint

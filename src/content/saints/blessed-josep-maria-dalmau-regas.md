@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-josep-maria-dalmau-regas.svg
 name: Blessed Josep Maria Dalmau Regás
 stub: true
 honorific: Blessed

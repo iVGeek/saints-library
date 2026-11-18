@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mawnan-of-cornwall.svg
 name: Saint Mawnan of Cornwall
 stub: false
 honorific: Saint

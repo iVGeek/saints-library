@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-euprepius-of-aegea.svg
 name: Saint Euprepius of Aegea
 stub: true
 honorific: Saint

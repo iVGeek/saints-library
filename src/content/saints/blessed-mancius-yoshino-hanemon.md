@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-mancius-yoshino-hanemon.svg
 name: Blessed Mancius Yoshino Han'emon
 stub: false
 honorific: Blessed

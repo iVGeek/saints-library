@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-philadelphus-the-martyr.svg
 name: Saint Philadelphus the Martyr
 stub: true
 honorific: Saint

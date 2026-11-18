@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-maria-teresa-artusini.svg
 name: Venerable Maria Teresa Artusini
 stub: false
 honorific: Venerable

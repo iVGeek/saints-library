@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-seleucus-of-alexandria.svg
 name: Saint Seleucus of Alexandria
 stub: false
 honorific: Saint

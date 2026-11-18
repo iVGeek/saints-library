@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-arethas-of-negran.svg
 name: Saint Arethas of Negran
 stub: false
 honorific: Saint

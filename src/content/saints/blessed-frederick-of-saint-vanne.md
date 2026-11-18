@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-frederick-of-saint-vanne.svg
 name: Blessed Frederick of Saint-Vanne
 stub: false
 honorific: Blessed

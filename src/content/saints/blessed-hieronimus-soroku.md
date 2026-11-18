@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-hieronimus-soroku.svg
 name: Blessed Hieronimus Soroku
 stub: false
 honorific: Blessed

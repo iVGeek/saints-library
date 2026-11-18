@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stephen-of-asta.svg
 name: Saint Stephen of Asta
 stub: true
 honorific: Saint

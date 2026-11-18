@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-aucias-of-thessalonica.svg
 name: Saint Aucias of Thessalonica
 stub: true
 honorific: Saint

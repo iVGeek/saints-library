@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyriacus-of-cologne.svg
 name: Saint Cyriacus of Cologne
 stub: false
 honorific: Saint

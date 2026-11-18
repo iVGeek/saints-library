@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-oncho-of-clonmore.svg
 name: Saint Oncho of Clonmore
 stub: false
 honorific: Saint

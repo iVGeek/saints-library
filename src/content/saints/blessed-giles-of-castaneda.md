@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-giles-of-castaneda.svg
 name: Blessed Giles of Castaneda
 stub: false
 honorific: Blessed

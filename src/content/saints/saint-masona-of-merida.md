@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-masona-of-merida.svg
 name: Saint Masona of Mérida
 stub: false
 honorific: Saint

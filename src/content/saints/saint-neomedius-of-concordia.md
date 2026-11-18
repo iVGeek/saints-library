@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-neomedius-of-concordia.svg
 name: Saint Neomedius of Concordia
 stub: false
 honorific: Saint

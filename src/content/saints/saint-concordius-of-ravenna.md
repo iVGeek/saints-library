@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-concordius-of-ravenna.svg
 name: Saint Concordius of Ravenna
 stub: true
 honorific: Saint

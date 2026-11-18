@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-phileas.svg
 name: Saint Phileas
 stub: true
 honorific: Saint

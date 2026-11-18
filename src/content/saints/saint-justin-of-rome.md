@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-justin-of-rome.svg
 name: Saint Justin of Rome
 stub: true
 honorific: Saint

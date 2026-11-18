@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-verda-of-persia.svg
 name: Saint Verda of Persia
 stub: true
 honorific: Saint

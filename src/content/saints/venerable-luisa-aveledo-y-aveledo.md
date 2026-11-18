@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-luisa-aveledo-y-aveledo.svg
 name: Venerable Luisa Aveledo y Aveledo
 stub: false
 honorific: Venerable

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ogasawara-gonnosuke.svg
 name: Blessed Ogasawara Gonnosuke
 stub: false
 honorific: Blessed

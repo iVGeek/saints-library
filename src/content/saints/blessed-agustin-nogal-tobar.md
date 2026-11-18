@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-agustin-nogal-tobar.svg
 name: Blessed Agustín Nogal Tobar
 stub: false
 honorific: Blessed

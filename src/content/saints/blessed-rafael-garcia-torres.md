@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-rafael-garcia-torres.svg
 name: Blessed Rafaél García Torres
 stub: true
 honorific: Blessed

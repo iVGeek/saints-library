@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-caerealis-of-tivoli.svg
 name: Saint Caerealis of Tivoli
 stub: false
 honorific: Saint

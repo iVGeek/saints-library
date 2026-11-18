@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-leonorious-of-brittany.svg
 name: Saint Leonorious of Brittany
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rebecca-of-alexandria.svg
 name: Saint Rebecca of Alexandria
 stub: true
 honorific: Saint

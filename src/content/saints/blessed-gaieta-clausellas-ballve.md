@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gaieta-clausellas-ballve.svg
 name: Blessed Gaietà Clausellas Ballvé
 stub: false
 honorific: Blessed

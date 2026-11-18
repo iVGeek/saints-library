@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hilarinus.svg
 name: Saint Hilarinus
 stub: true
 honorific: Saint

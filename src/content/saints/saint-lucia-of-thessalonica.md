@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lucia-of-thessalonica.svg
 name: Saint Lucia of Thessalonica
 stub: true
 honorific: Saint

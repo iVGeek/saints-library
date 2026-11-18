@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thecla-of-lentini.svg
 name: Saint Thecla of Lentini
 stub: false
 honorific: Saint

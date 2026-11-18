@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theophilis-of-alexandria.svg
 name: Saint Theophilis of Alexandria
 stub: false
 honorific: Saint

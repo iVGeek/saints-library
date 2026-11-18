@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-william-carter.svg
 name: Blessed William Carter
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cuimmein-of-nendrum.svg
 name: Saint Cuimmein of Nendrum
 stub: true
 honorific: Saint

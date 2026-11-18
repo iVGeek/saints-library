@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-beatrix-of-cappenberg.svg
 name: Blessed Beatrix of Cappenberg
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-petrus-son-son-ji.svg
 name: Saint Petrus Son Son-Ji
 stub: true
 honorific: Venerable

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-pascual-alaez-medina.svg
 name: Blessed Pascual Aláez Medina
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-everan-of-drumreilly.svg
 name: Saint Everan of Drumreilly
 stub: false
 honorific: Saint

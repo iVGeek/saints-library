@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dasius-of-nicomedia.svg
 name: Saint Dasius of Nicomedia
 stub: false
 honorific: Saint

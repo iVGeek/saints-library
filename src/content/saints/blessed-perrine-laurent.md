@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-perrine-laurent.svg
 name: Blessed Perrine Laurent
 stub: false
 honorific: Blessed

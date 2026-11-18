@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gregorius-of-rome.svg
 name: Saint Gregorius of Rome
 stub: true
 honorific: Saint

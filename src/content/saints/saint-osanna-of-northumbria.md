@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-osanna-of-northumbria.svg
 name: Saint Osanna of Northumbria
 stub: true
 honorific: Saint

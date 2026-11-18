@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hilarius-of-rome.svg
 name: Saint Hilarius of Rome
 stub: true
 honorific: Saint

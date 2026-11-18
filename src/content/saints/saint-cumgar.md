@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cumgar.svg
 name: Saint Cumgar
 stub: false
 honorific: Saint

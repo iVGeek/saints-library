@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zambdas-of-jerusalem.svg
 name: Saint Zambdas of Jerusalem
 stub: false
 honorific: Saint

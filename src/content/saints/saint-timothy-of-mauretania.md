@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-timothy-of-mauretania.svg
 name: Saint Timothy of Mauretania
 stub: false
 honorific: Saint

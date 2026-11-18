@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-troadius-of-pontus.svg
 name: Saint Troadius of Pontus
 stub: false
 honorific: Saint

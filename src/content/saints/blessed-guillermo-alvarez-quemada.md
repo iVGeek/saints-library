@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-guillermo-alvarez-quemada.svg
 name: Blessed Guillermo Álvarez Quemada
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-migdonius-of-rome.svg
 name: Saint Migdonius of Rome
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-agrarius-the-martyr.svg
 name: Saint Agrarius the Martyr
 stub: false
 honorific: Saint

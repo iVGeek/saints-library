@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cuaran-the-wise.svg
 name: Saint Cuaran the Wise
 stub: false
 honorific: Saint

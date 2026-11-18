@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-pedro-simancas-valderramas.svg
 name: Blessed Pedro Simancas Valderramas
 stub: false
 honorific: Blessed

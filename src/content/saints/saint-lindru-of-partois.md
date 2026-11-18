@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lindru-of-partois.svg
 name: Saint Lindru of Partois
 stub: true
 honorific: Saint

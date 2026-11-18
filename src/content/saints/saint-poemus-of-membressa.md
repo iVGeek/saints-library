@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-poemus-of-membressa.svg
 name: Saint Poëmus of Membressa
 stub: true
 honorific: Saint

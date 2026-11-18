@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rumwold-of-buckingham.svg
 name: Saint Rumwold of Buckingham
 stub: false
 honorific: Saint

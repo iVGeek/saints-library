@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-petrus-choe-pil-je.svg
 name: Blessed Petrus Choe Pil-je
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victor-of-merida.svg
 name: Saint Victor of Merida
 stub: true
 honorific: Saint

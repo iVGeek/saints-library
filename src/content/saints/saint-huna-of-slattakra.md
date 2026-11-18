@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-huna-of-slattakra.svg
 name: Saint Huna of Slättåkra
 stub: false
 honorific: Saint

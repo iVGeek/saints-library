@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-precordius.svg
 name: Saint Precordius
 stub: false
 honorific: Saint

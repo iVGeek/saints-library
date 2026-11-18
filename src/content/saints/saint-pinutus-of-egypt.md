@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pinutus-of-egypt.svg
 name: Saint Pinutus of Egypt
 stub: false
 honorific: Saint

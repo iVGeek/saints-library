@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-praxedes-fernandez-garcia-de-fernandez.svg
 name: Venerable Praxedes Fernández García de Fernández
 stub: true
 honorific: Venerable

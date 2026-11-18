@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-curcodomus-of-auxerre.svg
 name: Saint Curcodomus of Auxerre
 stub: false
 honorific: Saint

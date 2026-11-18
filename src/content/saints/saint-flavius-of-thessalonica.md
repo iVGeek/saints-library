@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-flavius-of-thessalonica.svg
 name: Saint Flavius of Thessalonica
 stub: true
 honorific: Saint

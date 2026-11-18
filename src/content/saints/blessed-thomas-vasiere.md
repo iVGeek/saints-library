@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-thomas-vasiere.svg
 name: Blessed Thomas Vasière
 stub: false
 honorific: Blessed

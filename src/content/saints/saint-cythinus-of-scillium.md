@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cythinus-of-scillium.svg
 name: Saint Cythinus of Scillium
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hadulph.svg
 name: Saint Hadulph
 stub: true
 honorific: Saint

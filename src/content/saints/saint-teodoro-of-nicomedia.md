@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-teodoro-of-nicomedia.svg
 name: Saint Teodoro of Nicomedia
 stub: true
 honorific: Saint

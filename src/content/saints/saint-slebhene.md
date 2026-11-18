@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-slebhene.svg
 name: Saint Slebhene
 stub: true
 honorific: Saint

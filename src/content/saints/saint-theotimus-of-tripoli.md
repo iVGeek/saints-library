@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theotimus-of-tripoli.svg
 name: Saint Theotimus of Tripoli
 stub: true
 honorific: Saint

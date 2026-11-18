@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-neptunalis-of-rome.svg
 name: Saint Neptunalis of Rome
 stub: true
 honorific: Saint

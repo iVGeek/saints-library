@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-constantine-of-carthage.svg
 name: Saint Constantine of Carthage
 stub: true
 honorific: Saint

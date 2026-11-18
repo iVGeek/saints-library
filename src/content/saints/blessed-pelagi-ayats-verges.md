@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-pelagi-ayats-verges.svg
 name: Blessed Pelagi Ayats Vergés
 stub: false
 honorific: Blessed

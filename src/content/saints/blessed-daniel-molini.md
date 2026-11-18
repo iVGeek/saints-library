@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-daniel-molini.svg
 name: Blessed Daniel Molini
 stub: true
 honorific: Blessed

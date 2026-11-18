@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodore-of-adrianopolis.svg
 name: Saint Theodore of Adrianopolis
 stub: true
 honorific: Saint

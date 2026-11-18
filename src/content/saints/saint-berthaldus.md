@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-berthaldus.svg
 name: Saint Berthaldus
 stub: false
 honorific: Saint

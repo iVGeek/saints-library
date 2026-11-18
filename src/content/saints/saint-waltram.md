@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-waltram.svg
 name: Saint Waltram
 stub: false
 honorific: Saint

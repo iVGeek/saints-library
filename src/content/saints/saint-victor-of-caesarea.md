@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victor-of-caesarea.svg
 name: Saint Victor of Caesarea
 stub: true
 honorific: Saint

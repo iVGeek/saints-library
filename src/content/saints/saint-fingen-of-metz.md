@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fingen-of-metz.svg
 name: Saint Fingen of Metz
 stub: true
 honorific: Saint

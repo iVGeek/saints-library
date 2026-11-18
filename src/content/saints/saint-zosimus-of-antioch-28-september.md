@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zosimus-of-antioch-28-september.svg
 name: Saint Zosimus of Antioch
 stub: true
 honorific: Saint

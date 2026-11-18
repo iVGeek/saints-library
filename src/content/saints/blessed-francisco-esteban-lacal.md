@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-francisco-esteban-lacal.svg
 name: Blessed Francisco Esteban Lacal
 stub: false
 honorific: Blessed

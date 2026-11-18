@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-florentius-of-bangor.svg
 name: Saint Florentius of Bangor
 stub: false
 honorific: Saint

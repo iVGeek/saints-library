@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jose-gomez-de-haro.svg
 name: Blessed José Gomez De Haro
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mavilus-of-adrumetum.svg
 name: Saint Mavilus of Adrumetum
 stub: false
 honorific: Saint

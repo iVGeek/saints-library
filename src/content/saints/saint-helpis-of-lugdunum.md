@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-helpis-of-lugdunum.svg
 name: Saint Helpis of Lugdunum
 stub: false
 honorific: Saint

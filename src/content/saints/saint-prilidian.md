@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-prilidian.svg
 name: Saint Prilidian
 stub: true
 honorific: Saint

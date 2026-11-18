@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-conon-the-younger.svg
 name: Saint Conon the Younger
 stub: false
 honorific: Saint

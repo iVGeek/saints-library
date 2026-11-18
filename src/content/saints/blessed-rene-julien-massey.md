@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-rene-julien-massey.svg
 name: Blessed René-Julien Massey
 stub: false
 honorific: Blessed

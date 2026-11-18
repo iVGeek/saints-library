@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jerome-of-pavia.svg
 name: Saint Jerome of Pavia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gudene-of-carthage.svg
 name: Saint Gudene of Carthage
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-passimus-of-alexandria.svg
 name: Saint Passimus of Alexandria
 stub: true
 honorific: Saint

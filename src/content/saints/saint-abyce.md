@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-abyce.svg
 name: Saint Abyce
 stub: false
 honorific: Saint

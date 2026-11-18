@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-amo-of-toul.svg
 name: Saint Amo of Toul
 stub: true
 honorific: Saint

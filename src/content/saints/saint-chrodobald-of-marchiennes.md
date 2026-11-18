@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-chrodobald-of-marchiennes.svg
 name: Saint Chrodobald of Marchiennes
 stub: false
 honorific: Saint

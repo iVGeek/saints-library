@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-spes-of-spoleto.svg
 name: Saint Spes of Spoleto
 stub: true
 honorific: Saint

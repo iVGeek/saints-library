@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hernan.svg
 name: Saint Hernan
 stub: false
 honorific: Saint

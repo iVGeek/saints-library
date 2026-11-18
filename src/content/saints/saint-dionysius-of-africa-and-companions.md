@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dionysius-of-africa-and-companions.svg
 name: Saint Dionysius of Africa and Companions
 stub: false
 honorific: Saint

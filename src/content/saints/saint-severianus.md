@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-severianus.svg
 name: Saint Severianus
 stub: false
 honorific: Saint

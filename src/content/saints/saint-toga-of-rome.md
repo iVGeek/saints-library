@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-toga-of-rome.svg
 name: Saint Toga of Rome
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hermes-of-heraclea.svg
 name: Saint Hermes of Heraclea
 stub: false
 honorific: Saint

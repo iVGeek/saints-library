@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-timotheus-of-greece.svg
 name: Saint Timotheus of Greece
 stub: true
 honorific: Saint

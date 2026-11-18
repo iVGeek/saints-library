@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-severus-of-abruzzi.svg
 name: Saint Severus of Abruzzi
 stub: false
 honorific: Saint

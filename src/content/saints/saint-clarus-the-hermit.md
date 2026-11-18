@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-clarus-the-hermit.svg
 name: Saint Clarus the Hermit
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-askega-of-croyland.svg
 name: Saint Askega of Croyland
 stub: true
 honorific: Saint

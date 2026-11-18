@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-betha-of-corinth.svg
 name: Saint Betha of Corinth
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dasius-of-dorostorum.svg
 name: Saint Dasius of Dorostorum
 stub: false
 honorific: Saint

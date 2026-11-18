@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-colman-of-lismore.svg
 name: Saint Colman of Lismore
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secundus-of-puglia.svg
 name: Saint Secundus of Puglia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufo-of-rome.svg
 name: Saint Rufo of Rome
 stub: true
 honorific: Saint

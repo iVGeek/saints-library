@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-compagno-of-recanati.svg
 name: Blessed Compagno of Recanati
 stub: false
 honorific: Blessed

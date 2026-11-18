@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valentina-of-rome.svg
 name: Saint Valentina of Rome
 stub: false
 honorific: Saint

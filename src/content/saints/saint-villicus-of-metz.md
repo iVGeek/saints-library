@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-villicus-of-metz.svg
 name: Saint Villicus of Metz
 stub: true
 honorific: Saint

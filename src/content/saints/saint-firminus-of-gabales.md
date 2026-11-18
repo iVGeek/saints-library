@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-firminus-of-gabales.svg
 name: Saint Firminus of Gabales
 stub: true
 honorific: Saint

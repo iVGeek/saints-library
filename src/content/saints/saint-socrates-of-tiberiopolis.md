@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-socrates-of-tiberiopolis.svg
 name: Saint Socrates of Tiberiopolis
 stub: false
 honorific: Saint

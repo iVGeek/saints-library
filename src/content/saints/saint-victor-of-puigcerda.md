@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victor-of-puigcerda.svg
 name: Saint Victor of Puigcerda
 stub: false
 honorific: Saint

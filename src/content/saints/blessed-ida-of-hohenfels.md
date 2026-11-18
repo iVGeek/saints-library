@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ida-of-hohenfels.svg
 name: Blessed Ida of Hohenfels
 stub: true
 honorific: Blessed

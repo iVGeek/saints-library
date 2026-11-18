@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-servius.svg
 name: Saint Servius
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-diceus-of-nicaea.svg
 name: Saint Diceus of Nicaea
 stub: true
 honorific: Saint

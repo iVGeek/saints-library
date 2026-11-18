@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-wigbert.svg
 name: Saint Wigbert
 stub: false
 honorific: Saint

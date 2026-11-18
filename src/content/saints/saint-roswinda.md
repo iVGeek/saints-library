@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-roswinda.svg
 name: Saint Roswinda
 stub: true
 honorific: Saint

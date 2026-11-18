@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-prima-of-thessalonica.svg
 name: Saint Prima of Thessalonica
 stub: true
 honorific: Saint

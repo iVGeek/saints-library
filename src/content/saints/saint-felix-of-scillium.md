@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felix-of-scillium.svg
 name: Saint Felix of Scillium
 stub: false
 honorific: Saint

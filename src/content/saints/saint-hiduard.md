@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hiduard.svg
 name: Saint Hiduard
 stub: false
 honorific: Saint

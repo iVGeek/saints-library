@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-agapa-of-britonia.svg
 name: Saint Agapa of Britonia
 stub: true
 honorific: Saint

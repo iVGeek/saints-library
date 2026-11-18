@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-elfleda-of-whitby.svg
 name: Saint Elfleda of Whitby
 stub: false
 honorific: Saint

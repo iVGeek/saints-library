@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-domninus-of-antioch.svg
 name: Saint Domninus of Antioch
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-guasacht.svg
 name: Saint Guasacht of Granard
 stub: false
 honorific: Saint

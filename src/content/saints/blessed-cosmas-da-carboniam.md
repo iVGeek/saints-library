@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-cosmas-da-carboniam.svg
 name: Blessed Cosmas da Carboniam
 stub: false
 honorific: Blessed

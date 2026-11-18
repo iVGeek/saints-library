@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rasyphus-of-mace.svg
 name: Saint Rasyphus of Macé
 stub: true
 honorific: Saint

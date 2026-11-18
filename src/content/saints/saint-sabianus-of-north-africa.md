@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sabianus-of-north-africa.svg
 name: Saint Sabianus of North Africa
 stub: true
 honorific: Saint

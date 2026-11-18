@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-arcontius-of-brioude.svg
 name: Saint Arcontius of Brioude
 stub: true
 honorific: Saint

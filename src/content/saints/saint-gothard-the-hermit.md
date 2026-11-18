@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gothard-the-hermit.svg
 name: Saint Gothard the Hermit
 stub: false
 honorific: Saint

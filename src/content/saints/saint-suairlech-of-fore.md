@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-suairlech-of-fore.svg
 name: Saint Suairlech of Fore
 stub: true
 honorific: Saint

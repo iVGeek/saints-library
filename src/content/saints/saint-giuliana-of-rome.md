@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-giuliana-of-rome.svg
 name: Saint Giuliana of Rome
 stub: true
 honorific: Saint

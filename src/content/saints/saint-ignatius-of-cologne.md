@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ignatius-of-cologne.svg
 name: Saint Ignatius of Cologne
 stub: true
 honorific: Saint

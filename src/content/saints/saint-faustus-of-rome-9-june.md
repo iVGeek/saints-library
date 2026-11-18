@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-faustus-of-rome-9-june.svg
 name: Saint Faustus of Rome
 stub: true
 honorific: Saint

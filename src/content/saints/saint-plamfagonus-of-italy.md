@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-plamfagonus-of-italy.svg
 name: Saint Plamfagonus of Italy
 stub: false
 honorific: Saint

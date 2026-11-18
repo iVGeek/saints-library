@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ludovicus-furue-sukeemon.svg
 name: Blessed Ludovicus Furue Sukeemon
 stub: true
 honorific: Blessed

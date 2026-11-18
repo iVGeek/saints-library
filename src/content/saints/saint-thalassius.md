@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thalassius.svg
 name: Saint Thalassius
 stub: false
 honorific: Saint

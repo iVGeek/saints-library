@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-antoni-junyent-estruch.svg
 name: Blessed Antoni Junyent Estruch
 stub: false
 honorific: Blessed

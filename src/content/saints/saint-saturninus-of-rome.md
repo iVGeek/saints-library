@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturninus-of-rome.svg
 name: Saint Saturninus of Rome
 stub: false
 honorific: Saint

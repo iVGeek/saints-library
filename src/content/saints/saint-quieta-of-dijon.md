@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-quieta-of-dijon.svg
 name: Saint Quieta of Dijon
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ortario-of-landelles.svg
 name: Saint Ortario of Landelles
 stub: false
 honorific: Saint

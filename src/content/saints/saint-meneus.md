@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-meneus.svg
 name: Saint Meneus
 stub: true
 honorific: Saint

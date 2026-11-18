@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dubtach-of-armagh.svg
 name: Saint Dubtach of Armagh
 stub: false
 honorific: Saint

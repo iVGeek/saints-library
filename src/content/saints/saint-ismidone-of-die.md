@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ismidone-of-die.svg
 name: Saint Ismidone of Die
 stub: false
 honorific: Saint

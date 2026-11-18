@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nepotian-of-altino.svg
 name: Saint Nepotian of Altino
 stub: false
 honorific: Saint

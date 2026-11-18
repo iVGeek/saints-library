@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-feliciana-de-uribe-orbe.svg
 name: Blessed Feliciana de Uribe Orbe
 stub: true
 honorific: Blessed

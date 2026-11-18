@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-macedonius-kritophagos.svg
 name: Saint Macedonius Kritophagos
 stub: false
 honorific: Saint

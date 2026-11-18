@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-castor-of-tarsus-28-march.svg
 name: Saint Castor of Tarsus
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-getulla-of-thessalonica.svg
 name: Saint Getulla of Thessalonica
 stub: true
 honorific: Saint

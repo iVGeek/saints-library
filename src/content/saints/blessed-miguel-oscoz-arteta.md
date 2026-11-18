@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-miguel-oscoz-arteta.svg
 name: Blessed Miguel Oscoz Arteta
 stub: false
 honorific: Blessed

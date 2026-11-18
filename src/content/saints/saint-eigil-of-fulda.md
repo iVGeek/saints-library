@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eigil-of-fulda.svg
 name: Saint Eigil of Fulda
 stub: false
 honorific: Saint

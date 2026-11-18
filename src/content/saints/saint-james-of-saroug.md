@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-james-of-saroug.svg
 name: Saint James of Saroug
 stub: false
 honorific: Saint

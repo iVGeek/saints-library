@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-spes-of-campi.svg
 name: Saint Spes of Campi
 stub: false
 honorific: Saint

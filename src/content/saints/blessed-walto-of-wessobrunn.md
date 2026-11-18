@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-walto-of-wessobrunn.svg
 name: Blessed Walto of Wessobrünn
 stub: false
 honorific: Blessed

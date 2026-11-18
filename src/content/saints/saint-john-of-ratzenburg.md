@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-of-ratzenburg.svg
 name: Saint John of Ratzenburg
 stub: false
 honorific: Saint

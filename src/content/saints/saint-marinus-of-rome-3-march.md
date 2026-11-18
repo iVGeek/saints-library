@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marinus-of-rome-3-march.svg
 name: Saint Marinus of Rome
 stub: true
 honorific: Saint

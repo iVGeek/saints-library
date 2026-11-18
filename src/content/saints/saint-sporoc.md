@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sporoc.svg
 name: Saint Sporoc
 stub: false
 honorific: Saint

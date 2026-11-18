@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-angelica-dura.svg
 name: Venerable Angelica Durà
 stub: false
 honorific: Venerable

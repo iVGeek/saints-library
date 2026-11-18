@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-anastasius-of-schemarius.svg
 name: Saint Anastasius of Schemarius
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mary-of-cordoba.svg
 name: Saint Mary of Cordoba
 stub: false
 honorific: Saint

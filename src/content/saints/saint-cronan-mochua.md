@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cronan-mochua.svg
 name: Saint Cronan Mochua
 stub: false
 honorific: Saint

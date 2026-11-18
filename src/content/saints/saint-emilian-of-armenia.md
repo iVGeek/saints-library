@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-emilian-of-armenia.svg
 name: Saint Emilian of Armenia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-biagio-of-the-incarnation.svg
 name: Blessed Biagio of the Incarnation
 stub: true
 honorific: Blessed

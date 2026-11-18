@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-wereka.svg
 name: Saint Wereka
 stub: true
 honorific: Saint

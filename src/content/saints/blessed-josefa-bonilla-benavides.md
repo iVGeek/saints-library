@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-josefa-bonilla-benavides.svg
 name: Blessed Josefa Bonilla Benavides
 stub: true
 honorific: Blessed

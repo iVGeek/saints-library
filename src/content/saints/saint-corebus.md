@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-corebus.svg
 name: Saint Corebus
 stub: false
 honorific: Saint

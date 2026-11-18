@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-josep-mir-pons.svg
 name: Blessed Josep Mir Pons
 stub: false
 honorific: Blessed

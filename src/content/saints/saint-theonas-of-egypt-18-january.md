@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theonas-of-egypt-18-january.svg
 name: Saint Theonas of Egypt
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-tomas-barrios-perez.svg
 name: Blessed Tomás Barrios Pérez
 stub: false
 honorific: Blessed

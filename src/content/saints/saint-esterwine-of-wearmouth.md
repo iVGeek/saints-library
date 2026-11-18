@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-esterwine-of-wearmouth.svg
 name: Saint Esterwine of Wearmouth
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jose-gando-una.svg
 name: Blessed José Gando Uña
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-silvanus-of-terracina.svg
 name: Saint Silvanus of Terracina
 stub: true
 honorific: Saint

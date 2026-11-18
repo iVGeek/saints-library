@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cuan-of-ahascragh.svg
 name: Saint Cuán of Ahascragh
 stub: true
 honorific: Saint

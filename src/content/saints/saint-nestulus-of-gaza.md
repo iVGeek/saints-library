@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nestulus-of-gaza.svg
 name: Saint Nestulus of Gaza
 stub: false
 honorific: Saint

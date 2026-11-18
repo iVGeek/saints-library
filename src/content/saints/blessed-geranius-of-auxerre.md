@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-geranius-of-auxerre.svg
 name: Blessed Geranius of Auxerre
 stub: false
 honorific: Blessed

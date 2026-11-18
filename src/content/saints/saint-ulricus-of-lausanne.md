@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ulricus-of-lausanne.svg
 name: Saint Ulricus of Lausanne
 stub: true
 honorific: Saint

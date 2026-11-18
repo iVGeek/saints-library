@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-didacus-kagayama-haito.svg
 name: Blessed Didacus Kagayama Haito
 stub: false
 honorific: Blessed

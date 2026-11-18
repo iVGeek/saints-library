@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sepacus-of-thessalonica.svg
 name: Saint Sepacus of Thessalonica
 stub: true
 honorific: Saint

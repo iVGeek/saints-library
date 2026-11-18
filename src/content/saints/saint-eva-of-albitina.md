@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eva-of-albitina.svg
 name: Saint Eva of Albitina
 stub: false
 honorific: Saint

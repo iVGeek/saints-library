@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-autbert-of-landevennec.svg
 name: Saint Autbert of Landevennec
 stub: false
 honorific: Saint

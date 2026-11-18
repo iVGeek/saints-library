@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eoghan-the-sage.svg
 name: Saint Eoghan the Sage
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-peter-aymillo.svg
 name: Blessed Peter Aymillo
 stub: true
 honorific: Blessed

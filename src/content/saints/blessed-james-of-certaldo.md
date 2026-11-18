@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-james-of-certaldo.svg
 name: Blessed James of Certaldo
 stub: false
 honorific: Blessed

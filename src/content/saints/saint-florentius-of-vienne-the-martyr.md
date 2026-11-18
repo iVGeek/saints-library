@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-florentius-of-vienne-the-martyr.svg
 name: Saint Florentius of Vienne the Martyr
 stub: false
 honorific: Saint

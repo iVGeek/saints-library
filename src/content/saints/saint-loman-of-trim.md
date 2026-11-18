@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-loman-of-trim.svg
 name: Saint Loman of Trim
 stub: false
 honorific: Saint

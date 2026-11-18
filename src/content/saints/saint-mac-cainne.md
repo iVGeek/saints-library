@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mac-cainne.svg
 name: Saint Mac Cainne
 stub: true
 honorific: Saint

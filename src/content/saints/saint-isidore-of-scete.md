@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-isidore-of-scete.svg
 name: Saint Isidore of Scété
 stub: false
 honorific: Saint

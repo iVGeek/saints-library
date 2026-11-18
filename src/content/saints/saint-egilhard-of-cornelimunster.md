@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-egilhard-of-cornelimunster.svg
 name: Saint Egilhard of Cornelimünster
 stub: true
 honorific: Saint

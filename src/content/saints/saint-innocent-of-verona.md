@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-innocent-of-verona.svg
 name: Saint Innocent of Verona
 stub: true
 honorific: Saint

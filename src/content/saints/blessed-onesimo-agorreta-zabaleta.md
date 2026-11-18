@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-onesimo-agorreta-zabaleta.svg
 name: Blessed Onésimo Agorreta Zabaleta
 stub: false
 honorific: Blessed

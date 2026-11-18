@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gerald-of-beziers.svg
 name: Saint Gerald of Beziers
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-arnosus-of-campania.svg
 name: Saint Arnosus of Campania
 stub: false
 honorific: Saint

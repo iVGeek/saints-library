@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-corbmac.svg
 name: Saint Corbmac of Durrow
 stub: false
 honorific: Saint

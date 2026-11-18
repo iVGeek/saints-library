@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-frunumius-of-africa.svg
 name: Saint Frunumius of Africa
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-carles-canyes-santacana.svg
 name: Blessed Carles Canyes Santacana
 stub: false
 honorific: Blessed

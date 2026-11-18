@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jose-gimenez-reyes.svg
 name: Blessed José Giménez Reyes
 stub: true
 honorific: Blessed

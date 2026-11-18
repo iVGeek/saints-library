@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-archangel-of-campobasso.svg
 name: Blessed Archangel of Campobasso
 stub: false
 honorific: Blessed

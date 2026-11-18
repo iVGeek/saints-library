@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gerard-of-gallinaro.svg
 name: Saint Gerard of Gallinaro
 stub: true
 honorific: Saint

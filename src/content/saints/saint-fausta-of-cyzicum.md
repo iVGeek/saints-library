@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fausta-of-cyzicum.svg
 name: Saint Fausta of Cyzicum
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-berthoald-of-cambrai.svg
 name: Saint Berthoald of Cambrai
 stub: true
 honorific: Saint

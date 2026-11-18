@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-humphrey-of-prum.svg
 name: Saint Humphrey of Prüm
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-venusta-of-rome.svg
 name: Saint Venusta of Rome
 stub: false
 honorific: Saint

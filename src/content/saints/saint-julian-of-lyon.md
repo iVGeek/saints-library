@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julian-of-lyon.svg
 name: Saint Julian of Lyon
 stub: true
 honorific: Saint

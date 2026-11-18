@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodulus-of-pamphylia.svg
 name: Saint Theodulus of Pamphylia
 stub: false
 honorific: Saint

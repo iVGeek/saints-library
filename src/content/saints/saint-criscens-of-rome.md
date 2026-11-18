@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-criscens-of-rome.svg
 name: Saint Criscens of Rome
 stub: true
 honorific: Saint

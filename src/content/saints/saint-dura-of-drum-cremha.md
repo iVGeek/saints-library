@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dura-of-drum-cremha.svg
 name: Saint Dura of Drum-Cremha
 stub: false
 honorific: Saint

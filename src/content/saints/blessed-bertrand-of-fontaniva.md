@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-bertrand-of-fontaniva.svg
 name: Blessed Bertrand of Fontaniva
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-felix-barrio-y-barrio.svg
 name: Blessed Félix Barrio y Barrio
 stub: false
 honorific: Blessed

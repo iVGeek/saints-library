@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-michael-amagasu-tayemon.svg
 name: Blessed Michaël Amagasu Tayemon
 stub: false
 honorific: Blessed

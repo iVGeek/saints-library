@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-elgar-of-bardsey.svg
 name: Saint Elgar of Bardsey
 stub: false
 honorific: Saint

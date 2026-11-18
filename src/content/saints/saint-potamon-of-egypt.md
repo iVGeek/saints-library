@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-potamon-of-egypt.svg
 name: Saint Potamon of Egypt
 stub: false
 honorific: Saint

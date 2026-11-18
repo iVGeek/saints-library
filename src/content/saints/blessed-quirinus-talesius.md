@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-quirinus-talesius.svg
 name: Blessed Quirinus Talesius
 stub: true
 honorific: Blessed

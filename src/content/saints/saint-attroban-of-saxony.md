@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-attroban-of-saxony.svg
 name: Saint Attroban of Saxony
 stub: true
 honorific: Saint

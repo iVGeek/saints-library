@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-florianus-of-pannonia.svg
 name: Saint Florianus of Pannonia
 stub: true
 honorific: Saint

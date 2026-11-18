@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-evangeliste-of-verona.svg
 name: Blessed Évangéliste of Verona
 stub: true
 honorific: Blessed

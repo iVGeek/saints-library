@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-abundius-of-spain.svg
 name: Saint Abundius of Spain
 stub: true
 honorific: Saint

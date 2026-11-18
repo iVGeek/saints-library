@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hierotheos-of-tiberiopolis.svg
 name: Saint Hierotheos of Tiberiopolis
 stub: false
 honorific: Saint

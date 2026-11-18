@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-dionysius-fugixima.svg
 name: Blessed Dionysius Fugixima
 stub: false
 honorific: Blessed

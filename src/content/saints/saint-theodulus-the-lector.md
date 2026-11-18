@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodulus-the-lector.svg
 name: Saint Theodulus the Lector
 stub: false
 honorific: Saint

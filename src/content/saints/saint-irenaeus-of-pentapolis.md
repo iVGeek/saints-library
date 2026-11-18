@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-irenaeus-of-pentapolis.svg
 name: Saint Irenaeus of Pentapolis
 stub: false
 honorific: Saint

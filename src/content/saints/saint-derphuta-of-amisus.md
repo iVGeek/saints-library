@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-derphuta-of-amisus.svg
 name: Saint Derphuta of Amisus
 stub: false
 honorific: Saint

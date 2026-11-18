@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-flavius-of-chalon-sur-saone.svg
 name: Saint Flavius of Chalon-sur-Saône
 stub: false
 honorific: Saint

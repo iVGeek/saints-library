@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-santiago-calero-redondo.svg
 name: Blessed Santiago Calero Redondo
 stub: false
 honorific: Blessed

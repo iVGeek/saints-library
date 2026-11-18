@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dionysius-of-ruthenia.svg
 name: Saint Dionysius of Ruthenia
 stub: true
 honorific: Saint

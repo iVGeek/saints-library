@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-luigi-savare.svg
 name: Venerable Luigi Savaré
 stub: true
 honorific: Venerable

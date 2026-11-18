@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-of-melitene.svg
 name: Saint Peter of Melitene
 stub: true
 honorific: Saint

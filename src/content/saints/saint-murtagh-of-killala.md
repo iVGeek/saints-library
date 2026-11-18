@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-murtagh-of-killala.svg
 name: Saint Murtagh of Killala
 stub: false
 honorific: Saint

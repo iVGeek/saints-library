@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eutyches-the-senator.svg
 name: Saint Eutyches the Senator
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-patricio-gellida-llorach.svg
 name: Blessed Patricio Gellida Llorach
 stub: true
 honorific: Blessed

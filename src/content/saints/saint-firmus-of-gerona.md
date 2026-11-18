@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-firmus-of-gerona.svg
 name: Saint Firmus of Gerona
 stub: true
 honorific: Saint

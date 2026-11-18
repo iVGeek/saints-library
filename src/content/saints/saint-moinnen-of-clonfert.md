@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-moinnen-of-clonfert.svg
 name: Saint Moinnen of Clonfert
 stub: true
 honorific: Saint

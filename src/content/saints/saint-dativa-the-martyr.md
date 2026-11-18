@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dativa-the-martyr.svg
 name: Saint Dativa the Martyr
 stub: false
 honorific: Saint

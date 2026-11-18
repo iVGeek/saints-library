@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-patricio-beobide-cendoya.svg
 name: Blessed Patricio Beobide Cendoya
 stub: false
 honorific: Blessed

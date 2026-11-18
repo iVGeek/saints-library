@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ananias-of-arbela-22-november.svg
 name: Saint Ananias of Arbela
 stub: true
 honorific: Saint

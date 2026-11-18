@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-philip-of-cilicia.svg
 name: Saint Philip of Cilicia
 stub: true
 honorific: Saint

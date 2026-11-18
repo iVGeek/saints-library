@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sisinno-of-nicopolis.svg
 name: Saint Sisinno of Nicopolis
 stub: true
 honorific: Saint

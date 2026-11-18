@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jose-munoz-quero.svg
 name: Blessed José Muñoz Quero
 stub: true
 honorific: Blessed

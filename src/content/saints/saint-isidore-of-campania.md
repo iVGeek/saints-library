@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-isidore-of-campania.svg
 name: Saint Isidore of Campania
 stub: false
 honorific: Saint

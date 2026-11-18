@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fronimus-of-nicomedia.svg
 name: Saint Fronimus of Nicomedia
 stub: true
 honorific: Saint

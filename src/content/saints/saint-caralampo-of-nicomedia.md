@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-caralampo-of-nicomedia.svg
 name: Saint Caralampo of Nicomedia
 stub: true
 honorific: Saint

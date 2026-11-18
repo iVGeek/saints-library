@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-linus-rihyoe.svg
 name: Blessed Linus Rihyoe
 stub: false
 honorific: Blessed

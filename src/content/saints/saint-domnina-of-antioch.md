@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-domnina-of-antioch.svg
 name: Saint Domnina of Antioch
 stub: true
 honorific: Saint

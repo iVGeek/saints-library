@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-prima-of-rome-2.svg
 name: Saint Prima of Rome
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victor-of-carthage.svg
 name: Saint Victor of Carthage
 stub: true
 honorific: Saint

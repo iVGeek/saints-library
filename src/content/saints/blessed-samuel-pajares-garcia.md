@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-samuel-pajares-garcia.svg
 name: Blessed Samuel Pajares García
 stub: true
 honorific: Blessed

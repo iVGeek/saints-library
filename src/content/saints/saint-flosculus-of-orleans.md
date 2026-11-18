@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-flosculus-of-orleans.svg
 name: Saint Flosculus of Orleans
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-beatrix-of-bohemia.svg
 name: Saint Beatrix of Bohemia
 stub: true
 honorific: Saint

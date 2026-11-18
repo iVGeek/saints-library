@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sillica-of-thessalonica.svg
 name: Saint Sillica of Thessalonica
 stub: true
 honorific: Saint

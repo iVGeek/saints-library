@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bertoara.svg
 name: Saint Bertoara
 stub: false
 honorific: Saint

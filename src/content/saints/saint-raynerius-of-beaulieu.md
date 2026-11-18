@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-raynerius-of-beaulieu.svg
 name: Saint Raynerius of Beaulieu
 stub: true
 honorific: Saint

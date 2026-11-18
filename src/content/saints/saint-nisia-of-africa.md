@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nisia-of-africa.svg
 name: Saint Nisia of Africa
 stub: true
 honorific: Saint

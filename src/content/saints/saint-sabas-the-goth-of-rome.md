@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sabas-the-goth-of-rome.svg
 name: Saint Sabas the Goth of Rome
 stub: false
 honorific: Saint

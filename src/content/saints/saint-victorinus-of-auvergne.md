@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victorinus-of-auvergne.svg
 name: Saint Victorinus of Auvergne
 stub: true
 honorific: Saint

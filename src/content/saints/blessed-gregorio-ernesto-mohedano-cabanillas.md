@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gregorio-ernesto-mohedano-cabanillas.svg
 name: Blessed Gregorio Ernesto Mohedano Cabanillas
 stub: true
 honorific: Blessed

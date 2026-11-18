@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-senach-of-clonard.svg
 name: Saint Senach of Clonard
 stub: false
 honorific: Saint

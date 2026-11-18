@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-serapion-of-corinth-28-february.svg
 name: Saint Serapion of Corinth
 stub: true
 honorific: Saint

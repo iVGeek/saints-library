@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cairpre-of-maghbile.svg
 name: Saint Cairpre of Maghbile
 stub: true
 honorific: Saint

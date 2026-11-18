@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-enrico-mauri.svg
 name: Venerable Enrico Mauri
 stub: false
 honorific: Venerable

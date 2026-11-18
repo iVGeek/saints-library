@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-claudian-of-africa-25-november.svg
 name: Saint Claudian of Africa
 stub: false
 honorific: Saint

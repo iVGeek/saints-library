@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ardalion-the-actor.svg
 name: Saint Ardalion the Actor
 stub: false
 honorific: Saint

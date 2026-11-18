@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-goswin.svg
 name: Saint Goswin
 stub: false
 honorific: Saint

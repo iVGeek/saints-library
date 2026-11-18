@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-blidulf-of-bobbio.svg
 name: Saint Blidulf of Bobbio
 stub: false
 honorific: Saint

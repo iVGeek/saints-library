@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-joseph-luu.svg
 name: Saint Joseph Luu
 stub: false
 honorific: Venerable

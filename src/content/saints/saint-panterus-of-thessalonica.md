@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-panterus-of-thessalonica.svg
 name: Saint Panterus of Thessalonica
 stub: true
 honorific: Saint

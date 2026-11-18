@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-primitiva.svg
 name: Saint Primitiva
 stub: true
 honorific: Saint

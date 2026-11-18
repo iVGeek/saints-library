@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-corbasius-of-quimperle.svg
 name: Saint Corbasius of Quimperlé
 stub: false
 honorific: Saint

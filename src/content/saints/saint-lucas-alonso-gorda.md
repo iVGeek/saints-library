@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lucas-alonso-gorda.svg
 name: Saint Lucas Alonso Gorda
 stub: true
 honorific: Venerable

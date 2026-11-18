@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zoe-of-pamphylia.svg
 name: Saint Zoe of Pamphylia
 stub: false
 honorific: Saint

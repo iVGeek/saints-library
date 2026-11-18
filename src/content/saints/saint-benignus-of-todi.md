@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-benignus-of-todi.svg
 name: Saint Benignus of Todi
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julian-of-damascus.svg
 name: Saint Julian of Damascus
 stub: true
 honorific: Saint

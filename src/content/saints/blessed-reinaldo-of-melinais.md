@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-reinaldo-of-melinais.svg
 name: Blessed Reinaldo of Melinais
 stub: false
 honorific: Blessed

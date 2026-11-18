@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-elian-of-marula.svg
 name: Saint Elian of Marula
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-kingsmark.svg
 name: Saint Kingsmark
 stub: true
 honorific: Saint

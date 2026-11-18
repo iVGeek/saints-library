@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-petrus-chong-won-ji.svg
 name: Saint Petrus Chong Won-Ji
 stub: true
 honorific: Venerable

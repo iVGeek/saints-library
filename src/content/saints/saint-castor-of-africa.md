@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-castor-of-africa.svg
 name: Saint Castor of Africa
 stub: true
 honorific: Saint

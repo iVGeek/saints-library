@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-leucone-of-troyes.svg
 name: Saint Leucone of Troyes
 stub: false
 honorific: Saint

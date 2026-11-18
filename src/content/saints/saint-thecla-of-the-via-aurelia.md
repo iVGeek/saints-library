@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thecla-of-the-via-aurelia.svg
 name: Saint Thecla of the Via Aurelia
 stub: false
 honorific: Saint

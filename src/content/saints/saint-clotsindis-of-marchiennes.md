@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-clotsindis-of-marchiennes.svg
 name: Saint Clotsindis of Marchiennes
 stub: false
 honorific: Saint

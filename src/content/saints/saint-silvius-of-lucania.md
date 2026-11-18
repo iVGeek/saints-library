@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-silvius-of-lucania.svg
 name: Saint Silvius of Lucania
 stub: true
 honorific: Saint

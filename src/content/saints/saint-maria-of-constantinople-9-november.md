@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maria-of-constantinople-9-november.svg
 name: Saint Maria of Constantinople
 stub: false
 honorific: Saint

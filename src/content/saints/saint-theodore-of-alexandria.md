@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodore-of-alexandria.svg
 name: Saint Theodore of Alexandria
 stub: true
 honorific: Saint

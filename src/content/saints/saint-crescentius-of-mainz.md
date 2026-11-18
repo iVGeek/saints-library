@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crescentius-of-mainz.svg
 name: Saint Crescentius of Mainz
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lietbert.svg
 name: Saint Lietbert of Cambrai
 stub: false
 honorific: Saint

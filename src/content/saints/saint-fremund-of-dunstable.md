@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fremund-of-dunstable.svg
 name: Saint Fremund of Dunstable
 stub: true
 honorific: Saint

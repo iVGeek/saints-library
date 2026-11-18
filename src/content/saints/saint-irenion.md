@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-irenion.svg
 name: Saint Irenion
 stub: true
 honorific: Saint

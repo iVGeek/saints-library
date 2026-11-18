@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-francesc-de-paula-colomer-prisas.svg
 name: Blessed Francesc de Paula Colomer Prísas
 stub: false
 honorific: Blessed

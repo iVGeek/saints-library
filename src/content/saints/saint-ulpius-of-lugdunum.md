@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ulpius-of-lugdunum.svg
 name: Saint Ulpius of Lugdunum
 stub: false
 honorific: Saint

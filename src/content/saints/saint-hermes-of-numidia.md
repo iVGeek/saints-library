@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hermes-of-numidia.svg
 name: Saint Hermes of Numidia
 stub: true
 honorific: Saint

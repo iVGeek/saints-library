@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gilles-louis-symphorien-lanchon.svg
 name: Blessed Gilles-Louis-Symphorien Lanchon
 stub: true
 honorific: Blessed

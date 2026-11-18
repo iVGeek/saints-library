@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ornandus-of-vicogne.svg
 name: Blessed Ornandus of Vicogne
 stub: false
 honorific: Blessed

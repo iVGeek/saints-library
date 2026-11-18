@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rogatus-of-rome-2.svg
 name: Saint Rogatus of Rome
 stub: false
 honorific: Saint

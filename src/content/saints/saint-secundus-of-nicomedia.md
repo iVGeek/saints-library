@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secundus-of-nicomedia.svg
 name: Saint Secundus of Nicomedia
 stub: true
 honorific: Saint

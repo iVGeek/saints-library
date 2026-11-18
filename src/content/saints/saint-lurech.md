@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lurech.svg
 name: Saint Lurech
 stub: false
 honorific: Saint

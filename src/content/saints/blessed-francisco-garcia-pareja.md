@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-francisco-garcia-pareja.svg
 name: Blessed Francisco García Pareja
 stub: false
 honorific: Blessed

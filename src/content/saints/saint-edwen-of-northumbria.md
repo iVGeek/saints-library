@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-edwen-of-northumbria.svg
 name: Saint Edwen of Northumbria
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-syncrotas-of-syrmium.svg
 name: Saint Syncrotas of Syrmium
 stub: true
 honorific: Saint

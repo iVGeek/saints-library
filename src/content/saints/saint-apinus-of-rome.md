@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-apinus-of-rome.svg
 name: Saint Apinus of Rome
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-philip-of-gortyna.svg
 name: Saint Philip of Gortyna
 stub: false
 honorific: Saint

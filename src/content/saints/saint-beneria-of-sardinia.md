@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-beneria-of-sardinia.svg
 name: Saint Beneria of Sardinia
 stub: true
 honorific: Saint

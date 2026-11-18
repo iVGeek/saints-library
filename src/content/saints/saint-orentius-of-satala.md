@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-orentius-of-satala.svg
 name: Saint Orentius of Satala
 stub: false
 honorific: Saint

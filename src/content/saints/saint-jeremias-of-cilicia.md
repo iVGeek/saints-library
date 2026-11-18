@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jeremias-of-cilicia.svg
 name: Saint Jeremias of Cilicia
 stub: false
 honorific: Saint

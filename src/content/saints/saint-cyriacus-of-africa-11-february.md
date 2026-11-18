@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyriacus-of-africa-11-february.svg
 name: Saint Cyriacus of Africa
 stub: true
 honorific: Saint

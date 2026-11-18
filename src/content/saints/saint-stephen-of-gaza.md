@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stephen-of-gaza.svg
 name: Saint Stephen of Gaza
 stub: true
 honorific: Saint

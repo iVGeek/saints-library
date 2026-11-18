@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eunomia-of-augsburg.svg
 name: Saint Eunomia of Augsburg
 stub: false
 honorific: Saint

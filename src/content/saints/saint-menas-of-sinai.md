@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-menas-of-sinai.svg
 name: Saint Menas of Sinai
 stub: false
 honorific: Saint

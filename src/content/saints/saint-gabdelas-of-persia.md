@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gabdelas-of-persia.svg
 name: Saint Gabdelas of Persia
 stub: false
 honorific: Saint

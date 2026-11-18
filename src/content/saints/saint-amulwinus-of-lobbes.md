@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-amulwinus-of-lobbes.svg
 name: Saint Amulwinus of Lobbes
 stub: false
 honorific: Saint

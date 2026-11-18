@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-abidianus-of-africa.svg
 name: Saint Abidianus of Africa
 stub: true
 honorific: Saint

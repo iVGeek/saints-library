@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-timothy-of-antioch-8-april.svg
 name: Saint Timothy of Antioch
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gebetrude-of-remiremont.svg
 name: Saint Gébétrude of Remiremont
 stub: false
 honorific: Saint

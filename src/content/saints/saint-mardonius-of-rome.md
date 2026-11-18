@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mardonius-of-rome.svg
 name: Saint Mardonius of Rome
 stub: false
 honorific: Saint

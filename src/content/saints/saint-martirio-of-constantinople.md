@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-martirio-of-constantinople.svg
 name: Saint Martirio of Constantinople
 stub: true
 honorific: Saint

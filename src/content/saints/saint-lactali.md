@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lactali.svg
 name: Saint Lactali of Freshford
 stub: false
 honorific: Saint

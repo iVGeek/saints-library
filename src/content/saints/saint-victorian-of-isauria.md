@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victorian-of-isauria.svg
 name: Saint Victorian of Isauria
 stub: true
 honorific: Saint

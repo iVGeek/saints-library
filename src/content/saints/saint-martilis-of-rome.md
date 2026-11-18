@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-martilis-of-rome.svg
 name: Saint Martilis of Rome
 stub: false
 honorific: Saint

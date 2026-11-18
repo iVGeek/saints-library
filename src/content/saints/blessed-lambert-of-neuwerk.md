@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-lambert-of-neuwerk.svg
 name: Blessed Lambert of Neuwerk
 stub: false
 honorific: Blessed

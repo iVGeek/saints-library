@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-prudence-castori.svg
 name: Blessed Prudence Castori
 stub: false
 honorific: Blessed

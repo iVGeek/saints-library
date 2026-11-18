@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gregory-of-auxerre.svg
 name: Saint Gregory of Auxerre
 stub: true
 honorific: Saint

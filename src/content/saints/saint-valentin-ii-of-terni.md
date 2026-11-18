@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valentin-ii-of-terni.svg
 name: Saint Valentin II of Terni
 stub: false
 honorific: Saint

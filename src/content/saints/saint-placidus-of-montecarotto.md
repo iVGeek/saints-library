@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-placidus-of-montecarotto.svg
 name: Saint Placidus of Montecarotto
 stub: false
 honorific: Saint

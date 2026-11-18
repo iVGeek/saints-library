@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufinus-of-capua.svg
 name: Saint Rufinus of Capua
 stub: false
 honorific: Saint

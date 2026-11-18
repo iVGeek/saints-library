@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodore-of-croyland.svg
 name: Saint Theodore of Croyland
 stub: false
 honorific: Saint

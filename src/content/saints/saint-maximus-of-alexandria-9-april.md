@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-alexandria-9-april.svg
 name: Saint Maximus of Alexandria
 stub: false
 honorific: Saint

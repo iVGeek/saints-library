@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-apronus-of-rome.svg
 name: Saint Apronus of Rome
 stub: true
 honorific: Saint

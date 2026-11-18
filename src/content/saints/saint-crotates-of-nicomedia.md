@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crotates-of-nicomedia.svg
 name: Saint Crotates of Nicomedia
 stub: false
 honorific: Saint

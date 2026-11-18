@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valentio-of-dorostorum.svg
 name: Saint Valentio of Dorostorum
 stub: false
 honorific: Saint

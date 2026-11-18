@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-herundo.svg
 name: Saint Herundo of Rome
 stub: false
 honorific: Saint

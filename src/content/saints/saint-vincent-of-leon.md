@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vincent-of-leon.svg
 name: Saint Vincent of Léon
 stub: false
 honorific: Saint

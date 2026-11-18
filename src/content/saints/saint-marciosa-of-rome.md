@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marciosa-of-rome.svg
 name: Saint Marciosa of Rome
 stub: false
 honorific: Saint

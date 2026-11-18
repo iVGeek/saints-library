@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-blanda-of-rome.svg
 name: Saint Blanda of Rome
 stub: false
 honorific: Saint

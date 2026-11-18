@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-raimundo-calcagno.svg
 name: Venerable Raimundo Calcagno
 stub: true
 honorific: Venerable

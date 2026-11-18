@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cruciatus-of-ravenna.svg
 name: Saint Cruciatus of Ravenna
 stub: true
 honorific: Saint

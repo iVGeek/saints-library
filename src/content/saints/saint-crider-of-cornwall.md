@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crider-of-cornwall.svg
 name: Saint Crider of Cornwall
 stub: true
 honorific: Saint

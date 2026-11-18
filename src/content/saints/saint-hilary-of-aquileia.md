@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hilary-of-aquileia.svg
 name: Saint Hilary of Aquileia
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-franciscus-toyama-jintaro.svg
 name: Blessed Franciscus Toyama Jintaro
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-liutberga-of-windenhausen.svg
 name: Saint Liutberga of Windenhausen
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-narses-of-bardiaboch.svg
 name: Saint Narses of Bardiaboch
 stub: false
 honorific: Saint

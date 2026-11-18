@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vitalis-of-africa-16-november.svg
 name: Saint Vitalis of Africa
 stub: true
 honorific: Saint

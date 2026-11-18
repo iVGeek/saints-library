@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-edmund-brindholm.svg
 name: Venerable Edmund Brindholm
 stub: false
 honorific: Venerable

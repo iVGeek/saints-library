@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-filomenus-of-lugdunum.svg
 name: Saint Filomenus of Lugdunum
 stub: false
 honorific: Saint

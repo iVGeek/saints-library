@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dula-the-slave.svg
 name: Saint Dula the Slave
 stub: false
 honorific: Saint

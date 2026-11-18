@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-julian-iglesias-banuelos.svg
 name: Blessed Julián Iglesias Bañuelos
 stub: false
 honorific: Blessed

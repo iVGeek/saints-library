@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-didymus-of-membressa.svg
 name: Saint Didymus of Membressa
 stub: true
 honorific: Saint

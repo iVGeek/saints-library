@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-momna-of-cilicia.svg
 name: Saint Momna of Cilicia
 stub: true
 honorific: Saint

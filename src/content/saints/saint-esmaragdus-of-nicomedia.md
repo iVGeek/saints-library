@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-esmaragdus-of-nicomedia.svg
 name: Saint Esmaragdus of Nicomedia
 stub: true
 honorific: Saint

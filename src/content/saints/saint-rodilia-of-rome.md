@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rodilia-of-rome.svg
 name: Saint Rodilia of Rome
 stub: false
 honorific: Saint

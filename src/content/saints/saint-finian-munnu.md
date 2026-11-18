@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-finian-munnu.svg
 name: Saint Finian Munnu
 stub: false
 honorific: Saint

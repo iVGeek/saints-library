@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ephrathus-the-thaumaturgist.svg
 name: Saint Ephrathus the Thaumaturgist
 stub: false
 honorific: Saint

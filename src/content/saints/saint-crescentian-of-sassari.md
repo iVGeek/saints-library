@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crescentian-of-sassari.svg
 name: Saint Crescentian of Sassari
 stub: true
 honorific: Saint

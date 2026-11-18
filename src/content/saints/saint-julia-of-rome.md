@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julia-of-rome.svg
 name: Saint Julia of Rome
 stub: false
 honorific: Saint

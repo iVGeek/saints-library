@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cerenico-of-spoleto.svg
 name: Saint Cerenico of Spoleto
 stub: false
 honorific: Saint

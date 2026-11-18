@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maninlia-of-corinth.svg
 name: Saint Maninlia of Corinth
 stub: true
 honorific: Saint

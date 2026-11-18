@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gelasius-of-fossombrone.svg
 name: Saint Gelasius of Fossombrone
 stub: true
 honorific: Saint

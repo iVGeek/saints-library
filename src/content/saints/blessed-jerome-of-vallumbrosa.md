@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jerome-of-vallumbrosa.svg
 name: Blessed Jerome of Vallumbrosa
 stub: true
 honorific: Blessed

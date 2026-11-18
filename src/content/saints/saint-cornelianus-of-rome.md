@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cornelianus-of-rome.svg
 name: Saint Cornelianus of Rome
 stub: true
 honorific: Saint

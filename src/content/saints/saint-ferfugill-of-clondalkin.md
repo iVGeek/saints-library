@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ferfugill-of-clondalkin.svg
 name: Saint Ferfugill of Clondalkin
 stub: true
 honorific: Saint

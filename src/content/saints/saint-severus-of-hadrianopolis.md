@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-severus-of-hadrianopolis.svg
 name: Saint Severus of Hadrianopolis
 stub: true
 honorific: Saint

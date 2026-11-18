@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-urio-of-padua.svg
 name: Saint Urio of Padua
 stub: false
 honorific: Saint

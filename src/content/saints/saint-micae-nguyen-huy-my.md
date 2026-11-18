@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-micae-nguyen-huy-my.svg
 name: Saint Micae Nguyen Huy My
 stub: false
 honorific: Venerable

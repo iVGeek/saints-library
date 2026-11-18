@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-laurentinus-of-carthage.svg
 name: Saint Laurentinus of Carthage
 stub: false
 honorific: Saint

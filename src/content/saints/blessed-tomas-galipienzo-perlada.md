@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-tomas-galipienzo-perlada.svg
 name: Blessed Tomás Galipienzo Perlada
 stub: false
 honorific: Blessed

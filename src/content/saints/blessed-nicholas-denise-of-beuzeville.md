@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-nicholas-denise-of-beuzeville.svg
 name: Blessed Nicholas Denise of Beuzeville
 stub: false
 honorific: Blessed

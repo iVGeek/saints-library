@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-colomba-of-mount-brancastello.svg
 name: Blessed Colomba of Mount Brancastello
 stub: false
 honorific: Blessed

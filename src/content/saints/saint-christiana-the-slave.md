@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-christiana-the-slave.svg
 name: Saint Christiana the Slave
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-porphyrius-of-caesarea.svg
 name: Saint Porphyrius of Caesarea
 stub: false
 honorific: Saint

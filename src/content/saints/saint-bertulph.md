@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bertulph.svg
 name: Saint Bertulph of Renty
 stub: false
 honorific: Saint

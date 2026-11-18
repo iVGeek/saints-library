@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-leontius-of-lydda.svg
 name: Saint Leontius of Lydda
 stub: false
 honorific: Saint

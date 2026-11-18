@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcellus-of-spoleto.svg
 name: Saint Marcellus of Spoleto
 stub: false
 honorific: Saint

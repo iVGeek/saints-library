@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jose-garvi-calvente.svg
 name: Blessed José Garvi Calvente
 stub: false
 honorific: Blessed

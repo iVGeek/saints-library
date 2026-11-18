@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-machudd-of-llanfechel.svg
 name: Saint Machudd of Llanfechel
 stub: true
 honorific: Saint

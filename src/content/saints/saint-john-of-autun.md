@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-of-autun.svg
 name: Saint John of Autun
 stub: true
 honorific: Saint

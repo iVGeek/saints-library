@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-philemon-of-rome.svg
 name: Saint Philemon of Rome
 stub: true
 honorific: Saint

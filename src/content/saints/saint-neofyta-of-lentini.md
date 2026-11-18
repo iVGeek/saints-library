@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-neofyta-of-lentini.svg
 name: Saint Neofyta of Lentini
 stub: false
 honorific: Saint

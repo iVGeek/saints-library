@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-padua.svg
 name: Saint Maximus of Padua
 stub: true
 honorific: Saint

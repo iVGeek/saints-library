@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-asclibiades-of-lugdunum.svg
 name: Saint Asclibíades of Lugdunum
 stub: false
 honorific: Saint

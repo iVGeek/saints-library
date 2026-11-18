@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-haruch-of-werden.svg
 name: Saint Haruch of Werden
 stub: true
 honorific: Saint

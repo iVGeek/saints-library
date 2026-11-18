@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gregorio-charlez-ribera.svg
 name: Blessed Gregorio Charlez Ribera
 stub: false
 honorific: Blessed

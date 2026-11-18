@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-barsenorius.svg
 name: Saint Barsenorius
 stub: false
 honorific: Saint

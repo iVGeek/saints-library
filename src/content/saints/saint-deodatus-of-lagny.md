@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-deodatus-of-lagny.svg
 name: Saint Deodatus of Lagny
 stub: true
 honorific: Saint

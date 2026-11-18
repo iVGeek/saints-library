@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lucian-of-sardinia.svg
 name: Saint Lucian of Sardinia
 stub: false
 honorific: Saint

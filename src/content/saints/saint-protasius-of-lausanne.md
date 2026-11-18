@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-protasius-of-lausanne.svg
 name: Saint Protasius of Lausanne
 stub: false
 honorific: Saint

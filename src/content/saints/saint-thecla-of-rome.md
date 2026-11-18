@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thecla-of-rome.svg
 name: Saint Thecla of Rome
 stub: false
 honorific: Saint

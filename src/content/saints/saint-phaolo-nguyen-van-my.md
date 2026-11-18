@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-phaolo-nguyen-van-my.svg
 name: Saint Phaolô Nguyen Van My
 stub: false
 honorific: Venerable

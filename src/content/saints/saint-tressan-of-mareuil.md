@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tressan-of-mareuil.svg
 name: Saint Tressan of Mareuil
 stub: false
 honorific: Saint

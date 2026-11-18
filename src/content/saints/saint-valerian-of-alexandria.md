@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valerian-of-alexandria.svg
 name: Saint Valerian of Alexandria
 stub: true
 honorific: Saint

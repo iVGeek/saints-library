@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-genari-pinyol-ricard.svg
 name: Blessed Genari Pinyol Ricard
 stub: false
 honorific: Blessed

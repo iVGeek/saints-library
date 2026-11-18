@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zoticus-of-comana.svg
 name: Saint Zoticus of Comana
 stub: false
 honorific: Saint

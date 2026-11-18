@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-christian-of-cologne.svg
 name: Saint Christian of Cologne
 stub: false
 honorific: Saint

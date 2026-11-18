@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-novella-of-thessalonica.svg
 name: Saint Novella of Thessalonica
 stub: true
 honorific: Saint

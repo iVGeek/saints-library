@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eusebius-of-africa.svg
 name: Saint Eusebius of Africa
 stub: true
 honorific: Saint

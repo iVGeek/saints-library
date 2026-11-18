@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-vicenc-queralt-lloret.svg
 name: Blessed Vicenç Queralt Lloret
 stub: true
 honorific: Blessed

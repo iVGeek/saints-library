@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-filemon-of-antwerp.svg
 name: Saint Filemon of Antwerp
 stub: true
 honorific: Saint

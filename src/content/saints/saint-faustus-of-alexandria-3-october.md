@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-faustus-of-alexandria-3-october.svg
 name: Saint Faustus of Alexandria
 stub: false
 honorific: Saint

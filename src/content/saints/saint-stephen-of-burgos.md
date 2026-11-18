@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stephen-of-burgos.svg
 name: Saint Stephen of Burgos
 stub: false
 honorific: Saint

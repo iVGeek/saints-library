@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-brictius-of-martola.svg
 name: Saint Brictius of Martola
 stub: false
 honorific: Saint

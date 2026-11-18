@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lucian-of-tomi.svg
 name: Saint Lucian of Tomi
 stub: true
 honorific: Saint

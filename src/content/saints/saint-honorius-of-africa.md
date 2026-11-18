@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-honorius-of-africa.svg
 name: Saint Honorius of Africa
 stub: false
 honorific: Saint

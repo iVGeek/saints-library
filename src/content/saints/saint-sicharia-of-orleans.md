@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sicharia-of-orleans.svg
 name: Saint Sicharia of Orléans
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-flamidianus.svg
 name: Saint Flamidianus
 stub: true
 honorific: Saint

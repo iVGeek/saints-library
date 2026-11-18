@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-romanus-of-baghdad.svg
 name: Saint Romanus of Baghdad
 stub: false
 honorific: Saint

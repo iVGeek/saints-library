@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dionius-of-nicomedia.svg
 name: Saint Dionius of Nicomedia
 stub: true
 honorific: Saint

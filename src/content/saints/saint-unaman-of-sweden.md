@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-unaman-of-sweden.svg
 name: Saint Unaman of Sweden
 stub: false
 honorific: Saint

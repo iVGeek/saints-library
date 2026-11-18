@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-risinnius-of-north-africa.svg
 name: Saint Risinnius of North Africa
 stub: true
 honorific: Saint

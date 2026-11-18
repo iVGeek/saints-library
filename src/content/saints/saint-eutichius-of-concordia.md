@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eutichius-of-concordia.svg
 name: Saint Eutichius of Concordia
 stub: false
 honorific: Saint

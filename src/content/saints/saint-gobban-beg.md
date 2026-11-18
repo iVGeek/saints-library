@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gobban-beg.svg
 name: Saint Gobbán Beg
 stub: false
 honorific: Saint

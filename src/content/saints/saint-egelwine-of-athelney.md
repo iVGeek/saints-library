@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-egelwine-of-athelney.svg
 name: Saint Egelwine of Athelney
 stub: false
 honorific: Saint

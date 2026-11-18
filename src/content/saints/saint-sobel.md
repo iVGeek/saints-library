@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sobel.svg
 name: Saint Sobel
 stub: true
 honorific: Saint

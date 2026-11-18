@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-magnus-of-corinth.svg
 name: Saint Magnus of Corinth
 stub: true
 honorific: Saint

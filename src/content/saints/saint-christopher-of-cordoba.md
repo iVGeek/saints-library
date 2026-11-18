@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-christopher-of-cordoba.svg
 name: Saint Christopher of Cordoba
 stub: false
 honorific: Saint

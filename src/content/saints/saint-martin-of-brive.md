@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-martin-of-brive.svg
 name: Saint Martin of Brive
 stub: false
 honorific: Saint

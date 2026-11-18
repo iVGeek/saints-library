@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thrysus.svg
 name: Saint Thrysus
 stub: true
 honorific: Saint

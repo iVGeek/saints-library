@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tudwg.svg
 name: Saint Tudwg
 stub: false
 honorific: Saint

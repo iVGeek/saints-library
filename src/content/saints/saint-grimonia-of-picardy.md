@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-grimonia-of-picardy.svg
 name: Saint Grimonia of Picardy
 stub: false
 honorific: Saint

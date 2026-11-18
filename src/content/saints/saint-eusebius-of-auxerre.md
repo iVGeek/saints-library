@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eusebius-of-auxerre.svg
 name: Saint Eusebius of Auxerre
 stub: true
 honorific: Saint

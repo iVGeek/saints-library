@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodore-of-nicomedia.svg
 name: Saint Theodore of Nicomedia
 stub: true
 honorific: Saint

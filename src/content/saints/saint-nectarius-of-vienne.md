@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nectarius-of-vienne.svg
 name: Saint Nectarius of Vienne
 stub: true
 honorific: Saint

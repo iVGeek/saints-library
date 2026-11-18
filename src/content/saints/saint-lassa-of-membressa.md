@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lassa-of-membressa.svg
 name: Saint Lassa of Membressa
 stub: true
 honorific: Saint

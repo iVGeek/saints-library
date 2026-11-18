@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-colman-of-kilroot.svg
 name: Saint Colman of Kilroot
 stub: true
 honorific: Saint

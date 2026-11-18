@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-marie-veronique-of-the-passion.svg
 name: Venerable Marie-Veronique of the Passion
 stub: false
 honorific: Venerable

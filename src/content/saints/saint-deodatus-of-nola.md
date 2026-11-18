@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-deodatus-of-nola.svg
 name: Saint Deodatus of Nola
 stub: true
 honorific: Saint

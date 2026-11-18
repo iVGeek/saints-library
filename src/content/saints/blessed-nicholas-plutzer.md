@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-nicholas-plutzer.svg
 name: Blessed Nicholas Plutzer
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-damian-of-pavia.svg
 name: Saint Damian of Pavia
 stub: false
 honorific: Saint

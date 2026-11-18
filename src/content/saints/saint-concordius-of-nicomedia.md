@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-concordius-of-nicomedia.svg
 name: Saint Concordius of Nicomedia
 stub: true
 honorific: Saint

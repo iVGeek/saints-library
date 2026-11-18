@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-monique-pichery.svg
 name: Blessed Monique Pichery
 stub: false
 honorific: Blessed

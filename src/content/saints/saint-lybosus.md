@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lybosus.svg
 name: Saint Lybosus of North Africa
 stub: true
 honorific: Saint

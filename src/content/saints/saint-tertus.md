@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tertus.svg
 name: Saint Tertus
 stub: true
 honorific: Saint

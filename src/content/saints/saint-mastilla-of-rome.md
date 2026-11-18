@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mastilla-of-rome.svg
 name: Saint Mastilla of Rome
 stub: false
 honorific: Saint

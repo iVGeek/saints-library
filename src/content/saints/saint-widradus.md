@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-widradus.svg
 name: Saint Widradus
 stub: false
 honorific: Saint

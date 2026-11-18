@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturus-of-sirmium.svg
 name: Saint Saturus of Sirmium
 stub: false
 honorific: Saint

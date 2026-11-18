@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-placidus-of-rome.svg
 name: Saint Placidus of Rome
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ferran-saperas-aluja.svg
 name: Blessed Ferran Saperas Aluja
 stub: false
 honorific: Blessed

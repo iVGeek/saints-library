@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-amero.svg
 name: Blessed John Amero
 stub: false
 honorific: Blessed

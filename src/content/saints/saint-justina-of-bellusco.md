@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-justina-of-bellusco.svg
 name: Saint Justina of Bellusco
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pionius-of-nicomedia.svg
 name: Saint Pionius of Nicomedia
 stub: true
 honorific: Saint

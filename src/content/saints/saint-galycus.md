@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-galycus.svg
 name: Saint Galycus
 stub: false
 honorific: Saint

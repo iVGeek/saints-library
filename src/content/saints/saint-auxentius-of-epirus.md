@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-auxentius-of-epirus.svg
 name: Saint Auxentius of Epirus
 stub: false
 honorific: Saint

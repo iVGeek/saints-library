@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-thomas-belchiam.svg
 name: Venerable Thomas Belchiam
 stub: false
 honorific: Venerable

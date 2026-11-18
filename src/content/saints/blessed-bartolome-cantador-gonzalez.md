@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-bartolome-cantador-gonzalez.svg
 name: Blessed Bartolomé Cantador González
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blesssed-pedro-de-alcantara-de-forton-de-cascajares.svg
 name: Blesssed Pedro de Alcantara de Forton de Cascajares
 stub: true
 honorific: Venerable

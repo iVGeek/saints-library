@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-clydog.svg
 name: Saint Clydog
 stub: false
 honorific: Saint

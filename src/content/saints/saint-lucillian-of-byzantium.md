@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lucillian-of-byzantium.svg
 name: Saint Lucillian of Byzantium
 stub: true
 honorific: Saint

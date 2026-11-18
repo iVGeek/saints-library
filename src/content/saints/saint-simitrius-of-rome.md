@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-simitrius-of-rome.svg
 name: Saint Simitrius of Rome
 stub: false
 honorific: Saint

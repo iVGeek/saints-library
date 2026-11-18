@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-baricus-of-africa.svg
 name: Saint Baricus of Africa
 stub: true
 honorific: Saint

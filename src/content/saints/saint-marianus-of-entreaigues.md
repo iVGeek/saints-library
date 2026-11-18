@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marianus-of-entreaigues.svg
 name: Saint Marianus of Entreaigues
 stub: false
 honorific: Saint

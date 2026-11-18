@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ramon-gros-ballbe.svg
 name: Blessed Ramon Gros Ballbé
 stub: false
 honorific: Blessed

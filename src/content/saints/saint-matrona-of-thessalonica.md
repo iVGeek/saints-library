@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-matrona-of-thessalonica.svg
 name: Saint Matrona of Thessalonica
 stub: true
 honorific: Saint

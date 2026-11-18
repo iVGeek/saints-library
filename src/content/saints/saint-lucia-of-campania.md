@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lucia-of-campania.svg
 name: Saint Lucia of Campania
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-emilian-of-vercelli.svg
 name: Saint Emilian of Vercelli
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-datus-of-rome.svg
 name: Saint Datus of Rome
 stub: false
 honorific: Saint

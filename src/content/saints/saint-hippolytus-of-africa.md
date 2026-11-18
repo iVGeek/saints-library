@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hippolytus-of-africa.svg
 name: Saint Hippolytus of Africa
 stub: true
 honorific: Saint

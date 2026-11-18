@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felician-of-vienne.svg
 name: Saint Felician of Vienne
 stub: true
 honorific: Saint

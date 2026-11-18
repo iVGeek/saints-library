@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zoticus.svg
 name: Saint Zoticus
 stub: false
 honorific: Saint

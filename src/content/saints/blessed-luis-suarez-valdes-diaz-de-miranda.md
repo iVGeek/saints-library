@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-luis-suarez-valdes-diaz-de-miranda.svg
 name: Blessed Luis Suárez-Valdés Díaz de Miranda
 stub: true
 honorific: Blessed

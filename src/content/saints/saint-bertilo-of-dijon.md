@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bertilo-of-dijon.svg
 name: Saint Bertilo of Dijon
 stub: false
 honorific: Saint

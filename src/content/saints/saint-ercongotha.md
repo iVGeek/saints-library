@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ercongotha.svg
 name: Saint Ercongotha
 stub: false
 honorific: Saint

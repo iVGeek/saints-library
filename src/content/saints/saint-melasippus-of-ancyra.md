@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-melasippus-of-ancyra.svg
 name: Saint Melasippus of Ancyra
 stub: false
 honorific: Saint

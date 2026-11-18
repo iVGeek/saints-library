@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-deodat-of-rodez.svg
 name: Saint Déodat of Rodez
 stub: false
 honorific: Saint

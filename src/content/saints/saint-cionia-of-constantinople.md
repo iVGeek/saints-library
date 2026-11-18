@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cionia-of-constantinople.svg
 name: Saint Cionia of Constantinople
 stub: false
 honorific: Saint

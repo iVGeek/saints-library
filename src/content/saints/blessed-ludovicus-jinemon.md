@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ludovicus-jinemon.svg
 name: Blessed Ludovicus Jin'emon
 stub: false
 honorific: Blessed

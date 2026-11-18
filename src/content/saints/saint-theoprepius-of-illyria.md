@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theoprepius-of-illyria.svg
 name: Saint Theoprepius of Illyria
 stub: false
 honorific: Saint

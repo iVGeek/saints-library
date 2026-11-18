@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-apronian-the-executioner.svg
 name: Saint Apronian the Executioner
 stub: false
 honorific: Saint

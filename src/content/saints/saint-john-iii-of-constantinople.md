@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-iii-of-constantinople.svg
 name: Saint John III of Constantinople
 stub: false
 honorific: Saint

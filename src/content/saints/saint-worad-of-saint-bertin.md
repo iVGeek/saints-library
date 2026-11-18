@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-worad-of-saint-bertin.svg
 name: Saint Worad of Saint Bertin
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zenobia-of-aegea.svg
 name: Saint Zenobia of Aegea
 stub: false
 honorific: Saint

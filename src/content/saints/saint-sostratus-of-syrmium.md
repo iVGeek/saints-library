@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sostratus-of-syrmium.svg
 name: Saint Sostratus of Syrmium
 stub: true
 honorific: Saint

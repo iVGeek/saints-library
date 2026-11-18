@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-veranus-of-vence.svg
 name: Saint Veranus of Vence
 stub: false
 honorific: Saint

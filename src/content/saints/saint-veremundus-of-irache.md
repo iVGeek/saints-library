@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-veremundus-of-irache.svg
 name: Saint Veremundus of Irache
 stub: false
 honorific: Saint

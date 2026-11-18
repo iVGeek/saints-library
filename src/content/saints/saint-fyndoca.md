@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fyndoca.svg
 name: Saint Fyndoca
 stub: true
 honorific: Saint

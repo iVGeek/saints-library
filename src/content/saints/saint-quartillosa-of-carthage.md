@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-quartillosa-of-carthage.svg
 name: Saint Quartillosa of Carthage
 stub: false
 honorific: Saint

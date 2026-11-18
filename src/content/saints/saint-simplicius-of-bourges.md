@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-simplicius-of-bourges.svg
 name: Saint Simplicius of Bourges
 stub: false
 honorific: Saint

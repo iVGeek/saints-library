@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-patroclus-of-colombier.svg
 name: Saint Patroclus of Colombier
 stub: true
 honorific: Saint

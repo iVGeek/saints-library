@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-patermuzio-of-phunon.svg
 name: Saint Patermuzio of Phunon
 stub: false
 honorific: Saint

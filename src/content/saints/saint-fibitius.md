@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fibitius.svg
 name: Saint Fibitius
 stub: true
 honorific: Saint

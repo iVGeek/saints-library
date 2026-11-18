@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eucharius-ii-of-tongeren-maastricht.svg
 name: Saint Eucharius II of Tongeren-Maastricht
 stub: false
 honorific: Saint

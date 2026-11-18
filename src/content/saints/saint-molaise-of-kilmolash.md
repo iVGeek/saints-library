@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-molaise-of-kilmolash.svg
 name: Saint Molaise of Kilmolash
 stub: false
 honorific: Saint

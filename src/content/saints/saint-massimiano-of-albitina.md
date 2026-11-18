@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-massimiano-of-albitina.svg
 name: Saint Massimiano of Albitina
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-magnobodus-of-angers.svg
 name: Saint Magnobodus of Angers
 stub: false
 honorific: Saint

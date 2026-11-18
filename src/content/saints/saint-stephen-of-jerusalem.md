@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stephen-of-jerusalem.svg
 name: Saint Stephen of Jerusalem
 stub: true
 honorific: Saint

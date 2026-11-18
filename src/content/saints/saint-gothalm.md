@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gothalm.svg
 name: Saint Gothalm
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-matrona-of-capua.svg
 name: Saint Matrona of Capua
 stub: true
 honorific: Saint

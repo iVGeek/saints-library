@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-eusebius-of-murano.svg
 name: Blessed Eusebius of Murano
 stub: false
 honorific: Blessed

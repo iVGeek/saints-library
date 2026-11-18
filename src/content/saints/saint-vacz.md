@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vacz.svg
 name: Saint Vacz
 stub: true
 honorific: Saint

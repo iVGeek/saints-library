@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gratus-of-chalons.svg
 name: Saint Gratus of Chalons
 stub: true
 honorific: Saint

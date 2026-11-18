@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-philippa-of-pergen.svg
 name: Saint Philippa of Pergen
 stub: true
 honorific: Saint

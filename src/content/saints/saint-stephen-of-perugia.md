@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stephen-of-perugia.svg
 name: Saint Stephen of Perugia
 stub: true
 honorific: Saint

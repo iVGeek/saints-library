@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julian-of-cappadocia.svg
 name: Saint Julian of Cappadocia
 stub: false
 honorific: Saint

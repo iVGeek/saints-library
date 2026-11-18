@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gallosa-of-rome.svg
 name: Saint Gallosa of Rome
 stub: true
 honorific: Saint

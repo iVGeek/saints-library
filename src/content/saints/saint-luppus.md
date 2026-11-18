@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-luppus.svg
 name: Saint Luppus
 stub: true
 honorific: Saint

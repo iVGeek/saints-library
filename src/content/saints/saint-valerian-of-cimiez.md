@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valerian-of-cimiez.svg
 name: Saint Valerian of Cimiez
 stub: false
 honorific: Saint

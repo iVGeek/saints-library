@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-kragon.svg
 name: Saint Kragon
 stub: false
 honorific: Saint

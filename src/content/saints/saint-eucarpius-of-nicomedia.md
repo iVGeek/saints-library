@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eucarpius-of-nicomedia.svg
 name: Saint Eucarpius of Nicomedia
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-eusebio-de-las-heras-izquierdo.svg
 name: Blessed Eusebio de Las Heras Izquierdo
 stub: true
 honorific: Blessed

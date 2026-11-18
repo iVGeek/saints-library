@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-floribert-of-liege.svg
 name: Saint Floribert of Liège
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-quirinus-of-nyon.svg
 name: Saint Quirinus of Nyon
 stub: true
 honorific: Saint

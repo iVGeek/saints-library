@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-marie-fausseuse-epouse-banchereau.svg
 name: Blessed Marie Fausseuse épouse Banchereau
 stub: false
 honorific: Blessed

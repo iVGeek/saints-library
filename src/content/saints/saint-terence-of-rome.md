@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-terence-of-rome.svg
 name: Saint Terence of Rome
 stub: false
 honorific: Saint

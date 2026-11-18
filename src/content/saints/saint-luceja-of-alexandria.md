@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-luceja-of-alexandria.svg
 name: Saint Luceja of Alexandria
 stub: true
 honorific: Saint

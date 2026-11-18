@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rambert.svg
 name: Saint Rambert
 stub: false
 honorific: Saint

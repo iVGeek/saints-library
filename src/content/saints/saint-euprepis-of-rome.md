@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-euprepis-of-rome.svg
 name: Saint Euprepis of Rome
 stub: true
 honorific: Saint

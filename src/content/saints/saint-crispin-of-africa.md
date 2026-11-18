@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crispin-of-africa.svg
 name: Saint Crispin of Africa
 stub: true
 honorific: Saint

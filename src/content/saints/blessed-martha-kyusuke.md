@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-martha-kyusuke.svg
 name: Blessed Martha Kyusuke
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-besa-of-egypt.svg
 name: Saint Besa of Egypt
 stub: true
 honorific: Saint

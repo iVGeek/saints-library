@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ioachim-saburobyoe.svg
 name: Blessed Ioachim Saburobyoe
 stub: true
 honorific: Blessed

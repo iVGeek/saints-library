@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pelinus-of-confinium.svg
 name: Saint Pelinus of Confinium
 stub: false
 honorific: Saint

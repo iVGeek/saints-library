@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-herculanus-of-porto-romano.svg
 name: Saint Herculanus of Porto Romano
 stub: true
 honorific: Saint

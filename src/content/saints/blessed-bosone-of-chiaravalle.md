@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-bosone-of-chiaravalle.svg
 name: Blessed Bosone of Chiaravalle
 stub: false
 honorific: Blessed

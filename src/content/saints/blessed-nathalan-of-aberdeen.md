@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-nathalan-of-aberdeen.svg
 name: Blessed Nathalan of Aberdeen
 stub: false
 honorific: Blessed

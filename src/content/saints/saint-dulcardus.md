@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dulcardus.svg
 name: Saint Dulcardus
 stub: false
 honorific: Saint

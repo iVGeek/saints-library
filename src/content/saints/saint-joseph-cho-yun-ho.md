@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-joseph-cho-yun-ho.svg
 name: Saint Joseph Cho Yun-ho
 stub: false
 honorific: Venerable

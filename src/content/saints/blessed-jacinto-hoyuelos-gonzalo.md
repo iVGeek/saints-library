@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jacinto-hoyuelos-gonzalo.svg
 name: Blessed Jacinto Hoyuelos Gonzalo
 stub: false
 honorific: Blessed

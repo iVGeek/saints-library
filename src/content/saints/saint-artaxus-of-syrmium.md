@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-artaxus-of-syrmium.svg
 name: Saint Artaxus of Syrmium
 stub: true
 honorific: Saint

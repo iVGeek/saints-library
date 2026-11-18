@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-de-atares.svg
 name: Saint John de Atarés
 stub: false
 honorific: Saint

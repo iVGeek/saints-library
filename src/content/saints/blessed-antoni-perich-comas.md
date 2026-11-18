@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-antoni-perich-comas.svg
 name: Blessed Antoni Perich Comas
 stub: false
 honorific: Blessed

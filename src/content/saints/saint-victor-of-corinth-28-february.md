@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victor-of-corinth-28-february.svg
 name: Saint Victor of Corinth
 stub: true
 honorific: Saint

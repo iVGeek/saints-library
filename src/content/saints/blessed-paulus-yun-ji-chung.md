@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-paulus-yun-ji-chung.svg
 name: Blessed Paulus Yun Ji-chung
 stub: true
 honorific: Blessed

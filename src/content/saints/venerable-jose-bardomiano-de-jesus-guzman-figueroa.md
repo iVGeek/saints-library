@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-jose-bardomiano-de-jesus-guzman-figueroa.svg
 name: Venerable José Bardomiano de Jesús Guzmán Figueroa
 stub: false
 honorific: Venerable

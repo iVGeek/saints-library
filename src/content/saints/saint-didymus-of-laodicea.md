@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-didymus-of-laodicea.svg
 name: Saint Didymus of Laodicea
 stub: true
 honorific: Saint

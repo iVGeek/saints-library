@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-herbert-hoscam.svg
 name: Saint Herbert Hoscam
 stub: false
 honorific: Saint

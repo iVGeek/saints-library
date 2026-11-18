@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sobarthann.svg
 name: Saint Sobarthann
 stub: false
 honorific: Saint

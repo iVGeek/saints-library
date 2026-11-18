@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-martinus.svg
 name: Saint Martinus
 stub: false
 honorific: Saint

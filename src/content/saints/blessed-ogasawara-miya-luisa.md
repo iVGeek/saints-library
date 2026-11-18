@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ogasawara-miya-luisa.svg
 name: Blessed Ogasawara Miya Luisa
 stub: false
 honorific: Blessed

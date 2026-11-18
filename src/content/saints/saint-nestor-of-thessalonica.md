@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nestor-of-thessalonica.svg
 name: Saint Nestor of Thessalonica
 stub: false
 honorific: Saint

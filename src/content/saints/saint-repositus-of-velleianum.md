@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-repositus-of-velleianum.svg
 name: Saint Repositus of Velleianum
 stub: true
 honorific: Saint

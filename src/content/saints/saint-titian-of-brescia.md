@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-titian-of-brescia.svg
 name: Saint Titian of Brescia
 stub: true
 honorific: Saint

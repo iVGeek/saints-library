@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-serapion-of-macedonia.svg
 name: Saint Serapion of Macedonia
 stub: false
 honorific: Saint

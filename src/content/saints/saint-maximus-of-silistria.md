@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-silistria.svg
 name: Saint Maximus of Silistria
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-phlegon-of-hyrcania.svg
 name: Saint Phlegon of Hyrcania
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-guy-of-casauria.svg
 name: Blessed Guy of Casauria
 stub: true
 honorific: Blessed

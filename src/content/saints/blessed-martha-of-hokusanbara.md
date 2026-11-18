@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-martha-of-hokusanbara.svg
 name: Blessed Martha of Hokusanbara
 stub: false
 honorific: Blessed

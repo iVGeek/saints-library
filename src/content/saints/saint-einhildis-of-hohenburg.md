@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-einhildis-of-hohenburg.svg
 name: Saint Einhildis of Hohenburg
 stub: true
 honorific: Saint

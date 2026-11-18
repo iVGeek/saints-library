@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marianus-of-lambesa.svg
 name: Saint Marianus of Lambesa
 stub: true
 honorific: Saint

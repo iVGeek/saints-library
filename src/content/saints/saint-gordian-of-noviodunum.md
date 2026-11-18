@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gordian-of-noviodunum.svg
 name: Saint Gordian of Noviodunum
 stub: true
 honorific: Saint

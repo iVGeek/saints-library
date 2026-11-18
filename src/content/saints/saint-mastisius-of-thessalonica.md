@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mastisius-of-thessalonica.svg
 name: Saint Mastisius of Thessalonica
 stub: false
 honorific: Saint

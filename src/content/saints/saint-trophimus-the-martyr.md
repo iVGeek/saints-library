@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-trophimus-the-martyr.svg
 name: Saint Trophimus the Martyr
 stub: true
 honorific: Saint

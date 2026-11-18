@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-altinus.svg
 name: Saint Altinus
 stub: false
 honorific: Saint

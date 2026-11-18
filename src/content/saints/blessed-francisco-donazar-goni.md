@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-francisco-donazar-goni.svg
 name: Blessed Francisco Donazar Goñi
 stub: false
 honorific: Blessed

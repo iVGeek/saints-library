@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vulflagius-of-abbeville.svg
 name: Saint Vulflagius of Abbeville
 stub: false
 honorific: Saint

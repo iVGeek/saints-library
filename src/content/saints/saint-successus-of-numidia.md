@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-successus-of-numidia.svg
 name: Saint Successus of Numidia
 stub: true
 honorific: Saint

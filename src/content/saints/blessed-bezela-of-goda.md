@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-bezela-of-goda.svg
 name: Blessed Bezela of Göda
 stub: true
 honorific: Blessed

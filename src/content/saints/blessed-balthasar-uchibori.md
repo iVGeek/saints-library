@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-balthasar-uchibori.svg
 name: Blessed Balthasar Uchibori
 stub: false
 honorific: Blessed

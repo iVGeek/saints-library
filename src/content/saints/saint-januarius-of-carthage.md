@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-januarius-of-carthage.svg
 name: Saint Januarius of Carthage
 stub: true
 honorific: Saint

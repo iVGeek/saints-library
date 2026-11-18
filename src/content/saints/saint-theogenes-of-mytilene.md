@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theogenes-of-mytilene.svg
 name: Saint Theogenes of Mytilene
 stub: true
 honorific: Saint

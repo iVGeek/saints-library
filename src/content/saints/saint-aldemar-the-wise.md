@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-aldemar-the-wise.svg
 name: Saint Aldemar the Wise
 stub: false
 honorific: Saint

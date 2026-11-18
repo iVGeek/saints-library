@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ioannes-araki-kanshichi.svg
 name: Blessed Ioannes Araki Kanshichi
 stub: true
 honorific: Blessed

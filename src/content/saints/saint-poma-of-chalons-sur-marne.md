@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-poma-of-chalons-sur-marne.svg
 name: Saint Poma of Châlons-sur-Marne
 stub: false
 honorific: Saint

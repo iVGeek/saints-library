@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcellinus-of-perugia.svg
 name: Saint Marcellinus of Perugia
 stub: true
 honorific: Saint

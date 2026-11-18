@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-simeon-of-cava.svg
 name: Blessed Simeon of Cava
 stub: false
 honorific: Blessed

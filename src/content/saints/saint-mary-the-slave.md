@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mary-the-slave.svg
 name: Saint Mary the Slave
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-anteon-of-lucania.svg
 name: Saint Anteon of Lucania
 stub: true
 honorific: Saint

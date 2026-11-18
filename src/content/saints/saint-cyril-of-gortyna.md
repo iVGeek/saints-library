@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyril-of-gortyna.svg
 name: Saint Cyril of Gortyna
 stub: false
 honorific: Saint

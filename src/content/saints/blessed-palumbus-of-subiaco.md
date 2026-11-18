@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-palumbus-of-subiaco.svg
 name: Blessed Palumbus of Subiaco
 stub: false
 honorific: Blessed

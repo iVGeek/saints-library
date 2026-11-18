@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valerius-of-armenia.svg
 name: Saint Valerius of Armenia
 stub: true
 honorific: Saint

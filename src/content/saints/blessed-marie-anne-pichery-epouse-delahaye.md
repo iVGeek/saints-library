@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-marie-anne-pichery-epouse-delahaye.svg
 name: Blessed Marie Anne Pichery épouse Delahaye
 stub: false
 honorific: Blessed

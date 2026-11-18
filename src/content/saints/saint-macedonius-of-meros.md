@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-macedonius-of-meros.svg
 name: Saint Macedonius of Meros
 stub: false
 honorific: Saint

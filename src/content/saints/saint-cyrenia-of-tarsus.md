@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyrenia-of-tarsus.svg
 name: Saint Cyrenia of Tarsus
 stub: true
 honorific: Saint

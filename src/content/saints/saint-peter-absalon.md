@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-absalon.svg
 name: Saint Peter Absalon
 stub: true
 honorific: Saint

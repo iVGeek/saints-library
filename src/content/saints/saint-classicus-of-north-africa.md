@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-classicus-of-north-africa.svg
 name: Saint Classicus of North Africa
 stub: true
 honorific: Saint

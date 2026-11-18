@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-alvera-of-limeuil.svg
 name: Saint Alvera of Limeuil
 stub: true
 honorific: Saint

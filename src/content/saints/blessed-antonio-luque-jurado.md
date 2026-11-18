@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-antonio-luque-jurado.svg
 name: Blessed Antonio Luque Jurado
 stub: false
 honorific: Blessed

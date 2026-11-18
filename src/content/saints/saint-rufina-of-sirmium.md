@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufina-of-sirmium.svg
 name: Saint Rufina of Sirmium
 stub: false
 honorific: Saint

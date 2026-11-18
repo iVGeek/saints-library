@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-silvanus-of-gerona.svg
 name: Saint Silvanus of Gerona
 stub: false
 honorific: Saint

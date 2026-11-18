@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-isidore-of-alexandria.svg
 name: Saint Isidore of Alexandria
 stub: true
 honorific: Saint

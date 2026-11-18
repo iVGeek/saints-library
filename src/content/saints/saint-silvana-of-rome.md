@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-silvana-of-rome.svg
 name: Saint Silvana of Rome
 stub: true
 honorific: Saint

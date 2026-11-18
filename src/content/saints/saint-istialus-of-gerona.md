@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-istialus-of-gerona.svg
 name: Saint Istialus of Gerona
 stub: true
 honorific: Saint

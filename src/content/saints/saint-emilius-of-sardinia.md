@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-emilius-of-sardinia.svg
 name: Saint Emilius of Sardinia
 stub: false
 honorific: Saint

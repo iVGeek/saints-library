@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-relindis.svg
 name: Saint Relindis
 stub: false
 honorific: Saint

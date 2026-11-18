@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gausberto-of-montsalvy.svg
 name: Blessed Gausberto of Montsalvy
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-taurio-of-amphipolis.svg
 name: Saint Taurio of Amphipolis
 stub: true
 honorific: Saint

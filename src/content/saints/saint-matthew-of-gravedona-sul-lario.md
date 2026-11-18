@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-matthew-of-gravedona-sul-lario.svg
 name: Saint Matthew of Gravedona sul Lario
 stub: true
 honorific: Saint

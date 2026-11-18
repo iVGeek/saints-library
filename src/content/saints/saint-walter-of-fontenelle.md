@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-walter-of-fontenelle.svg
 name: Saint Walter of Fontenelle
 stub: false
 honorific: Saint

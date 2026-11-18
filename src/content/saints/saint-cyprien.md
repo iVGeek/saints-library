@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyprien.svg
 name: Saint Cyprien
 stub: true
 honorific: Saint

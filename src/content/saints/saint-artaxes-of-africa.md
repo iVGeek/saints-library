@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-artaxes-of-africa.svg
 name: Saint Artaxes of Africa
 stub: false
 honorific: Saint

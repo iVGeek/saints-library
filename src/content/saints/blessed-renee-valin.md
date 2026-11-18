@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-renee-valin.svg
 name: Blessed Renée Valin
 stub: false
 honorific: Blessed

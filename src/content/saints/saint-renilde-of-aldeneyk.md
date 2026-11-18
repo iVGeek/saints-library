@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-renilde-of-aldeneyk.svg
 name: Saint Renilde of Aldeneyk
 stub: false
 honorific: Saint

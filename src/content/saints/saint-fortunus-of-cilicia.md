@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fortunus-of-cilicia.svg
 name: Saint Fortunus of Cilicia
 stub: true
 honorific: Saint

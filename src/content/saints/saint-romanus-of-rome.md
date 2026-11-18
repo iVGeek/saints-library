@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-romanus-of-rome.svg
 name: Saint Romanus of Rome
 stub: true
 honorific: Saint

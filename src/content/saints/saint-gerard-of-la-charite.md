@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gerard-of-la-charite.svg
 name: Saint Gerard of La-Charite
 stub: false
 honorific: Saint

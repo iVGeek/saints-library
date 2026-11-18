@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thessalonica-of-amphipolis.svg
 name: Saint Thessalonica of Amphipolis
 stub: true
 honorific: Saint

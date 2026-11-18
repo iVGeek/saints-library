@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-colman-of-templeshambo.svg
 name: Saint Colman of Templeshambo
 stub: false
 honorific: Saint

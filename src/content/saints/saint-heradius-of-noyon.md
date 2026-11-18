@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-heradius-of-noyon.svg
 name: Saint Heradius of Noyon
 stub: true
 honorific: Saint

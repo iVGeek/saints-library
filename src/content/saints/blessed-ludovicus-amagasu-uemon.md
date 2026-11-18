@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ludovicus-amagasu-uemon.svg
 name: Blessed Ludovicus Amagasu Uemon
 stub: true
 honorific: Blessed

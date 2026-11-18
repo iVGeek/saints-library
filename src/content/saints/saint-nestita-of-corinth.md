@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nestita-of-corinth.svg
 name: Saint Nestita of Corinth
 stub: true
 honorific: Saint

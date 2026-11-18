@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-statutianus-of-africa.svg
 name: Saint Statutianus of Africa
 stub: false
 honorific: Saint

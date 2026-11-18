@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-melitus.svg
 name: Saint Melitus of Pontus
 stub: false
 honorific: Saint

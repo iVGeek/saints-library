@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jocundus-of-constantinople.svg
 name: Saint Jocundus of Constantinople
 stub: false
 honorific: Saint

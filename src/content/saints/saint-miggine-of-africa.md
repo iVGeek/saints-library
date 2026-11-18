@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-miggine-of-africa.svg
 name: Saint Míggine of Africa
 stub: false
 honorific: Saint

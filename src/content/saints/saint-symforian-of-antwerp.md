@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-symforian-of-antwerp.svg
 name: Saint Symforian of Antwerp
 stub: true
 honorific: Saint

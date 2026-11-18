@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-faustinus-the-martyr.svg
 name: Saint Faustinus the Martyr
 stub: true
 honorific: Saint

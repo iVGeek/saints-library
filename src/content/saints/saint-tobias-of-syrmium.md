@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tobias-of-syrmium.svg
 name: Saint Tobias of Syrmium
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-elena-of-laurino.svg
 name: Saint Elena of Laurino
 stub: false
 honorific: Saint

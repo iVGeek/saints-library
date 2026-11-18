@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victor-of-sigum.svg
 name: Saint Victor of Sigum
 stub: false
 honorific: Saint

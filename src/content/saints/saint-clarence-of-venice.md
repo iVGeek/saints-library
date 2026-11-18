@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-clarence-of-venice.svg
 name: Saint Clarence of Venice
 stub: true
 honorific: Saint

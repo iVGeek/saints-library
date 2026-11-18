@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-carterius-of-bourges.svg
 name: Saint Carterius of Bourges
 stub: false
 honorific: Saint

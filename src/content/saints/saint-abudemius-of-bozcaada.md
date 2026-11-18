@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-abudemius-of-bozcaada.svg
 name: Saint Abudemius of Bozcaada
 stub: false
 honorific: Saint

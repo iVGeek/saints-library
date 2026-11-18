@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-melanius-of-troyes.svg
 name: Saint Melanius of Troyes
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sabina-of-caestre.svg
 name: Saint Sabina of Caëstre
 stub: false
 honorific: Saint

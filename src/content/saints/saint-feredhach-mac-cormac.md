@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-feredhach-mac-cormac.svg
 name: Saint Feredhach Mac Cormac
 stub: false
 honorific: Saint

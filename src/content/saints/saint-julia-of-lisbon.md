@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julia-of-lisbon.svg
 name: Saint Julia of Lisbon
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-marina-chobo.svg
 name: Blessed Marina Chobo
 stub: false
 honorific: Blessed

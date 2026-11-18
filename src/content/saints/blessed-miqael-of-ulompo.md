@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-miqael-of-ulompo.svg
 name: Blessed Miqael of Ulompo
 stub: true
 honorific: Blessed

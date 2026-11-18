@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-heraclius-of-sens.svg
 name: Saint Heraclius of Sens
 stub: false
 honorific: Saint

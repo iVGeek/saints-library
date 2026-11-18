@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-palladius-of-condat.svg
 name: Saint Palladius of Condat
 stub: false
 honorific: Saint

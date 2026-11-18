@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-miguel-morano-saez.svg
 name: Blessed Miguel Morano Sáez
 stub: true
 honorific: Blessed

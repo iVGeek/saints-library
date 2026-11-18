@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodolus-of-corinth.svg
 name: Saint Theodolus of Corinth
 stub: true
 honorific: Saint

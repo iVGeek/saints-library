@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marema-of-soissons.svg
 name: Saint Marema of Soissons
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zoticus-of-egypt.svg
 name: Saint Zoticus of Egypt
 stub: false
 honorific: Saint

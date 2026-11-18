@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-helinand-of-pronleroy.svg
 name: Blessed Helinand of Pronleroy
 stub: false
 honorific: Blessed

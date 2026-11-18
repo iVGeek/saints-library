@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-antonius-anazawa-hanemon.svg
 name: Blessed Antonius Anazawa Han'emon
 stub: false
 honorific: Blessed

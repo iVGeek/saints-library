@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cantianilla-of-lucania.svg
 name: Saint Cantianilla of Lucania
 stub: true
 honorific: Saint

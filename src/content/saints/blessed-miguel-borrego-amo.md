@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-miguel-borrego-amo.svg
 name: Blessed Miguel Borrego Amo
 stub: false
 honorific: Blessed

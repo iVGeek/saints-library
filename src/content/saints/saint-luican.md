@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-luican.svg
 name: Saint Luican
 stub: false
 honorific: Saint

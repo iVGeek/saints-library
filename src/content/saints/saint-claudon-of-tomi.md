@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-claudon-of-tomi.svg
 name: Saint Claudon of Tomi
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-reine-of-denain.svg
 name: Blessed Reine of Denain
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cunibert-of-maroilles.svg
 name: Saint Cunibert of Maroilles
 stub: false
 honorific: Saint

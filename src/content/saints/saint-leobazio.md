@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-leobazio.svg
 name: Saint Leobazio
 stub: false
 honorific: Saint

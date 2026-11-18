@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-james-of-osroena.svg
 name: Saint James of Osroena
 stub: false
 honorific: Saint

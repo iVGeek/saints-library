@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ingen-of-alexandria.svg
 name: Saint Ingen of Alexandria
 stub: false
 honorific: Saint

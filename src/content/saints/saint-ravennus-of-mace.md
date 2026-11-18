@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ravennus-of-mace.svg
 name: Saint Ravennus of Macé
 stub: true
 honorific: Saint

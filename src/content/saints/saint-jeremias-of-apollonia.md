@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jeremias-of-apollonia.svg
 name: Saint Jeremias of Apollonia
 stub: false
 honorific: Saint

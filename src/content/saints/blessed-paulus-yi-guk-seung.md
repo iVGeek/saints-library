@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-paulus-yi-guk-seung.svg
 name: Blessed Paulus Yi Guk-seung
 stub: true
 honorific: Blessed

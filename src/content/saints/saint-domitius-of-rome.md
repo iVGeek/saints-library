@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-domitius-of-rome.svg
 name: Saint Domitius of Rome
 stub: true
 honorific: Saint

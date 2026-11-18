@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theusitas-of-nicaea.svg
 name: Saint Theusitas of Nicaea
 stub: true
 honorific: Saint

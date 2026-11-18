@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-salaun-of-leseven.svg
 name: Saint Salaun of Leseven
 stub: false
 honorific: Saint

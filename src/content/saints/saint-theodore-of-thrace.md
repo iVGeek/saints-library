@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodore-of-thrace.svg
 name: Saint Theodore of Thrace
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcellus-of-saint-gall.svg
 name: Saint Marcellus of Saint Gall
 stub: true
 honorific: Saint

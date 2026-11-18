@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-frontasius-of-puy.svg
 name: Saint Frontasius of Puy
 stub: false
 honorific: Saint

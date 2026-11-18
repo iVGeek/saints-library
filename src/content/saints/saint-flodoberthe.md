@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-flodoberthe.svg
 name: Saint Flodoberthe
 stub: false
 honorific: Saint

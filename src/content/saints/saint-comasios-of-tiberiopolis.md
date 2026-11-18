@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-comasios-of-tiberiopolis.svg
 name: Saint Comasios of Tiberiopolis
 stub: false
 honorific: Saint

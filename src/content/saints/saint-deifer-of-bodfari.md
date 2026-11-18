@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-deifer-of-bodfari.svg
 name: Saint Deifer of Bodfari
 stub: true
 honorific: Saint

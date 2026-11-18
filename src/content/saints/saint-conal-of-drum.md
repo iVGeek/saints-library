@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-conal-of-drum.svg
 name: Saint Conal of Drum
 stub: false
 honorific: Saint

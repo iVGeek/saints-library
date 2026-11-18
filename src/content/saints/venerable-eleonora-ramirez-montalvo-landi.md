@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-eleonora-ramirez-montalvo-landi.svg
 name: Venerable Eleonora Ramírez Montalvo Landi
 stub: true
 honorific: Venerable

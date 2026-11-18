@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vincent-of-rome-25-august.svg
 name: Saint Vincent of Rome
 stub: true
 honorific: Saint

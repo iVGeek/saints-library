@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-soteris-the-martyr.svg
 name: Saint Soteris the Martyr
 stub: false
 honorific: Saint

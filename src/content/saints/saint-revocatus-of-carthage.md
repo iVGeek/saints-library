@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-revocatus-of-carthage.svg
 name: Saint Revocatus of Carthage
 stub: true
 honorific: Saint

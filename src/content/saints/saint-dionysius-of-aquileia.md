@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dionysius-of-aquileia.svg
 name: Saint Dionysius of Aquileia
 stub: true
 honorific: Saint

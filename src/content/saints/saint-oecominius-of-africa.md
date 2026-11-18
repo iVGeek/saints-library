@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-oecominius-of-africa.svg
 name: Saint Oecominius of Africa
 stub: true
 honorific: Saint

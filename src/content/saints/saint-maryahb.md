@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maryahb.svg
 name: Saint Maryáhb
 stub: true
 honorific: Saint

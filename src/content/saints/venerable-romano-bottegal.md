@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-romano-bottegal.svg
 name: Venerable Romano Bottegal
 stub: true
 honorific: Venerable

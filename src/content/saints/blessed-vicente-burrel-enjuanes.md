@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-vicente-burrel-enjuanes.svg
 name: Blessed Vicente Burrel Enjuanes
 stub: false
 honorific: Blessed

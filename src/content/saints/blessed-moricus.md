@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-moricus.svg
 name: Blessed Moricus
 stub: false
 honorific: Blessed

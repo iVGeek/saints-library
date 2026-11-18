@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-glunshallaich.svg
 name: Saint Glunshallaich
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-heraclius-of-todi.svg
 name: Saint Heraclius of Todi
 stub: true
 honorific: Saint

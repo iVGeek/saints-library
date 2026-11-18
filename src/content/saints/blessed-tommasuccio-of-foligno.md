@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-tommasuccio-of-foligno.svg
 name: Blessed Tommasuccio of Foligno
 stub: true
 honorific: Blessed

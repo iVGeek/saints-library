@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-polyenus-of-prusa.svg
 name: Saint Polyenus of Prusa
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tulla-of-rome.svg
 name: Saint Tulla of Rome
 stub: false
 honorific: Saint

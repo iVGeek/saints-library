@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-conall-of-inniscoel.svg
 name: Saint Conall of Inniscoel
 stub: false
 honorific: Saint

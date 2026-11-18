@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturninus-of-durres.svg
 name: Saint Saturninus of Durres
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-willigod-of-moyenmoutier.svg
 name: Saint Willigod of Moyenmoutier
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pachomius-of-alexandria.svg
 name: Saint Pachomius of Alexandria
 stub: false
 honorific: Saint

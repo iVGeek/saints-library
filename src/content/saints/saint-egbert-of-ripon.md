@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-egbert-of-ripon.svg
 name: Saint Egbert of Ripon
 stub: true
 honorific: Saint

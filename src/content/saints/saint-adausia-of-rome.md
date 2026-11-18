@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-adausia-of-rome.svg
 name: Saint Adausia of Rome
 stub: true
 honorific: Saint

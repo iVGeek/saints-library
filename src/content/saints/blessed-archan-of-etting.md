@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-archan-of-etting.svg
 name: Blessed Archan of Etting
 stub: false
 honorific: Blessed

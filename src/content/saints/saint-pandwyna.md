@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pandwyna.svg
 name: Saint Pandwyna
 stub: true
 honorific: Saint

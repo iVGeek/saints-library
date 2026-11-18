@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-namfamone-of-africa.svg
 name: Saint Namfamone of Africa
 stub: false
 honorific: Saint

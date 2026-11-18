@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-luigi-rocchi.svg
 name: Venerable Luigi Rocchi
 stub: true
 honorific: Venerable

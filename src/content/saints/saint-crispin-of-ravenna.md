@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crispin-of-ravenna.svg
 name: Saint Crispin of Ravenna
 stub: true
 honorific: Saint

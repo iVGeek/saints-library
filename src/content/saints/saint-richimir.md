@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-richimir.svg
 name: Saint Richimir
 stub: false
 honorific: Saint

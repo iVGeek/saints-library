@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-benito-paradela-novoa.svg
 name: Blessed Benito Paradela Novoa
 stub: false
 honorific: Blessed

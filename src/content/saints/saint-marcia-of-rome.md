@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcia-of-rome.svg
 name: Saint Marcia of Rome
 stub: false
 honorific: Saint

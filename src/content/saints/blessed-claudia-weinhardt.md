@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-claudia-weinhardt.svg
 name: Blessed Claudia Weinhardt
 stub: true
 honorific: Blessed

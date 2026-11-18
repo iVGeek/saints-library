@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ramona-solans-ballester.svg
 name: Blessed Ramona Solans Ballester
 stub: false
 honorific: Blessed

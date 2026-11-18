@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-kilda.svg
 name: Saint Kilda
 stub: false
 honorific: Saint

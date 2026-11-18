@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-manuel-trachiner-montana.svg
 name: Blessed Manuel Trachiner Montaña
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maura-of-ravenna.svg
 name: Saint Maura of Ravenna
 stub: true
 honorific: Saint

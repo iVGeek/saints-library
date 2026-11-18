@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-leopardinus-of-vivaris.svg
 name: Saint Leopardinus of Vivaris
 stub: false
 honorific: Saint

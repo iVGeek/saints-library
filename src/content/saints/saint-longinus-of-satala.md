@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-longinus-of-satala.svg
 name: Saint Longinus of Satala
 stub: false
 honorific: Saint

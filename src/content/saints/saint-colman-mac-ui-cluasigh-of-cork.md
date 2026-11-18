@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-colman-mac-ui-cluasigh-of-cork.svg
 name: Saint Colman Mac Ui Cluasigh of Cork
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-basura-of-masil.svg
 name: Saint Basura of Masil
 stub: true
 honorific: Saint

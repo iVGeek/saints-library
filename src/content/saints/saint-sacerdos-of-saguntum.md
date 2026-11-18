@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sacerdos-of-saguntum.svg
 name: Saint Sacerdos of Saguntum
 stub: true
 honorific: Saint

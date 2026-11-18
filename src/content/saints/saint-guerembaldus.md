@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-guerembaldus.svg
 name: Saint Guerembaldus
 stub: false
 honorific: Saint

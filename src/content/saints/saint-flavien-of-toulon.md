@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-flavien-of-toulon.svg
 name: Saint Flavien of Toulon
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-francis-xavier-can-nguyen.svg
 name: Saint Francis Xavier Can Nguyen
 stub: false
 honorific: Saint

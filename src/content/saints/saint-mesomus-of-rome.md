@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mesomus-of-rome.svg
 name: Saint Mesomus of Rome
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-colman-muillin-of-derrykeighan.svg
 name: Saint Colman Muillin of Derrykeighan
 stub: false
 honorific: Saint

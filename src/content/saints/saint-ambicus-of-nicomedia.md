@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ambicus-of-nicomedia.svg
 name: Saint Ambicus of Nicomedia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-joseph-of-africa.svg
 name: Saint Joseph of Africa
 stub: true
 honorific: Saint

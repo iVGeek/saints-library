@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-silvius-of-africa.svg
 name: Saint Silvius of Africa
 stub: true
 honorific: Saint

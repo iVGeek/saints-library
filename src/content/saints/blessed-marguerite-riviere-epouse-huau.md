@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-marguerite-riviere-epouse-huau.svg
 name: Blessed Marguerite Rivière épouse Huau
 stub: false
 honorific: Blessed

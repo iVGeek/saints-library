@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ritbert-of-varennes.svg
 name: Saint Ritbert of Varennes
 stub: true
 honorific: Saint

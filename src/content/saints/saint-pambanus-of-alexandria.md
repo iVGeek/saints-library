@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pambanus-of-alexandria.svg
 name: Saint Pambanus of Alexandria
 stub: true
 honorific: Saint

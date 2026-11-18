@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jovinian-of-auxerre.svg
 name: Saint Jovinian of Auxerre
 stub: false
 honorific: Saint

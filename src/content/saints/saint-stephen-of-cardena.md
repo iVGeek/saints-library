@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stephen-of-cardena.svg
 name: Saint Stephen of Cardeña
 stub: false
 honorific: Saint

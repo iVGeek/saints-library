@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-philibert-of-toledo.svg
 name: Saint Philibert of Toledo
 stub: true
 honorific: Saint

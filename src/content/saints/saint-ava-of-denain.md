@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ava-of-denain.svg
 name: Saint Ava of Denain
 stub: false
 honorific: Saint

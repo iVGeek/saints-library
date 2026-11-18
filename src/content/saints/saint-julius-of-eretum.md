@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julius-of-eretum.svg
 name: Saint Julius of Eretum
 stub: true
 honorific: Saint

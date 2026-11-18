@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-superatus-of-rome.svg
 name: Saint Superatus of Rome
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-james-of-persia.svg
 name: Saint James of Persia
 stub: true
 honorific: Saint

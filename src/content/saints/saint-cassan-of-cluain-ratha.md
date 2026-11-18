@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cassan-of-cluain-ratha.svg
 name: Saint Cassán of Cluain-Ratha
 stub: true
 honorific: Saint

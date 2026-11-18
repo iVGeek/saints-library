@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hyacinth-the-soldier.svg
 name: Saint Hyacinth the Soldier
 stub: true
 honorific: Saint

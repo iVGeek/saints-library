@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cassianus-of-rome.svg
 name: Saint Cassianus of Rome
 stub: true
 honorific: Saint

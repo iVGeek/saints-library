@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ursula-sakurai.svg
 name: Blessed Ursula Sakurai
 stub: false
 honorific: Blessed

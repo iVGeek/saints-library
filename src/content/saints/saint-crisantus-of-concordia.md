@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crisantus-of-concordia.svg
 name: Saint Crisantus of Concordia
 stub: false
 honorific: Saint

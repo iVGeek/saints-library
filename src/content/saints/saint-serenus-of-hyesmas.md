@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-serenus-of-hyesmas.svg
 name: Saint Serenus of Hyesmas
 stub: true
 honorific: Saint

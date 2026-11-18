@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-samina-of-rome.svg
 name: Saint Samina of Rome
 stub: false
 honorific: Saint

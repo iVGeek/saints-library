@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ercolina-of-albitina.svg
 name: Saint Ercolina of Albitina
 stub: false
 honorific: Saint

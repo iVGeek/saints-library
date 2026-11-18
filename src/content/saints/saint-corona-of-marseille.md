@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-corona-of-marseille.svg
 name: Saint Corona of Marseille
 stub: true
 honorific: Saint

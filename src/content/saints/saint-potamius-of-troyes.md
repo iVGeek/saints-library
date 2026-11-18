@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-potamius-of-troyes.svg
 name: Saint Potamius of Troyes
 stub: false
 honorific: Saint

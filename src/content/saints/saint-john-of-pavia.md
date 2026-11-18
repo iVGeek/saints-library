@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-of-pavia.svg
 name: Saint John of Pavia
 stub: false
 honorific: Saint

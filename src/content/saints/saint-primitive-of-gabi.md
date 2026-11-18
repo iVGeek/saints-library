@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-primitive-of-gabi.svg
 name: Saint Primitive of Gabi
 stub: true
 honorific: Saint

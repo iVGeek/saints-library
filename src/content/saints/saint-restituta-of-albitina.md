@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-restituta-of-albitina.svg
 name: Saint Restituta of Albitina
 stub: false
 honorific: Saint

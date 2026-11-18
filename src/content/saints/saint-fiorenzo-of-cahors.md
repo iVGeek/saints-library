@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fiorenzo-of-cahors.svg
 name: Saint Fiorenzo of Cahors
 stub: false
 honorific: Saint

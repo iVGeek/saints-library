@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-arsenius-of-konev.svg
 name: Saint Arsenius of Konev
 stub: false
 honorific: Saint

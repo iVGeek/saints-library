@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-proclus-of-bisignano.svg
 name: Saint Proclus of Bisignano
 stub: false
 honorific: Saint

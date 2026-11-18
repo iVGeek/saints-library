@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-conan-of-iona.svg
 name: Saint Conan of Iona
 stub: false
 honorific: Saint

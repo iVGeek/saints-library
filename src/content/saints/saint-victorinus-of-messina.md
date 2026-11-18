@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victorinus-of-messina.svg
 name: Saint Victorinus of Messina
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-monica-onizuka.svg
 name: Blessed Monica Onizuka
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-trumwin-of-whitby.svg
 name: Saint Trumwin of Whitby
 stub: false
 honorific: Saint

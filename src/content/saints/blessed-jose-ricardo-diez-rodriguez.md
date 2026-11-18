@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jose-ricardo-diez-rodriguez.svg
 name: Blessed José Ricardo Díez Rodríguez
 stub: true
 honorific: Blessed

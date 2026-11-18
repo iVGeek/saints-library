@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lucas-of-piacenza.svg
 name: Saint Lucas of Piacenza
 stub: true
 honorific: Saint

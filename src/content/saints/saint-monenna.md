@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-monenna.svg
 name: Saint Monenna of Killeavy
 stub: true
 honorific: Saint

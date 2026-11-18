@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-constant-of-gap.svg
 name: Saint Constant of Gap
 stub: false
 honorific: Saint

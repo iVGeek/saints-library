@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-placid-of-autun.svg
 name: Saint Placid of Autun
 stub: true
 honorific: Saint

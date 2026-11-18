@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mitrius.svg
 name: Saint Mitrius
 stub: false
 honorific: Saint

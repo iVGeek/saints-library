@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-peter-de-duenas.svg
 name: Blessed Peter de Duenas
 stub: false
 honorific: Blessed

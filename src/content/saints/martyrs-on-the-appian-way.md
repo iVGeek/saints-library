@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/martyrs-on-the-appian-way.svg
 name: Martyrs on the Appian Way
 stub: false
 honorific: Saint

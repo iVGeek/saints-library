@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufus-of-melitene.svg
 name: Saint Rufus of Melitene
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-guibsech-of-cluain-bairenn.svg
 name: Saint Guibsech of Cluain-Bairenn
 stub: true
 honorific: Saint

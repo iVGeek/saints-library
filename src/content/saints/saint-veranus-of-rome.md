@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-veranus-of-rome.svg
 name: Saint Veranus of Rome
 stub: true
 honorific: Saint

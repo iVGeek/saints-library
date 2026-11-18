@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dioscurus-of-alexandria.svg
 name: Saint Dioscurus of Alexandria
 stub: false
 honorific: Saint

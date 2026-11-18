@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-quiriulus-of-rome.svg
 name: Saint Quiriulus of Rome
 stub: true
 honorific: Saint

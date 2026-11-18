@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-madeleine-blond.svg
 name: Blessed Madeleine Blond
 stub: false
 honorific: Blessed

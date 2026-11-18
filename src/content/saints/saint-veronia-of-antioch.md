@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-veronia-of-antioch.svg
 name: Saint Veronia of Antioch
 stub: true
 honorific: Saint

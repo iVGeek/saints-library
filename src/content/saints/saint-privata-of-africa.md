@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-privata-of-africa.svg
 name: Saint Privata of Africa
 stub: true
 honorific: Saint

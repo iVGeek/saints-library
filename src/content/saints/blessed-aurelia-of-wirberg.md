@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-aurelia-of-wirberg.svg
 name: Blessed Aurelia of Wirberg
 stub: false
 honorific: Blessed

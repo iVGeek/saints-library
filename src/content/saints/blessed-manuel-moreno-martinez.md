@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-manuel-moreno-martinez.svg
 name: Blessed Manuel Moreno Martínez
 stub: true
 honorific: Blessed

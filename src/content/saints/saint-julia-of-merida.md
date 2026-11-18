@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julia-of-merida.svg
 name: Saint Julia of Merida
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peleonicus-of-africa.svg
 name: Saint Peleonicus of Africa
 stub: true
 honorific: Saint

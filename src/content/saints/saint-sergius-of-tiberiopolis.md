@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sergius-of-tiberiopolis.svg
 name: Saint Sergius of Tiberiopolis
 stub: false
 honorific: Saint

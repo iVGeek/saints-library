@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-salunus-of-africa.svg
 name: Saint Salunus of Africa
 stub: true
 honorific: Saint

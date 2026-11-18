@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tancred-of-thorney.svg
 name: Saint Tancred of Thorney
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-principius-of-soissons.svg
 name: Saint Principius of Soissons
 stub: false
 honorific: Saint

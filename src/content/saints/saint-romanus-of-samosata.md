@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-romanus-of-samosata.svg
 name: Saint Romanus of Samosata
 stub: false
 honorific: Saint

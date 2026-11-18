@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lleudadd-of-bardsey.svg
 name: Saint Lleudadd of Bardsey
 stub: true
 honorific: Saint

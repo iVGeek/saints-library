@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eleazar-of-lyons.svg
 name: Saint Eleazar of Lyons
 stub: true
 honorific: Saint

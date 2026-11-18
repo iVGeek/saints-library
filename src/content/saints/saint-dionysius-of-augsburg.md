@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dionysius-of-augsburg.svg
 name: Saint Dionysius of Augsburg
 stub: false
 honorific: Saint

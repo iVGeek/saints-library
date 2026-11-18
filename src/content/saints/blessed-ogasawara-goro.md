@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ogasawara-goro.svg
 name: Blessed Ogasawara Goro
 stub: false
 honorific: Blessed

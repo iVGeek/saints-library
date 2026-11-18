@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-romulus-the-martyr.svg
 name: Saint Romulus the Martyr
 stub: false
 honorific: Saint

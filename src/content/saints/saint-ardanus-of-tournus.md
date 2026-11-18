@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ardanus-of-tournus.svg
 name: Saint Ardanus of Tournus
 stub: false
 honorific: Saint

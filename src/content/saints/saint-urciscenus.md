@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-urciscenus.svg
 name: Saint Urciscenus of Pavia
 stub: false
 honorific: Saint

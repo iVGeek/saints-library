@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-walter-of-mondsee.svg
 name: Blessed Walter of Mondsee
 stub: true
 honorific: Blessed

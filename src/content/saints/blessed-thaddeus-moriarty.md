@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-thaddeus-moriarty.svg
 name: Blessed Thaddeus Moriarty
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufina-of-thessalonica.svg
 name: Saint Rufina of Thessalonica
 stub: true
 honorific: Saint

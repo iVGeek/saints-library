@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-junian-of-maire.svg
 name: Saint Junian of Mairé
 stub: false
 honorific: Saint

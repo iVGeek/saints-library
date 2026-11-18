@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cowair.svg
 name: Saint Cowair
 stub: true
 honorific: Saint

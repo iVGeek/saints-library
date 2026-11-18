@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-probus-of-verona.svg
 name: Saint Probus of Verona
 stub: true
 honorific: Saint

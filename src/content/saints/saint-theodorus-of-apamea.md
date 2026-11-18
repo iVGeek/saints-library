@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodorus-of-apamea.svg
 name: Saint Theodorus of Apamea
 stub: false
 honorific: Saint

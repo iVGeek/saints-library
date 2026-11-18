@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sophia-of-egypt.svg
 name: Saint Sophia of Egypt
 stub: true
 honorific: Saint

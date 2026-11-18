@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturnina-of-nyon.svg
 name: Saint Saturnina of Nyon
 stub: true
 honorific: Saint

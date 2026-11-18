@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-aponius-of-bethlehem.svg
 name: Saint Aponius of Bethlehem
 stub: true
 honorific: Saint

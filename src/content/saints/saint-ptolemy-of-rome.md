@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ptolemy-of-rome.svg
 name: Saint Ptolemy of Rome
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-januarius-of-corinth.svg
 name: Saint Januarius of Corinth
 stub: true
 honorific: Saint

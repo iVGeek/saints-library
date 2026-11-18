@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-donata-of-scillium.svg
 name: Saint Donata of Scillium
 stub: false
 honorific: Saint

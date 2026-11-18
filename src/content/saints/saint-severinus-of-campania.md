@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-severinus-of-campania.svg
 name: Saint Severinus of Campania
 stub: false
 honorific: Saint

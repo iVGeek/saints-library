@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-the-georgian.svg
 name: Saint John the Georgian
 stub: false
 honorific: Saint

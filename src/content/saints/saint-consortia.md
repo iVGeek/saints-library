@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-consortia.svg
 name: Saint Consortia
 stub: false
 honorific: Saint

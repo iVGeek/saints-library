@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bertulf-of-luxeuil.svg
 name: Saint Bertulf of Luxeuil
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rubil.svg
 name: Saint Rubil
 stub: false
 honorific: Saint

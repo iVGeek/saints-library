@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-rafael-martinez-navarro.svg
 name: Blessed Rafael Martínez Navarro
 stub: false
 honorific: Blessed

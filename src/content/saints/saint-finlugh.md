@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-finlugh.svg
 name: Saint Finlugh of Derry
 stub: false
 honorific: Saint

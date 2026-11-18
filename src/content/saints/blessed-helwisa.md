@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-helwisa.svg
 name: Blessed Helwisa
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-perrine-pottier-epouse-turpault.svg
 name: Blessed Perrine Pottier épouse Turpault
 stub: false
 honorific: Blessed

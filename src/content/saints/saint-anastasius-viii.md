@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-anastasius-viii.svg
 name: Saint Anastasius VIII
 stub: true
 honorific: Saint

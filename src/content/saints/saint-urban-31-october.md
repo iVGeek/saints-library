@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-urban-31-october.svg
 name: Saint Urban
 stub: false
 honorific: Saint

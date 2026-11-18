@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-severinus-of-noli.svg
 name: Saint Severinus of Noli
 stub: false
 honorific: Saint

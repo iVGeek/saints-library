@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-auxentius-of-mopsuetia.svg
 name: Saint Auxentius of Mopsuetia
 stub: false
 honorific: Saint

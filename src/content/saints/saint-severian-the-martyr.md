@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-severian-the-martyr.svg
 name: Saint Severian the Martyr
 stub: true
 honorific: Saint

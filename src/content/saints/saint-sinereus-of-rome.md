@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sinereus-of-rome.svg
 name: Saint Sinereus of Rome
 stub: true
 honorific: Saint

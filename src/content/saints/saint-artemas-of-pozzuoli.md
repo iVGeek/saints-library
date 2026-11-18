@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-artemas-of-pozzuoli.svg
 name: Saint Artemas of Pozzuoli
 stub: true
 honorific: Saint

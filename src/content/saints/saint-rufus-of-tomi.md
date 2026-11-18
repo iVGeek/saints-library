@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufus-of-tomi.svg
 name: Saint Rufus of Tomi
 stub: true
 honorific: Saint

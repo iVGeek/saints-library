@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-riagail-of-bangor.svg
 name: Saint Riagail of Bangor
 stub: false
 honorific: Saint

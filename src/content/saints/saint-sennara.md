@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sennara.svg
 name: Saint Sennara
 stub: false
 honorific: Saint

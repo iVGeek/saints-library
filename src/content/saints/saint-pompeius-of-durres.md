@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pompeius-of-durres.svg
 name: Saint Pompeius of Durres
 stub: false
 honorific: Saint

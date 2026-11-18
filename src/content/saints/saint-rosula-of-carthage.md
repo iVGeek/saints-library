@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rosula-of-carthage.svg
 name: Saint Rosula of Carthage
 stub: true
 honorific: Saint

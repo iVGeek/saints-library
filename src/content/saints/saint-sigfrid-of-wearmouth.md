@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sigfrid-of-wearmouth.svg
 name: Saint Sigfrid of Wearmouth
 stub: false
 honorific: Saint

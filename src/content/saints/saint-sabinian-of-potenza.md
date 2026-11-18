@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sabinian-of-potenza.svg
 name: Saint Sabinian of Potenza
 stub: true
 honorific: Saint

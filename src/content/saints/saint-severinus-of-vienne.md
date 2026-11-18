@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-severinus-of-vienne.svg
 name: Saint Severinus of Vienne
 stub: true
 honorific: Saint

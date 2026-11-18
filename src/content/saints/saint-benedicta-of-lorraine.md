@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-benedicta-of-lorraine.svg
 name: Saint Benedicta of Lorraine
 stub: false
 honorific: Saint

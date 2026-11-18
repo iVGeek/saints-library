@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hilarion-the-younger.svg
 name: Saint Hilarion the Younger
 stub: false
 honorific: Saint

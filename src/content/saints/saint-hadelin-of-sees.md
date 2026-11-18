@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hadelin-of-sees.svg
 name: Saint Hadelin of Sees
 stub: false
 honorific: Saint

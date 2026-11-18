@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-servilian.svg
 name: Saint Servilian
 stub: false
 honorific: Saint

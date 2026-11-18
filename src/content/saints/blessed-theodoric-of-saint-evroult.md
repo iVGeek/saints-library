@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-theodoric-of-saint-evroult.svg
 name: Blessed Theodoric of Saint Evroult
 stub: false
 honorific: Blessed

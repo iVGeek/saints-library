@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tetta-of-wimborne.svg
 name: Saint Tetta of Wimborne
 stub: false
 honorific: Saint

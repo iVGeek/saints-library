@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-patiens-of-metz.svg
 name: Saint Patiens of Metz
 stub: true
 honorific: Saint

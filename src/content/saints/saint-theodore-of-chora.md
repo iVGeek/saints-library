@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodore-of-chora.svg
 name: Saint Theodore of Chora
 stub: false
 honorific: Saint

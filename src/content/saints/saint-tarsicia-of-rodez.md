@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tarsicia-of-rodez.svg
 name: Saint Tarsicia of Rodez
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-tesifone-ortega-villamudrio.svg
 name: Blessed Tesifone Ortega Villamudrio
 stub: false
 honorific: Blessed

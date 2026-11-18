@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maria-of-thessalonica.svg
 name: Saint Maria of Thessalonica
 stub: true
 honorific: Saint

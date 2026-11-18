@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jesus-de-sande-tena.svg
 name: Blessed Jesús de Sande Tena
 stub: false
 honorific: Blessed

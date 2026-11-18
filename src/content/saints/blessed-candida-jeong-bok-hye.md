@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-candida-jeong-bok-hye.svg
 name: Blessed Candida Jeong Bok-hye
 stub: true
 honorific: Blessed

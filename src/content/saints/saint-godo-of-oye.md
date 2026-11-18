@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-godo-of-oye.svg
 name: Saint Godo of Oye
 stub: false
 honorific: Saint

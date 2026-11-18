@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-luminosa-of-pavia.svg
 name: Saint Luminosa of Pavia
 stub: true
 honorific: Saint

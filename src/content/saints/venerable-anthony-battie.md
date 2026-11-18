@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-anthony-battie.svg
 name: Venerable Anthony Battie
 stub: false
 honorific: Venerable

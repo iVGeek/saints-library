@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-elbod-of-bangor.svg
 name: Saint Elbod of Bangor
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-george-of-amastris.svg
 name: Saint George of Amastris
 stub: false
 honorific: Saint

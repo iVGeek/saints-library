@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marinus-of-africa-3-march.svg
 name: Saint Marinus of Africa
 stub: true
 honorific: Saint

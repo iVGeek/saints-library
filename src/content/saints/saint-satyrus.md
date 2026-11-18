@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-satyrus.svg
 name: Saint Satyrus
 stub: false
 honorific: Saint

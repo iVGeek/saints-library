@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thomas-of-taw.svg
 name: Saint Thomas of Taw
 stub: true
 honorific: Saint

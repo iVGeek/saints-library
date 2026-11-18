@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julia-of-lugdunum.svg
 name: Saint Julia of Lugdunum
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tarskius-of-alexandria.svg
 name: Saint Tarskius of Alexandria
 stub: true
 honorific: Saint

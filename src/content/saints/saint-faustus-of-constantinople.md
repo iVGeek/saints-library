@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-faustus-of-constantinople.svg
 name: Saint Faustus of Constantinople
 stub: false
 honorific: Saint

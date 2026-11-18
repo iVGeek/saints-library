@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-heliophotos-of-cyprus.svg
 name: Blessed Héliophotos of Cyprus
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-guido-of-casauria.svg
 name: Blessed Guido of Casauria
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eparchius-of-caesarea.svg
 name: Saint Eparchius of Caesarea
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jose-figuero-beltran.svg
 name: Blessed José Figuero Beltrán
 stub: true
 honorific: Blessed

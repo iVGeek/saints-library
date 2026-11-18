@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyrinus-of-salerno.svg
 name: Saint Cyrinus of Salerno
 stub: true
 honorific: Saint

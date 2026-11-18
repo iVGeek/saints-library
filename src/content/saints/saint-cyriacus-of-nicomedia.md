@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyriacus-of-nicomedia.svg
 name: Saint Cyriacus of Nicomedia
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theophilus-the-lawyer.svg
 name: Saint Theophilus the Lawyer
 stub: false
 honorific: Saint

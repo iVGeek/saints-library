@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theopista.svg
 name: Saint Theopista
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hilarion-of-albitina.svg
 name: Saint Hilarion of Albitina
 stub: false
 honorific: Saint

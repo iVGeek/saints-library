@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victurus-of-africa-7-june.svg
 name: Saint Victurus of Africa
 stub: true
 honorific: Saint

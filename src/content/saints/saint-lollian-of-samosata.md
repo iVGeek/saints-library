@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lollian-of-samosata.svg
 name: Saint Lollian of Samosata
 stub: false
 honorific: Saint

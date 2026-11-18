@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rigomero-of-meaux.svg
 name: Saint Rigomero of Meaux
 stub: false
 honorific: Saint

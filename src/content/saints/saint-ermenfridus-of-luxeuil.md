@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ermenfridus-of-luxeuil.svg
 name: Saint Ermenfridus of Luxeuil
 stub: true
 honorific: Saint

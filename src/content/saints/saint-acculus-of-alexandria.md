@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-acculus-of-alexandria.svg
 name: Saint Acculus of Alexandria
 stub: true
 honorific: Saint

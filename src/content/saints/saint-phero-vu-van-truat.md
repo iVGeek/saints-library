@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-phero-vu-van-truat.svg
 name: Saint Phêrô Vu Van Truat
 stub: false
 honorific: Venerable

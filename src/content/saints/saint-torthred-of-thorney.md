@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-torthred-of-thorney.svg
 name: Saint Torthred of Thorney
 stub: true
 honorific: Saint

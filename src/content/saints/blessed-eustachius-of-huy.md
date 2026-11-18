@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-eustachius-of-huy.svg
 name: Blessed Eustachius of Huy
 stub: false
 honorific: Blessed

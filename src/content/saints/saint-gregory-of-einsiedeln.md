@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gregory-of-einsiedeln.svg
 name: Saint Gregory of Einsiedeln
 stub: false
 honorific: Saint

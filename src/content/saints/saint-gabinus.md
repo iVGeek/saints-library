@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gabinus.svg
 name: Saint Gabinus of Rome
 stub: false
 honorific: Saint

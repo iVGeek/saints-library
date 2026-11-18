@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cronan-of-clashmore.svg
 name: Saint Cronan of Clashmore
 stub: true
 honorific: Saint

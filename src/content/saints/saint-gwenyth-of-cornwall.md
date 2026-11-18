@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gwenyth-of-cornwall.svg
 name: Saint Gwenyth of Cornwall
 stub: true
 honorific: Saint

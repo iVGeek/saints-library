@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gaspar-kizaemon.svg
 name: Blessed Gaspar Kizaemon
 stub: true
 honorific: Blessed

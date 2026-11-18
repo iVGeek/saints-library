@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-noel-tenaud.svg
 name: Blessed Noël Tenaud
 stub: true
 honorific: Blessed

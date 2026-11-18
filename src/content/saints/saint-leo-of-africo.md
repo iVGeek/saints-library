@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-leo-of-africo.svg
 name: Saint Leo of Africo
 stub: false
 honorific: Saint

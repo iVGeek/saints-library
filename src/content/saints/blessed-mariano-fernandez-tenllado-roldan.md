@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-mariano-fernandez-tenllado-roldan.svg
 name: Blessed Mariano Fernández-Tenllado Roldán
 stub: false
 honorific: Blessed

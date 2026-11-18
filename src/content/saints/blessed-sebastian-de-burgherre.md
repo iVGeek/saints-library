@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-sebastian-de-burgherre.svg
 name: Blessed Sebastian de Burgherre
 stub: false
 honorific: Blessed

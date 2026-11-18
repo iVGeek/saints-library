@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-aganus-of-airola.svg
 name: Saint Aganus of Airola
 stub: false
 honorific: Saint

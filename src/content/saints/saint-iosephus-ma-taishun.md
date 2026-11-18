@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-iosephus-ma-taishun.svg
 name: Saint Iosephus Ma Taishun
 stub: false
 honorific: Venerable

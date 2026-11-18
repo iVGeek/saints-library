@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-donatus-of-nicomedia.svg
 name: Saint Donatus of Nicomedia
 stub: true
 honorific: Saint

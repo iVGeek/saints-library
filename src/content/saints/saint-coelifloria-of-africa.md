@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-coelifloria-of-africa.svg
 name: Saint Coelifloria of Africa
 stub: false
 honorific: Saint

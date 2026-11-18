@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-polocronius-of-africa.svg
 name: Saint Polocronius of Africa
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-frithestan.svg
 name: Saint Frithestan
 stub: false
 honorific: Saint

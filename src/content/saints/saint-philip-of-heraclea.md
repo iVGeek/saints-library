@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-philip-of-heraclea.svg
 name: Saint Philip of Heraclea
 stub: false
 honorific: Saint

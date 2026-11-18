@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vitonus-of-verdun.svg
 name: Saint Vitonus of Verdun
 stub: false
 honorific: Saint

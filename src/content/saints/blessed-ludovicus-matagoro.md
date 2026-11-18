@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ludovicus-matagoro.svg
 name: Blessed Ludovicus Matagoro
 stub: true
 honorific: Blessed

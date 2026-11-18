@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-josep-sole-maimo.svg
 name: Blessed Josep Solé Maimó
 stub: false
 honorific: Blessed

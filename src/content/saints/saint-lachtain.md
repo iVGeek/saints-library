@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lachtain.svg
 name: Saint Lachtain
 stub: true
 honorific: Saint

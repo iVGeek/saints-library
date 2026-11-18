@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thecla-of-kitzingen.svg
 name: Saint Thecla of Kitzingen
 stub: false
 honorific: Saint

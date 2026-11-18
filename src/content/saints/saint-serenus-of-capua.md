@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-serenus-of-capua.svg
 name: Saint Serenus of Capua
 stub: false
 honorific: Saint

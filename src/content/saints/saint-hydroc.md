@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hydroc.svg
 name: Saint Hydroc
 stub: true
 honorific: Saint

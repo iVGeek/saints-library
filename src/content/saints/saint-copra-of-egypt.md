@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-copra-of-egypt.svg
 name: Saint Copra of Egypt
 stub: false
 honorific: Saint

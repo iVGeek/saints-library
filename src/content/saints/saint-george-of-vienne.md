@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-george-of-vienne.svg
 name: Saint George of Vienne
 stub: true
 honorific: Saint

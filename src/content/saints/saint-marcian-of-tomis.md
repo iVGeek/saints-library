@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcian-of-tomis.svg
 name: Saint Marcian of Tomis
 stub: true
 honorific: Saint

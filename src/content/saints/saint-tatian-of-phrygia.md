@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tatian-of-phrygia.svg
 name: Saint Tatian of Phrygia
 stub: true
 honorific: Saint

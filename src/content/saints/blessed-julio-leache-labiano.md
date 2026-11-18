@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-julio-leache-labiano.svg
 name: Blessed Julio Leache Labiano
 stub: true
 honorific: Blessed

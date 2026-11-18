@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-emilian-of-lagny.svg
 name: Saint Emilian of Lagny
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-elisabeth-hernden.svg
 name: Blessed Elisabeth Hernden
 stub: true
 honorific: Blessed

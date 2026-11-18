@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodota-3-july.svg
 name: Saint Theodota
 stub: false
 honorific: Saint

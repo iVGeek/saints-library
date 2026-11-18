@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-vicente-blanco-guadilla.svg
 name: Blessed Vicente Blanco Guadilla
 stub: false
 honorific: Blessed

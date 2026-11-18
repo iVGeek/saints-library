@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julius-of-thessalonica.svg
 name: Saint Julius of Thessalonica
 stub: true
 honorific: Saint

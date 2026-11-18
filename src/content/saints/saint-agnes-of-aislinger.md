@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-agnes-of-aislinger.svg
 name: Saint Agnes Aislinger
 stub: false
 honorific: Saint

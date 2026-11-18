@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cisellus-of-sardinia.svg
 name: Saint Cisellus of Sardinia
 stub: true
 honorific: Saint

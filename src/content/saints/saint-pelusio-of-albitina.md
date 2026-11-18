@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pelusio-of-albitina.svg
 name: Saint Pelusio of Albitina
 stub: false
 honorific: Saint

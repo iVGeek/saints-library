@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-narzales-of-scillium.svg
 name: Saint Narzales of Scillium
 stub: false
 honorific: Saint

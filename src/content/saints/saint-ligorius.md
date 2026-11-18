@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ligorius.svg
 name: Saint Ligorius
 stub: true
 honorific: Saint

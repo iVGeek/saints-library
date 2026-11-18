@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-aresto-of-africa.svg
 name: Saint Aresto of Africa
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-euticus-of-nyon.svg
 name: Saint Euticus of Nyon
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rochus-of-antwerp.svg
 name: Saint Rochus of Antwerp
 stub: true
 honorific: Saint

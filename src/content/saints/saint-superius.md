@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-superius.svg
 name: Saint Superius
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-drusus-of-tripoli.svg
 name: Saint Drusus of Tripoli
 stub: true
 honorific: Saint

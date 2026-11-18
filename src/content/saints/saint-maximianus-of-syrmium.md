@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximianus-of-syrmium.svg
 name: Saint Maximianus of Syrmium
 stub: true
 honorific: Saint

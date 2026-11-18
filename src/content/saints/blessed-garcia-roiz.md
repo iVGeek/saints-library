@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-garcia-roiz.svg
 name: Blessed Garcia Roiz
 stub: false
 honorific: Blessed

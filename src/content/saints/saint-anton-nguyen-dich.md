@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-anton-nguyen-dich.svg
 name: Saint Antôn Nguyen Ðích
 stub: false
 honorific: Venerable

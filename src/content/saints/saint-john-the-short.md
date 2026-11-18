@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-the-short.svg
 name: Saint John the Short
 stub: false
 honorific: Saint

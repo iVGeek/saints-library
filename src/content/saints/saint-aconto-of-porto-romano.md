@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-aconto-of-porto-romano.svg
 name: Saint Aconto of Porto Romano
 stub: true
 honorific: Saint

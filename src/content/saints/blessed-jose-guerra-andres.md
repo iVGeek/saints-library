@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jose-guerra-andres.svg
 name: Blessed José Guerra Andrés
 stub: false
 honorific: Blessed

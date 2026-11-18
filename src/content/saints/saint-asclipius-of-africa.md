@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-asclipius-of-africa.svg
 name: Saint Asclipius of Africa
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nectarius-of-constantinople.svg
 name: Saint Nectarius of Constantinople
 stub: false
 honorific: Saint

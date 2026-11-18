@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victoria-23-december.svg
 name: Saint Victoria
 stub: false
 honorific: Saint

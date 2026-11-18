@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victorious.svg
 name: Saint Victorious
 stub: true
 honorific: Saint

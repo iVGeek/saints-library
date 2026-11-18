@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-domnino-of-thessalonica.svg
 name: Saint Domnino of Thessalonica
 stub: true
 honorific: Saint

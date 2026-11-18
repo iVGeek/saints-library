@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valerian-of-chalon-sur-saone.svg
 name: Saint Valerian of Châlon-sur-Saône
 stub: false
 honorific: Saint

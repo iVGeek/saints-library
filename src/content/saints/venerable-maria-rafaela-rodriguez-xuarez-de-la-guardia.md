@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-maria-rafaela-rodriguez-xuarez-de-la-guardia.svg
 name: Venerable María Rafaela Rodríguez Xuarez de la Guardia
 stub: true
 honorific: Venerable

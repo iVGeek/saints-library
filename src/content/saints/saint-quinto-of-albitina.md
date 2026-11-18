@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-quinto-of-albitina.svg
 name: Saint Quinto of Albitina
 stub: false
 honorific: Saint

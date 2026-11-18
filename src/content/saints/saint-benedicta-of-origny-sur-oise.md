@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-benedicta-of-origny-sur-oise.svg
 name: Saint Benedicta of Origny-sur-Oise
 stub: false
 honorific: Saint

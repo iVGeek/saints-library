@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hilary-of-pavia.svg
 name: Saint Hilary of Pavia
 stub: true
 honorific: Saint

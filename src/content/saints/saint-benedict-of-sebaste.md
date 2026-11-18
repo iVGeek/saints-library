@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-benedict-of-sebaste.svg
 name: Saint Benedict of Sebaste
 stub: false
 honorific: Saint

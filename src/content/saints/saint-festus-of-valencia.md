@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-festus-of-valencia.svg
 name: Saint Festus of Valencia
 stub: false
 honorific: Saint

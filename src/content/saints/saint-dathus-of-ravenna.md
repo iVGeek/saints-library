@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dathus-of-ravenna.svg
 name: Saint Dathus of Ravenna
 stub: false
 honorific: Saint

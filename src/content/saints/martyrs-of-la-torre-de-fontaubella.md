@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/martyrs-of-la-torre-de-fontaubella.svg
 name: Martyrs of La Torre de Fontaubella
 stub: true
 honorific: Venerable

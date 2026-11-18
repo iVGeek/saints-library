@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-juliana-of-africa.svg
 name: Saint Juliana of Africa
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-collen-of-denbighshire.svg
 name: Saint Collen of Denbighshire
 stub: false
 honorific: Saint

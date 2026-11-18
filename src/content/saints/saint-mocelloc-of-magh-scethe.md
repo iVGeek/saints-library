@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mocelloc-of-magh-scethe.svg
 name: Saint Mocelloc of Magh-Scethe
 stub: false
 honorific: Saint

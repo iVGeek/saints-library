@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-kilian-of-inishcaltra.svg
 name: Saint Kilian of Inishcaltra
 stub: false
 honorific: Saint

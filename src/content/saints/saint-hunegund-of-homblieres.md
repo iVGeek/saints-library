@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hunegund-of-homblieres.svg
 name: Saint Hunegund of Homblieres
 stub: false
 honorific: Saint

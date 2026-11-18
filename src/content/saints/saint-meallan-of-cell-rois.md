@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-meallan-of-cell-rois.svg
 name: Saint Meallan of Cell Rois
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximian-of-beauvais.svg
 name: Saint Maximian of Beauvais
 stub: true
 honorific: Saint

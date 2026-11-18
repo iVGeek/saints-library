@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-nicolas-of-montecorpino.svg
 name: Blessed Nicolas of Montecorpino
 stub: false
 honorific: Blessed

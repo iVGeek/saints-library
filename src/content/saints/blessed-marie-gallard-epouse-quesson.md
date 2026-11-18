@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-marie-gallard-epouse-quesson.svg
 name: Blessed Marie Gallard épouse Quesson
 stub: false
 honorific: Blessed

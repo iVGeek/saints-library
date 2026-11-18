@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cecilia-of-lorraine.svg
 name: Saint Cecilia of Lorraine
 stub: false
 honorific: Saint

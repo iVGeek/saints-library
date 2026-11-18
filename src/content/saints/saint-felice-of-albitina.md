@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felice-of-albitina.svg
 name: Saint Felice of Albitina
 stub: false
 honorific: Saint

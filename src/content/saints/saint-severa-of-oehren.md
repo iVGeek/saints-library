@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-severa-of-oehren.svg
 name: Saint Severa of Oehren
 stub: true
 honorific: Saint

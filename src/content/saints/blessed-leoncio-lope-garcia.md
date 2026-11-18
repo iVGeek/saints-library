@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-leoncio-lope-garcia.svg
 name: Blessed Leoncio Lope García
 stub: true
 honorific: Blessed

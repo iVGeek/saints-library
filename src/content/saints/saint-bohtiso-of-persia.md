@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bohtiso-of-persia.svg
 name: Saint Bohtiso of Persia
 stub: false
 honorific: Saint

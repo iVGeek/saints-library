@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gavino-of-sardinia.svg
 name: Saint Gavino of Sardinia
 stub: true
 honorific: Saint

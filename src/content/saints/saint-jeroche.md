@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jeroche.svg
 name: Saint Jéroche
 stub: true
 honorific: Saint

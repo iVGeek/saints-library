@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crewanna.svg
 name: Saint Crewanna
 stub: false
 honorific: Saint

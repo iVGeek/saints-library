@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-maria-brigida-postorino.svg
 name: Venerable Maria Brigida Postorino
 stub: true
 honorific: Venerable

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valerius-of-thessalonica.svg
 name: Saint Valerius of Thessalonica
 stub: false
 honorific: Saint

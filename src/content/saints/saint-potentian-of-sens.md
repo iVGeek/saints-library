@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-potentian-of-sens.svg
 name: Saint Potentian of Sens
 stub: false
 honorific: Saint

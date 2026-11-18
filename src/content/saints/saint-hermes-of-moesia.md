@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hermes-of-moesia.svg
 name: Saint Hermes of Moesia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-heraclides-of-alexandria.svg
 name: Saint Heraclides of Alexandria
 stub: false
 honorific: Saint

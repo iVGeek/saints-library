@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcian-of-africa.svg
 name: Saint Marcian of Africa
 stub: true
 honorific: Saint

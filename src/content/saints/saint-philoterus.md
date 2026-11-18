@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-philoterus.svg
 name: Saint Philoterus
 stub: false
 honorific: Saint

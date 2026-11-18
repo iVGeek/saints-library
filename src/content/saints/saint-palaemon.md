@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-palaemon.svg
 name: Saint Palaemon of Thebaid
 stub: false
 honorific: Saint

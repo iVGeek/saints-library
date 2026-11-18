@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-berno-of-cluny.svg
 name: Saint Berno of Cluny
 stub: false
 honorific: Saint

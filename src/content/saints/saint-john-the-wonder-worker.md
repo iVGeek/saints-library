@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-the-wonder-worker.svg
 name: Saint John the Wonder Worker
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hermogenes-of-melitene.svg
 name: Saint Hermogenes of Melitene
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-celsus-the-martyr.svg
 name: Saint Celsus the Martyr
 stub: true
 honorific: Saint

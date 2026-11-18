@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sylvester-of-reome.svg
 name: Saint Sylvester of Réome
 stub: false
 honorific: Saint

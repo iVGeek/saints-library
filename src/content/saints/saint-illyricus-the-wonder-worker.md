@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-illyricus-the-wonder-worker.svg
 name: Saint Illyricus the Wonder Worker
 stub: false
 honorific: Saint

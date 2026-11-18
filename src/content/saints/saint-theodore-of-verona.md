@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodore-of-verona.svg
 name: Saint Theodore of Verona
 stub: false
 honorific: Saint

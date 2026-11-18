@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tiberius-of-agde.svg
 name: Saint Tiberius of Agde
 stub: true
 honorific: Saint

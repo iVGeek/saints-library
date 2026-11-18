@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cletus-of-oia.svg
 name: Saint Cletus of Oia
 stub: false
 honorific: Saint

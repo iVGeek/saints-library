@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ceciliano-of-albitina.svg
 name: Saint Ceciliano of Albitina
 stub: false
 honorific: Saint

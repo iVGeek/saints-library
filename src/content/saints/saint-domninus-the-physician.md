@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-domninus-the-physician.svg
 name: Saint Domninus the Physician
 stub: false
 honorific: Saint

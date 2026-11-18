@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pomposa.svg
 name: Saint Pomposa of Cordoba
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secundus-of-rome-3-june.svg
 name: Saint Secundus of Rome
 stub: true
 honorific: Saint

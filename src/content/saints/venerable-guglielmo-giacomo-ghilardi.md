@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-guglielmo-giacomo-ghilardi.svg
 name: Venerable Guglielmo Giacomo Ghilardi
 stub: true
 honorific: Venerable

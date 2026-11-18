@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-herlindis.svg
 name: Saint Herlindis
 stub: false
 honorific: Saint

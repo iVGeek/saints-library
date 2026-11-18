@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vitalica-of-rome.svg
 name: Saint Vitalica of Rome
 stub: false
 honorific: Saint

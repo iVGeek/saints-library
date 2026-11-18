@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-poliano-of-novellara.svg
 name: Saint Poliano of Novellara
 stub: true
 honorific: Saint

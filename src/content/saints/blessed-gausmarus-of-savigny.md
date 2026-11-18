@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gausmarus-of-savigny.svg
 name: Blessed Gausmarus of Savigny
 stub: true
 honorific: Blessed

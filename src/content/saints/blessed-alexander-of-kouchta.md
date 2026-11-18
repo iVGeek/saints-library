@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-alexander-of-kouchta.svg
 name: Blessed Alexander of Kouchta
 stub: false
 honorific: Blessed

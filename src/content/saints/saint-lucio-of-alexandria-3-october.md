@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lucio-of-alexandria-3-october.svg
 name: Saint Lucio of Alexandria
 stub: true
 honorific: Saint

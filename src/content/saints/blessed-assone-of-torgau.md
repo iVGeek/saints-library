@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-assone-of-torgau.svg
 name: Blessed Assone of Torgau
 stub: true
 honorific: Blessed

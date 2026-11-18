@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-venerando-the-centurian.svg
 name: Saint Venerando the Centurian
 stub: true
 honorific: Saint

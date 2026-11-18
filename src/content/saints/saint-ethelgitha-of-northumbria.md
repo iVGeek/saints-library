@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ethelgitha-of-northumbria.svg
 name: Saint Ethelgitha of Northumbria
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sopatra.svg
 name: Saint Sopatra
 stub: false
 honorific: Saint

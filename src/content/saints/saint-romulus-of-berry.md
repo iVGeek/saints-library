@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-romulus-of-berry.svg
 name: Saint Romulus of Berry
 stub: true
 honorific: Saint

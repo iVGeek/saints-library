@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcianus-of-thessalonica.svg
 name: Saint Marcianus of Thessalonica
 stub: true
 honorific: Saint

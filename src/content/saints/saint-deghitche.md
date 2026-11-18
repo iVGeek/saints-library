@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-deghitche.svg
 name: Saint Deghitche
 stub: false
 honorific: Saint

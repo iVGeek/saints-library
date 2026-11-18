@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gaudolus-of-rome.svg
 name: Saint Gaudolus of Rome
 stub: false
 honorific: Saint

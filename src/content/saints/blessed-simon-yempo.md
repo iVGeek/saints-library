@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-simon-yempo.svg
 name: Blessed Simon Yempo
 stub: true
 honorific: Blessed

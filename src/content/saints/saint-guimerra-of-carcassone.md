@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-guimerra-of-carcassone.svg
 name: Saint Guimérra of Carcassone
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-becan-of-cork.svg
 name: Saint Becan of Cork
 stub: true
 honorific: Saint

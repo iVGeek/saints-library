@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-teodoro-gomez-cervero.svg
 name: Blessed Teodoro Gómez Cervero
 stub: false
 honorific: Blessed

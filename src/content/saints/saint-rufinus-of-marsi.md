@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufinus-of-marsi.svg
 name: Saint Rufinus of Marsi
 stub: false
 honorific: Saint

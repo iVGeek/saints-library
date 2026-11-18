@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cassian-of-saint-saba.svg
 name: Saint Cassian of Saint Saba
 stub: true
 honorific: Saint

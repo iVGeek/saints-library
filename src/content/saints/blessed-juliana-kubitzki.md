@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-juliana-kubitzki.svg
 name: Blessed Juliana Kubitzki
 stub: false
 honorific: Blessed

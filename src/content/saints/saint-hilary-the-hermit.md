@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hilary-the-hermit.svg
 name: Saint Hilary the Hermit
 stub: true
 honorific: Saint

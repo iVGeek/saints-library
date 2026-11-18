@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fiorenzo-of-micy.svg
 name: Saint Fiorenzo of Micy
 stub: true
 honorific: Saint

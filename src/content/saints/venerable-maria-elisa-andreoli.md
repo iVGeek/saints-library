@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-maria-elisa-andreoli.svg
 name: Venerable Maria Elisa Andreoli
 stub: false
 honorific: Venerable

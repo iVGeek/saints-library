@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gregory-of-fragalata.svg
 name: Saint Gregory of Fragalata
 stub: false
 honorific: Saint

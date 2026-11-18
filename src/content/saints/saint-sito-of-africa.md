@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sito-of-africa.svg
 name: Saint Sito of Africa
 stub: false
 honorific: Saint

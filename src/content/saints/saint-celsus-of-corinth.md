@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-celsus-of-corinth.svg
 name: Saint Celsus of Corinth
 stub: true
 honorific: Saint

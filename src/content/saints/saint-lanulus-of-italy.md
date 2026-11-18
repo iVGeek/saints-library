@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lanulus-of-italy.svg
 name: Saint Lanulus of Italy
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-triverius.svg
 name: Saint Triverius
 stub: false
 honorific: Saint

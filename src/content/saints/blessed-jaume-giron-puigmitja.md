@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jaume-giron-puigmitja.svg
 name: Blessed Jaume Girón Puigmitjà
 stub: false
 honorific: Blessed

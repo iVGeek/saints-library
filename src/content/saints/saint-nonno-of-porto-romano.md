@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nonno-of-porto-romano.svg
 name: Saint Nonno of Porto Romano
 stub: true
 honorific: Saint

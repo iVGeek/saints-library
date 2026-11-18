@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-festus-of-pozzuoli.svg
 name: Saint Festus of Pozzuoli
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-martin-of-saujon.svg
 name: Saint Martin of Saujon
 stub: false
 honorific: Saint

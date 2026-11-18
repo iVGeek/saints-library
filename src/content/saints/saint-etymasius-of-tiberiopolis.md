@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-etymasius-of-tiberiopolis.svg
 name: Saint Etymasius of Tiberiopolis
 stub: false
 honorific: Saint

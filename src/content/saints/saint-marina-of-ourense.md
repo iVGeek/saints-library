@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marina-of-ourense.svg
 name: Saint Marina of Ourense
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theoger.svg
 name: Saint Theoger
 stub: false
 honorific: Saint

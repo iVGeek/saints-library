@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-evonio-of-auvergne.svg
 name: Saint Evonio of Auvergne
 stub: false
 honorific: Saint

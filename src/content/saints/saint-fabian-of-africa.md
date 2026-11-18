@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fabian-of-africa.svg
 name: Saint Fabian of Africa
 stub: true
 honorific: Saint

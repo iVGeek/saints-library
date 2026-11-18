@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-matthias-shobara-ichizaemon.svg
 name: Blessed Matthias Shobara Ichizaemon
 stub: true
 honorific: Blessed

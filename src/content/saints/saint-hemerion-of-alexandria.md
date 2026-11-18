@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hemerion-of-alexandria.svg
 name: Saint Hemerion of Alexandria
 stub: false
 honorific: Saint

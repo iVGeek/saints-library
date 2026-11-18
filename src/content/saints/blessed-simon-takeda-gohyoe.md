@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-simon-takeda-gohyoe.svg
 name: Blessed Simon Takeda Gohyoe
 stub: false
 honorific: Blessed

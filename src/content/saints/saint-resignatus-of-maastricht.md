@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-resignatus-of-maastricht.svg
 name: Saint Resignatus of Maastricht
 stub: false
 honorific: Saint

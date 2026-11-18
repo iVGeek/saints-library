@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-aedh-mclugack.svg
 name: Saint Aedh McLugack
 stub: true
 honorific: Saint

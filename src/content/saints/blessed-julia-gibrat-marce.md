@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-julia-gibrat-marce.svg
 name: Blessed Julià Gibrat Marcé
 stub: false
 honorific: Blessed

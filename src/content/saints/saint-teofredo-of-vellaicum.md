@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-teofredo-of-vellaicum.svg
 name: Saint Teofredo of Vellaicum
 stub: true
 honorific: Saint

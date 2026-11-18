@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-alonso-de-barcena.svg
 name: Venerable Alonso de Bárcena
 stub: false
 honorific: Venerable

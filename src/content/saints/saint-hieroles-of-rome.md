@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hieroles-of-rome.svg
 name: Saint Hieroles of Rome
 stub: true
 honorific: Saint

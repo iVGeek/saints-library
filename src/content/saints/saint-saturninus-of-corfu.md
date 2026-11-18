@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturninus-of-corfu.svg
 name: Saint Saturninus of Corfu
 stub: false
 honorific: Saint

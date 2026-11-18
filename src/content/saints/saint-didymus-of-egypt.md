@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-didymus-of-egypt.svg
 name: Saint Didymus of Egypt
 stub: false
 honorific: Saint

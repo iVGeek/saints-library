@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-celsus-of-bologna.svg
 name: Saint Celsus of Bologna
 stub: true
 honorific: Saint

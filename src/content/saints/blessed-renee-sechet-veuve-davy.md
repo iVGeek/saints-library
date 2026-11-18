@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-renee-sechet-veuve-davy.svg
 name: Blessed Renée Sechet veuve Davy
 stub: false
 honorific: Blessed

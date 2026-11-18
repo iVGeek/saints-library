@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gundenis-of-carthage.svg
 name: Saint Gundenis of Carthage
 stub: true
 honorific: Saint

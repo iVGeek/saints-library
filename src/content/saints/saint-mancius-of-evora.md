@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mancius-of-evora.svg
 name: Saint Mancius of Evora
 stub: false
 honorific: Saint

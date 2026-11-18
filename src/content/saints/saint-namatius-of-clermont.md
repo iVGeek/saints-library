@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-namatius-of-clermont.svg
 name: Saint Namatius of Clermont
 stub: false
 honorific: Saint

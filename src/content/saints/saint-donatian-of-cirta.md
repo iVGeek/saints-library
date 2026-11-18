@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-donatian-of-cirta.svg
 name: Saint Donatian of Cirta
 stub: true
 honorific: Saint

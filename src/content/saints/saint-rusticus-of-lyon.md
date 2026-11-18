@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rusticus-of-lyon.svg
 name: Saint Rusticus of Lyon
 stub: false
 honorific: Saint

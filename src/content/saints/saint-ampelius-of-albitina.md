@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ampelius-of-albitina.svg
 name: Saint Ampelius of Albitina
 stub: false
 honorific: Saint

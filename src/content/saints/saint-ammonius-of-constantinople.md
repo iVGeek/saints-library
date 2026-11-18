@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ammonius-of-constantinople.svg
 name: Saint Ammonius of Constantinople
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zosimus-of-umbria.svg
 name: Saint Zosimus of Umbria
 stub: true
 honorific: Saint

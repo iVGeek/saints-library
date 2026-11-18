@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tozzo-of-augsburg.svg
 name: Saint Tozzo of Augsburg
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rathard-of-diessen.svg
 name: Saint Rathard of Diessen
 stub: true
 honorific: Saint

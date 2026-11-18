@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gaudentius-of-verona.svg
 name: Saint Gaudentius of Verona
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tecla-of-gerona.svg
 name: Saint Tecla of Gerona
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-emilian-of-saujon.svg
 name: Saint Emilian of Saujon
 stub: false
 honorific: Saint

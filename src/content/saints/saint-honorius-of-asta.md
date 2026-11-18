@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-honorius-of-asta.svg
 name: Saint Honorius of Asta
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-james-of-toul.svg
 name: Saint James of Toul
 stub: false
 honorific: Saint

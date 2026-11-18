@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jose-casinello-barroeta.svg
 name: Blessed José Casinello Barroeta
 stub: false
 honorific: Blessed

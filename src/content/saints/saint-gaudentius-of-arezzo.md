@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gaudentius-of-arezzo.svg
 name: Saint Gaudentius of Arezzo
 stub: false
 honorific: Saint

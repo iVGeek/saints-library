@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ioannes-pak-hu-jae.svg
 name: Saint Ioannes Pak Hu-jae
 stub: true
 honorific: Venerable

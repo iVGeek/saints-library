@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cecilia-of-albitina.svg
 name: Saint Cecilia of Albitina
 stub: false
 honorific: Saint

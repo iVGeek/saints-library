@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mauritius-of-cologne.svg
 name: Saint Mauritius of Cologne
 stub: true
 honorific: Saint

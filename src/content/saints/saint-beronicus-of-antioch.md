@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-beronicus-of-antioch.svg
 name: Saint Beronicus of Antioch
 stub: false
 honorific: Saint

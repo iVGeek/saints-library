@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fausta-of-rome.svg
 name: Saint Fausta of Rome
 stub: false
 honorific: Saint

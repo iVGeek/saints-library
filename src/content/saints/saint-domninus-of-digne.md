@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-domninus-of-digne.svg
 name: Saint Domninus of Digne
 stub: true
 honorific: Saint

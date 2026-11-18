@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-benigne-joly.svg
 name: Venerable Bénigne Joly
 stub: false
 honorific: Venerable

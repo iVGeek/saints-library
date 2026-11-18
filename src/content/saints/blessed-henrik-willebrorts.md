@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-henrik-willebrorts.svg
 name: Blessed Henrik Willebrorts
 stub: false
 honorific: Blessed

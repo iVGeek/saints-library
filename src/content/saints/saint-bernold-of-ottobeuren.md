@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bernold-of-ottobeuren.svg
 name: Saint Bernold of Ottobeuren
 stub: false
 honorific: Saint

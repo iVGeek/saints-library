@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-credan-of-evesham.svg
 name: Saint Credan of Evesham
 stub: true
 honorific: Saint

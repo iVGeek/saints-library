@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vespasiano-of-novellara.svg
 name: Saint Vespasiano of Novellara
 stub: true
 honorific: Saint

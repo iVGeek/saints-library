@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-paduinus-of-le-mans.svg
 name: Saint Paduinus of Le Mans
 stub: false
 honorific: Saint

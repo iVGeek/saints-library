@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-juan-senosiain-zugasti.svg
 name: Blessed Juan Senosiaín Zugasti
 stub: true
 honorific: Blessed

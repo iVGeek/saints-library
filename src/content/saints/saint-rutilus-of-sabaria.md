@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rutilus-of-sabaria.svg
 name: Saint Rutilus of Sabaria
 stub: true
 honorific: Saint

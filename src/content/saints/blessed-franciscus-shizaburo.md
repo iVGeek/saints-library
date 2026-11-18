@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-franciscus-shizaburo.svg
 name: Blessed Franciscus Shizaburo
 stub: false
 honorific: Blessed

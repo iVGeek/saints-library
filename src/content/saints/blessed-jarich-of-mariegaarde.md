@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jarich-of-mariegaarde.svg
 name: Blessed Jarich of Mariegaarde
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-sebastia-gili-vives.svg
 name: Venerable Sebastià Gili Vives
 stub: false
 honorific: Venerable

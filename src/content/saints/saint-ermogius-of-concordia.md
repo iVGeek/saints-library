@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ermogius-of-concordia.svg
 name: Saint Ermogius of Concordia
 stub: false
 honorific: Saint

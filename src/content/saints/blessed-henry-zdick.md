@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-henry-zdick.svg
 name: Blessed Henry Zdick
 stub: false
 honorific: Blessed

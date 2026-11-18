@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-clotilde-campos-urdiales.svg
 name: Blessed Clotilde Campos Urdiales
 stub: true
 honorific: Blessed

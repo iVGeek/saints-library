@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-juan-duarte-martin.svg
 name: Blessed Juan Duarte Martín
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-petrus-wang-erman.svg
 name: Saint Petrus Wang Erman
 stub: false
 honorific: Venerable

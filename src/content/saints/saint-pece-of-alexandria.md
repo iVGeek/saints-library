@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pece-of-alexandria.svg
 name: Saint Pece of Alexandria
 stub: true
 honorific: Saint

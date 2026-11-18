@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sidonius-of-saint-saens.svg
 name: Saint Sidonius of Saint-Saens
 stub: false
 honorific: Saint

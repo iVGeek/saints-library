@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fisocius-of-africa.svg
 name: Saint Fisocius of Africa
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-godwin-of-stavelot.svg
 name: Saint Godwin of Stavelot
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vitalis-of-jerusalem.svg
 name: Saint Vitalis of Jerusalem
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-santucci-terrebotti.svg
 name: Blessed Santucci Terrebotti
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-llewellyn.svg
 name: Saint Llewellyn
 stub: true
 honorific: Saint

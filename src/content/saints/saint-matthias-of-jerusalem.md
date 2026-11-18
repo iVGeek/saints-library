@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-matthias-of-jerusalem.svg
 name: Saint Matthias of Jerusalem
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-nicetas-of-pereaslav.svg
 name: Blessed Nicetas of Pereaslav
 stub: false
 honorific: Blessed

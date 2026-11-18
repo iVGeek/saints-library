@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fiachan-of-lismore.svg
 name: Saint Fiachan of Lismore
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rasyphus-of-rome.svg
 name: Saint Rasyphus of Rome
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-willa-of-nonnberg.svg
 name: Saint Willa of Nonnberg
 stub: false
 honorific: Saint

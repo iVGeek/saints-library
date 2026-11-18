@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-votus-de-atares.svg
 name: Saint Votus de Atarés
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-waccar.svg
 name: Saint Waccar
 stub: true
 honorific: Saint

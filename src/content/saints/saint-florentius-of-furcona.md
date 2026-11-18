@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-florentius-of-furcona.svg
 name: Saint Florentius of Furcona
 stub: false
 honorific: Saint

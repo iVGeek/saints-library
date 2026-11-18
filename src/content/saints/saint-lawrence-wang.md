@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lawrence-wang.svg
 name: Saint Lawrence Wang
 stub: false
 honorific: Venerable

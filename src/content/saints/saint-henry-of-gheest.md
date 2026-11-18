@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-henry-of-gheest.svg
 name: Saint Henry of Gheest
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zoticus-the-soldier.svg
 name: Saint Zoticus the Soldier
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-florence-of-thessalonica.svg
 name: Saint Florence of Thessalonica
 stub: true
 honorific: Saint

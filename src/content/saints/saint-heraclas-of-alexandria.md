@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-heraclas-of-alexandria.svg
 name: Saint Heraclas of Alexandria
 stub: false
 honorific: Saint

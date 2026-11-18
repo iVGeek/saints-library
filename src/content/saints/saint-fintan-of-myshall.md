@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fintan-of-myshall.svg
 name: Saint Fintan of Myshall
 stub: false
 honorific: Saint

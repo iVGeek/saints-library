@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gundulphus.svg
 name: Saint Gundulphus
 stub: true
 honorific: Saint

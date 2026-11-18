@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-macarius-of-nicaea.svg
 name: Saint Macarius of Nicaea
 stub: true
 honorific: Saint

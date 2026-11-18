@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-josep-mas-pujolras.svg
 name: Blessed Josep Más Pujolrás
 stub: false
 honorific: Blessed

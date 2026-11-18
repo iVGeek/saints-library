@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-chionia-of-thessalonica.svg
 name: Saint Chionia of Thessalonica
 stub: false
 honorific: Saint

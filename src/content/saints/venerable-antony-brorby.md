@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-antony-brorby.svg
 name: Venerable Antony Brorby
 stub: false
 honorific: Venerable

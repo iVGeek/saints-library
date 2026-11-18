@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-arturo-donoso-murillo.svg
 name: Blessed Arturo Donoso Murillo
 stub: false
 honorific: Blessed

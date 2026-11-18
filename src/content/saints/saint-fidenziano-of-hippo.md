@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fidenziano-of-hippo.svg
 name: Saint Fidenziano of Hippo
 stub: false
 honorific: Saint

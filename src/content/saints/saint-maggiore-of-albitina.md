@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maggiore-of-albitina.svg
 name: Saint Maggiore of Albitina
 stub: false
 honorific: Saint

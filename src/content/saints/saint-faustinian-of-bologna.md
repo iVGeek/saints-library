@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-faustinian-of-bologna.svg
 name: Saint Faustinian of Bologna
 stub: false
 honorific: Saint

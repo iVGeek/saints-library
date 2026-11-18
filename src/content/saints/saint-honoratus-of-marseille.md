@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-honoratus-of-marseille.svg
 name: Saint Honoratus of Marseille
 stub: false
 honorific: Saint

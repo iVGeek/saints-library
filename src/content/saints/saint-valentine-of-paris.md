@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valentine-of-paris.svg
 name: Saint Valentine of Paris
 stub: false
 honorific: Saint

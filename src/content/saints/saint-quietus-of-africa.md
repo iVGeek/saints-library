@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-quietus-of-africa.svg
 name: Saint Quietus of Africa
 stub: false
 honorific: Saint

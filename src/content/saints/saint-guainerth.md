@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-guainerth.svg
 name: Saint Guainerth
 stub: false
 honorific: Saint

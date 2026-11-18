@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-juliana-of-pavilly.svg
 name: Saint Juliana of Pavilly
 stub: false
 honorific: Saint

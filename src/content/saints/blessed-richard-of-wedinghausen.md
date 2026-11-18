@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-richard-of-wedinghausen.svg
 name: Blessed Richard of Wedinghausen
 stub: false
 honorific: Blessed

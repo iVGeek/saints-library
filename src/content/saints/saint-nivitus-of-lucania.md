@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nivitus-of-lucania.svg
 name: Saint Nivitus of Lucania
 stub: true
 honorific: Saint

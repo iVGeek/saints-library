@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fidharleus.svg
 name: Saint Fidharleus
 stub: false
 honorific: Saint

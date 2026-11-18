@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-germana-of-numidia.svg
 name: Saint Germana of Numidia
 stub: true
 honorific: Saint

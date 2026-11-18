@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcia-of-caesarea.svg
 name: Saint Marcia of Caesarea
 stub: true
 honorific: Saint

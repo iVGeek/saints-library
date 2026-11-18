@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-benedict-of-cagliari.svg
 name: Saint Benedict of Cagliari
 stub: false
 honorific: Saint

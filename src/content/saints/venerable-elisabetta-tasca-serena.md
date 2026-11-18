@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-elisabetta-tasca-serena.svg
 name: Venerable Elisabetta Tasca Serena
 stub: true
 honorific: Venerable

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hilary-of-mytilene.svg
 name: Saint Hilary of Mytilene
 stub: true
 honorific: Saint

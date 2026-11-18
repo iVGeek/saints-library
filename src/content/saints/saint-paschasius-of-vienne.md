@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-paschasius-of-vienne.svg
 name: Saint Paschasius of Vienne
 stub: true
 honorific: Saint

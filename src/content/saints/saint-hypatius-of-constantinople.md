@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hypatius-of-constantinople.svg
 name: Saint Hypatius of Constantinople
 stub: false
 honorific: Saint

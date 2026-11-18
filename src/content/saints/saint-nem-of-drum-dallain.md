@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nem-of-drum-dallain.svg
 name: Saint Nem of Drum Dallain
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-primian.svg
 name: Saint Primian of North Africa
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-apolonius-of-lugdunum.svg
 name: Saint Apolonius of Lugdunum
 stub: false
 honorific: Saint

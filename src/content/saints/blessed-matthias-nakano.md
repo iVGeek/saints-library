@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-matthias-nakano.svg
 name: Blessed Matthias Nakano
 stub: false
 honorific: Blessed

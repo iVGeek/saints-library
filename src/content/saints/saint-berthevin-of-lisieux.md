@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-berthevin-of-lisieux.svg
 name: Saint Berthevin of Lisieux
 stub: false
 honorific: Saint

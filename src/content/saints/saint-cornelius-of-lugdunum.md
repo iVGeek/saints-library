@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cornelius-of-lugdunum.svg
 name: Saint Cornelius of Lugdunum
 stub: false
 honorific: Saint

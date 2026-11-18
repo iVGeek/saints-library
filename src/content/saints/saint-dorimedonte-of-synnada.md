@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dorimedonte-of-synnada.svg
 name: Saint Dorimedonte of Synnada
 stub: true
 honorific: Saint

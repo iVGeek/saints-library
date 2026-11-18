@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-podius-of-florence.svg
 name: Saint Podius of Florence
 stub: false
 honorific: Saint

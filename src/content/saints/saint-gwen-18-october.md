@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gwen-18-october.svg
 name: Saint Gwen of Caer Goch
 stub: false
 honorific: Saint

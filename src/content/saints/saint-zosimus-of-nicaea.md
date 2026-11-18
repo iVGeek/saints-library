@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zosimus-of-nicaea.svg
 name: Saint Zosimus of Nicaea
 stub: true
 honorific: Saint

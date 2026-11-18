@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-paramon.svg
 name: Saint Paramon
 stub: false
 honorific: Saint

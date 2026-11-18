@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-placidus-of-sicily.svg
 name: Saint Placidus of Sicily
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-walter-of-himmerode.svg
 name: Blessed Walter of Himmerode
 stub: false
 honorific: Blessed

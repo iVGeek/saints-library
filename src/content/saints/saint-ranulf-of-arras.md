@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ranulf-of-arras.svg
 name: Saint Ranulf of Arras
 stub: true
 honorific: Saint

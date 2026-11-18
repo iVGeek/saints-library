@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-basilia-diez-recio.svg
 name: Blessed Basilia Diez Recio
 stub: true
 honorific: Blessed

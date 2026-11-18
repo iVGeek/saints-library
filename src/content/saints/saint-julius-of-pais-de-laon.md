@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julius-of-pais-de-laon.svg
 name: Saint Julius of Pais-de-Laon
 stub: true
 honorific: Saint

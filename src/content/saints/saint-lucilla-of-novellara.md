@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lucilla-of-novellara.svg
 name: Saint Lucilla of Novellara
 stub: true
 honorific: Saint

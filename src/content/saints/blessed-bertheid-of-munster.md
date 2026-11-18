@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-bertheid-of-munster.svg
 name: Blessed Bertheid of Münster
 stub: false
 honorific: Blessed

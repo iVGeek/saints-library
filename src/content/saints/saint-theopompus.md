@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theopompus.svg
 name: Saint Theopompus
 stub: true
 honorific: Saint

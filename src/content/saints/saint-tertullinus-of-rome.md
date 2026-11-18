@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tertullinus-of-rome.svg
 name: Saint Tertullinus of Rome
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-heiu-of-hartlepool.svg
 name: Saint Heiu of Hartlepool
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mercury-of-lentini.svg
 name: Saint Mercury of Lentini
 stub: false
 honorific: Saint

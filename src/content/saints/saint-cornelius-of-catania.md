@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cornelius-of-catania.svg
 name: Saint Cornelius of Catania
 stub: false
 honorific: Saint

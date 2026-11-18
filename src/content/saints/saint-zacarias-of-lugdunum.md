@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zacarias-of-lugdunum.svg
 name: Saint Zacarías of Lugdunum
 stub: false
 honorific: Saint

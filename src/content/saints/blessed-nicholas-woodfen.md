@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-nicholas-woodfen.svg
 name: Blessed Nicholas Woodfen
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-francisco-simon-y-rodenas.svg
 name: Venerable Francisco Simón y Ródenas
 stub: false
 honorific: Venerable

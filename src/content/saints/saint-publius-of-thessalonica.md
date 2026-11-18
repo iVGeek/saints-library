@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-publius-of-thessalonica.svg
 name: Saint Publius of Thessalonica
 stub: true
 honorific: Saint

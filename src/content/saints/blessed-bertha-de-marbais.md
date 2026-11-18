@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-bertha-de-marbais.svg
 name: Blessed Bertha de Marbais
 stub: false
 honorific: Blessed

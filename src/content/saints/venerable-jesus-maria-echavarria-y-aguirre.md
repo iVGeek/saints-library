@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-jesus-maria-echavarria-y-aguirre.svg
 name: Venerable Jesús María Echavarría y Aguirre
 stub: false
 honorific: Venerable

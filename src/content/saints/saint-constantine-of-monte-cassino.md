@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-constantine-of-monte-cassino.svg
 name: Saint Constantine of Monte Cassino
 stub: false
 honorific: Saint

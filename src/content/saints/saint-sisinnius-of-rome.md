@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sisinnius-of-rome.svg
 name: Saint Sisinnius of Rome
 stub: false
 honorific: Saint

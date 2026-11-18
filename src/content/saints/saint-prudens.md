@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-prudens.svg
 name: Saint Prudens
 stub: true
 honorific: Saint

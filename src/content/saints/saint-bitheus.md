@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bitheus.svg
 name: Saint Bitheus
 stub: false
 honorific: Saint

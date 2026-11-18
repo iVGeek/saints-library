@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-caritone-of-rome.svg
 name: Saint Caritone of Rome
 stub: false
 honorific: Saint

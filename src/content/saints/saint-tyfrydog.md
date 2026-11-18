@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tyfrydog.svg
 name: Saint Tyfrydog
 stub: false
 honorific: Saint

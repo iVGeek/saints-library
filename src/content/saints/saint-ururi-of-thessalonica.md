@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ururi-of-thessalonica.svg
 name: Saint Ururi of Thessalonica
 stub: true
 honorific: Saint

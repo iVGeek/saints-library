@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victuria-of-rome-2.svg
 name: Saint Victuria of Rome
 stub: false
 honorific: Saint

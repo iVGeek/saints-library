@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-alanus-of-sassovivo.svg
 name: Blessed Alanus of Sassovivo
 stub: false
 honorific: Blessed

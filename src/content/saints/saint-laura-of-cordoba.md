@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-laura-of-cordoba.svg
 name: Saint Laura of Cordoba
 stub: false
 honorific: Saint

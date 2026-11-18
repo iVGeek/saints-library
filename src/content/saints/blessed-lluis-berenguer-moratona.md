@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-lluis-berenguer-moratona.svg
 name: Blessed Lluís Berenguer Moratona
 stub: true
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-antonio-elizalde-garvisu.svg
 name: Blessed Antonio Elizalde Garvisu
 stub: true
 honorific: Blessed

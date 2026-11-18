@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-quadratus.svg
 name: Saint Quadratus
 stub: true
 honorific: Saint

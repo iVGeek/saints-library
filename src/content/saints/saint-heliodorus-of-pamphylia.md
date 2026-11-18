@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-heliodorus-of-pamphylia.svg
 name: Saint Heliodorus of Pamphylia
 stub: true
 honorific: Saint

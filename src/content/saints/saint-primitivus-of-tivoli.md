@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-primitivus-of-tivoli.svg
 name: Saint Primitivus of Tivoli
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcellus-of-bourges.svg
 name: Saint Marcellus of Bourges
 stub: true
 honorific: Saint

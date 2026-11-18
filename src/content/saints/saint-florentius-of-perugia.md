@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-florentius-of-perugia.svg
 name: Saint Florentius of Perugia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-rafael-vinagre-torres-munoz.svg
 name: Blessed Rafael Vinagre Torres Muñoz
 stub: true
 honorific: Blessed

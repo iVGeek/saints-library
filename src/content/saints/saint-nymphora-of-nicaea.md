@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nymphora-of-nicaea.svg
 name: Saint Nymphora of Nicaea
 stub: true
 honorific: Saint

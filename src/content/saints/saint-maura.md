@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maura.svg
 name: Saint Maura
 stub: false
 honorific: Saint

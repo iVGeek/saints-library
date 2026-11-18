@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hugh-of-ambronay.svg
 name: Saint Hugh of Ambronay
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victoria-of-thessalonica.svg
 name: Saint Victoria of Thessalonica
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secundinus-of-sinuessa.svg
 name: Saint Secundinus of Sinuessa
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hildegrin-of-chalons.svg
 name: Saint Hildegrin of Chalons
 stub: false
 honorific: Saint

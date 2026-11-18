@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-of-besancon.svg
 name: Saint Peter of Besançon
 stub: true
 honorific: Saint

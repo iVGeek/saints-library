@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julian-the-confessor.svg
 name: Saint Julian the Confessor
 stub: true
 honorific: Saint

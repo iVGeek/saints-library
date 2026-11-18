@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-justina-of-constantinople.svg
 name: Saint Justina of Constantinople
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-verulus-of-hadrumetum.svg
 name: Saint Verulus of Hadrumetum
 stub: true
 honorific: Saint

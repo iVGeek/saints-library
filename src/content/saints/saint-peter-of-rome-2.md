@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-of-rome-2.svg
 name: Saint Peter of Rome
 stub: false
 honorific: Saint

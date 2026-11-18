@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-terezija-banja.svg
 name: Blessed Terezija Banja
 stub: false
 honorific: Blessed

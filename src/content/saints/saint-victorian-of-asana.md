@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victorian-of-asana.svg
 name: Saint Victorian of Asana
 stub: false
 honorific: Saint

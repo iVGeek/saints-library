@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-failbe-of-disert-mic-conlocha.svg
 name: Saint Failbe of Disert Mic Conlocha
 stub: true
 honorific: Saint

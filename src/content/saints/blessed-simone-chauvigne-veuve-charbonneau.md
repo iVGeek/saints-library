@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-simone-chauvigne-veuve-charbonneau.svg
 name: Blessed Simone Chauvigné veuve Charbonneau
 stub: false
 honorific: Blessed

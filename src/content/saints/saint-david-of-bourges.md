@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-david-of-bourges.svg
 name: Saint David of Bourges
 stub: false
 honorific: Saint

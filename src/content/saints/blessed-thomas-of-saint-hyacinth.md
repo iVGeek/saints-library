@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-thomas-of-saint-hyacinth.svg
 name: Blessed Thomas of Saint Hyacinth
 stub: true
 honorific: Blessed

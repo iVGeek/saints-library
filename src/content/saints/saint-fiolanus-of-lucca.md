@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fiolanus-of-lucca.svg
 name: Saint Fiolanus of Lucca
 stub: true
 honorific: Saint

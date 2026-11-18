@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-juan-maria-mugica-goiburu.svg
 name: Blessed Juan María Múgica Goiburu
 stub: false
 honorific: Blessed

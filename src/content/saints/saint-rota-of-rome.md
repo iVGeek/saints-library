@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rota-of-rome.svg
 name: Saint Rota of Rome
 stub: false
 honorific: Saint

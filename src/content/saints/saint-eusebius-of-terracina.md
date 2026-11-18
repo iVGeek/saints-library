@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eusebius-of-terracina.svg
 name: Saint Eusebius of Terracina
 stub: true
 honorific: Saint

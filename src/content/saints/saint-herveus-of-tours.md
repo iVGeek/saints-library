@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-herveus-of-tours.svg
 name: Saint Herveus of Tours
 stub: false
 honorific: Saint

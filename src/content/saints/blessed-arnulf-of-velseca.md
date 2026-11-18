@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-arnulf-of-velseca.svg
 name: Blessed Arnulf of Velseca
 stub: false
 honorific: Blessed

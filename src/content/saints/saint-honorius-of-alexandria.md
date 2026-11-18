@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-honorius-of-alexandria.svg
 name: Saint Honorius of Alexandria
 stub: false
 honorific: Saint

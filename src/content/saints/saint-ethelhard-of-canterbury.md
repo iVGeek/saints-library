@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ethelhard-of-canterbury.svg
 name: Saint Ethelhard of Canterbury
 stub: false
 honorific: Saint

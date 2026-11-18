@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dionysius-of-north-africa.svg
 name: Saint Dionysius of North Africa
 stub: false
 honorific: Saint

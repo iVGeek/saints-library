@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ausilius-of-frejus.svg
 name: Saint Ausilius of Fréjus
 stub: false
 honorific: Saint

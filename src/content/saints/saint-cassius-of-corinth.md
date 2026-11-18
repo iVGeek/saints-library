@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cassius-of-corinth.svg
 name: Saint Cassius of Corinth
 stub: true
 honorific: Saint

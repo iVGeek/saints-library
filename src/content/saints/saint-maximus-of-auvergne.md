@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-auvergne.svg
 name: Saint Maximus of Auvergne
 stub: true
 honorific: Saint

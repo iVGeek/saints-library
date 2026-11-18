@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-francesco-saverio-petagna.svg
 name: Venerable Francesco Saverio Petagna
 stub: false
 honorific: Venerable

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-senator-of-verona.svg
 name: Saint Senator of Verona
 stub: false
 honorific: Saint

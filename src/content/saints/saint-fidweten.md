@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fidweten.svg
 name: Saint Fidweten
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-guetnoco.svg
 name: Saint Guetnoco
 stub: false
 honorific: Saint

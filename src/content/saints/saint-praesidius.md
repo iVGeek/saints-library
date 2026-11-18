@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-praesidius.svg
 name: Saint Praesidius of Africa
 stub: false
 honorific: Saint

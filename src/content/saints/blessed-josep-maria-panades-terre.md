@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-josep-maria-panades-terre.svg
 name: Blessed Josep Maria Panadés Terré
 stub: false
 honorific: Blessed

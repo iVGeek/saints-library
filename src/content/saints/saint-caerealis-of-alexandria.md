@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-caerealis-of-alexandria.svg
 name: Saint Caerealis of Alexandria
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-titus-the-deacon.svg
 name: Saint Titus the Deacon
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gennys-of-cornwall.svg
 name: Saint Gennys of Cornwall
 stub: false
 honorific: Saint

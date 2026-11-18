@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sifrard-of-bleze.svg
 name: Saint Sifrard of Bèze
 stub: false
 honorific: Saint

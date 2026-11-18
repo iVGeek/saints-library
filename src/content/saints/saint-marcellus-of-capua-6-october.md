@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcellus-of-capua-6-october.svg
 name: Saint Marcellus of Capua
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-quintian-14-june.svg
 name: Saint Quintian of Rhodez
 stub: true
 honorific: Saint

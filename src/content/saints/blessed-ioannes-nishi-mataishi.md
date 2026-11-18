@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ioannes-nishi-mataishi.svg
 name: Blessed Ioannes Nishi Mataishi
 stub: false
 honorific: Blessed

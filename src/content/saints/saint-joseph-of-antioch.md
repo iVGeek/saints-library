@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-joseph-of-antioch.svg
 name: Saint Joseph of Antioch
 stub: false
 honorific: Saint

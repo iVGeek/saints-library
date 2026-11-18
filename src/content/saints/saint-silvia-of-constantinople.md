@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-silvia-of-constantinople.svg
 name: Saint Silvia of Constantinople
 stub: true
 honorific: Saint

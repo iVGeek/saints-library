@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gaudentius-of-ossero.svg
 name: Saint Gaudentius of Ossero
 stub: false
 honorific: Saint

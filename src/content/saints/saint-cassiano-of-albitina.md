@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cassiano-of-albitina.svg
 name: Saint Cassiano of Albitina
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-donal-oneylan.svg
 name: Blessed Donal O'Neylan
 stub: true
 honorific: Blessed

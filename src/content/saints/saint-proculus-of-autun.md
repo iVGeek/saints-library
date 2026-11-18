@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-proculus-of-autun.svg
 name: Saint Proculus of Autun
 stub: false
 honorific: Saint

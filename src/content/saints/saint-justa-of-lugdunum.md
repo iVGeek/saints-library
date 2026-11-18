@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-justa-of-lugdunum.svg
 name: Saint Justa of Lugdunum
 stub: false
 honorific: Saint

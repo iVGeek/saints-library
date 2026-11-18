@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-isidra-fernandez-palomero-de-fernandez.svg
 name: Blessed Isidra Fernández Palomero de Fernández
 stub: false
 honorific: Blessed

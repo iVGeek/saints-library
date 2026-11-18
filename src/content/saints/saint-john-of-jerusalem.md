@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-of-jerusalem.svg
 name: Saint John of Jerusalem
 stub: false
 honorific: Saint

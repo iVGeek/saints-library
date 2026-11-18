@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-donatilla-of-africa.svg
 name: Saint Donatilla of Africa
 stub: true
 honorific: Saint

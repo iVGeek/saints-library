@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sempronius-of-africa.svg
 name: Saint Sempronius of Africa
 stub: true
 honorific: Saint

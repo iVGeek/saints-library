@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-expergentus-of-cilicia.svg
 name: Saint Expergentus of Cilicia
 stub: true
 honorific: Saint

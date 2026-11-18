@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-fulgentius-of-quesada.svg
 name: Blessed Fulgentius of Quesada
 stub: false
 honorific: Blessed

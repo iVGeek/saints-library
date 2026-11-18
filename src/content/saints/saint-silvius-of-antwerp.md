@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-silvius-of-antwerp.svg
 name: Saint Silvius of Antwerp
 stub: true
 honorific: Saint

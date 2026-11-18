@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-deodatus-of-sora.svg
 name: Saint Deodatus of Sora
 stub: true
 honorific: Saint

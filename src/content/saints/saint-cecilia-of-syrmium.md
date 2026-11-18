@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cecilia-of-syrmium.svg
 name: Saint Cecilia of Syrmium
 stub: true
 honorific: Saint

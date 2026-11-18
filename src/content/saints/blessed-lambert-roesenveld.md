@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-lambert-roesenveld.svg
 name: Blessed Lambert Roesenveld
 stub: true
 honorific: Blessed

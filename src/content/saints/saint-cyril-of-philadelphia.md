@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyril-of-philadelphia.svg
 name: Saint Cyril of Philadelphia
 stub: true
 honorific: Saint

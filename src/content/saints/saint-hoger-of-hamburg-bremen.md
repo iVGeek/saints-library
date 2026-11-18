@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hoger-of-hamburg-bremen.svg
 name: Saint Hoger of Hamburg-Bremen
 stub: false
 honorific: Saint

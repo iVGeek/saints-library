@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-timolaus-of-caesarea.svg
 name: Saint Timolaus of Caesarea
 stub: true
 honorific: Saint

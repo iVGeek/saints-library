@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gundisalvus-fusai-chozo.svg
 name: Blessed Gundisalvus Fusai Chozo
 stub: false
 honorific: Blessed

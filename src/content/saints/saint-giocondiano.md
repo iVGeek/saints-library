@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-giocondiano.svg
 name: Saint Giocondiano
 stub: true
 honorific: Saint

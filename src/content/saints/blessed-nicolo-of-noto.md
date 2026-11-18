@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-nicolo-of-noto.svg
 name: Blessed Nicolò of Noto
 stub: false
 honorific: Blessed

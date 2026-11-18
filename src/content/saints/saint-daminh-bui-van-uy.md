@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-daminh-bui-van-uy.svg
 name: Saint Ðaminh Bùi Van Úy
 stub: false
 honorific: Venerable

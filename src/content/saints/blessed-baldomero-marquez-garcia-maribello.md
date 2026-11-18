@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-baldomero-marquez-garcia-maribello.svg
 name: Blessed Baldomero Márquez García-Maribello
 stub: false
 honorific: Blessed

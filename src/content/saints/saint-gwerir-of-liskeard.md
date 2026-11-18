@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gwerir-of-liskeard.svg
 name: Saint Gwerir of Liskeard
 stub: false
 honorific: Saint

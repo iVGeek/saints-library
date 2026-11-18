@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-onesima-of-cologne.svg
 name: Saint Onesima of Cologne
 stub: true
 honorific: Saint

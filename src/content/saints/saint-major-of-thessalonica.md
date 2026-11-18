@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-major-of-thessalonica.svg
 name: Saint Major of Thessalonica
 stub: true
 honorific: Saint

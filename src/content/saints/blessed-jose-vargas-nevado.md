@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jose-vargas-nevado.svg
 name: Blessed José Vargas Nevado
 stub: false
 honorific: Blessed

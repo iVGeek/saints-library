@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-goban-gobhnena.svg
 name: Saint Goban Gobhnena
 stub: true
 honorific: Saint

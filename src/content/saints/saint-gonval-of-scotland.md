@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gonval-of-scotland.svg
 name: Saint Gonval of Scotland
 stub: false
 honorific: Saint

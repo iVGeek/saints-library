@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-adheritus.svg
 name: Saint Adheritus
 stub: true
 honorific: Saint

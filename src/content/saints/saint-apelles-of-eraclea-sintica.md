@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-apelles-of-eraclea-sintica.svg
 name: Saint Apelles of Eraclea Sintica
 stub: false
 honorific: Saint

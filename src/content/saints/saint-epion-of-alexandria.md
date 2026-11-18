@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-epion-of-alexandria.svg
 name: Saint Epion of Alexandria
 stub: true
 honorific: Saint

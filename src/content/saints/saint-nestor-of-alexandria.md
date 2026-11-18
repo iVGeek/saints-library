@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nestor-of-alexandria.svg
 name: Saint Nestor of Alexandria
 stub: true
 honorific: Saint

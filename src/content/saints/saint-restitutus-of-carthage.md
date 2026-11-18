@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-restitutus-of-carthage.svg
 name: Saint Restitutus of Carthage
 stub: false
 honorific: Saint

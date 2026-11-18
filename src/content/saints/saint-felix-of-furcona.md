@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felix-of-furcona.svg
 name: Saint Felix of Furcona
 stub: false
 honorific: Saint

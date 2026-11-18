@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-justa-of-rome-2.svg
 name: Saint Justa of Rome
 stub: false
 honorific: Saint

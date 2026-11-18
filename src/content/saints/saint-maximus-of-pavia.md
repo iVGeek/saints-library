@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-pavia.svg
 name: Saint Maximus of Pavia
 stub: false
 honorific: Saint

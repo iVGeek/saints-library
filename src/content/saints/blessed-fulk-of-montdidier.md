@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-fulk-of-montdidier.svg
 name: Blessed Fulk of Montdidier
 stub: false
 honorific: Blessed

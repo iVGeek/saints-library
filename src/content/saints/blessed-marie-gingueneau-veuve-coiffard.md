@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-marie-gingueneau-veuve-coiffard.svg
 name: Blessed Marie Gingueneau veuve Coiffard
 stub: false
 honorific: Blessed

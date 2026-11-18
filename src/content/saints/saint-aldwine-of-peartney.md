@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-aldwine-of-peartney.svg
 name: Saint Aldwine of Peartney
 stub: false
 honorific: Saint

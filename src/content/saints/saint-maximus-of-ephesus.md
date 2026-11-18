@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-ephesus.svg
 name: Saint Maximus of Ephesus
 stub: false
 honorific: Saint

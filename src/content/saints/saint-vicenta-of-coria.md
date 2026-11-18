@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vicenta-of-coria.svg
 name: Saint Vicenta of Coria
 stub: true
 honorific: Saint

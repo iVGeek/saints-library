@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-juan-herrero-arroyo.svg
 name: Blessed Juan Herrero Arroyo
 stub: true
 honorific: Blessed

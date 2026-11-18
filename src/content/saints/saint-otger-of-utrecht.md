@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-otger-of-utrecht.svg
 name: Saint Otger of Utrecht
 stub: false
 honorific: Saint

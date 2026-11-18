@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-datula-of-rome.svg
 name: Saint Datula of Rome
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rogatiana-of-thessalonica.svg
 name: Saint Rogatiana of Thessalonica
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-of-cordoba.svg
 name: Saint Peter of Cordoba
 stub: false
 honorific: Saint

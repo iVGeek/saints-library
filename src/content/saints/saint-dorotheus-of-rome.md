@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dorotheus-of-rome.svg
 name: Saint Dorotheus of Rome
 stub: false
 honorific: Saint

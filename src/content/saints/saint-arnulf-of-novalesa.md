@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-arnulf-of-novalesa.svg
 name: Saint Arnulf of Novalesa
 stub: true
 honorific: Saint

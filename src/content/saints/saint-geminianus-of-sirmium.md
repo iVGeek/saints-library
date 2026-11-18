@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-geminianus-of-sirmium.svg
 name: Saint Geminianus of Sirmium
 stub: false
 honorific: Saint

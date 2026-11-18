@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-benignus-of-breslau.svg
 name: Blessed Benignus of Breslau
 stub: false
 honorific: Blessed

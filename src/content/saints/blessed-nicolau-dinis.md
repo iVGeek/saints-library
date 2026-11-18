@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-nicolau-dinis.svg
 name: Blessed Nicolau Dinis
 stub: false
 honorific: Blessed

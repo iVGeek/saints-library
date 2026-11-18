@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-henry-of-coquet.svg
 name: Saint Henry of Coquet
 stub: false
 honorific: Saint

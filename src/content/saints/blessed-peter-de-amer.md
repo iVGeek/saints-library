@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-peter-de-amer.svg
 name: Blessed Peter de Amer
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vitalicus-of-smyrna.svg
 name: Saint Vitalicus of Smyrna
 stub: true
 honorific: Saint

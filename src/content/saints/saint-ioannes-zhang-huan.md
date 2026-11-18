@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ioannes-zhang-huan.svg
 name: Saint Ioannes Zhang Huan
 stub: false
 honorific: Venerable

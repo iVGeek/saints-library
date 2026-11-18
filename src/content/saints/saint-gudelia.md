@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gudelia.svg
 name: Saint Gudelia
 stub: true
 honorific: Saint

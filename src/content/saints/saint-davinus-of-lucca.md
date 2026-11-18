@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-davinus-of-lucca.svg
 name: Saint Davinus of Lucca
 stub: false
 honorific: Saint

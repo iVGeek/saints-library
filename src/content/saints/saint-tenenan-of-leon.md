@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tenenan-of-leon.svg
 name: Saint Tenenan of Léon
 stub: true
 honorific: Saint

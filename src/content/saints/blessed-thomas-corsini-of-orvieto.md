@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-thomas-corsini-of-orvieto.svg
 name: Blessed Thomas Corsini of Orvieto
 stub: true
 honorific: Blessed

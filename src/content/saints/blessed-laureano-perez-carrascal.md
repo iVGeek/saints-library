@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-laureano-perez-carrascal.svg
 name: Blessed Laureano Pérez Carrascal
 stub: false
 honorific: Blessed

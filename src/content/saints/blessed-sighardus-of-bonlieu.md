@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-sighardus-of-bonlieu.svg
 name: Blessed Sighardus of Bonlieu
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gil-belascoain-ilagorri.svg
 name: Blessed Gil Belascoain Ilagorri
 stub: false
 honorific: Blessed

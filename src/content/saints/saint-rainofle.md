@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rainofle.svg
 name: Saint Rainofle
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vibianus-of-italy.svg
 name: Saint Vibianus of Italy
 stub: false
 honorific: Saint

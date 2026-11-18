@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyrillus-4-march.svg
 name: Saint Cyrillus
 stub: true
 honorific: Saint

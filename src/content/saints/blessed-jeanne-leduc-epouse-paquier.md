@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jeanne-leduc-epouse-paquier.svg
 name: Blessed Jeanne Leduc épouse Paquier
 stub: false
 honorific: Blessed

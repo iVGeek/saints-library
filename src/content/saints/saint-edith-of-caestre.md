@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-edith-of-caestre.svg
 name: Saint Edith of Caëstre
 stub: false
 honorific: Saint

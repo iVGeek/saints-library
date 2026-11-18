@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-viance-of-anjou.svg
 name: Saint Viance of Anjou
 stub: false
 honorific: Saint

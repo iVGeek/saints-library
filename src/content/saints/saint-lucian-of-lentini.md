@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lucian-of-lentini.svg
 name: Saint Lucian of Lentini
 stub: true
 honorific: Saint

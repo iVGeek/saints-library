@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fructus-of-corinth.svg
 name: Saint Fructus of Corinth
 stub: true
 honorific: Saint

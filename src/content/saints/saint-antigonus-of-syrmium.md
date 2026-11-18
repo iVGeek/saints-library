@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-antigonus-of-syrmium.svg
 name: Saint Antigonus of Syrmium
 stub: true
 honorific: Saint

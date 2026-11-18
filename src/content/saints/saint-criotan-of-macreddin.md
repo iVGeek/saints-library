@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-criotan-of-macreddin.svg
 name: Saint Criotan of Macreddin
 stub: false
 honorific: Saint

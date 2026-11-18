@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fidelis-of-merida.svg
 name: Saint Fidelis of Mérida
 stub: false
 honorific: Saint

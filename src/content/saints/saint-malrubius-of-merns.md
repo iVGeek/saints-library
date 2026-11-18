@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-malrubius-of-merns.svg
 name: Saint Malrubius of Merns
 stub: true
 honorific: Saint

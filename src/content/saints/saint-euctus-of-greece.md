@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-euctus-of-greece.svg
 name: Saint Euctus of Greece
 stub: true
 honorific: Saint

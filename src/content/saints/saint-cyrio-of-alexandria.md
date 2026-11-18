@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyrio-of-alexandria.svg
 name: Saint Cyrio of Alexandria
 stub: true
 honorific: Saint

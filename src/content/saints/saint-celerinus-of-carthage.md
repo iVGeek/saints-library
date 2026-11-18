@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-celerinus-of-carthage.svg
 name: Saint Celerinus of Carthage
 stub: false
 honorific: Saint

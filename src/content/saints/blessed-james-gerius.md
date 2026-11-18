@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-james-gerius.svg
 name: Blessed James Gerius
 stub: false
 honorific: Blessed

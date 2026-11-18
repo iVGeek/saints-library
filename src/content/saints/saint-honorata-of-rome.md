@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-honorata-of-rome.svg
 name: Saint Honorata of Rome
 stub: true
 honorific: Saint

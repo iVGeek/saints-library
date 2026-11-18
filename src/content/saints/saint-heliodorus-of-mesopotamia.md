@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-heliodorus-of-mesopotamia.svg
 name: Saint Heliodorus of Mesopotamia
 stub: true
 honorific: Saint

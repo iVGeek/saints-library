@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rodron-of-bleze.svg
 name: Saint Rodron of Bèze
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-januarius-of-corfu.svg
 name: Saint Januarius of Corfu
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stephen-of-alexandria-1-april.svg
 name: Saint Stephen of Alexandria
 stub: true
 honorific: Saint

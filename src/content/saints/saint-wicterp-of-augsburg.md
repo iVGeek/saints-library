@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-wicterp-of-augsburg.svg
 name: Saint Wicterp of Augsburg
 stub: false
 honorific: Saint

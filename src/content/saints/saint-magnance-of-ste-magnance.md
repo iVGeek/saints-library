@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-magnance-of-ste-magnance.svg
 name: Saint Magnance of Ste-Magnance
 stub: true
 honorific: Saint

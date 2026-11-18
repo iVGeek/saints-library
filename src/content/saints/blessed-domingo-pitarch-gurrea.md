@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-domingo-pitarch-gurrea.svg
 name: Blessed Domingo Pitarch Gurrea
 stub: false
 honorific: Blessed

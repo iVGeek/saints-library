@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-veturius-of-scillium.svg
 name: Saint Veturius of Scillium
 stub: false
 honorific: Saint

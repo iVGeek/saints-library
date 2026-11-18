@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gualberto.svg
 name: Saint Gualberto
 stub: true
 honorific: Saint

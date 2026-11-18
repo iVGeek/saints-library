@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stephen-of-africa.svg
 name: Saint Stephen of Africa
 stub: true
 honorific: Saint

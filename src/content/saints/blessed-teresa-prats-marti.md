@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-teresa-prats-marti.svg
 name: Blessed Teresa Prats Martí
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pientius-of-poitiers.svg
 name: Saint Pientius of Poitiers
 stub: true
 honorific: Saint

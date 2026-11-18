@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-metunus-of-thessalonica.svg
 name: Saint Metunus of Thessalonica
 stub: true
 honorific: Saint

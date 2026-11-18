@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-of-alexandria.svg
 name: Saint Peter of Alexandria
 stub: true
 honorific: Saint

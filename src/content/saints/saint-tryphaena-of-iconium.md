@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tryphaena-of-iconium.svg
 name: Saint Tryphaena of Iconium
 stub: false
 honorific: Saint

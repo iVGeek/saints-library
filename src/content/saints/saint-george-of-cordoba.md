@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-george-of-cordoba.svg
 name: Saint George of Cordoba
 stub: false
 honorific: Saint

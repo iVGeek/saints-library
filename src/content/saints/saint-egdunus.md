@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-egdunus.svg
 name: Saint Egdunus
 stub: false
 honorific: Saint

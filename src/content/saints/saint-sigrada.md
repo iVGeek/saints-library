@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sigrada.svg
 name: Saint Sigrada
 stub: false
 honorific: Saint

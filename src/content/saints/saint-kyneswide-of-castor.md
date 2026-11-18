@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-kyneswide-of-castor.svg
 name: Saint Kyneswide of Castor
 stub: false
 honorific: Saint

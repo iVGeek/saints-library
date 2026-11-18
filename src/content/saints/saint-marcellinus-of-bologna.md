@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcellinus-of-bologna.svg
 name: Saint Marcellinus of Bologna
 stub: true
 honorific: Saint

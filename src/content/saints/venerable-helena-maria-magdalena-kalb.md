@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-helena-maria-magdalena-kalb.svg
 name: Venerable Helena Maria Magdalena Kalb
 stub: true
 honorific: Venerable

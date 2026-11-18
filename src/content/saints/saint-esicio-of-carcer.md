@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-esicio-of-carcer.svg
 name: Saint Esicio of Carcer
 stub: true
 honorific: Saint

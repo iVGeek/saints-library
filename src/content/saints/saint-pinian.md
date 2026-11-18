@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pinian.svg
 name: Saint Pinian
 stub: false
 honorific: Saint

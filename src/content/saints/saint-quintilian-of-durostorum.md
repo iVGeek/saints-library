@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-quintilian-of-durostorum.svg
 name: Saint Quintilian of Durostorum
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-carissimus-of-north-africa.svg
 name: Saint Carissimus of North Africa
 stub: true
 honorific: Saint

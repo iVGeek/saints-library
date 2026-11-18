@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-orsola-maria-rivata.svg
 name: Venerable Orsola Maria Rivata
 stub: true
 honorific: Venerable

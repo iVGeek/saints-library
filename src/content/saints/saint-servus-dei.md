@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-servus-dei.svg
 name: Saint Servus Dei
 stub: false
 honorific: Saint

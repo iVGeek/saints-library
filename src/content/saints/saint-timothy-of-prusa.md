@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-timothy-of-prusa.svg
 name: Saint Timothy of Prusa
 stub: false
 honorific: Saint

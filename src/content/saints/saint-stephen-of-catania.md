@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stephen-of-catania.svg
 name: Saint Stephen of Catania
 stub: false
 honorific: Saint

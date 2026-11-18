@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vimius-of-griestatten.svg
 name: Saint Vimius of Griestatten
 stub: false
 honorific: Saint

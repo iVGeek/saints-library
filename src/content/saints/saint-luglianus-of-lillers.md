@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-luglianus-of-lillers.svg
 name: Saint Luglianus of Lillers
 stub: false
 honorific: Saint

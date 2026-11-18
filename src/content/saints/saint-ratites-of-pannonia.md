@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ratites-of-pannonia.svg
 name: Saint Ratites of Pannonia
 stub: true
 honorific: Saint

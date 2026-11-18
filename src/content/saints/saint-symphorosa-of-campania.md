@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-symphorosa-of-campania.svg
 name: Saint Symphorosa of Campania
 stub: true
 honorific: Saint

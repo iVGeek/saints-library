@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-probus-of-salamanca.svg
 name: Saint Probus of Salamanca
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-benado-vo-van-due.svg
 name: Saint Bênadô Võ Van Duê
 stub: false
 honorific: Venerable

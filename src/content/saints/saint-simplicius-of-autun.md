@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-simplicius-of-autun.svg
 name: Saint Simplicius of Autun
 stub: false
 honorific: Saint

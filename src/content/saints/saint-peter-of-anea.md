@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-of-anea.svg
 name: Saint Peter of Anea
 stub: true
 honorific: Saint

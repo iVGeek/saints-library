@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-baralo-of-antioch.svg
 name: Saint Baralo of Antioch
 stub: true
 honorific: Saint

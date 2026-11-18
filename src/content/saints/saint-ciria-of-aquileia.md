@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ciria-of-aquileia.svg
 name: Saint Ciria of Aquileia
 stub: true
 honorific: Saint

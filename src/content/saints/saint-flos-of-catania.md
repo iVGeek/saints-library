@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-flos-of-catania.svg
 name: Saint Flos of Catania
 stub: true
 honorific: Saint

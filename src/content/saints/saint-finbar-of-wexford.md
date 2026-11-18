@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-finbar-of-wexford.svg
 name: Saint Finbar of Wexford
 stub: false
 honorific: Saint

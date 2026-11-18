@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodota-of-bithynia.svg
 name: Saint Theodota of Bithynia
 stub: false
 honorific: Saint

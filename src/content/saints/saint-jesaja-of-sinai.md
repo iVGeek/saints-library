@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jesaja-of-sinai.svg
 name: Saint Jesaja of Sinai
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hippolytus-of-mount-jura.svg
 name: Saint Hippolytus of Mount Jura
 stub: false
 honorific: Saint

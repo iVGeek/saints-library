@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-claudianus-of-nicomedia.svg
 name: Saint Claudianus of Nicomedia
 stub: true
 honorific: Saint

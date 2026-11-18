@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-frodoino-of-novalesa.svg
 name: Saint Frodoino of Novalesa
 stub: false
 honorific: Saint

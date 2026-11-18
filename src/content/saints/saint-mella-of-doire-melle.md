@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mella-of-doire-melle.svg
 name: Saint Mella of Doire-Melle
 stub: false
 honorific: Saint

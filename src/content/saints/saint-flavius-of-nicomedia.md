@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-flavius-of-nicomedia.svg
 name: Saint Flavius of Nicomedia
 stub: false
 honorific: Saint

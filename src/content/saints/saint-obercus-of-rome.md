@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-obercus-of-rome.svg
 name: Saint Obercus of Rome
 stub: true
 honorific: Saint

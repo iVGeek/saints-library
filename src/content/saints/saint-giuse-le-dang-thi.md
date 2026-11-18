@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-giuse-le-dang-thi.svg
 name: Saint Giuse Lê Dang Thi
 stub: true
 honorific: Venerable

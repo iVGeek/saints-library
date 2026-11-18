@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sofronius-of-cyprus.svg
 name: Saint Sofronius of Cyprus
 stub: false
 honorific: Saint

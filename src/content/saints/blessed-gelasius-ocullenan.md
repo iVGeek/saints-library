@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gelasius-ocullenan.svg
 name: Blessed Gelasius O'Cullenan
 stub: true
 honorific: Blessed

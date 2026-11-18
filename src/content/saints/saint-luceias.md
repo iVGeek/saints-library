@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-luceias.svg
 name: Saint Luceias
 stub: false
 honorific: Saint

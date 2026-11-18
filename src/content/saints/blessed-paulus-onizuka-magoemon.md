@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-paulus-onizuka-magoemon.svg
 name: Blessed Paulus Onizuka Magoemon
 stub: true
 honorific: Blessed

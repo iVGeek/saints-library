@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-miquel-sagre-fornaguera.svg
 name: Blessed Miquel Sagré Fornaguera
 stub: false
 honorific: Blessed

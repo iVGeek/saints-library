@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-of-tomi.svg
 name: Saint John of Tomi
 stub: false
 honorific: Saint

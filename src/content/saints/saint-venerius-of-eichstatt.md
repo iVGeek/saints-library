@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-venerius-of-eichstatt.svg
 name: Saint Venerius of Eichstätt
 stub: true
 honorific: Saint

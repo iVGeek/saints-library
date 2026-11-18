@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tibudianus-of-terni.svg
 name: Saint Tibudianus of Terni
 stub: false
 honorific: Saint

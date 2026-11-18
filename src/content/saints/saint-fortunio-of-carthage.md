@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fortunio-of-carthage.svg
 name: Saint Fortunio of Carthage
 stub: false
 honorific: Saint

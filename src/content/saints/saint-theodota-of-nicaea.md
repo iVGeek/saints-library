@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodota-of-nicaea.svg
 name: Saint Theodota of Nicaea
 stub: true
 honorific: Saint

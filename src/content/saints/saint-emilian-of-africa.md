@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-emilian-of-africa.svg
 name: Saint Emilian of Africa
 stub: true
 honorific: Saint

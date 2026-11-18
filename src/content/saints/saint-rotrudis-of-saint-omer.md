@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rotrudis-of-saint-omer.svg
 name: Saint Rotrudis of Saint-Omer
 stub: true
 honorific: Saint

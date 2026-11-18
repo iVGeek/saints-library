@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-north-africa.svg
 name: Saint Maximus of North Africa
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-juan-de-la-cruz-herruzo-ruiz.svg
 name: Blessed Juan de La Cruz Herruzo Ruiz
 stub: false
 honorific: Blessed

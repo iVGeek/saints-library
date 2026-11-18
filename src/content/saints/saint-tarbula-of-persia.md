@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tarbula-of-persia.svg
 name: Saint Tarbula of Persia
 stub: false
 honorific: Saint

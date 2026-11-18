@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cumian-of-bobbio.svg
 name: Saint Cumian of Bobbio
 stub: false
 honorific: Saint

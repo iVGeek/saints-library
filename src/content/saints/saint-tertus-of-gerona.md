@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tertus-of-gerona.svg
 name: Saint Tertus of Gerona
 stub: true
 honorific: Saint

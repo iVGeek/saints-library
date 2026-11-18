@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victurus-of-rome.svg
 name: Saint Victurus of Rome
 stub: true
 honorific: Saint

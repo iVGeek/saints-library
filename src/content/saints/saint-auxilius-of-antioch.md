@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-auxilius-of-antioch.svg
 name: Saint Auxilius of Antioch
 stub: true
 honorific: Saint

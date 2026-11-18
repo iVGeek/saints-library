@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-donatus-the-deacon.svg
 name: Saint Donatus the Deacon
 stub: true
 honorific: Saint

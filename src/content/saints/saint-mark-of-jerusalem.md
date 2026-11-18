@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mark-of-jerusalem.svg
 name: Saint Mark of Jerusalem
 stub: true
 honorific: Saint

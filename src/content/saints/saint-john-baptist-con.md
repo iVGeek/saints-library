@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-baptist-con.svg
 name: Saint John Baptist Con
 stub: true
 honorific: Venerable

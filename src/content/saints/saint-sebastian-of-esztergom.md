@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sebastian-of-esztergom.svg
 name: Saint Sebastian of Esztergom
 stub: false
 honorific: Saint

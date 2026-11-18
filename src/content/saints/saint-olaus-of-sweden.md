@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-olaus-of-sweden.svg
 name: Saint Olaus of Sweden
 stub: false
 honorific: Saint

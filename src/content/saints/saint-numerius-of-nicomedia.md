@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-numerius-of-nicomedia.svg
 name: Saint Numerius of Nicomedia
 stub: true
 honorific: Saint

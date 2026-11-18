@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyriaca-of-rome.svg
 name: Saint Cyriaca of Rome
 stub: true
 honorific: Saint

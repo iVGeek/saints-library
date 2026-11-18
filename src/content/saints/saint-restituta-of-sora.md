@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-restituta-of-sora.svg
 name: Saint Restituta of Sora
 stub: false
 honorific: Saint

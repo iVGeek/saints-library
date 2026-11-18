@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodore-of-syria.svg
 name: Saint Theodore of Syria
 stub: false
 honorific: Saint

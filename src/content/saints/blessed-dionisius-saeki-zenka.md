@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-dionisius-saeki-zenka.svg
 name: Blessed Dionisius Saeki Zenka
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodore-of-antioch.svg
 name: Saint Theodore of Antioch
 stub: true
 honorific: Saint

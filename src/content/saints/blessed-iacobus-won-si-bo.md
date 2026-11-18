@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-iacobus-won-si-bo.svg
 name: Blessed Iacobus Won Si-bo
 stub: true
 honorific: Blessed

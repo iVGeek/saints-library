@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cast.svg
 name: Saint Cast
 stub: false
 honorific: Saint

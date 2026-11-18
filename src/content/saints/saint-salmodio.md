@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-salmodio.svg
 name: Saint Salmodio
 stub: false
 honorific: Saint

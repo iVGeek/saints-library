@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-macra-of-rheims.svg
 name: Saint Macra of Rheims
 stub: false
 honorific: Saint

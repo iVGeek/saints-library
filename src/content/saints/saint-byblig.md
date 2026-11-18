@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-byblig.svg
 name: Saint Byblig
 stub: false
 honorific: Saint

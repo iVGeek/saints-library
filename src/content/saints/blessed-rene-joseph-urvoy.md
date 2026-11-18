@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-rene-joseph-urvoy.svg
 name: Blessed René-Joseph Urvoy
 stub: true
 honorific: Blessed

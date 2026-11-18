@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-euterius-of-luni.svg
 name: Saint Euterius of Luni
 stub: true
 honorific: Saint

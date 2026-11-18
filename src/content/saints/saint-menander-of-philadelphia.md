@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-menander-of-philadelphia.svg
 name: Saint Menander of Philadelphia
 stub: true
 honorific: Saint

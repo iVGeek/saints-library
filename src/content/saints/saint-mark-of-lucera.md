@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mark-of-lucera.svg
 name: Saint Mark of Lucera
 stub: true
 honorific: Saint

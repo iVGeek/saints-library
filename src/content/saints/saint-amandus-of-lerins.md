@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-amandus-of-lerins.svg
 name: Saint Amandus of Lérins
 stub: true
 honorific: Saint

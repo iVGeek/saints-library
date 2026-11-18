@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-miguel-carrasquer-ros.svg
 name: Blessed Miguel Carrasquer Ros
 stub: false
 honorific: Blessed

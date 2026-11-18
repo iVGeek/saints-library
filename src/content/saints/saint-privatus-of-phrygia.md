@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-privatus-of-phrygia.svg
 name: Saint Privatus of Phrygia
 stub: true
 honorific: Saint

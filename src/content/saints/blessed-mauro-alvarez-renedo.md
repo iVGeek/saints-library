@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-mauro-alvarez-renedo.svg
 name: Blessed Mauro Álvarez Renedo
 stub: false
 honorific: Blessed

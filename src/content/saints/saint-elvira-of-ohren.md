@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-elvira-of-ohren.svg
 name: Saint Elvira of Ohren
 stub: true
 honorific: Saint

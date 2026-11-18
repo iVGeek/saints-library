@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-florian-of-palestine.svg
 name: Saint Florian of Palestine
 stub: true
 honorific: Saint

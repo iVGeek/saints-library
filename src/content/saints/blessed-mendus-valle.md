@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-mendus-valle.svg
 name: Blessed Mendus Valle
 stub: false
 honorific: Blessed

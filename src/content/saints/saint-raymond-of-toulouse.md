@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-raymond-of-toulouse.svg
 name: Saint Raymond of Toulouse
 stub: false
 honorific: Saint

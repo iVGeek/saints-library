@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-primianus-of-ancona.svg
 name: Saint Primianus of Ancona
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-concordia-of-rome.svg
 name: Saint Concordia of Rome
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyneburga-of-gloucester.svg
 name: Saint Cyneburga of Gloucester
 stub: false
 honorific: Saint

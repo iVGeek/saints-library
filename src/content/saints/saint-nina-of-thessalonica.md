@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nina-of-thessalonica.svg
 name: Saint Nina of Thessalonica
 stub: true
 honorific: Saint

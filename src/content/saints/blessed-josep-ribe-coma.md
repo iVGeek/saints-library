@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-josep-ribe-coma.svg
 name: Blessed Josep Ribé Coma
 stub: true
 honorific: Blessed

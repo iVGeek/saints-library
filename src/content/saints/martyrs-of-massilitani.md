@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/martyrs-of-massilitani.svg
 name: Martyrs of Massilitani
 stub: false
 honorific: Saint

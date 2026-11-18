@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-baithen-of-iona.svg
 name: Saint Baithen of Iona
 stub: false
 honorific: Saint

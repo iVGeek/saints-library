@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ceolwulph.svg
 name: Saint Ceolwulph
 stub: false
 honorific: Saint

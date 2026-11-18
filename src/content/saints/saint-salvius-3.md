@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-salvius-3.svg
 name: Saint Salvius of Normandy
 stub: false
 honorific: Saint

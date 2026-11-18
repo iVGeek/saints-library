@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-colman-oilithir-of-ross.svg
 name: Saint Colman Oilithir of Ross
 stub: false
 honorific: Saint

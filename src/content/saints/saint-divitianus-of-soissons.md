@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-divitianus-of-soissons.svg
 name: Saint Divitianus of Soissons
 stub: false
 honorific: Saint

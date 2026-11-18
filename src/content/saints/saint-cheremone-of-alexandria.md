@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cheremone-of-alexandria.svg
 name: Saint Cheremone of Alexandria
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maurus-of-rheims.svg
 name: Saint Maurus of Rheims
 stub: true
 honorific: Saint

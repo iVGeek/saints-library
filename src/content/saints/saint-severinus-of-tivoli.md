@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-severinus-of-tivoli.svg
 name: Saint Severinus of Tivoli
 stub: true
 honorific: Saint

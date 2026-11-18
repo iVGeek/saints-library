@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-james-the-hermit-26-november.svg
 name: Saint James the Hermit
 stub: false
 honorific: Saint

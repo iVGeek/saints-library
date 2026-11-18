@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ardo-of-aniane.svg
 name: Saint Ardo of Aniane
 stub: false
 honorific: Saint

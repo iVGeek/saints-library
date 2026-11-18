@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-marie-forestier.svg
 name: Blessed Marie Forestier
 stub: false
 honorific: Blessed

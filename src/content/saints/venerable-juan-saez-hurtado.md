@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-juan-saez-hurtado.svg
 name: Venerable Juan Sáez Hurtado
 stub: true
 honorific: Venerable

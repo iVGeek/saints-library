@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-extricatus-of-rome.svg
 name: Saint Extricatus of Rome
 stub: true
 honorific: Saint

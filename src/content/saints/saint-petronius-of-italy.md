@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-petronius-of-italy.svg
 name: Saint Petronius of Italy
 stub: false
 honorific: Saint

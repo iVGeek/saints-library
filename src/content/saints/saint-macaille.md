@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-macaille.svg
 name: Saint Macaille of Croghan
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gregory-makar.svg
 name: Saint Gregory Makar
 stub: false
 honorific: Saint

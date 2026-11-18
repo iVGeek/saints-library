@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-engelbert-of-schaftlarn.svg
 name: Blessed Engelbert of Schäftlarn
 stub: false
 honorific: Blessed

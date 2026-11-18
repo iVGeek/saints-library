@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-paulus-sato-matagoro.svg
 name: Blessed Paulus Sato Matagoro
 stub: false
 honorific: Blessed

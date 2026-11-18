@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-jerome-of-nevers.svg
 name: Saint Jerome of Nevers
 stub: true
 honorific: Saint

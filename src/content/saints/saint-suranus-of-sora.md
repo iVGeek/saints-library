@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-suranus-of-sora.svg
 name: Saint Suranus of Sora
 stub: false
 honorific: Saint

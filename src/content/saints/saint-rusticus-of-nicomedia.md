@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rusticus-of-nicomedia.svg
 name: Saint Rusticus of Nicomedia
 stub: true
 honorific: Saint

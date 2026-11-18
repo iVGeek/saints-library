@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sanctius-of-cordoba.svg
 name: Saint Sanctius of Córdoba
 stub: false
 honorific: Saint

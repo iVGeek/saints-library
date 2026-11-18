@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-peter-massalenus.svg
 name: Blessed Peter Massalenus
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-nicolo-of-san-bernardo.svg
 name: Blessed Nicolò of San Bernardo
 stub: false
 honorific: Blessed

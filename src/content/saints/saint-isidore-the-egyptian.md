@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-isidore-the-egyptian.svg
 name: Saint Isidore the Egyptian
 stub: false
 honorific: Saint

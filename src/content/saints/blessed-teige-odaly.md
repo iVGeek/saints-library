@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-teige-odaly.svg
 name: Blessed Teige O'Daly
 stub: true
 honorific: Blessed

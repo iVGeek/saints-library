@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-baricus-of-thessalonica.svg
 name: Saint Baricus of Thessalonica
 stub: true
 honorific: Saint

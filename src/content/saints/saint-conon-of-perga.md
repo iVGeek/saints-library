@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-conon-of-perga.svg
 name: Saint Conon of Perga
 stub: true
 honorific: Saint

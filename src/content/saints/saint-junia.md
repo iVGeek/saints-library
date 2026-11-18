@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-junia.svg
 name: Saint Junia
 stub: false
 honorific: Saint

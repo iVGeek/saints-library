@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-petran-of-landevennec.svg
 name: Saint Petran of Landévennec
 stub: false
 honorific: Saint

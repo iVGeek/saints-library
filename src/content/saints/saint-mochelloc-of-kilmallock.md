@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mochelloc-of-kilmallock.svg
 name: Saint Mochelloc of Kilmallock
 stub: true
 honorific: Saint

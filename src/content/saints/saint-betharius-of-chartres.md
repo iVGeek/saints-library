@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-betharius-of-chartres.svg
 name: Saint Betharius of Chartres
 stub: false
 honorific: Saint

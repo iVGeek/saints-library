@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theophilus-3-november.svg
 name: Saint Theophilus
 stub: true
 honorific: Saint

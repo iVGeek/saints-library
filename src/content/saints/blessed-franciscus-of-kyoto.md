@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-franciscus-of-kyoto.svg
 name: Blessed Franciscus of Kyoto
 stub: true
 honorific: Blessed

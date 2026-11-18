@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ammon-of-membressa.svg
 name: Saint Ammon of Membressa
 stub: true
 honorific: Saint

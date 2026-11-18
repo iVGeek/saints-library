@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-anastasius-of-bourges.svg
 name: Saint Anastasius of Bourges
 stub: true
 honorific: Saint

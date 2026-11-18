@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mark-of-galilee.svg
 name: Saint Mark of Galilee
 stub: false
 honorific: Saint

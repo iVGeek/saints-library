@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-primolus-of-carthage.svg
 name: Saint Primolus of Carthage
 stub: false
 honorific: Saint

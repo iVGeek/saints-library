@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-amedinos-of-constantinople.svg
 name: Saint Amedinos of Constantinople
 stub: false
 honorific: Saint

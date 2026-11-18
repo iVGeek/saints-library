@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-severus-of-heraclea.svg
 name: Saint Severus of Heraclea
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eusebius-of-gaza.svg
 name: Saint Eusebius of Gaza
 stub: false
 honorific: Saint

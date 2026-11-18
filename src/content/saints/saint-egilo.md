@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-egilo.svg
 name: Saint Egilo
 stub: false
 honorific: Saint

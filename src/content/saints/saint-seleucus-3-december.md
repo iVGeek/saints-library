@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-seleucus-3-december.svg
 name: Saint Seleucus
 stub: true
 honorific: Saint

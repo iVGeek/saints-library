@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-edbert-of-northumbria.svg
 name: Saint Edbert of Northumbria
 stub: false
 honorific: Saint

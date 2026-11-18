@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-scubicolus-of-vilcassin.svg
 name: Saint Scubicolus of Vilcassin
 stub: true
 honorific: Saint

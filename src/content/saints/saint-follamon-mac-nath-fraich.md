@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-follamon-mac-nath-fraich.svg
 name: Saint Follamon mac Nath Fraich
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-maria-brigida-toledano-oza.svg
 name: Blessed María Brígida Toledano Oza
 stub: true
 honorific: Blessed

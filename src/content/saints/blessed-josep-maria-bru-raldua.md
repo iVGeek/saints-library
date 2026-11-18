@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-josep-maria-bru-raldua.svg
 name: Blessed Josep Maria Bru Ralduá
 stub: false
 honorific: Blessed

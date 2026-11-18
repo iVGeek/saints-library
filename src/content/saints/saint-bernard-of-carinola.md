@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bernard-of-carinola.svg
 name: Saint Bernard of Carinola
 stub: false
 honorific: Saint

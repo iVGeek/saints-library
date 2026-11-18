@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-boniface-of-valperga.svg
 name: Blessed Boniface of Valperga
 stub: false
 honorific: Blessed

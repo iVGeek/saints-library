@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-menulphus-of-quimper.svg
 name: Saint Menulphus of Quimper
 stub: true
 honorific: Saint

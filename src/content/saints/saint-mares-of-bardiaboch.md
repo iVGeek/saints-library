@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mares-of-bardiaboch.svg
 name: Saint Mares of Bardiaboch
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hermolaus.svg
 name: Saint Hermolaus of Nicomedia
 stub: false
 honorific: Saint

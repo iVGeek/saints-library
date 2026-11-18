@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-giselbert-of-cappenberg.svg
 name: Blessed Giselbert of Cappenberg
 stub: false
 honorific: Blessed

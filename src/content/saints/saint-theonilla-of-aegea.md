@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theonilla-of-aegea.svg
 name: Saint Theonilla of Aegea
 stub: true
 honorific: Saint

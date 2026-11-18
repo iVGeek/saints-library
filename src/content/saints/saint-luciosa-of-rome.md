@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-luciosa-of-rome.svg
 name: Saint Luciosa of Rome
 stub: false
 honorific: Saint

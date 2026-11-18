@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-senerotas-of-syrmium.svg
 name: Saint Senerotas of Syrmium
 stub: true
 honorific: Saint

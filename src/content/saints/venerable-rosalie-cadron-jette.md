@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-rosalie-cadron-jette.svg
 name: Venerable Rosalie Cadron-Jetté
 stub: true
 honorific: Venerable

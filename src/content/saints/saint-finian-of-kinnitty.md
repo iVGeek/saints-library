@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-finian-of-kinnitty.svg
 name: Saint Finian of Kinnitty
 stub: false
 honorific: Saint

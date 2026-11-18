@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sailis-of-thessalonica.svg
 name: Saint Sailis of Thessalonica
 stub: true
 honorific: Saint

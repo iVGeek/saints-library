@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-pedro-de-fontoura.svg
 name: Blessed Pedro de Fontoura
 stub: false
 honorific: Blessed

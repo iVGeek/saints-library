@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-carbonanus-of-terni.svg
 name: Saint Carbonanus of Terni
 stub: false
 honorific: Saint

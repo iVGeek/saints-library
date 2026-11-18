@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-kristian-hosius.svg
 name: Blessed Kristian Hosius
 stub: false
 honorific: Blessed

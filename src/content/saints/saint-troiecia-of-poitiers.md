@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-troiecia-of-poitiers.svg
 name: Saint Troiecia of Poitiers
 stub: true
 honorific: Saint

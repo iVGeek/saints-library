@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-darlaugdach-of-kildare.svg
 name: Saint Darlaugdach of Kildare
 stub: false
 honorific: Saint

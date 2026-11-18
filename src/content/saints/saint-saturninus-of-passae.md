@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturninus-of-passae.svg
 name: Saint Saturninus of Passae
 stub: true
 honorific: Saint

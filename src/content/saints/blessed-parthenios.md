@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-parthenios.svg
 name: Blessed Parthenios
 stub: false
 honorific: Blessed

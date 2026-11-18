@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-januarius-of-rome-3-march.svg
 name: Saint Januarius of Rome
 stub: true
 honorific: Saint

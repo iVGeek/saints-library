@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rogate-of-gerona.svg
 name: Saint Rogate of Gerona
 stub: true
 honorific: Saint

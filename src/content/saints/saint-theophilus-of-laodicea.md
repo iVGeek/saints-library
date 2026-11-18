@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theophilus-of-laodicea.svg
 name: Saint Theophilus of Laodicea
 stub: true
 honorific: Saint

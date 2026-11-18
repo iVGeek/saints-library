@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-successus-of-north-africa.svg
 name: Saint Successus of North Africa
 stub: true
 honorific: Saint

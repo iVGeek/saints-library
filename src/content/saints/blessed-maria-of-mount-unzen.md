@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-maria-of-mount-unzen.svg
 name: Blessed Maria of Mount Unzen
 stub: true
 honorific: Blessed

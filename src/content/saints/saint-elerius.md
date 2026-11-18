@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-elerius.svg
 name: Saint Elerius
 stub: true
 honorific: Saint

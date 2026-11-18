@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-honobertus-of-sens.svg
 name: Saint Honobertus of Sens
 stub: true
 honorific: Saint

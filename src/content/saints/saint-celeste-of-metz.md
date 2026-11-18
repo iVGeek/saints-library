@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-celeste-of-metz.svg
 name: Saint Celeste of Metz
 stub: true
 honorific: Saint

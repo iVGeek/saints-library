@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-victoire-gusteau.svg
 name: Blessed Victoire Gusteau
 stub: false
 honorific: Blessed

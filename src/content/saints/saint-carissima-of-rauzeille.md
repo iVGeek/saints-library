@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-carissima-of-rauzeille.svg
 name: Saint Carissima of Rauzeille
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-festus-of-tuscany.svg
 name: Saint Festus of Tuscany
 stub: true
 honorific: Saint

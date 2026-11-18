@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-de-ortega.svg
 name: Saint Juan de Ortega
 stub: false
 honorific: Saint

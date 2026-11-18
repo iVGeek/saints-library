@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victor-of-egypt.svg
 name: Saint Victor of Egypt
 stub: true
 honorific: Saint

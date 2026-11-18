@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-verolus-of-marcenay.svg
 name: Saint Verolus of Marcenay
 stub: false
 honorific: Saint

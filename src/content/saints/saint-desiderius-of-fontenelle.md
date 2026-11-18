@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-desiderius-of-fontenelle.svg
 name: Saint Desiderius of Fontenelle
 stub: false
 honorific: Saint

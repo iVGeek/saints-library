@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-domninus-of-rome.svg
 name: Saint Domninus of Rome
 stub: true
 honorific: Saint

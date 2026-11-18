@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mewrog.svg
 name: Saint Mewrog
 stub: true
 honorific: Saint

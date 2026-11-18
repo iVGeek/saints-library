@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-robert-of-frassinoro.svg
 name: Blessed Robert of Frassinoro
 stub: true
 honorific: Blessed

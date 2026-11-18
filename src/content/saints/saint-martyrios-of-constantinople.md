@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-martyrios-of-constantinople.svg
 name: Saint Martyrios of Constantinople
 stub: false
 honorific: Saint

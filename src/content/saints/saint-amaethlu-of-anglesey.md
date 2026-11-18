@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-amaethlu-of-anglesey.svg
 name: Saint Amaethlu of Anglesey
 stub: false
 honorific: Saint

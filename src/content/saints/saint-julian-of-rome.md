@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julian-of-rome.svg
 name: Saint Julian of Rome
 stub: false
 honorific: Saint

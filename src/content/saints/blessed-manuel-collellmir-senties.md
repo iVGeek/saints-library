@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-manuel-collellmir-senties.svg
 name: Blessed Manuel Collellmir Sentíes
 stub: false
 honorific: Blessed

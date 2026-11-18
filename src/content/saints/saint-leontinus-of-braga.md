@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-leontinus-of-braga.svg
 name: Saint Leontinus of Braga
 stub: true
 honorific: Saint

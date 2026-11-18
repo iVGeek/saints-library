@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mappalicus-of-carthage.svg
 name: Saint Mappalicus of Carthage
 stub: true
 honorific: Saint

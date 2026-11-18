@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ruidche.svg
 name: Saint Ruidche
 stub: true
 honorific: Saint

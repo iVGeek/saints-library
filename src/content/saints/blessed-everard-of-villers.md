@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-everard-of-villers.svg
 name: Blessed Everard of Villers
 stub: false
 honorific: Blessed

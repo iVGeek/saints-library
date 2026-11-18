@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-exuperantius-of-spoleto.svg
 name: Saint Exuperantius of Spoleto
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-philotheus-of-samosata.svg
 name: Saint Philotheus of Samosata
 stub: false
 honorific: Saint

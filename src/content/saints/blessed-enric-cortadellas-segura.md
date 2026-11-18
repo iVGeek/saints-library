@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-enric-cortadellas-segura.svg
 name: Blessed Enric Cortadellas Segura
 stub: false
 honorific: Blessed

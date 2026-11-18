@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mercuria-of-alexandria.svg
 name: Saint Mercuria of Alexandria
 stub: true
 honorific: Saint

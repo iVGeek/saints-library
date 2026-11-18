@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nikeforus-of-nicomedia.svg
 name: Saint Nikeforus of Nicomedia
 stub: true
 honorific: Saint

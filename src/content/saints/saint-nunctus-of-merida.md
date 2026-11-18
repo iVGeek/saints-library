@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nunctus-of-merida.svg
 name: Saint Nunctus of Mérida
 stub: false
 honorific: Saint

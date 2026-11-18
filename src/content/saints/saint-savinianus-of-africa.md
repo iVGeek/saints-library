@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-savinianus-of-africa.svg
 name: Saint Savinianus of Africa
 stub: true
 honorific: Saint

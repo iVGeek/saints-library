@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-viktor-of-africa.svg
 name: Saint Viktor of Africa
 stub: true
 honorific: Saint

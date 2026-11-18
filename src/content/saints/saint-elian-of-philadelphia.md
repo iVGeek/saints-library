@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-elian-of-philadelphia.svg
 name: Saint Elian of Philadelphia
 stub: false
 honorific: Saint

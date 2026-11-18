@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-everard-of-georgenthal.svg
 name: Blessed Everard of Georgenthal
 stub: false
 honorific: Blessed

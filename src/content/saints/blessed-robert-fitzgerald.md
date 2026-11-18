@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-robert-fitzgerald.svg
 name: Blessed Robert Fitzgerald
 stub: true
 honorific: Blessed

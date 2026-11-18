@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secundinus-of-ireland.svg
 name: Saint Secundinus of Ireland
 stub: false
 honorific: Saint

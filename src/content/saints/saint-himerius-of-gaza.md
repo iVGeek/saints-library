@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-himerius-of-gaza.svg
 name: Saint Himerius of Gaza
 stub: true
 honorific: Saint

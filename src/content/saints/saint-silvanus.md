@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-silvanus.svg
 name: Saint Silvanus
 stub: false
 honorific: Saint

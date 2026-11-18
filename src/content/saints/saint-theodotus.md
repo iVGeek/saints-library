@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodotus.svg
 name: Saint Theodotus
 stub: false
 honorific: Saint

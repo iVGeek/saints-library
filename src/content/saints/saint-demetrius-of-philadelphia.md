@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-demetrius-of-philadelphia.svg
 name: Saint Demetrius of Philadelphia
 stub: true
 honorific: Saint

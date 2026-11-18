@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-loarn.svg
 name: Saint Loarn
 stub: true
 honorific: Saint

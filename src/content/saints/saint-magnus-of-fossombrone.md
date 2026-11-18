@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-magnus-of-fossombrone.svg
 name: Saint Magnus of Fossombrone
 stub: true
 honorific: Saint

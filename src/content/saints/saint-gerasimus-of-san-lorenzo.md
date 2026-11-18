@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gerasimus-of-san-lorenzo.svg
 name: Saint Gerasimus of San Lorenzo
 stub: false
 honorific: Saint

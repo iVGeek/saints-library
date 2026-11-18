@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-isacius-of-nicomedia.svg
 name: Saint Isacius of Nicomedia
 stub: false
 honorific: Saint

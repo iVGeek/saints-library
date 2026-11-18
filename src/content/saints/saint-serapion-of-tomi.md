@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-serapion-of-tomi.svg
 name: Saint Serapion of Tomi
 stub: false
 honorific: Saint

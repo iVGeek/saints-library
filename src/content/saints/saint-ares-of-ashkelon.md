@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ares-of-ashkelon.svg
 name: Saint Ares of Ashkelon
 stub: true
 honorific: Saint

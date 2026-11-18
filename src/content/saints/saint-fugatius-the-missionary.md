@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fugatius-the-missionary.svg
 name: Saint Fugatius the Missionary
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-marie-cassin-epouse-moreau.svg
 name: Blessed Marie Cassin épouse Moreau
 stub: false
 honorific: Blessed

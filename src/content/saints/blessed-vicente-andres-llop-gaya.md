@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-vicente-andres-llop-gaya.svg
 name: Blessed Vicente Andrés Llop Gaya
 stub: false
 honorific: Blessed

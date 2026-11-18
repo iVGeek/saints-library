@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pausis-of-caesarea.svg
 name: Saint Pausis of Caesarea
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-galdunus-of-nyon.svg
 name: Saint Galdunus of Nyon
 stub: true
 honorific: Saint

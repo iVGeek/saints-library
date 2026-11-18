@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lucius-of-passae.svg
 name: Saint Lucius of Passae
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valentine-of-ravenna-16-december.svg
 name: Saint Valentine of Ravenna
 stub: true
 honorific: Saint

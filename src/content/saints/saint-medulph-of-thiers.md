@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-medulph-of-thiers.svg
 name: Saint Medulph of Thiers
 stub: false
 honorific: Saint

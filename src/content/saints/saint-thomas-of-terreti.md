@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thomas-of-terreti.svg
 name: Saint Thomas of Terreti
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-reatrus-of-north-africa.svg
 name: Saint Reatrus of North Africa
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-matthias-of-nagasaki.svg
 name: Blessed Matthias of Nagasaki
 stub: true
 honorific: Blessed

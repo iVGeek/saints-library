@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tripos-of-rome.svg
 name: Saint Tripos of Rome
 stub: true
 honorific: Saint

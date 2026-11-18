@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-wenog.svg
 name: Saint Wenog
 stub: false
 honorific: Saint

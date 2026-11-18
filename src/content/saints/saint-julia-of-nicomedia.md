@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julia-of-nicomedia.svg
 name: Saint Julia of Nicomedia
 stub: true
 honorific: Saint

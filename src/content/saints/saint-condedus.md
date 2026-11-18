@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-condedus.svg
 name: Saint Condedus
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cronan-beg.svg
 name: Saint Cronan Beg
 stub: false
 honorific: Saint

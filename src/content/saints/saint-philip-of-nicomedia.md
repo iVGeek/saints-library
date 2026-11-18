@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-philip-of-nicomedia.svg
 name: Saint Philip of Nicomedia
 stub: true
 honorific: Saint

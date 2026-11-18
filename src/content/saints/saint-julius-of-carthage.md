@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julius-of-carthage.svg
 name: Saint Julius of Carthage
 stub: false
 honorific: Saint

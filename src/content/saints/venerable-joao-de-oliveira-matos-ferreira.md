@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-joao-de-oliveira-matos-ferreira.svg
 name: Venerable Joao de Oliveira Matos Ferreira
 stub: false
 honorific: Venerable

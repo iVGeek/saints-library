@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufina-of-caesarea.svg
 name: Saint Rufina of Caesarea
 stub: false
 honorific: Saint

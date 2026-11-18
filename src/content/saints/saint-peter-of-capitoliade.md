@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-peter-of-capitoliade.svg
 name: Saint Peter of Capitolíade
 stub: false
 honorific: Saint

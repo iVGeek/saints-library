@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-nicholaus-of-vaucelles.svg
 name: Blessed Nicholaus of Vaucelles
 stub: false
 honorific: Blessed

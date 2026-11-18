@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-santiago-aparicio-lopez.svg
 name: Blessed Santiago Aparicio López
 stub: true
 honorific: Blessed

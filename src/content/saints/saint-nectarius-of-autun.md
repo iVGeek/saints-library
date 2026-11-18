@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nectarius-of-autun.svg
 name: Saint Nectarius of Autun
 stub: true
 honorific: Saint

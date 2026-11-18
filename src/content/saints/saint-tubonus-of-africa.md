@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tubonus-of-africa.svg
 name: Saint Tubonus of Africa
 stub: true
 honorific: Saint

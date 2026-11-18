@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-brynoth-of-scara.svg
 name: Saint Brynoth of Scara
 stub: true
 honorific: Saint

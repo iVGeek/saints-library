@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fechno.svg
 name: Saint Fechno
 stub: false
 honorific: Saint

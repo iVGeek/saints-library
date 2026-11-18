@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gunthiern.svg
 name: Saint Gunthiern
 stub: false
 honorific: Saint

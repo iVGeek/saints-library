@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ethelred-of-bardney.svg
 name: Saint Ethelred of Bardney
 stub: false
 honorific: Saint

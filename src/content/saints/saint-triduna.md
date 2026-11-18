@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-triduna.svg
 name: Saint Triduna
 stub: false
 honorific: Saint

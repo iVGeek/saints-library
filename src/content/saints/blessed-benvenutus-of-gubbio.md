@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-benvenutus-of-gubbio.svg
 name: Blessed Benvenutus of Gubbio
 stub: false
 honorific: Blessed

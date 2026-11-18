@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sebbe-of-essex.svg
 name: Saint Sebbe of Essex
 stub: false
 honorific: Saint

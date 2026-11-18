@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hugh-of-novara.svg
 name: Saint Hugh of Novara
 stub: false
 honorific: Saint

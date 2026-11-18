@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bazalota-of-abyssinia.svg
 name: Saint Bazalota of Abyssinia
 stub: true
 honorific: Saint

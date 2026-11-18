@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-francisco-herruzo-ibanez.svg
 name: Blessed Francisco Herruzo Ibáñez
 stub: false
 honorific: Blessed

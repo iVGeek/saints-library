@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gaspar-nishi-genka.svg
 name: Blessed Gaspar Nishi Genka
 stub: false
 honorific: Blessed

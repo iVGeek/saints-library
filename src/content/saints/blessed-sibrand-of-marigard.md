@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-sibrand-of-marigard.svg
 name: Blessed Sibrand of Marigård
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-illyria.svg
 name: Saint Maximus of Illyria
 stub: true
 honorific: Saint

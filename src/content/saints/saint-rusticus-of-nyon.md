@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rusticus-of-nyon.svg
 name: Saint Rusticus of Nyon
 stub: true
 honorific: Saint

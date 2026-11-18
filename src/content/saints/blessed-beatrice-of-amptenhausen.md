@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-beatrice-of-amptenhausen.svg
 name: Blessed Beatrice of Amptenhausen
 stub: false
 honorific: Blessed

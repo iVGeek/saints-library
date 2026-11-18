@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-benignus-of-moyenmoutier.svg
 name: Saint Benignus of Moyenmoutier
 stub: false
 honorific: Saint

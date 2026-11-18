@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cairlon-of-cashel.svg
 name: Saint Cairlon of Cashel
 stub: false
 honorific: Saint

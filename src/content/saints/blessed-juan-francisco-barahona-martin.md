@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-juan-francisco-barahona-martin.svg
 name: Blessed Juan Francisco Barahona Martín
 stub: true
 honorific: Blessed

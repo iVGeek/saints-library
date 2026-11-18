@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maurus-of-bisceglia.svg
 name: Saint Maurus of Bisceglia
 stub: false
 honorific: Saint

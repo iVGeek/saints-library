@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rogellus-of-cordoba.svg
 name: Saint Rogellus of Cordoba
 stub: false
 honorific: Saint

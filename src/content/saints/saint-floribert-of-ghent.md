@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-floribert-of-ghent.svg
 name: Saint Floribert of Ghent
 stub: false
 honorific: Saint

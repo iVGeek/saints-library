@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-donercius-of-murthlac.svg
 name: Blessed Donercius of Murthlac
 stub: true
 honorific: Blessed

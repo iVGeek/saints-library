@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-plesius-of-egypt.svg
 name: Saint Plesius of Egypt
 stub: false
 honorific: Saint

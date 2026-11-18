@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-habetdeum-of-north-africa.svg
 name: Saint Habetdeum of North Africa
 stub: false
 honorific: Saint

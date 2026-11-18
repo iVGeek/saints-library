@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-darius-of-nicaea.svg
 name: Saint Darius of Nicaea
 stub: true
 honorific: Saint

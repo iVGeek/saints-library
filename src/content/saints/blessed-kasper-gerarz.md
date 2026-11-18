@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-kasper-gerarz.svg
 name: Blessed Kasper Gerarz
 stub: false
 honorific: Blessed

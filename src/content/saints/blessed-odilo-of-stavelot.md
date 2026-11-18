@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-odilo-of-stavelot.svg
 name: Blessed Odilo of Stavelot
 stub: true
 honorific: Blessed

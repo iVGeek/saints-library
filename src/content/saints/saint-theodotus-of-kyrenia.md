@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodotus-of-kyrenia.svg
 name: Saint Theodotus of Kyrenia
 stub: false
 honorific: Saint

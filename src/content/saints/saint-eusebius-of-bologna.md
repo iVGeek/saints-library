@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eusebius-of-bologna.svg
 name: Saint Eusebius of Bologna
 stub: false
 honorific: Saint

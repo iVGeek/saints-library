@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-beltrao-de-caia.svg
 name: Blessed Beltrão de Caia
 stub: false
 honorific: Blessed

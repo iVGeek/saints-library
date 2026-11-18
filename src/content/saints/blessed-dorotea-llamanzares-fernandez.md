@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-dorotea-llamanzares-fernandez.svg
 name: Blessed Dorotea Llamanzares Fernández
 stub: false
 honorific: Blessed

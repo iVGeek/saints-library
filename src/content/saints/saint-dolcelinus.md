@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dolcelinus.svg
 name: Saint Dolcelinus
 stub: false
 honorific: Saint

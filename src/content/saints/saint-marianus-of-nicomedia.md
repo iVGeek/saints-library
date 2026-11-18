@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marianus-of-nicomedia.svg
 name: Saint Marianus of Nicomedia
 stub: false
 honorific: Saint

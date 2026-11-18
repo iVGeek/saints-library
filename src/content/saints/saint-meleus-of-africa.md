@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-meleus-of-africa.svg
 name: Saint Meleus of Africa
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-speciosa-of-pavia.svg
 name: Saint Speciosa of Pavia
 stub: true
 honorific: Saint

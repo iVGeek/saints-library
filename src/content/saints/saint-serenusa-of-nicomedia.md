@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-serenusa-of-nicomedia.svg
 name: Saint Serenusa of Nicomedia
 stub: true
 honorific: Saint

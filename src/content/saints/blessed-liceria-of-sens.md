@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-liceria-of-sens.svg
 name: Blessed Liceria of Sens
 stub: false
 honorific: Blessed

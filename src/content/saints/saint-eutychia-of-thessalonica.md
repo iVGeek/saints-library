@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eutychia-of-thessalonica.svg
 name: Saint Eutychia of Thessalonica
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gumesindus.svg
 name: Saint Gumesindus of Cordoba
 stub: true
 honorific: Saint

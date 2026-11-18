@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-largio-of-rome.svg
 name: Saint Largio of Rome
 stub: true
 honorific: Saint

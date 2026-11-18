@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tertullian-of-bologna.svg
 name: Saint Tertullian of Bologna
 stub: false
 honorific: Saint

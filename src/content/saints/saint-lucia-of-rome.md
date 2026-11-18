@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lucia-of-rome.svg
 name: Saint Lucia of Rome
 stub: true
 honorific: Saint

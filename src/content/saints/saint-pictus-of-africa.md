@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pictus-of-africa.svg
 name: Saint Pictus of Africa
 stub: false
 honorific: Saint

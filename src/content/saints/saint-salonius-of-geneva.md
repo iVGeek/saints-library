@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-salonius-of-geneva.svg
 name: Saint Salonius of Geneva
 stub: false
 honorific: Saint

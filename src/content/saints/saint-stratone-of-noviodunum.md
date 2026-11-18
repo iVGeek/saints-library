@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-stratone-of-noviodunum.svg
 name: Saint Stratone of Noviodunum
 stub: true
 honorific: Saint

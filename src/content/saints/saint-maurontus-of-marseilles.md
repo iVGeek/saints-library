@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maurontus-of-marseilles.svg
 name: Saint Maurontus of Marseille
 stub: true
 honorific: Saint

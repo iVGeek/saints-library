@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rogaziano-of-africa.svg
 name: Saint Rogaziano of Africa
 stub: false
 honorific: Saint

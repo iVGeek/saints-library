@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-menna.svg
 name: Saint Menna
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-constantine-of-gap.svg
 name: Saint Constantine of Gap
 stub: false
 honorific: Saint

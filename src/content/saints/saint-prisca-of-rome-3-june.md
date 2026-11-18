@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-prisca-of-rome-3-june.svg
 name: Saint Prisca of Rome
 stub: true
 honorific: Saint

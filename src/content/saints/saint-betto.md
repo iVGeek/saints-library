@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-betto.svg
 name: Saint Betto of Auxerre
 stub: false
 honorific: Saint

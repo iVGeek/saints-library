@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-diocletius-of-osimo.svg
 name: Saint Diocletius of Osimo
 stub: true
 honorific: Saint

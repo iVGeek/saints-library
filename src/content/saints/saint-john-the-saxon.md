@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-the-saxon.svg
 name: Saint John the Saxon
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-dominic-of-besians.svg
 name: Blessed Dominic of Besians
 stub: false
 honorific: Blessed

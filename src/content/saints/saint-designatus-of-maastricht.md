@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-designatus-of-maastricht.svg
 name: Saint Designatus of Maastricht
 stub: true
 honorific: Saint

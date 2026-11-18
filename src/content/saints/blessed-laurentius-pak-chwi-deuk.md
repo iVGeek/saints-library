@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-laurentius-pak-chwi-deuk.svg
 name: Blessed Laurentius Pak Chwi-deuk
 stub: false
 honorific: Blessed

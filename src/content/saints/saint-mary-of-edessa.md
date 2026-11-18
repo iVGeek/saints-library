@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mary-of-edessa.svg
 name: Saint Mary of Edessa
 stub: false
 honorific: Saint

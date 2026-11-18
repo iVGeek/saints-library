@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mummolus-of-lagny.svg
 name: Saint Mummolus of Lagny
 stub: true
 honorific: Saint

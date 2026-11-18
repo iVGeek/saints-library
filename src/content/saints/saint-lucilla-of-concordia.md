@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lucilla-of-concordia.svg
 name: Saint Lucilla of Concordia
 stub: false
 honorific: Saint

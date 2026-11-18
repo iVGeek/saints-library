@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-daganus.svg
 name: Saint Daganus
 stub: false
 honorific: Saint

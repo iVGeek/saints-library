@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-benedict-of-angers.svg
 name: Saint Benedict of Angers
 stub: true
 honorific: Saint

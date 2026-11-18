@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rusticianus-of-brescia.svg
 name: Saint Rusticianus of Brescia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-hinus-of-africa.svg
 name: Saint Hinus of Africa
 stub: true
 honorific: Saint

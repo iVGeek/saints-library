@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-benedict-of-the-bridge.svg
 name: Saint Benedict of the Bridge
 stub: false
 honorific: Saint

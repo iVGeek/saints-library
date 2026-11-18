@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-litard-of-corneto.svg
 name: Saint Litard of Corneto
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-quintian-of-armenia.svg
 name: Saint Quintian of Armenia
 stub: true
 honorific: Saint

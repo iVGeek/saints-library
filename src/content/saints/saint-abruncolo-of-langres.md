@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-abruncolo-of-langres.svg
 name: Saint Abruncolo of Langres
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-berhard-of-amiens.svg
 name: Saint Berhard of Amiens
 stub: false
 honorific: Saint

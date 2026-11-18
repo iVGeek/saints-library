@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-elsiar-of-lavedan.svg
 name: Saint Elsiar of Lavedan
 stub: true
 honorific: Saint

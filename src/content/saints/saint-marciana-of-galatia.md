@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marciana-of-galatia.svg
 name: Saint Marciana of Galatia
 stub: false
 honorific: Saint

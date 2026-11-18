@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marcellus-of-sicily.svg
 name: Saint Marcellus of Sicily
 stub: true
 honorific: Saint

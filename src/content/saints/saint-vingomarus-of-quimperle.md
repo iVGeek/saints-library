@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vingomarus-of-quimperle.svg
 name: Saint Vingomarus of Quimperlé
 stub: false
 honorific: Saint

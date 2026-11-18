@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theophilus-the-martyr.svg
 name: Saint Theophilus the Martyr
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maprilis-of-ostia.svg
 name: Saint Maprilis of Ostia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-meneleus-of-menat.svg
 name: Saint Meneleus of Ménat
 stub: false
 honorific: Saint

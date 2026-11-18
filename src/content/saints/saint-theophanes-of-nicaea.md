@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theophanes-of-nicaea.svg
 name: Saint Theophanes of Nicaea
 stub: false
 honorific: Saint

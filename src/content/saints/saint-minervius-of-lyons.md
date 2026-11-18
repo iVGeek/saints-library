@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-minervius-of-lyons.svg
 name: Saint Minervius of Lyons
 stub: true
 honorific: Saint

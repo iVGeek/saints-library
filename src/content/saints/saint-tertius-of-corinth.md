@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tertius-of-corinth.svg
 name: Saint Tertius of Corinth
 stub: true
 honorific: Saint

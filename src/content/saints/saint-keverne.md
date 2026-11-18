@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-keverne.svg
 name: Saint Keverne
 stub: true
 honorific: Saint

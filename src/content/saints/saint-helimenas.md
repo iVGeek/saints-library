@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-helimenas.svg
 name: Saint Helimenas
 stub: true
 honorific: Saint

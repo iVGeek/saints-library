@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-difta-of-alexandria.svg
 name: Saint Difta of Alexandria
 stub: true
 honorific: Saint

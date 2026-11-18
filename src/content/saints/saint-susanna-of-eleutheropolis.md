@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-susanna-of-eleutheropolis.svg
 name: Saint Susanna of Eleutheropolis
 stub: false
 honorific: Saint

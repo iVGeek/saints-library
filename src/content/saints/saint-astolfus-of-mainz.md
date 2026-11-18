@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-astolfus-of-mainz.svg
 name: Saint Astolfus of Mainz
 stub: false
 honorific: Saint

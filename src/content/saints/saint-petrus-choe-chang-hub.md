@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-petrus-choe-chang-hub.svg
 name: Saint Petrus Ch'oe Ch'ang-Hub
 stub: true
 honorific: Venerable

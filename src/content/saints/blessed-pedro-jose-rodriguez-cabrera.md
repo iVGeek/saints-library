@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-pedro-jose-rodriguez-cabrera.svg
 name: Blessed Pedro José Rodríguez Cabrera
 stub: true
 honorific: Blessed

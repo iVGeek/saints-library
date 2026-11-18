@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufus-of-philadelphia.svg
 name: Saint Rufus of Philadelphia
 stub: false
 honorific: Saint

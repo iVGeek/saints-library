@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-macarius-of-collesano.svg
 name: Saint Macarius of Collesano
 stub: true
 honorific: Saint

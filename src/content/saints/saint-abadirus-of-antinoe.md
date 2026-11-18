@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-abadirus-of-antinoe.svg
 name: Saint Abadirus of Antinoë
 stub: false
 honorific: Saint

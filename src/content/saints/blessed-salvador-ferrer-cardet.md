@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-salvador-ferrer-cardet.svg
 name: Blessed Salvador Ferrer Cardet
 stub: false
 honorific: Blessed

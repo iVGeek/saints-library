@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturnina-of-thessalonica.svg
 name: Saint Saturnina of Thessalonica
 stub: true
 honorific: Saint

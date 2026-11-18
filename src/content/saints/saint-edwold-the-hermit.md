@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-edwold-the-hermit.svg
 name: Saint Edwold the Hermit
 stub: false
 honorific: Saint

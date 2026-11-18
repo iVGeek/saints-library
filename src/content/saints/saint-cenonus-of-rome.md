@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cenonus-of-rome.svg
 name: Saint Cenonus of Rome
 stub: false
 honorific: Saint

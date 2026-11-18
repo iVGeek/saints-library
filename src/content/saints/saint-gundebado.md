@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gundebado.svg
 name: Saint Gundebado
 stub: false
 honorific: Saint

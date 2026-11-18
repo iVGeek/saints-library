@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zoticus-of-tomi.svg
 name: Saint Zoticus of Tomi
 stub: true
 honorific: Saint

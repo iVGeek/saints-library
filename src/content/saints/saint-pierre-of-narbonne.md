@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pierre-of-narbonne.svg
 name: Saint Pierre of Narbonne
 stub: false
 honorific: Saint

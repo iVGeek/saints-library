@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-romana.svg
 name: Saint Romana
 stub: false
 honorific: Saint

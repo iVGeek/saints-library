@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tyrannio-of-tyre.svg
 name: Saint Tyrannio of Tyre
 stub: false
 honorific: Saint

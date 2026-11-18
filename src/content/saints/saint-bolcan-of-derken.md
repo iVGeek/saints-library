@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bolcan-of-derken.svg
 name: Saint Bolcan of Derken
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-abundus-of-cordoba.svg
 name: Saint Abundus of Cordoba
 stub: false
 honorific: Saint

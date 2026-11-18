@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gondulphus-of-metz.svg
 name: Saint Gondulphus of Metz
 stub: true
 honorific: Saint

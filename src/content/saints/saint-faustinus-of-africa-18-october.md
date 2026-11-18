@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-faustinus-of-africa-18-october.svg
 name: Saint Faustinus of Africa
 stub: true
 honorific: Saint

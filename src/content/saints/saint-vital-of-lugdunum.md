@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vital-of-lugdunum.svg
 name: Saint Vital of Lugdunum
 stub: false
 honorific: Saint

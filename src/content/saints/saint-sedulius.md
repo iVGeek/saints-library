@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sedulius.svg
 name: Saint Sedulius
 stub: false
 honorific: Saint

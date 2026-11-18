@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-alexis-choemon.svg
 name: Blessed Alexis Choemon
 stub: false
 honorific: Blessed

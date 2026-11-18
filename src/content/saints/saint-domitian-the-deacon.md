@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-domitian-the-deacon.svg
 name: Saint Domitian the Deacon
 stub: true
 honorific: Saint

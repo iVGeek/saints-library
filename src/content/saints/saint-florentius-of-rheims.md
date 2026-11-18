@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-florentius-of-rheims.svg
 name: Saint Florentius of Rheims
 stub: true
 honorific: Saint

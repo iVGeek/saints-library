@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nicander-of-rome.svg
 name: Saint Nicander of Rome
 stub: true
 honorific: Saint

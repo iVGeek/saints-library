@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-madeleine-salle-epouse-havard.svg
 name: Blessed Madeleine Sallé épouse Havard
 stub: false
 honorific: Blessed

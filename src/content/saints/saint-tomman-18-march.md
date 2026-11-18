@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tomman-18-march.svg
 name: Saint Tómmán
 stub: true
 honorific: Saint

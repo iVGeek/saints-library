@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cyril-of-trier.svg
 name: Saint Cyril of Trier
 stub: true
 honorific: Saint

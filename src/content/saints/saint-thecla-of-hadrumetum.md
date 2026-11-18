@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thecla-of-hadrumetum.svg
 name: Saint Thecla of Hadrumetum
 stub: false
 honorific: Saint

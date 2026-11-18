@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fortunius-of-nyon.svg
 name: Saint Fortunius of Nyon
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dominica-of-constantinople.svg
 name: Saint Dominica of Constantinople
 stub: false
 honorific: Saint

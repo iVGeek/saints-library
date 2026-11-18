@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-auspicius-of-trier.svg
 name: Saint Auspicius of Trier
 stub: true
 honorific: Saint

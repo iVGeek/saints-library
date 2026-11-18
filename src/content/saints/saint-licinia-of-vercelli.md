@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-licinia-of-vercelli.svg
 name: Saint Licinia of Vercelli
 stub: false
 honorific: Saint

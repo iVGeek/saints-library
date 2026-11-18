@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-egelnoth-the-good.svg
 name: Saint Egelnoth the Good
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-thomas-koyanagi.svg
 name: Blessed Thomas Koyanagi
 stub: false
 honorific: Blessed

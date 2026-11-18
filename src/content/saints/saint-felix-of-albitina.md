@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-felix-of-albitina.svg
 name: Saint Felix of Albitina
 stub: false
 honorific: Saint

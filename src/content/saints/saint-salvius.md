@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-salvius.svg
 name: Saint Salvius
 stub: false
 honorific: Saint

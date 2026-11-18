@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-ulrik-of-obermarchtal.svg
 name: Blessed Ulrik of Obermarchtal
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-baoithin-of-ennisboyne.svg
 name: Saint Baoithin of Ennisboyne
 stub: true
 honorific: Saint

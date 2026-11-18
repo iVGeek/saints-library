@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-genitus.svg
 name: Saint Genitus
 stub: true
 honorific: Saint

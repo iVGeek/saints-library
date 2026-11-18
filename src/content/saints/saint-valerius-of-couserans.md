@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valerius-of-couserans.svg
 name: Saint Valerius of Couserans
 stub: true
 honorific: Saint

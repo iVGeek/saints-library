@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-theodotus-of-tomi.svg
 name: Saint Theodotus of Tomi
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secundinus-of-cirta.svg
 name: Saint Secundinus of Cirta
 stub: true
 honorific: Saint

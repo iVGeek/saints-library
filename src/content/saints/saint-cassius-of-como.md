@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cassius-of-como.svg
 name: Saint Cassius of Como
 stub: false
 honorific: Saint

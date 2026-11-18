@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julian-of-africa-5-march.svg
 name: Saint Julian of Africa
 stub: true
 honorific: Saint

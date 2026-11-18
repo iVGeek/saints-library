@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-apothemius-of-angers.svg
 name: Saint Apothemius of Angers
 stub: false
 honorific: Saint

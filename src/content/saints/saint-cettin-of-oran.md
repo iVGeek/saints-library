@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cettin-of-oran.svg
 name: Saint Cettin of Oran
 stub: false
 honorific: Saint

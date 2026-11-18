@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secundus-the-martyr.svg
 name: Saint Secundus the Martyr
 stub: true
 honorific: Saint

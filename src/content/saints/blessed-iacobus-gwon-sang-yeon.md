@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-iacobus-gwon-sang-yeon.svg
 name: Blessed Iacobus Gwon Sang-yeon
 stub: true
 honorific: Blessed

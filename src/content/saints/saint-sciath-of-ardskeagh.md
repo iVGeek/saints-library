@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sciath-of-ardskeagh.svg
 name: Saint Sciath of Ardskeagh
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-agamund-of-croyland.svg
 name: Saint Agamund of Croyland
 stub: false
 honorific: Saint

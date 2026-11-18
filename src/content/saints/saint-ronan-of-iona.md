@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ronan-of-iona.svg
 name: Saint Ronan of Iona
 stub: false
 honorific: Saint

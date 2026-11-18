@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-marthom.svg
 name: Saint Marthom
 stub: true
 honorific: Saint

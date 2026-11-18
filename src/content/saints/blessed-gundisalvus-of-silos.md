@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-gundisalvus-of-silos.svg
 name: Blessed Gundisalvus of Silos
 stub: true
 honorific: Blessed

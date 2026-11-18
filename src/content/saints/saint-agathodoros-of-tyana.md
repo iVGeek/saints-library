@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-agathodoros-of-tyana.svg
 name: Saint Agathodoros of Tyana
 stub: false
 honorific: Saint

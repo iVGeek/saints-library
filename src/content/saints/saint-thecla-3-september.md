@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-thecla-3-september.svg
 name: Saint Thecla of Aquileia
 stub: false
 honorific: Saint

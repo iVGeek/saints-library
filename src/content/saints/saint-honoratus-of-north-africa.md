@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-honoratus-of-north-africa.svg
 name: Saint Honoratus of North Africa
 stub: true
 honorific: Saint

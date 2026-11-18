@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-giovannello-of-cortona.svg
 name: Blessed Giovannello of Cortona
 stub: false
 honorific: Blessed

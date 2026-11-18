@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dulcissimus-of-fiesole.svg
 name: Saint Dulcissimus of Fiesole
 stub: true
 honorific: Saint

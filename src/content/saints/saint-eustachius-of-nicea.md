@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eustachius-of-nicea.svg
 name: Saint Eustachius of Nicea
 stub: true
 honorific: Saint

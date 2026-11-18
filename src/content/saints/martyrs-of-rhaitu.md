@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/martyrs-of-rhaitu.svg
 name: Martyrs of Rhaitu
 stub: true
 honorific: Saint

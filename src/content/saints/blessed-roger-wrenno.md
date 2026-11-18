@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-roger-wrenno.svg
 name: Blessed Roger Wrenno
 stub: false
 honorific: Blessed

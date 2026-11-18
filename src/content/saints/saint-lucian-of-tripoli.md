@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lucian-of-tripoli.svg
 name: Saint Lucian of Tripoli
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-pedro-de-eriz-eguiluz.svg
 name: Blessed Pedro de Eriz Eguiluz
 stub: true
 honorific: Blessed

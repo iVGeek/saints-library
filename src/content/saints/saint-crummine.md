@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-crummine.svg
 name: Saint Crummine
 stub: false
 honorific: Saint

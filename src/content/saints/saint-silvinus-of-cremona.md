@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-silvinus-of-cremona.svg
 name: Saint Silvinus of Cremona
 stub: true
 honorific: Saint

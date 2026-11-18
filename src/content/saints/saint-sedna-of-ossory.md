@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-sedna-of-ossory.svg
 name: Saint Sedna of Ossory
 stub: false
 honorific: Saint

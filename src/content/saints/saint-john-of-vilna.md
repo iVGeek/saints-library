@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-of-vilna.svg
 name: Saint John of Vilna
 stub: false
 honorific: Saint

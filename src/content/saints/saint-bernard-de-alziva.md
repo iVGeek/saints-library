@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bernard-de-alziva.svg
 name: Saint Bernard de Alziva
 stub: false
 honorific: Saint

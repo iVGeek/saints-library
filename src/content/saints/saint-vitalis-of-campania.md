@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vitalis-of-campania.svg
 name: Saint Vitalis of Campania
 stub: true
 honorific: Saint

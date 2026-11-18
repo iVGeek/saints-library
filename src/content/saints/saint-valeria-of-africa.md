@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valeria-of-africa.svg
 name: Saint Valeria of Africa
 stub: true
 honorific: Saint

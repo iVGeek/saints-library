@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-largus-of-aquileia.svg
 name: Saint Largus of Aquileia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-secundina-of-rome.svg
 name: Saint Secundina of Rome
 stub: false
 honorific: Saint

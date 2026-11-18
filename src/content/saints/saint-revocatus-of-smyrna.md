@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-revocatus-of-smyrna.svg
 name: Saint Revocatus of Smyrna
 stub: true
 honorific: Saint

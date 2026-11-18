@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-conindrus.svg
 name: Saint Conindrus
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lupulo-of-capua.svg
 name: Saint Lupulo of Capua
 stub: true
 honorific: Saint

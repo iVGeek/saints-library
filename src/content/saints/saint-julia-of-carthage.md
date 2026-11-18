@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julia-of-carthage.svg
 name: Saint Julia of Carthage
 stub: true
 honorific: Saint

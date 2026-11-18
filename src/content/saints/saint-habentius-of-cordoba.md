@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-habentius-of-cordoba.svg
 name: Saint Habentius of Cordoba
 stub: false
 honorific: Saint

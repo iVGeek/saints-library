@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mardonius.svg
 name: Saint Mardonius
 stub: true
 honorific: Saint

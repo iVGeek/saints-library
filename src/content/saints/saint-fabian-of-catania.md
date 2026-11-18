@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-fabian-of-catania.svg
 name: Saint Fabian of Catania
 stub: true
 honorific: Saint

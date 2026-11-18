@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cynwl.svg
 name: Saint Cynwl
 stub: false
 honorific: Saint

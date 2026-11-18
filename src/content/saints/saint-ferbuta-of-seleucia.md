@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ferbuta-of-seleucia.svg
 name: Saint Ferbuta of Seleucia
 stub: true
 honorific: Saint

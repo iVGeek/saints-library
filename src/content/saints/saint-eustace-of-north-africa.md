@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eustace-of-north-africa.svg
 name: Saint Eustace of North Africa
 stub: false
 honorific: Saint

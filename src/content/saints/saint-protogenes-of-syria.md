@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-protogenes-of-syria.svg
 name: Saint Protogenes of Syria
 stub: false
 honorific: Saint

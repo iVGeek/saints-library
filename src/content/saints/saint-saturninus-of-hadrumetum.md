@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturninus-of-hadrumetum.svg
 name: Saint Saturninus of Hadrumetum
 stub: true
 honorific: Saint

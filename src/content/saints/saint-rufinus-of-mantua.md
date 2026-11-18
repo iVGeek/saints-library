@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rufinus-of-mantua.svg
 name: Saint Rufinus of Mantua
 stub: false
 honorific: Saint

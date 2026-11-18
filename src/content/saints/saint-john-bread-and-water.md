@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-john-bread-and-water.svg
 name: Saint John Bread-and-Water
 stub: false
 honorific: Saint

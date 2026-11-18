@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximian-of-syracuse.svg
 name: Saint Maximian of Syracuse
 stub: false
 honorific: Saint

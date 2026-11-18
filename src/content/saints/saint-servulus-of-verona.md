@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-servulus-of-verona.svg
 name: Saint Servulus of Verona
 stub: true
 honorific: Saint

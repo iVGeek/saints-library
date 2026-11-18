@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-armand-de-foucauld-de-pontbriand.svg
 name: Blessed Armand de Foucauld de Pontbriand
 stub: false
 honorific: Blessed

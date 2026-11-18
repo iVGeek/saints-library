@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-roincenn-conlaedh.svg
 name: Saint Roincenn Conlaedh
 stub: true
 honorific: Saint

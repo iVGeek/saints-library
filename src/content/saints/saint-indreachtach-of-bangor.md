@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-indreachtach-of-bangor.svg
 name: Saint Indreachtach of Bangor
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-tetricus-of-auxerre.svg
 name: Saint Tetricus of Auxerre
 stub: false
 honorific: Saint

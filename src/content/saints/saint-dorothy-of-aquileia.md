@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dorothy-of-aquileia.svg
 name: Saint Dorothy of Aquileia
 stub: false
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-paul-of-latra.svg
 name: Saint Paul of Latra
 stub: false
 honorific: Saint

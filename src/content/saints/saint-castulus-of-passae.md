@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-castulus-of-passae.svg
 name: Saint Castulus of Passae
 stub: true
 honorific: Saint

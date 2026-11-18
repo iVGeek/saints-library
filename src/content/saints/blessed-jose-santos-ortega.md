@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jose-santos-ortega.svg
 name: Blessed José Santos Ortega
 stub: false
 honorific: Blessed

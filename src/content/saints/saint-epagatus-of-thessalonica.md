@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-epagatus-of-thessalonica.svg
 name: Saint Epagatus of Thessalonica
 stub: true
 honorific: Saint

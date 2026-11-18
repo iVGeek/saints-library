@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-austrebertus-of-vienne.svg
 name: Saint Austrebertus of Vienne
 stub: false
 honorific: Saint

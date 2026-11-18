@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-eleutherius-of-marseille.svg
 name: Saint Eleutherius of Marseille
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-longinus-of-lydda.svg
 name: Saint Longinus of Lydda
 stub: false
 honorific: Saint

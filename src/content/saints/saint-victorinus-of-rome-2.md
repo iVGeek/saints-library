@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victorinus-of-rome-2.svg
 name: Saint Victorinus of Rome
 stub: true
 honorific: Saint

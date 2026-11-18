@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-musca-of-aquileia.svg
 name: Saint Musca of Aquileia
 stub: true
 honorific: Saint

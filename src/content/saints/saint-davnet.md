@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-davnet.svg
 name: Saint Davnet
 stub: false
 honorific: Saint

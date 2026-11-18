@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-deodatus-of-blois.svg
 name: Saint Deodatus of Blois
 stub: false
 honorific: Saint

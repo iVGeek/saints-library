@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cronan-of-lismore.svg
 name: Saint Cronan of Lismore
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mary-the-consoler.svg
 name: Saint Mary the Consoler
 stub: true
 honorific: Saint

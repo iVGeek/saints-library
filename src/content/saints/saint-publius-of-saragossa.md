@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-publius-of-saragossa.svg
 name: Saint Publius of Saragossa
 stub: false
 honorific: Saint

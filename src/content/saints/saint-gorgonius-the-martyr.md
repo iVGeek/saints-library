@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gorgonius-the-martyr.svg
 name: Saint Gorgonius the Martyr
 stub: true
 honorific: Saint

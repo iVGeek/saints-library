@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-margaret-of-hulme.svg
 name: Saint Margaret of Hulme
 stub: true
 honorific: Saint

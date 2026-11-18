@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maximus-of-nicomedia.svg
 name: Saint Maximus of Nicomedia
 stub: true
 honorific: Saint

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-valentin-of-rome.svg
 name: Saint Valentin of Rome
 stub: false
 honorific: Saint

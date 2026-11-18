@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ponticus-of-lugdunum.svg
 name: Saint Ponticus of Lugdunum
 stub: false
 honorific: Saint

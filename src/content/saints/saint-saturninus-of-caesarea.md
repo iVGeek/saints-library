@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturninus-of-caesarea.svg
 name: Saint Saturninus of Caesarea
 stub: true
 honorific: Saint

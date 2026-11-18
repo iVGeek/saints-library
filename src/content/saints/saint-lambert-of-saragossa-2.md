@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lambert-of-saragossa-2.svg
 name: Saint Lambert of Saragossa
 stub: false
 honorific: Saint

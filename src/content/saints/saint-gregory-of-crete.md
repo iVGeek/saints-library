@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-gregory-of-crete.svg
 name: Saint Gregory of Crete
 stub: false
 honorific: Saint

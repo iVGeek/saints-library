@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-primitivus-of-saragossa.svg
 name: Saint Primitivus of Saragossa
 stub: false
 honorific: Saint

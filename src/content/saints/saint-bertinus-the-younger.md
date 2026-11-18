@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bertinus-the-younger.svg
 name: Saint Bertinus the Younger
 stub: false
 honorific: Saint

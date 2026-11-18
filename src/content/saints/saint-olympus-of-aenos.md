@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-olympus-of-aenos.svg
 name: Saint Olympus of Aenos
 stub: false
 honorific: Saint

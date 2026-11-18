@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-quintian-of-north-africa.svg
 name: Saint Quintian of North Africa
 stub: false
 honorific: Saint

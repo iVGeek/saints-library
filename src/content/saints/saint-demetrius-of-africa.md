@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-demetrius-of-africa.svg
 name: Saint Demetrius of Africa
 stub: true
 honorific: Saint

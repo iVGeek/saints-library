@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-rafael-calatrava-ros.svg
 name: Blessed Rafaél Calatrava Ros
 stub: false
 honorific: Blessed

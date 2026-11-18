@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ribert-of-saint-oyend.svg
 name: Saint Ribert of Saint-Oyend
 stub: true
 honorific: Saint

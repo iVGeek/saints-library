@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-odette-vidal-de-oliveira.svg
 name: Venerable Odette Vidal de Oliveira
 stub: false
 honorific: Venerable

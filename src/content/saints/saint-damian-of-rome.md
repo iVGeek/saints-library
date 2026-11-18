@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-damian-of-rome.svg
 name: Saint Damian of Rome
 stub: true
 honorific: Saint

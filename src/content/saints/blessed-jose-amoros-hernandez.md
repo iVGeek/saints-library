@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-jose-amoros-hernandez.svg
 name: Blessed José Amorós Hernández
 stub: true
 honorific: Blessed

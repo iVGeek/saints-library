@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nestor-the-martyr.svg
 name: Saint Nestor the Martyr
 stub: true
 honorific: Saint

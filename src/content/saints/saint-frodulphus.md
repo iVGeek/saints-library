@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-frodulphus.svg
 name: Saint Frodulphus
 stub: false
 honorific: Saint

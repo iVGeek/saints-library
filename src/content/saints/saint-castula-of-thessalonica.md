@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-castula-of-thessalonica.svg
 name: Saint Castula of Thessalonica
 stub: true
 honorific: Saint

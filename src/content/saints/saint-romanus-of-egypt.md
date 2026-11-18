@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-romanus-of-egypt.svg
 name: Saint Romanus of Egypt
 stub: false
 honorific: Saint

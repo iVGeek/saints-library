@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-damianus-ichiyata.svg
 name: Blessed Damianus Ichiyata
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-cera-of-kilkeary.svg
 name: Saint Cera of Kilkeary
 stub: false
 honorific: Saint

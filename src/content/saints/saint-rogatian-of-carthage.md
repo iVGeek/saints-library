@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rogatian-of-carthage.svg
 name: Saint Rogatian of Carthage
 stub: true
 honorific: Saint

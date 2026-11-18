@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pia-of-carthage.svg
 name: Saint Pia of Carthage
 stub: false
 honorific: Saint

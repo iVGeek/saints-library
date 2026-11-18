@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-rogatus-of-thessalonica.svg
 name: Saint Rogatus of Thessalonica
 stub: true
 honorific: Saint

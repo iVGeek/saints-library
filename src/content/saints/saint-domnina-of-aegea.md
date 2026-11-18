@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-domnina-of-aegea.svg
 name: Saint Domnina of Aegea
 stub: true
 honorific: Saint

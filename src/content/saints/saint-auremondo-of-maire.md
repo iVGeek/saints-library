@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-auremondo-of-maire.svg
 name: Saint Auremondo of Mairé
 stub: false
 honorific: Saint

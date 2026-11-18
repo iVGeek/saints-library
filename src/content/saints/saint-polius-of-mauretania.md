@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-polius-of-mauretania.svg
 name: Saint Polius of Mauretania
 stub: false
 honorific: Saint

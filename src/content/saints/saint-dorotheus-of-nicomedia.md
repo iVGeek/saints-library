@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dorotheus-of-nicomedia.svg
 name: Saint Dorotheus of Nicomedia
 stub: false
 honorific: Saint

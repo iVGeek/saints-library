@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-verona-of-mainz.svg
 name: Blessed Verona of Mainz
 stub: false
 honorific: Blessed

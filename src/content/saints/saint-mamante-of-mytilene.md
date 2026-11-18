@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mamante-of-mytilene.svg
 name: Saint Mamante of Mytilene
 stub: true
 honorific: Saint

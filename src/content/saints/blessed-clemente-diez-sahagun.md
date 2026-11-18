@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-clemente-diez-sahagun.svg
 name: Blessed Clemente Díez Sahagún
 stub: false
 honorific: Blessed

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-dominanda-of-rome.svg
 name: Saint Dominanda of Rome
 stub: true
 honorific: Saint

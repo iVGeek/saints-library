@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-codratus-of-corinth.svg
 name: Saint Codratus of Corinth
 stub: false
 honorific: Saint

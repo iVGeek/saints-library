@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-liephard.svg
 name: Saint Liephard of Cambrai
 stub: false
 honorific: Saint

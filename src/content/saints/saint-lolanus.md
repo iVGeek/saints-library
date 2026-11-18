@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lolanus.svg
 name: Saint Lolanus
 stub: true
 honorific: Saint

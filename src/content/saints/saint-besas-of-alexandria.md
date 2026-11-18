@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-besas-of-alexandria.svg
 name: Saint Besas of Alexandria
 stub: false
 honorific: Saint

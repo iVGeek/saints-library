@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-victorinus-of-carthage.svg
 name: Saint Victorinus of Carthage
 stub: true
 honorific: Saint

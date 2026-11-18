@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-smaragdus-of-rome.svg
 name: Saint Smaragdus of Rome
 stub: true
 honorific: Saint

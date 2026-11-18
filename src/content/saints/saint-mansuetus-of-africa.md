@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-mansuetus-of-africa.svg
 name: Saint Mansuetus of Africa
 stub: false
 honorific: Saint

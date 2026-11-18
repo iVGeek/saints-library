@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-elias-of-jerusalem.svg
 name: Saint Elias of Jerusalem
 stub: false
 honorific: Saint

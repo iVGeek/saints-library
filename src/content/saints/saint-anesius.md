@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-anesius.svg
 name: Saint Anesius
 stub: true
 honorific: Saint

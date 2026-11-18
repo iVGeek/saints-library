@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/venerable-joaquina-maria-mercedes-barcelo-pages.svg
 name: Venerable Joaquina María Mercedes Barceló Pagés
 stub: false
 honorific: Venerable

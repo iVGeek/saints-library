@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-maturus-the-novice.svg
 name: Saint Maturus the Novice
 stub: false
 honorific: Saint

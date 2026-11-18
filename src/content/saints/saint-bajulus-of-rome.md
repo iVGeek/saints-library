@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-bajulus-of-rome.svg
 name: Saint Bajulus of Rome
 stub: true
 honorific: Saint

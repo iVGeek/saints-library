@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-hugh-of-vaucelles.svg
 name: Blessed Hugh of Vaucelles
 stub: true
 honorific: Blessed

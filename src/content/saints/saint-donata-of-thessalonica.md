@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-donata-of-thessalonica.svg
 name: Saint Donata of Thessalonica
 stub: true
 honorific: Saint

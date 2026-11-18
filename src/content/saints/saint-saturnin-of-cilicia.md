@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-saturnin-of-cilicia.svg
 name: Saint Saturnin of Cilicia
 stub: true
 honorific: Saint

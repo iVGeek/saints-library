@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-julius-of-thagura.svg
 name: Saint Julius of Thagura
 stub: false
 honorific: Saint

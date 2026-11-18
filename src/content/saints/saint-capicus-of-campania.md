@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-capicus-of-campania.svg
 name: Saint Capicus of Campania
 stub: false
 honorific: Saint

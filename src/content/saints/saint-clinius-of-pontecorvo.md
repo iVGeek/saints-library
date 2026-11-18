@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-clinius-of-pontecorvo.svg
 name: Saint Clinius of Pontecorvo
 stub: false
 honorific: Saint

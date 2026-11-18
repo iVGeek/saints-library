@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-simeon-the-logothete.svg
 name: Saint Simeon the Logothete
 stub: false
 honorific: Saint

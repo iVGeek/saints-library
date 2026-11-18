@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-catwallon.svg
 name: Blessed Catwallon
 stub: false
 honorific: Blessed

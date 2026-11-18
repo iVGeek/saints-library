@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-nerses-of-sahgerd.svg
 name: Saint Nerses of Sahgerd
 stub: false
 honorific: Saint

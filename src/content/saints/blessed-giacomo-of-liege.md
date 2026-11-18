@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/blessed-giacomo-of-liege.svg
 name: Blessed Giacomo of Liège
 stub: false
 honorific: Blessed

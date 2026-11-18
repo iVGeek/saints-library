@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-pausilopo-of-thrace.svg
 name: Saint Pausilopo of Thrace
 stub: false
 honorific: Saint

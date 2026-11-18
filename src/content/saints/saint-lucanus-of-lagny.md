@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-lucanus-of-lagny.svg
 name: Saint Lucanus of Lagny
 stub: true
 honorific: Saint

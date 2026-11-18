@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-zenaides.svg
 name: Saint Zenaides
 stub: false
 honorific: Saint

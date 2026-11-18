@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-meletius-of-cyprus.svg
 name: Saint Meletius of Cyprus
 stub: true
 honorific: Saint

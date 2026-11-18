@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-ebbo-of-sens.svg
 name: Saint Ebbo of Sens
 stub: false
 honorific: Saint

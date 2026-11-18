@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-columba-of-cordova.svg
 name: Saint Columba of Cordova
 stub: false
 honorific: Saint

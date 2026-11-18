@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: /og/saint-vindician-of-cambrai.svg
 name: Saint Vindician of Cambrai
 stub: false
 honorific: Saint

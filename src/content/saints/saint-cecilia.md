@@ -16,6 +16,7 @@ searchAliases:
   - Cécile
 centuries:
   - 16
+region: Italy
 feastDay:
   month: 11
   day: 22

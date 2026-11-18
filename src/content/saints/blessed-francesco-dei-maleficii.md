@@ -8,6 +8,7 @@ searchAliases:
   - Apostle of Corsica
 deathYear: 1290
 died: 1290 of natural causes
+region: France
 feastDay:
   month: 12
   day: 24

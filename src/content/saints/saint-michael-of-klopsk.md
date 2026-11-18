@@ -14,6 +14,7 @@ searchAliases:
   - Mikhail of Klopsk
 deathYear: 1453
 died: 11 January 1453 of natural causes
+region: Russia
 feastDay:
   month: 1
   day: 11

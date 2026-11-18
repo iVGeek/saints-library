@@ -10,6 +10,7 @@ searchAliases:
   - Bartolomea
 centuries:
   - 16
+region: Italy
 feastDay:
   month: 5
   day: 4

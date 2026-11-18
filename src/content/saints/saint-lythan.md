@@ -7,6 +7,7 @@ honorific: Saint
 summary: Two churches in Wales are dedicated to this saint, but no information about him has survived.
 searchAliases:
   - Llythaothaw
+region: Wales
 feastDay:
   month: 9
   day: 1

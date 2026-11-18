@@ -7,6 +7,7 @@ honorific: Blessed
 summary: Monk at the Studion monastery in Constantinople. Spiritual student of Saint Metrophanes.
 deathYear: 1606
 died: 1606 of natural causes
+region: Turkey
 feastDay:
   month: 7
   day: 9

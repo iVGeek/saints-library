@@ -8,6 +8,7 @@ searchAliases:
   - Elisabeth Hainburg
 deathYear: 1310
 died: c.1310
+region: Switzerland
 feastDay:
   month: 6
   day: 30

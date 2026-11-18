@@ -7,6 +7,7 @@ honorific: Blessed
 summary: No information has survived.
 deathYear: 1113
 died: 1113 of natural causes
+region: France
 feastDay:
   month: 6
   day: 23

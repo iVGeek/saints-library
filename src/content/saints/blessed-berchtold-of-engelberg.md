@@ -13,6 +13,7 @@ searchAliases:
   - Berthold
 deathYear: 1197
 died: 3 November 1197 of natural  causes
+region: Switzerland
 feastDay:
   month: 11
   day: 3

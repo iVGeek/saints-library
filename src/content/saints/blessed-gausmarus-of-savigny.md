@@ -6,6 +6,7 @@ honorific: Blessed
 summary: Benedictine monk. Abbot at Saint Martin of Savigny from 954 to 984.
 deathYear: 984
 died: '984'
+region: France
 feastDay:
   month: 6
   day: 3

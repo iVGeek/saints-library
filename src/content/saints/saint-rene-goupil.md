@@ -16,6 +16,7 @@ born: '1606'
 birthPlace: Anjou
 centuries:
   - 17
+region: France
 feastDay:
   month: 9
   day: 29

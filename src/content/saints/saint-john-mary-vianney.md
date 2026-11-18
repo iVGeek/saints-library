@@ -19,7 +19,7 @@ born: '1786'
 birthPlace: Dardilly
 centuries:
   - 18
-region: United States
+region: France
 feastDay:
   month: 8
   day: 4

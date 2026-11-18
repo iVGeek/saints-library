@@ -17,6 +17,7 @@ searchAliases:
 birthPlace: monastery
 centuries:
   - 16
+region: Germany
 feastDay:
   month: 6
   day: 5

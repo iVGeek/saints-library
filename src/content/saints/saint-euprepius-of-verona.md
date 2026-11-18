@@ -1,7 +1,7 @@
 ---
 image: /og/saint-euprepius-of-verona.svg
 name: Saint Euprepius of Verona
-stub: true
+stub: false
 honorific: Saint
 summary: First century bishop of Verona, Italy.
 searchAliases:
@@ -16,6 +16,10 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+sources:
+  - 'Wikipedia, "Euprepius of Verona", https://en.wikipedia.org/wiki/Euprepius_of_Verona (CC BY-SA 4.0)'
 ---
 
-First century bishop of Verona, Italy.
+> Saint Euprepius of Verona (Euprepus, Puprepis) is venerated as the first bishop of Verona. Not much is known of his life beyond the fact that his name was Greek (from the Greek words eu, "well", and prepein, "adapted, suited"), which is considered evidence of the antiquity of the Veronese see.
+
+*Source: [Wikipedia, "Euprepius of Verona"](https://en.wikipedia.org/wiki/Euprepius_of_Verona), CC BY-SA 4.0.*

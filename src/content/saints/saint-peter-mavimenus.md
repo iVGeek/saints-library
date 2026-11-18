@@ -1,7 +1,7 @@
 ---
 image: /og/saint-peter-mavimenus.svg
 name: Saint Peter Mavimenus
-stub: true
+stub: false
 honorific: Saint
 summary: Martyred by Muslims for supporting Christianity and denigrating Islam.
 searchAliases:
@@ -17,6 +17,10 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+sources:
+  - 'Wikipedia, "Peter Mavimenus", https://en.wikipedia.org/wiki/Peter_Mavimenus (CC BY-SA 4.0)'
 ---
 
-Martyred by Muslims for supporting Christianity and denigrating Islam.
+> Peter Mavimenus was a Damascene Christian martyr of the 8th century whose martyrdom is recorded in the Roman Martyrology. He was killed by a group of Arabs who visited him while he was sick after he said to them: "Whoever does not embrace the Christian and Catholic faith, is damned like your false prophet Mahomet."
+
+*Source: [Wikipedia, "Peter Mavimenus"](https://en.wikipedia.org/wiki/Peter_Mavimenus), CC BY-SA 4.0.*

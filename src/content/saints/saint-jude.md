@@ -17,6 +17,7 @@ searchAliases:
   - Jude, brother of Jesus
 centuries:
   - 16
+region: Syria
 feastDay:
   month: 10
   day: 28

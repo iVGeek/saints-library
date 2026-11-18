@@ -9,6 +9,7 @@ searchAliases:
   - Hermit of Saint Claude
 deathYear: 1439
 died: 1439 of natural causes
+region: Belgium
 feastDay:
   month: 9
   day: 29

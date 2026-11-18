@@ -7,6 +7,7 @@ honorific: Blessed
 summary: Dominican. Travelled and worked with Saint Vincent Ferrer.
 deathYear: 1422
 died: '1422'
+region: Ireland
 feastDay:
   month: 4
   day: 5

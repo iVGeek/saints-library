@@ -8,6 +8,7 @@ searchAliases:
   - Margarita
   - Margherita
   - Marguerite
+region: Italy
 feastDay:
   month: 4
   day: 20

@@ -13,6 +13,7 @@ searchAliases:
   - Mochua…
 deathYear: 770
 died: 770 of natural causes
+region: Ireland
 feastDay:
   month: 3
   day: 2

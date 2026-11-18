@@ -8,6 +8,7 @@ summary: >-
   the sisters wished to take the veil, their father built them a convent at Maaseyk on the Meuse. Abbess at Maaseyk.
 deathYear: 745
 died: c.745 of natural causes
+region: Belgium
 feastDay:
   month: 10
   day: 12

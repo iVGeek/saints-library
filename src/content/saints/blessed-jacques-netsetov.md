@@ -10,6 +10,7 @@ summary: >-
 deathYear: 1865
 born: Alaska
 died: '1865'
+region: United States
 feastDay:
   month: 7
   day: 26

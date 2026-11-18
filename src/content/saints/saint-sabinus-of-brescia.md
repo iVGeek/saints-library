@@ -7,6 +7,7 @@ summary: Martyr. No reliable information has survived.
 searchAliases:
   - Savinus
   - Savino
+region: Italy
 feastDay:
   month: 7
   day: 11

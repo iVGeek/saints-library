@@ -5,6 +5,7 @@ stub: true
 honorific: Saint
 title: Hermit
 summary: Recluse in 12th century Saint Gall, Switzerland.
+region: Switzerland
 feastDay:
   month: 3
   day: 17

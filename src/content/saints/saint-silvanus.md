@@ -8,6 +8,7 @@ searchAliases:
   - Sylvanus
 deathYear: 450
 died: c.450 of natural causes
+region: Turkey
 feastDay:
   month: 12
   day: 2

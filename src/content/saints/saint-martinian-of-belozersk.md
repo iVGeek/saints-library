@@ -17,6 +17,7 @@ birthYear: 1398
 deathYear: 1483
 born: '1398'
 died: 1483 at the monastery of White Lake of natural causes
+region: Russia
 feastDay:
   month: 1
   day: 12

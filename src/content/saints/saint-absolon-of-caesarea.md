@@ -7,6 +7,7 @@ summary: Martyred at Caesarea, Cappadocia, date unknown.
 searchAliases:
   - Absala
   - Absale
+region: Turkey
 feastDay:
   month: 3
   day: 2

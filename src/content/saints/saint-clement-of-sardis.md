@@ -3,6 +3,7 @@ name: Saint Clement of Sardis
 stub: false
 honorific: Saint
 summary: First century convert. One of the original 72 missionaries sent by Jesus himself. Bishop of Sardis. Martyr.
+region: Turkey
 feastDay:
   month: 9
   day: 10

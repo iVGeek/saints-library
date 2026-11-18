@@ -9,6 +9,7 @@ summary: >-
 searchAliases:
   - Hatto
   - Hildo
+region: Switzerland
 feastDay:
   month: 11
   day: 24

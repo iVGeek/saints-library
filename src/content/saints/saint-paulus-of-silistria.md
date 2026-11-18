@@ -5,6 +5,7 @@ name: Saint Paulus of Silistria
 stub: true
 honorific: Saint
 summary: Martyr.
+region: Bulgaria
 feastDay:
   month: 7
   day: 18

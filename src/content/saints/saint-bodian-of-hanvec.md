@@ -8,6 +8,7 @@ searchAliases:
   - Bodianus
   - Bozian
 born: 6th century Wales
+region: Wales
 feastDay:
   month: 3
   day: 15

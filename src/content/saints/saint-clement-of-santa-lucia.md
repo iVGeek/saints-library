@@ -5,6 +5,7 @@ honorific: Saint
 summary: Abbot of Santa Lucia Abbey in Syracuse, Sicily.
 deathYear: 800
 died: c.800
+region: Italy
 feastDay:
   month: 3
   day: 5

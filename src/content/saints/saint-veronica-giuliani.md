@@ -18,6 +18,7 @@ born: '1660'
 birthPlace: Città di Castello
 centuries:
   - 17
+region: Italy
 feastDay:
   month: 7
   day: 9

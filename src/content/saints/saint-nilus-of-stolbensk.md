@@ -8,6 +8,7 @@ summary: >-
   students that he moved to a deserted island in Lake Seliguer.
 deathYear: 1554
 died: 1554 of natural causes
+region: Russia
 feastDay:
   month: 12
   day: 7

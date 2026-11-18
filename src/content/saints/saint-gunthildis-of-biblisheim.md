@@ -8,6 +8,7 @@ searchAliases:
   - Gonthildis
 deathYear: 1131
 died: '1131'
+region: France
 feastDay:
   month: 1
   day: 21

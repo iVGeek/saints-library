@@ -4,6 +4,7 @@ name: Saint Colman of Clontibret
 stub: true
 honorific: Saint
 summary: Mentioned in some martyrologies, but no information has survived.
+region: Ireland
 feastDay:
   month: 9
   day: 30

@@ -7,6 +7,7 @@ searchAliases:
   - Cindée
 deathYear: 300
 died: burned at the stake c.300
+region: Turkey
 feastDay:
   month: 7
   day: 11

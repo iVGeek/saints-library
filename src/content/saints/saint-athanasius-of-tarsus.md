@@ -5,6 +5,7 @@ honorific: Saint
 summary: Bishop of Tarsus in Asia Minor. Martyred in the persecutions of Emperor Valerian.
 deathYear: 257
 died: '257'
+region: Turkey
 feastDay:
   month: 8
   day: 22

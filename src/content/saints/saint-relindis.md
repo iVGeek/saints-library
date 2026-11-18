@@ -9,6 +9,7 @@ summary: >-
   Maaseyk.
 deathYear: 750
 died: c.750 of natural causes
+region: Belgium
 feastDay:
   month: 10
   day: 12

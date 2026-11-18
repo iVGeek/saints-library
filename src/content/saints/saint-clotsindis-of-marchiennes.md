@@ -13,6 +13,7 @@ birthYear: 635
 deathYear: 714
 born: c.635
 died: '714'
+region: France
 feastDay:
   month: 6
   day: 30

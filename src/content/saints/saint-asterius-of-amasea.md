@@ -9,6 +9,7 @@ summary: >-
 deathYear: 410
 born: 4th century
 died: c.410 of natural causes
+region: Turkey
 feastDay:
   month: 10
   day: 30

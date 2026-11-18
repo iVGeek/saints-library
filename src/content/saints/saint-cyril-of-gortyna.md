@@ -6,6 +6,7 @@ honorific: Saint
 summary: Elderly bishop of Gortyna, Crete. Tortured and martyred in the persecutions of Decius.
 deathYear: 250
 died: beheaded in 250
+region: Greece
 feastDay:
   month: 7
   day: 9

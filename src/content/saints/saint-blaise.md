@@ -16,6 +16,7 @@ searchAliases:
   - Blasien
 centuries:
   - 16
+region: Turkey
 feastDay:
   month: 2
   day: 3

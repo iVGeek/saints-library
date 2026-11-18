@@ -7,6 +7,7 @@ summary: First century bishop of Philadelphia in Asia minor.
 searchAliases:
   - Dimitrios
   - Dimitri
+region: Turkey
 feastDay:
   month: 1
   day: 6

@@ -6,6 +6,7 @@ honorific: Saint
 summary: Deacon at Saint Bertin Abbey. Murdered by invading Danes. Martyr.
 deathYear: 862
 died: '862'
+region: France
 feastDay:
   month: 5
   day: 25

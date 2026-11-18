@@ -16,6 +16,7 @@ birthYear: 1922
 born: '1922'
 centuries:
   - 20
+region: Italy
 feastDay:
   month: 4
   day: 28

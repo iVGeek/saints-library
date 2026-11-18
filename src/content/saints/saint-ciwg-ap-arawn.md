@@ -8,6 +8,7 @@ summary: >-
   of Brycheiniog. A church in Llangiwg, Glamorganshire, Wales is dedicated to him. The only detail of his life to
   survive is that he was a bard.
 born: 6th century Welsh
+region: Wales
 feastDay:
   month: 6
   day: 29

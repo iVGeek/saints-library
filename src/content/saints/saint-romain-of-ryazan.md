@@ -11,6 +11,7 @@ searchAliases:
 deathYear: 1270
 died: cut to pieces, joint by joint, until he finally bled to death in 1270
 deathPlace: joint by joint, until he finally bled to death1270
+region: Russia
 feastDay:
   month: 7
   day: 19

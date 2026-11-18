@@ -16,6 +16,7 @@ searchAliases:
   - Leonard of Limousin
 centuries:
   - 16
+region: France
 feastDay:
   month: 11
   day: 6

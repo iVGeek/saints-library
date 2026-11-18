@@ -7,6 +7,7 @@ summary: Deacon. Martyred in the persecutions of Emperor Licinius along with 40 
 deathYear: 313
 died: 313 at Heraclea, Thrace (part of modern Macedonia) by having a red-hot helmet placed on his head
 deathPlace: Thrace (partmodern Macedonia) by having a red-hot helmet placed on his head
+region: North Macedonia
 feastDay:
   month: 9
   day: 3

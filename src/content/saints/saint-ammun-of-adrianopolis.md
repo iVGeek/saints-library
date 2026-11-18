@@ -6,6 +6,7 @@ honorific: Saint
 summary: Early martyr.
 died: whipped to death in Adrianopolis, Thrace (an area of modern Bulgaria)
 deathPlace: Thrace (an areamodern Bulgaria)
+region: Bulgaria
 feastDay:
   month: 9
   day: 2

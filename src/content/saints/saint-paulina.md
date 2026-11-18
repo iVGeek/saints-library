@@ -5,6 +5,7 @@ honorific: Saint
 summary: Roman martyr under Valerian.
 deathYear: 258
 died: tortured to death c.258
+region: Italy
 feastDay:
   month: 12
   day: 2

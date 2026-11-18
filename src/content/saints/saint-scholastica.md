@@ -9,6 +9,7 @@ imageAlt: Portrait of Saint Scholastica
 imageCredit: Wikimedia Commons
 centuries:
   - 16
+region: Italy
 feastDay:
   month: 2
   day: 10

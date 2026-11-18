@@ -1,7 +1,7 @@
 ---
 image: /og/saint-philip-berruyer.svg
 name: Saint Philip Berruyer
-stub: true
+stub: false
 honorific: Saint
 title: Bishop
 summary: Nephew of Saint William of Bourges. Archbishop of Bourges, France.
@@ -18,6 +18,10 @@ vocation:
   - Bishop
 martyr: false
 prayers: []
+sources:
+  - 'Wikipedia, "Philip Berruyer", https://en.wikipedia.org/wiki/Philip_Berruyer (CC BY-SA 4.0)'
 ---
 
-Nephew of Saint William of Bourges. Archbishop of Bourges, France.
+> Philip Berruyer (died 1260 of natural causes) was bishop of Orléans in 1234, and then archbishop of Bourges from 1236 until his death. He was responsible for overseeing much of the building work on Bourges Cathedral, though the identity of the architect or chief mason is unknown. William of Bourges was his uncle. He is a Catholic saint, feast day 9 January, beatified in the thirteenth century.
+
+*Source: [Wikipedia, "Philip Berruyer"](https://en.wikipedia.org/wiki/Philip_Berruyer), CC BY-SA 4.0.*

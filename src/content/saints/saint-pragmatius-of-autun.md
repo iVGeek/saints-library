@@ -1,6 +1,6 @@
 ---
 name: Saint Pragmatius of Autun
-stub: true
+stub: false
 honorific: Saint
 summary: Bishop of Autun, France.
 searchAliases:
@@ -19,6 +19,10 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+sources:
+  - 'Wikipedia, "Pragmatius of Autun", https://en.wikipedia.org/wiki/Pragmatius_of_Autun (CC BY-SA 4.0)'
 ---
 
-Bishop of Autun, France.
+> Saint Pragmatius of Autun (French: Pragmace; fl. c.520) was Bishop of Autun in the 6th century. He was a friend of Sidonius Apollinaris and Avitus of Vienne, and he participated in at least one of the councils of his time. He is venerated as a saint by the Roman Catholic Church; his feast day is celebrated on 22 November.
+
+*Source: [Wikipedia, "Pragmatius of Autun"](https://en.wikipedia.org/wiki/Pragmatius_of_Autun), CC BY-SA 4.0.*

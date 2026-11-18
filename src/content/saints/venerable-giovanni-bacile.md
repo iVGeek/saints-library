@@ -1,7 +1,7 @@
 ---
 image: /og/venerable-giovanni-bacile.svg
 name: Venerable Giovanni Bacile
-stub: true
+stub: false
 honorific: Venerable
 summary: Priest of the diocese of Monreale, Italy.
 birthYear: 1880
@@ -22,6 +22,10 @@ vocation:
   - Priest
 martyr: false
 prayers: []
+sources:
+  - 'Wikipedia, "Giovanni Bacile", https://en.wikipedia.org/wiki/Giovanni_Bacile (CC BY-SA 4.0)'
 ---
 
-Priest of the diocese of Monreale, Italy.
+> Giovanni Bacile (12 August 1880 – 20 August 1941) was an Italian Roman Catholic priest who exercised his pastoral service in the Diocese of Monreale. Pope Francis recognized that Bacilee lived a life of heroic virtue and declared him to be venerable.
+
+*Source: [Wikipedia, "Giovanni Bacile"](https://en.wikipedia.org/wiki/Giovanni_Bacile), CC BY-SA 4.0.*

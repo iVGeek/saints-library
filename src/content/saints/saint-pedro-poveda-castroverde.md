@@ -1,29 +1,31 @@
 ---
 name: Saint Pedro Poveda Castroverde
-stub: false
-honorific: Venerable
-summary: ' He taught at the seminary, continued his studies, and received his licentiate in theology Raised in a pious family, Pedro felt an early call to the priesthood. He entered the seminary in Jaen, Spain in 1889, then the seminary of Guadix, Granada, Spain. Ordained on 17 April 1897.'
-image: https://upload.wikimedia.org/wikipedia/commons/4/41/Pedro_Poveda.jpg
-searchAliases:
-  - Peter Poveda Castroverde
-birthYear: 1874
-deathYear: 1936
-born: 3 December 1874 at Linares, Jaen, Spain
-died: shot by firing squad on 28 July 1936 at Madrid, Spain
-birthPlace: Jaen, Spain
-deathPlace: Spain
-region: Spain
-feastDay:
-  month: 7
-  day: 28
-centuries:
-  - 19
-  - 20
-canonizationStatus: Venerable
-vocation:
-  - Priest
-martyr: true
+stub: false
+honorific: Venerable
+summary: ' He taught at the seminary, continued his studies, and received his licentiate in theology Raised in a pious family, Pedro felt an early call to the priesthood. He entered the seminary in Jaen, Spain in 1889, then the seminary of Guadix, Granada, Spain. Ordained on 17 April 1897.'
+image: https://upload.wikimedia.org/wikipedia/commons/4/41/Pedro_Poveda.jpg
+searchAliases:
+  - Peter Poveda Castroverde
+birthYear: 1874
+deathYear: 1936
+born: 3 December 1874 at Linares, Jaen, Spain
+died: shot by firing squad on 28 July 1936 at Madrid, Spain
+birthPlace: Jaen, Spain
+deathPlace: Spain
+region: Spain
+feastDay:
+  month: 7
+  day: 28
+centuries:
+  - 19
+  - 20
+canonizationStatus: Venerable
+vocation:
+  - Priest
+martyr: true
 prayers: []
+sources:
+  - 'Wikipedia, "Pedro Poveda Castroverde", https://en.wikipedia.org/wiki/Pedro_Poveda_Castroverde (CC BY-SA 4.0)'
 ---
 
 Raised in a pious family, Pedro felt an early call to the priesthood. He entered the seminary in Jaen, Spain in 1889, then the seminary of Guadix, Granada, Spain. Ordained on 17 April 1897.

@@ -1,24 +1,26 @@
 ---
 name: Saint Romanus of Subiaco
-stub: false
-honorific: Saint
-summary: >-
-  Monk and then abbot near Subiaco, Italy. Friend of Saint Benedict of Nursia, and supported him during his time as a
-  cave hermit. Built a monastery in the vicinity of modern Auxerre, France.
-image: >-
-  https://commons.wikimedia.org/wiki/Special:FilePath/Storie_di_s._benedetto%252C_04_sodoma_-_Come_Romano_monaco_da_lo_abito_eremitico_a_Benedetto_05.JPG?width=600
-deathYear: 560
-died: c.560 of natural causes
-region: France
-feastDay:
-  month: 5
-  day: 22
-canonizationStatus: Saint
-vocation:
-  - Monk
-  - Hermit
-martyr: false
+stub: false
+honorific: Saint
+summary: >-
+  Monk and then abbot near Subiaco, Italy. Friend of Saint Benedict of Nursia, and supported him during his time as a
+  cave hermit. Built a monastery in the vicinity of modern Auxerre, France.
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Storie_di_s._benedetto%252C_04_sodoma_-_Come_Romano_monaco_da_lo_abito_eremitico_a_Benedetto_05.JPG?width=600
+deathYear: 560
+died: c.560 of natural causes
+region: France
+feastDay:
+  month: 5
+  day: 22
+canonizationStatus: Saint
+vocation:
+  - Monk
+  - Hermit
+martyr: false
 prayers: []
+sources:
+  - 'Wikipedia, "Romanus of Subiaco", https://en.wikipedia.org/wiki/Romanus_of_Subiaco (CC BY-SA 4.0)'
 ---
 
 Monk and then abbot near Subiaco, Italy. Friend of Saint Benedict of Nursia, and supported him during his time as a cave hermit. Built a monastery in the vicinity of modern Auxerre, France.

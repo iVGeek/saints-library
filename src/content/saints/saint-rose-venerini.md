@@ -1,33 +1,35 @@
 ---
 name: Saint Rose Venerini
-stub: false
-honorific: Venerable
-summary: ' She invited neighbourhood women to pray the rosary in her home, and formed a sort of s Daughter of Godfrey Venerini, physician in Viterbo, Italy. Following the death of her fiance, she entered a convent; following the death of her father, she returned home to care for her mother.'
-image: https://upload.wikimedia.org/wikipedia/commons/3/3a/Rosa_Venerini.jpg
-searchAliases:
-  - Rosa
-birthYear: 1656
-deathYear: 1728
-born: 9 February 1656 at Viterbo, Italy
-died: 7 May 1728 at Rome, Italy of natural causes
-birthPlace: Italy
-deathPlace: Italynatural causes
-region: Italy
-feastDay:
-  month: 5
-  day: 7
-centuries:
-  - 17
-  - 18
-canonizationStatus: Venerable
-vocation:
-  - Virgin
-  - Priest
-  - Religious
-  - Cardinal
-religiousOrder: Jesuit
-martyr: false
+stub: false
+honorific: Venerable
+summary: ' She invited neighbourhood women to pray the rosary in her home, and formed a sort of s Daughter of Godfrey Venerini, physician in Viterbo, Italy. Following the death of her fiance, she entered a convent; following the death of her father, she returned home to care for her mother.'
+image: https://upload.wikimedia.org/wikipedia/commons/3/3a/Rosa_Venerini.jpg
+searchAliases:
+  - Rosa
+birthYear: 1656
+deathYear: 1728
+born: 9 February 1656 at Viterbo, Italy
+died: 7 May 1728 at Rome, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Italy
+feastDay:
+  month: 5
+  day: 7
+centuries:
+  - 17
+  - 18
+canonizationStatus: Venerable
+vocation:
+  - Virgin
+  - Priest
+  - Religious
+  - Cardinal
+religiousOrder: Jesuit
+martyr: false
 prayers: []
+sources:
+  - 'Wikipedia, "Rose Venerini", https://en.wikipedia.org/wiki/Rose_Venerini (CC BY-SA 4.0)'
 ---
 
 Daughter of Godfrey Venerini, physician in Viterbo, Italy. Following the death of her fiance, she entered a convent; following the death of her father, she returned home to care for her mother.

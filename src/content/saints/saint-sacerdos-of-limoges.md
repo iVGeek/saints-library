@@ -1,35 +1,37 @@
 ---
-image: https://nominis.cef.fr/images/gallerie/sacerdos.jpg
-imageAlt: "Buste de Saint Sacerdos, église de Saint-Urbain"
-imageCredit: Nominis (French Episcopal Conference)
-imageCreditUrl: https://nominis.cef.fr
+image: https://nominis.cef.fr/images/gallerie/sacerdos.jpg
+imageAlt: "Buste de Saint Sacerdos, église de Saint-Urbain"
+imageCredit: Nominis (French Episcopal Conference)
+imageCreditUrl: https://nominis.cef.fr
 name: Saint Sacerdos of Limoges
-stub: false
-honorific: Saint
-summary: Monk. Founded Calabre Abbey and served as its first abbot. Bishop of Limoges, France.
-searchAliases:
-  - Sacerdos of Calviac
-  - Sardot of…
-  - Sadroc of…
-  - Sardou of…
-  - Serdon of…
-  - Serdot of…
-  - Sacerdote of…
-birthYear: 670
-deathYear: 720
-born: 670 in Sarlat, Périgord, France
-died: c.720
-birthPlace: Périgord, France
-region: France
-feastDay:
-  month: 5
-  day: 5
-canonizationStatus: Saint
-vocation:
-  - Bishop
-  - Monk
-martyr: false
+stub: false
+honorific: Saint
+summary: Monk. Founded Calabre Abbey and served as its first abbot. Bishop of Limoges, France.
+searchAliases:
+  - Sacerdos of Calviac
+  - Sardot of…
+  - Sadroc of…
+  - Sardou of…
+  - Serdon of…
+  - Serdot of…
+  - Sacerdote of…
+birthYear: 670
+deathYear: 720
+born: 670 in Sarlat, Périgord, France
+died: c.720
+birthPlace: Périgord, France
+region: France
+feastDay:
+  month: 5
+  day: 5
+canonizationStatus: Saint
+vocation:
+  - Bishop
+  - Monk
+martyr: false
 prayers: []
+sources:
+  - 'Wikipedia, "Sacerdos of Limoges", https://en.wikipedia.org/wiki/Sacerdos_of_Limoges (CC BY-SA 4.0)'
 ---
 
 Monk. Founded Calabre Abbey and served as its first abbot. Bishop of Limoges, France.

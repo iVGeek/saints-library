@@ -14,6 +14,7 @@ born: '1607'
 birthPlace: Orleans
 centuries:
   - 17
+region: France
 feastDay:
   month: 10
   day: 18

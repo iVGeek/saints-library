@@ -14,6 +14,7 @@ born: '1610'
 birthPlace: Paris
 centuries:
   - 17
+region: France
 feastDay:
   month: 3
   day: 17

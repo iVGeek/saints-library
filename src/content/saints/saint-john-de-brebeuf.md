@@ -16,6 +16,7 @@ born: '1593'
 birthPlace: Normandy
 centuries:
   - 16
+region: France
 feastDay:
   month: 3
   day: 16

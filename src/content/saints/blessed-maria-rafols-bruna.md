@@ -1,25 +1,27 @@
 ---
 name: Blessed María Rafols-Bruna
-stub: false
-honorific: Blessed
-summary: >-
-  Born to a working class family. After completing her education at a boarding school in Barcelona, Spain, she joined a
-  group of twelve young women under the direction of Father Juan Bonal, who administered Our Lady of Grace Hospital in
-  Zaragoza, Spain. The small community was dedi
-image: https://catholicsaints.info/wp-content/uploads/img-Blessed-María-Rafols-Bruna.jpg
-deathYear: 1853
-died: 30 August 1853 in Zaragoza, Spain of natural causes
-deathPlace: Spaof natural causes
-region: Spain
-feastDay:
-  month: 8
-  day: 30
-canonizationStatus: Blessed
-vocation:
-  - Priest
-  - Religious
-martyr: false
+stub: false
+honorific: Blessed
+summary: >-
+  Born to a working class family. After completing her education at a boarding school in Barcelona, Spain, she joined a
+  group of twelve young women under the direction of Father Juan Bonal, who administered Our Lady of Grace Hospital in
+  Zaragoza, Spain. The small community was dedi
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-María-Rafols-Bruna.jpg
+deathYear: 1853
+died: 30 August 1853 in Zaragoza, Spain of natural causes
+deathPlace: Spaof natural causes
+region: Spain
+feastDay:
+  month: 8
+  day: 30
+canonizationStatus: Blessed
+vocation:
+  - Priest
+  - Religious
+martyr: false
 prayers: []
+sources:
+  - 'Wikipedia, "María Rafols Bruna", https://en.wikipedia.org/wiki/Mar%C3%ADa_Rafols_Bruna (CC BY-SA 4.0)'
 ---
 
 Born to a working class family. After completing her education at a boarding school in Barcelona, Spain, she joined a group of twelve young women under the direction of Father Juan Bonal, who administered Our Lady of Grace Hospital in Zaragoza, Spain. The small community was dedicated to serving the most helpless: the sick, the mentally ill, abandoned children, and the disabled, and became the Sisters of Charity of Saint Anne.

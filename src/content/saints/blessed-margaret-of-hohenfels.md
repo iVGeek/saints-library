@@ -10,6 +10,7 @@ searchAliases:
   - Marguerite
 deathYear: 1150
 died: c.1150
+region: Germany
 feastDay:
   month: 12
   day: 26

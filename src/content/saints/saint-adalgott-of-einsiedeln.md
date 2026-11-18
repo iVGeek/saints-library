@@ -7,6 +7,7 @@ searchAliases:
   - Adalgott of Dissentis
 deathYear: 1031
 died: '1031'
+region: Switzerland
 feastDay:
   month: 10
   day: 26

@@ -11,6 +11,7 @@ searchAliases:
   - Habrilia
 deathYear: 1100
 died: c.1100
+region: Austria
 feastDay:
   month: 1
   day: 30

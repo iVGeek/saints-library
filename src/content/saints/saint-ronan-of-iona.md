@@ -8,6 +8,7 @@ summary: >-
   Confessor of the faith.
 deathYear: 660
 died: c.660 of natural causes
+region: Scotland
 feastDay:
   month: 8
   day: 18

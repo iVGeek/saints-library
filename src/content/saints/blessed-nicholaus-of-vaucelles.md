@@ -6,6 +6,7 @@ honorific: Blessed
 summary: One of the first members of the Cistercians. Monk. Abbot of the Vaucelles abbey.
 deathYear: 1163
 died: c.1163
+region: France
 feastDay:
   month: 5
   day: 31

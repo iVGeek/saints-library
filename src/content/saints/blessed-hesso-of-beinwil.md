@@ -12,6 +12,7 @@ searchAliases:
   - Hesson
 deathYear: 1133
 died: 1133 of natural causes
+region: Switzerland
 feastDay:
   month: 12
   day: 27

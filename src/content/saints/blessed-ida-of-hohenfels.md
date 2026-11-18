@@ -6,6 +6,7 @@ honorific: Blessed
 summary: Married to Eberhard, Count of Spanheim. Widow. Benedictine nun at Bingen.
 deathYear: 1195
 died: c.1195 of natural causes
+region: Germany
 feastDay:
   month: 2
   day: 24

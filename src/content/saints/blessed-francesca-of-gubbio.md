@@ -5,6 +5,7 @@ name: Blessed Francesca of Gubbio
 stub: true
 honorific: Blessed
 summary: Franciscan tertiary.
+region: Italy
 feastDay:
   month: 2
   day: 6

@@ -5,6 +5,7 @@ honorific: Saint
 summary: Abbot of Monte Cassino when the invading Lombards plundered and destroyed the monastery.
 deathYear: 582
 died: c.582
+region: Italy
 feastDay:
   month: 7
   day: 7

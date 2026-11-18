@@ -10,6 +10,7 @@ summary: >-
 deathYear: 1777
 born: Thessaly
 died: 1777 of natural causes
+region: Greece
 feastDay:
   month: 7
   day: 21

@@ -18,6 +18,9 @@ canonizationStatus: Saint
 vocation:
   - Religious
 martyr: false
+patronage:
+  - Kil-Faile, County Galway, Ireland
+  - Kilgolgan, County Galway, Ireland
 prayers: []
 ---
 

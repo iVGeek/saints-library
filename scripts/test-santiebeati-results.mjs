@@ -1,5 +1,5 @@
 import fs from 'node:fs';
-const UA = 'CommunionOfSaintsBot/1.0 (educational; https://saints-library.onrender.com)';
+const UA = 'CommunionOfSaintsBot/1.0 (educational)';
 
 const res = await fetch('https://www.santiebeati.it/santi_search.php?query=Victor', {
   headers: { 'User-Agent': UA }

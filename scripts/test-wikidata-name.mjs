@@ -1,4 +1,4 @@
-const UA = 'CommunionOfSaintsBot/1.0 (educational; https://saints-library.onrender.com)';
+const UA = 'CommunionOfSaintsBot/1.0 (educational)';
 
 // Test with different name variations
 const tests = [

@@ -1,4 +1,4 @@
-const UA = 'CommunionOfSaintsBot/1.0 (educational; https://saints-library.onrender.com)';
+const UA = 'CommunionOfSaintsBot/1.0 (educational)';
 
 async function search() {
   const cs = await fetch('https://catholicsaints.info/?s=Radiouski', { headers: { 'User-Agent': UA } });

@@ -1,6 +1,6 @@
 import fs from 'node:fs';
 
-const UA = 'CommunionOfSaintsBot/1.0 (educational; https://saints-library.onrender.com)';
+const UA = 'CommunionOfSaintsBot/1.0 (educational)';
 const CACHE = 'C:\\iVGeek\\communion-of-saints\\scripts\\nominis-days.json';
 
 function pad(n) { return String(n).padStart(2, '0'); }

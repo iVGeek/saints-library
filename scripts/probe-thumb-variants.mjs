@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 const progress = JSON.parse(fs.readFileSync('C:\\iVGeek\\communion-of-saints\\scripts\\santiebeati-progress.json', 'utf8'));
 const matches = JSON.parse(fs.readFileSync('C:\\iVGeek\\communion-of-saints\\scripts\\santiebeati-matches.json', 'utf8'));
-const UA = 'CommunionOfSaintsBot/1.0 (educational; https://saints-library.onrender.com)';
+const UA = 'CommunionOfSaintsBot/1.0 (educational)';
 
 const gone = new Set(progress.gone);
 const failed = matches.filter(m => gone.has(m.file)).slice(0, 10);

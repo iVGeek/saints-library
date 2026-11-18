@@ -10,7 +10,7 @@ import path from 'node:path';
  */
 
 const UA =
-  'CommunionOfSaintsBot/1.0 (educational; https://saints-library.onrender.com)';
+  'CommunionOfSaintsBot/1.0 (educational)';
 const BASE = 'https://www.newadvent.org/cathen';
 const OUT = path.join(process.cwd(), 'scripts', 'cathen-index.json');
 

@@ -1,4 +1,4 @@
-const UA = 'CommunionOfSaintsBot/1.0 (educational; https://saints-library.onrender.com)';
+const UA = 'CommunionOfSaintsBot/1.0 (educational)';
 const saints = ['Blessed Abrahamus of Pratea', 'Blessed Abundus of Villers', 'Alessandro Dordi'];
 
 for (const name of saints) {

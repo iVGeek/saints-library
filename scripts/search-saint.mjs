@@ -1,4 +1,4 @@
-const UA = 'CommunionOfSaintsBot/1.0 (educational; https://saints-library.onrender.com)';
+const UA = 'CommunionOfSaintsBot/1.0 (educational)';
 
 async function search() {
   const search = await fetch('https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=Premonstratensian+martyr+Wroclaw&format=json&srlimit=5', { headers: { 'User-Agent': UA } });

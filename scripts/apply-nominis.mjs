@@ -1,6 +1,6 @@
 import fs from 'node:fs';
 
-const UA = 'CommunionOfSaintsBot/1.0 (educational; https://saints-library.onrender.com)';
+const UA = 'CommunionOfSaintsBot/1.0 (educational)';
 const MATCHES = JSON.parse(fs.readFileSync('C:\\iVGeek\\communion-of-saints\\scripts\\nominis-matches.json', 'utf8'));
 const SAINTS_DIR = 'C:\\iVGeek\\communion-of-saints\\src\\content\\saints';
 const PROGRESS = 'C:\\iVGeek\\communion-of-saints\\scripts\\nominis-progress2.json';

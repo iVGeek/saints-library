@@ -1,4 +1,4 @@
-const UA = 'CommunionOfSaintsBot/1.0 (educational; https://saints-library.onrender.com)';
+const UA = 'CommunionOfSaintsBot/1.0 (educational)';
 
 async function search() {
   const url = 'https://catholicsaints.info/blessed-adalbert-radiouski/';

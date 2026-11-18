@@ -3,7 +3,7 @@ import path from 'node:path';
 import * as yaml from 'js-yaml';
 
 const SAINTS_DIR = 'C:\\iVGeek\\communion-of-saints\\src\\content\\saints';
-const UA = 'CommunionOfSaintsBot/1.0 (educational; https://saints-library.onrender.com)';
+const UA = 'CommunionOfSaintsBot/1.0 (educational)';
 
 function parseFrontmatter(content) {
   const match = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);

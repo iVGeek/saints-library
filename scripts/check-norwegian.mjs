@@ -1,4 +1,4 @@
-const UA = 'CommunionOfSaintsBot/1.0 (educational; https://saints-library.onrender.com)';
+const UA = 'CommunionOfSaintsBot/1.0 (educational)';
 
 async function search() {
   const res = await fetch('http://www.katolsk.no/biografier/historisk/adalradi', { headers: { 'User-Agent': UA } });

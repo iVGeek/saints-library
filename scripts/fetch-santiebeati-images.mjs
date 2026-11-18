@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import * as yaml from 'js-yaml';
 
-const UA = 'CommunionOfSaintsBot/1.0 (educational; https://saints-library.onrender.com)';
+const UA = 'CommunionOfSaintsBot/1.0 (educational)';
 const INDEX_CACHE = 'C:\\iVGeek\\communion-of-saints\\scripts\\santiebeati-dates.json';
 const MATCH_LOG = 'C:\\iVGeek\\communion-of-saints\\scripts\\santiebeati-matches.json';
 const PROGRESS = 'C:\\iVGeek\\communion-of-saints\\scripts\\santiebeati-progress.json';

@@ -4,9 +4,9 @@ import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
 
 // The site is a fully static build. It can be deployed to any static host
-// (Netlify, Vercel, Cloudflare Pages, GitHub Pages, etc.).
+// (Netlify, Vercel, Cloudflare Pages, GitHub Pages, AWS Amplify, S3 + CloudFront, etc.).
 export default defineConfig({
-  site: 'https://saints-library.onrender.com',
+  site: process.env.SITE_URL || 'https://example.com',
   output: 'static',
   compressHTML: true,
   build: { inlineStylesheets: 'auto' },

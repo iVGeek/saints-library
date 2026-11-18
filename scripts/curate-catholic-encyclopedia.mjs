@@ -19,7 +19,7 @@ import * as yaml from 'js-yaml';
  */
 
 const UA =
-  'CommunionOfSaintsBot/1.0 (educational; https://saints-library.onrender.com)';
+  'CommunionOfSaintsBot/1.0 (educational)';
 const ROOT = process.cwd();
 const CONTENT = path.join(ROOT, 'src', 'content', 'saints');
 const CACHE = path.join(ROOT, '.cache', 'cathen');

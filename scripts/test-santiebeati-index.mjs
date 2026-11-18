@@ -1,5 +1,5 @@
 import fs from 'node:fs';
-const UA = 'CommunionOfSaintsBot/1.0 (educational; https://saints-library.onrender.com)';
+const UA = 'CommunionOfSaintsBot/1.0 (educational)';
 
 async function probe(url, name) {
   try {

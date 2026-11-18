@@ -4,7 +4,7 @@ import * as yaml from 'js-yaml';
 
 const SAINTS_DIR = 'C:\\iVGeek\\communion-of-saints\\src\\content\\saints';
 const PROGRESS_PATH = 'C:\\iVGeek\\communion-of-saints\\scripts\\fetch-progress-v5.json';
-const UA = 'CommunionOfSaintsBot/1.0 (educational; https://saints-library.onrender.com)';
+const UA = 'CommunionOfSaintsBot/1.0 (educational)';
 
 const FLICKR_KEY = process.env.FLICKR_API_KEY || '';
 const GOOGLE_KEY = process.env.GOOGLE_API_KEY || '';

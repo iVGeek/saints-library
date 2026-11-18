@@ -25,6 +25,9 @@ vocation:
   - Monk
 religiousOrder: Franciscan
 martyr: false
+patronage:
+  - alcoholics
+  - addicts
 prayers: []
 ---
 

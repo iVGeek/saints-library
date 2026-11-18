@@ -15,6 +15,9 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+patronage:
+  - churches in Wales
+  - churches in Brittany
 prayers: []
 ---
 

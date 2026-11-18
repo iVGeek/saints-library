@@ -16,6 +16,9 @@ vocation:
   - Virgin
   - Monk
 martyr: false
+patronage:
+  - church in Ciwyd, Wales
+  - healing well in Ciwyd, Wales
 prayers: []
 ---
 

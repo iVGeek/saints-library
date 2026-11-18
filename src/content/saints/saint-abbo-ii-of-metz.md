@@ -1,6 +1,6 @@
 ---
 name: Saint Abbo II of Metz
-stub: true
+stub: false
 honorific: Saint
 summary: Bishop of Metz, France from 697 to 707.
 searchAliases:
@@ -23,6 +23,10 @@ imageAlt: Portrait of Saint Abbo II of Metz
 imageCredit: "<cite class=\"book\" style=\"font-style:normal\">(1978) <i> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.worldcat.org/title/early-russian-icon-painting/oclc/806991446?referer=di&amp;ht=edition&amp;fbclid=IwAR2wIjUTbvqjjFN-rV7282pqu9Zsk5kfuHIeZa7R44R7UEe1PNyTkq1It08\">Early russian icon painting</a></i>, <a href=\"https://en.wikipedia.org/wiki/en:Moscow\" class=\"extiw\" title=\"w:en:Moscow\"><span title=\"capital and most populous city of Russia\">Moscow</span></a>:  Moscow Iskusstvo, pp.\_186, 310  <small><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/OCLC\" class=\"extiw\" title=\"en:OCLC\"><span lang=\"en\" dir=\"ltr\">OCLC</span></a></span>:   <a rel=\"nofollow\" class=\"external text\" href=\"https://www.worldcat.org/oclc/806991446\">806991446</a>. </small></cite>"
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Saint%20George%20Standing.jpg
 prayers: []
+sources:
+  - 'Wikipedia, "Abbo II of Metz", https://en.wikipedia.org/wiki/Abbo_II_of_Metz (CC BY-SA 4.0)'
 ---
 
-Bishop of Metz, France from 697 to 707.
+> Abbo II of Metz was the thirty-fifth bishop of the Diocese of Metz, following Landry of Metz. He is commemorated with a feast day of 15 April. Abbo served as bishop from 697–707.
+
+*Source: [Wikipedia, "Abbo II of Metz"](https://en.wikipedia.org/wiki/Abbo_II_of_Metz), CC BY-SA 4.0.*

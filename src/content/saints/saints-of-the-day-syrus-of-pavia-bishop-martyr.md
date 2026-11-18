@@ -17,6 +17,8 @@ vocation:
   - Deacon
 religiousOrder: Benedictine
 martyr: false
+patronage:
+  - Pavia, Italy
 prayers: []
 ---
 

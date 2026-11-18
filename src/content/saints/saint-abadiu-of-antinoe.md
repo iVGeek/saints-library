@@ -1,9 +1,9 @@
 ---
 name: Saint Abadiu of Antinoë
-stub: true
+stub: false
 honorific: Saint
 summary: Bishop of Antinoë. Martyred by Arians.
-region: England
+region: Egypt
 feastDay:
   month: 12
   day: 26
@@ -17,6 +17,10 @@ image: >-
 imageAlt: Portrait of Saint Abadiu of Antinoë
 imageCreditUrl: https://en.wikipedia.org/wiki/Michael%20(archangel)
 prayers: []
+sources:
+  - 'Wikipedia, "Abadiu of Antinoe", https://en.wikipedia.org/wiki/Abadiu_of_Antinoe (CC BY-SA 4.0)'
 ---
 
-Bishop of Antinoë. Martyred by Arians.
+> Abadiu of Antinoe was a bishop of Antinoe (part of modern-day Egypt) in the Fourth Century. He is commemorated as a saint in the Coptic Orthodox Church, and is said to have been killed in a theological dispute with the Arians. His feast day is 26 December. He is referenced in Les Martyrs d'Égypte by Hippolyte Delehaye.
+
+*Source: [Wikipedia, "Abadiu of Antinoe"](https://en.wikipedia.org/wiki/Abadiu_of_Antinoe), CC BY-SA 4.0.*

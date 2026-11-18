@@ -18,6 +18,9 @@ canonizationStatus: Blessed
 vocation:
   - Cardinal
 martyr: true
+patronage:
+  - World Youth Day 2013
+  - Diocese of Frederico Westphalen
 prayers: []
 sources:
   - 'Wikipedia, "Adílio Daronch", https://en.wikipedia.org/wiki/Ad%C3%ADlio_Daronch (CC BY-SA 4.0)'

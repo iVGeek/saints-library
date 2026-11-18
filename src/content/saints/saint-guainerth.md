@@ -14,6 +14,8 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+patronage:
+  - chapel in Herefordshire, England
 prayers: []
 ---
 

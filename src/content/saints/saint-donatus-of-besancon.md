@@ -1,27 +1,29 @@
 ---
 name: Saint Donatus of Besancon
-stub: false
-honorific: Saint
-summary: >-
-  Benedictine monk at Luxeuil, France. Bishop of Besancon, France in 624. Noted monastic reformer. Founded Saint Paul
-  abbey at Besancon. Wrote a Rule for Virgins that combines elements of the Benedictine and Columban Rules.
-image: https://catholicsaints.info/wp-content/uploads/img-Saint-Donatus-of-Besancon.jpg
-searchAliases:
-  - Donato
-deathYear: 660
-died: c.660 of natural causes
-region: France
-feastDay:
-  month: 8
-  day: 7
-canonizationStatus: Saint
-vocation:
-  - Virgin
-  - Bishop
-  - Monk
-religiousOrder: Benedictine
-martyr: false
+stub: false
+honorific: Saint
+summary: >-
+  Benedictine monk at Luxeuil, France. Bishop of Besancon, France in 624. Noted monastic reformer. Founded Saint Paul
+  abbey at Besancon. Wrote a Rule for Virgins that combines elements of the Benedictine and Columban Rules.
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Donatus-of-Besancon.jpg
+searchAliases:
+  - Donato
+deathYear: 660
+died: c.660 of natural causes
+region: France
+feastDay:
+  month: 8
+  day: 7
+canonizationStatus: Saint
+vocation:
+  - Virgin
+  - Bishop
+  - Monk
+religiousOrder: Benedictine
+martyr: false
 prayers: []
+sources:
+  - 'Wikipedia, "Donatus of Besançon", https://en.wikipedia.org/wiki/Donatus_of_Besan%C3%A7on (CC BY-SA 4.0)'
 ---
 
 Benedictine monk at Luxeuil, France. Bishop of Besancon, France in 624. Noted monastic reformer. Founded Saint Paul abbey at Besancon. Wrote a Rule for Virgins that combines elements of the Benedictine and Columban Rules.

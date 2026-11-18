@@ -1,6 +1,6 @@
 ---
 name: Saint Severus of Ravenna
-stub: true
+stub: false
 honorific: Saint
 summary: Bishop of Ravenna, Italy in 283. Attended the Council of Sardica in 344.
 image: >-
@@ -23,6 +23,10 @@ patronage:
   - weavers
 martyr: false
 prayers: []
+sources:
+  - 'Wikipedia, "Severus of Ravenna", https://en.wikipedia.org/wiki/Severus_of_Ravenna (CC BY-SA 4.0)'
 ---
 
-Bishop of Ravenna, Italy in 283. Attended the Council of Sardica in 344.
+> Saint Severus of Ravenna was a 4th-century Bishop of Ravenna who attended the Council of Sardica in 343. He was ordained as a bishop due to his personal virtue and because of "the sign of a dove". He is commemorated on February 1.
+
+*Source: [Wikipedia, "Severus of Ravenna"](https://en.wikipedia.org/wiki/Severus_of_Ravenna), CC BY-SA 4.0.*

@@ -1,6 +1,6 @@
 ---
 name: Saint Andrew of Trier
-stub: true
+stub: false
 honorific: Saint
 summary: Bishop of Trier, Germany. Martyr.
 deathYear: 235
@@ -16,6 +16,10 @@ vocation:
   - Bishop
 martyr: true
 prayers: []
+sources:
+  - 'Wikipedia, "Andrew of Trier", https://en.wikipedia.org/wiki/Andrew_of_Trier (CC BY-SA 4.0)'
 ---
 
-Bishop of Trier, Germany. Martyr.
+> Andrew of Trier is recorded as the twelfth Bishop of Trier. He is a pre-congregational saint, sometimes listed as a martyr. Very little is known of his life, but he is one of a number of bishops of Trier from the time. He is considered a saint and is venerated in Trier with a feast day on 13 January.
+
+*Source: [Wikipedia, "Andrew of Trier"](https://en.wikipedia.org/wiki/Andrew_of_Trier), CC BY-SA 4.0.*

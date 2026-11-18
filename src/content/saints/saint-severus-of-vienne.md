@@ -1,6 +1,6 @@
 ---
 name: Saint Severus of Vienne
-stub: true
+stub: false
 honorific: Saint
 summary: Priest. Missionary to the area of Vienne, France.
 deathYear: 455
@@ -18,6 +18,10 @@ vocation:
   - Missionary
 martyr: false
 prayers: []
+sources:
+  - 'Wikipedia, "Severus of Vienne", https://en.wikipedia.org/wiki/Severus_of_Vienne (CC BY-SA 4.0)'
 ---
 
-Priest. Missionary to the area of Vienne, France.
+> Severus of Vienne (died c. 455) was a priest who evangelised in Vienne, France. He is venerated as a saint in the Catholic Church as well as in other denominations. Severus was reportedly Indian by birth and of wealthy origins. His entry in the Roman Martyrology reads: "At Vienne, in France, St. Severus, priest and confessor, who undertook a painful journey from India in order to preach the Gospel in that city, and converted a great number of Pagans to the faith of Christ by his labors and miracles." Severus settled in Vienne around 430. He founded a church in honour of Saint Alban (now the church of Saint-Alban-du-Rhône) near Vienne. He died in Italy, but his body was brought back to Vienne and buried in the church dedicated to the protomartyr Saint Stephen, which he himself had constructed.
+
+*Source: [Wikipedia, "Severus of Vienne"](https://en.wikipedia.org/wiki/Severus_of_Vienne), CC BY-SA 4.0.*

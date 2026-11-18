@@ -15,6 +15,7 @@ searchAliases:
 deathYear: 1553
 born: late 15th century
 died: 19 December 1553 of natural causes
+region: France
 feastDay:
   month: 12
   day: 19

@@ -6,6 +6,7 @@ honorific: Saint
 summary: Twin brother of Saint Benignus. Monk at Moyenmoutier. Spiritual student of Saint Hidulphus.
 deathYear: 707
 died: 707 of natural causes
+region: France
 feastDay:
   month: 7
   day: 21

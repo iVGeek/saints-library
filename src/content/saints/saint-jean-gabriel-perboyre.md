@@ -14,6 +14,7 @@ born: '1802'
 birthPlace: Le Puech
 centuries:
   - 19
+region: France
 feastDay:
   month: 9
   day: 11

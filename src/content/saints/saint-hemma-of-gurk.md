@@ -1,35 +1,37 @@
 ---
-name: Saint Hemma of Gurk
-stub: false
-honorific: Saint
-summary: ' Married to Blessed William of Sann in the diocese of Gurk, Austria; it was arranged marriage, but a very Born to the nobility, and a relative of emperor Saint Henry II; Countess of Zeltschach. Educated at the court of Henry II where she was a lady-in-waiting to Saint Cunegundes.'
-image: >-
-  https://commons.wikimedia.org/wiki/Special:FilePath/Retrato_de_una_dama_con_la_Orden_del_Cisne%252C_an%25C3%25B3nimo_alem%25C3%25A1n.jpg?width=600
-searchAliases:
-  - Emma
-  - Gemma
-birthYear: 980
-deathYear: 1045
-born: c.980 in Friesach, Kärnten, Austria
-died: 29 June 1045 in Gurk, Kärnten, Austria of natural causes
-birthPlace: Kärnten, Austria
-deathPlace: Kärnten, Austrianatural causes
-region: Austria
-feastDay:
-  month: 6
-  day: 29
-canonizationStatus: Saint
-vocation:
-  - Confessor
-religiousOrder: Benedictine
-patronage:
-  - against eye problems
-  - from disease
-  - for a happy birth
-  - Carinthia, Austria
-  - Gurk, Austria, diocese of
-martyr: false
+name: Saint Hemma of Gurk
+stub: false
+honorific: Saint
+summary: ' Married to Blessed William of Sann in the diocese of Gurk, Austria; it was arranged marriage, but a very Born to the nobility, and a relative of emperor Saint Henry II; Countess of Zeltschach. Educated at the court of Henry II where she was a lady-in-waiting to Saint Cunegundes.'
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Retrato_de_una_dama_con_la_Orden_del_Cisne%252C_an%25C3%25B3nimo_alem%25C3%25A1n.jpg?width=600
+searchAliases:
+  - Emma
+  - Gemma
+birthYear: 980
+deathYear: 1045
+born: c.980 in Friesach, Kärnten, Austria
+died: 29 June 1045 in Gurk, Kärnten, Austria of natural causes
+birthPlace: Kärnten, Austria
+deathPlace: Kärnten, Austrianatural causes
+region: Austria
+feastDay:
+  month: 6
+  day: 29
+canonizationStatus: Saint
+vocation:
+  - Confessor
+religiousOrder: Benedictine
+patronage:
+  - against eye problems
+  - from disease
+  - for a happy birth
+  - Carinthia, Austria
+  - Gurk, Austria, diocese of
+martyr: false
 prayers: []
+sources:
+  - 'Wikipedia, "Hemma of Gurk", https://en.wikipedia.org/wiki/Hemma_of_Gurk (CC BY-SA 4.0)'
 ---
 
 Born to the nobility, and a relative of emperor Saint Henry II; Countess of Zeltschach. Educated at the court of Henry II where she was a lady-in-waiting to Saint Cunegundes.

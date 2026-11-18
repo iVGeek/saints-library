@@ -6,7 +6,7 @@ import sitemap from '@astrojs/sitemap';
 // The site is a fully static build. It can be deployed to any static host
 // (Netlify, Vercel, Cloudflare Pages, GitHub Pages, AWS Amplify, S3 + CloudFront, etc.).
 export default defineConfig({
-  site: process.env.SITE_URL || 'https://example.com',
+  site: process.env.SITE_URL || 'https://main.d3u8wajpj8xb58.amplifyapp.com',
   output: 'static',
   compressHTML: true,
   build: { inlineStylesheets: 'auto' },

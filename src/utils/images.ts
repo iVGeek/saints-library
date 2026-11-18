@@ -21,6 +21,7 @@ export function imageSrc(src: string | undefined, width = 900): string | null {
     } catch {}
     return out;
   }
+  if (src.startsWith('/')) return src;
   const name = src.replace(/^File:/, '').replace(/ /g, '_');
   return `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(name)}?width=${width}`;
 }

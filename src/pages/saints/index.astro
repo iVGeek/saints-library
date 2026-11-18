@@ -6,8 +6,6 @@ import { getCollection } from 'astro:content';
 import { MONTHS } from '../../data/calendar';
 import { PATRONAGE_CATEGORIES } from '../../data/patronage';
 import { VOCATIONS, REGIONS, RELIGIOUS_ORDERS, CANONIZATION_STATUSES, centuryLabel } from '../../data/facets';
-import { imageSrc } from '../../utils/images';
-
 const saints = await getCollection('saints');
 const all = [...saints].sort((a, b) => a.data.name.localeCompare(b.data.name));
 
@@ -23,26 +21,8 @@ const orders = Array.from(new Set([...RELIGIOUS_ORDERS, ...ordersUsed])).sort((a
 const patronageOptions = PATRONAGE_CATEGORIES.filter((c) => patronagesUsed.includes(c.key));
 const statuses = CANONIZATION_STATUSES;
 
-const saintsJSON = JSON.stringify(all.map((s) => ({
-  n: s.data.name,
-  s: s.id.replace(/\.md$/, ''),
-  i: imageSrc(s.data.image, 600) ?? '',
-  t: s.data.title ?? '',
-  m: s.data.feastDay.month,
-  d: s.data.feastDay.day,
-  p: s.data.patronage,
-  v: s.data.vocation,
-  r: s.data.region ?? '',
-  c: s.data.centuries,
-  o: (s.data.religiousOrder ?? '').toLowerCase(),
-  st: s.data.canonizationStatus,
-  mr: s.data.martyr,
-  sy: s.data.symbols[0] ?? '',
-  stb: s.data.stub,
-  hs: s.data.sources.length > 0 ? 1 : 0,
-  sh: [s.data.name, ...s.data.searchAliases, ...s.data.patronage, ...s.data.causes, s.data.summary ?? ''].join(' ').toLowerCase(),
-})));
 ---
+
 
 <BaseLayout
   title="Directory of Saints"
@@ -269,5 +249,4 @@ const saintsJSON = JSON.stringify(all.map((s) => ({
   </div>
 </BaseLayout>
 
-<script type="application/json" id="saints-data" is:inline set:html={saintsJSON} />
 <script is:inline src="/directory-app.js"></script>

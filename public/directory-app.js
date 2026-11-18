@@ -1,10 +1,8 @@
 (function () {
   var MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
   var PAGE_SIZE = 50;
-  var dataEl = document.getElementById('saints-data');
-  if (!dataEl) return;
-  var saints = JSON.parse(dataEl.textContent);
   var grid = document.getElementById('saint-grid');
+  if (!grid) return;
   var search = document.getElementById('dir-search');
   var sortEl = document.getElementById('dir-sort');
   var countEl = document.getElementById('result-count');
@@ -19,6 +17,8 @@
   var hideStubsEl = document.getElementById('hide-stubs');
   var sourcedOnlyEl = document.getElementById('sourced-only');
 
+  var saints = [];
+  var loaded = false;
   var filters = {};
   var hideStubs = false;
   var sourcedOnly = false;
@@ -42,7 +42,7 @@
       if (filters[group].size === 0) delete filters[group];
       currentPage = 1;
       syncURL();
-      applyFilters();
+      if (loaded) applyFilters();
     });
   });
 
@@ -51,7 +51,7 @@
     for (var group in filters) {
       filters[group].forEach(function (v) { params.append(group, v); });
     }
-    if (search.value.trim()) params.set('q', search.value.trim());
+    if (search && search.value.trim()) params.set('q', search.value.trim());
     if (hideStubs) params.set('stubs', 'hide');
     if (sourcedOnly) params.set('sourced', '1');
     if (currentPage > 1) params.set('page', String(currentPage));
@@ -73,12 +73,12 @@
       }
     });
     var q = params.get('q');
-    if (q) {
+    if (q && search) {
       search.value = q;
       filters['_search'] = new Set([q.toLowerCase()]);
     }
     if (params.has('page')) currentPage = Math.max(1, parseInt(params.get('page') || '1', 10));
-    if (params.has('sort')) sortEl.value = params.get('sort');
+    if (params.has('sort') && sortEl) sortEl.value = params.get('sort');
     if (params.get('stubs') === 'hide') {
       hideStubs = true;
       if (hideStubsEl) hideStubsEl.checked = true;
@@ -142,7 +142,9 @@
 
   function imageSrc(src) {
     if (!src) return '';
+    if (src === '/placeholder-saint.svg' || src === '/placeholder.svg') return '';
     if (/^https?:\/\//i.test(src)) return src;
+    if (src.charAt(0) === '/') return src;
     var name = src.replace(/^File:/, '').replace(/ /g, '_');
     return 'https://commons.wikimedia.org/wiki/Special:FilePath/' + encodeURIComponent(name) + '?width=600';
   }
@@ -173,7 +175,7 @@
 
   function renderCard(s) {
     var img = imageSrc(s.i);
-    var patronage = s.p;
+    var patronage = s.p || [];
     var html = '<a href="/saints/' + s.s + '" class="card-glow group flex flex-col overflow-hidden">' +
       '<div class="arch-frame m-3 aspect-[4/4.6] overflow-hidden">';
     if (img) {
@@ -205,13 +207,14 @@
   }
 
   function applyFilters() {
+    if (!loaded) return;
     visibleItems = saints.filter(matchItem);
 
-    var sortMode = sortEl.value;
+    var sortMode = sortEl ? sortEl.value : 'name';
     if (sortMode === 'feast') {
       visibleItems.sort(function (a, b) { return (String(a.m).padStart(2,'0') + '-' + String(a.d).padStart(2,'0')).localeCompare(String(b.m).padStart(2,'0') + '-' + String(b.d).padStart(2,'0')); });
     } else {
-      visibleItems.sort(function (a, b) { return a.sh.localeCompare(b.sh); });
+      visibleItems.sort(function (a, b) { return a.n.localeCompare(b.n); });
     }
 
     var totalPages = Math.max(1, Math.ceil(visibleItems.length / PAGE_SIZE));
@@ -224,41 +227,51 @@
       return '<div class="saint-item">' + renderCard(s) + '</div>';
     }).join('');
 
-    countEl.textContent = 'Showing ' + (start + 1) + '\u2013' + Math.min(end, visibleItems.length) + ' of ' + visibleItems.length + ' saints';
-    emptyState.hidden = visibleItems.length !== 0;
+    if (countEl) {
+      if (visibleItems.length === 0) countEl.textContent = 'Showing 0 of 0 saints';
+      else countEl.textContent = 'Showing ' + (start + 1) + '\u2013' + Math.min(end, visibleItems.length) + ' of ' + visibleItems.length + ' saints';
+    }
+    if (emptyState) emptyState.hidden = visibleItems.length !== 0;
 
-    activeEl.innerHTML = '';
-    var total = 0;
-    for (var gg in filters) total += filters[gg].size;
-    filterCount.textContent = total > 0 ? String(total) : '';
-    filterCount.classList.toggle('hidden', total === 0);
+    if (activeEl) {
+      activeEl.innerHTML = '';
+      var total = 0;
+      for (var gg in filters) total += filters[gg].size;
+      if (filterCount) {
+        filterCount.textContent = total > 0 ? String(total) : '';
+        filterCount.classList.toggle('hidden', total === 0);
+      }
 
-    for (var group in filters) {
-      filters[group].forEach(function (v) {
-        var chip = document.createElement('button');
-        chip.type = 'button';
-        chip.className = 'chip chip-active';
-        chip.innerHTML = esc(v.replace(/-/g, ' ')) + ' <span aria-hidden="true">\u2715</span>';
-        chip.addEventListener('click', function () {
-          filters[group].delete(v);
-          if (filters[group].size === 0) delete filters[group];
-          if (group === '_search') { search.value = ''; }
-          else {
-            inputs.forEach(function (input) {
-              if (input.dataset.filter === group && input.value === v) input.checked = false;
+      for (var group in filters) {
+        (function (group) {
+          filters[group].forEach(function (v) {
+            var chip = document.createElement('button');
+            chip.type = 'button';
+            chip.className = 'chip chip-active';
+            chip.innerHTML = esc(v.replace(/-/g, ' ')) + ' <span aria-hidden="true">\u2715</span>';
+            chip.addEventListener('click', function () {
+              filters[group].delete(v);
+              if (filters[group].size === 0) delete filters[group];
+              if (group === '_search') { if (search) search.value = ''; }
+              else {
+                inputs.forEach(function (input) {
+                  if (input.dataset.filter === group && input.value === v) input.checked = false;
+                });
+              }
+              currentPage = 1;
+              syncURL();
+              applyFilters();
             });
-          }
-          currentPage = 1;
-          syncURL();
-          applyFilters();
-        });
-        activeEl.appendChild(chip);
-      });
+            activeEl.appendChild(chip);
+          });
+        })(group);
+      }
     }
     renderPagination(totalPages);
   }
 
   function renderPagination(totalPages) {
+    if (!paginationEl) return;
     paginationEl.innerHTML = '';
     if (totalPages <= 1) return;
     function addBtn(label, page, disabled, active) {
@@ -308,6 +321,7 @@
   var acDropdown = document.getElementById('ac-dropdown');
   var acHighlight = -1;
   function renderAutocomplete(q) {
+    if (!loaded || !acDropdown) { if (acDropdown) acDropdown.classList.add('hidden'); return; }
     if (!q || q.length < 2) { acDropdown.classList.add('hidden'); return; }
     var lq = q.toLowerCase();
     var matches = [];
@@ -329,58 +343,63 @@
     acHighlight = -1;
   }
 
-  search.addEventListener('input', function () {
-    var q = search.value.trim().toLowerCase();
-    renderAutocomplete(search.value.trim());
-    if (q) filters['_search'] = new Set([q]);
-    else delete filters['_search'];
-    currentPage = 1;
-    syncURL();
-    applyFilters();
-  });
+  if (search) {
+    search.addEventListener('input', function () {
+      var q = search.value.trim().toLowerCase();
+      renderAutocomplete(search.value.trim());
+      if (q) filters['_search'] = new Set([q]);
+      else delete filters['_search'];
+      currentPage = 1;
+      syncURL();
+      if (loaded) applyFilters();
+    });
 
-  search.addEventListener('keydown', function (e) {
-    var links = acDropdown.querySelectorAll('a[data-ac-idx]');
-    if (acDropdown.classList.contains('hidden') || links.length === 0) return;
-    if (e.key === 'ArrowDown') {
-      e.preventDefault();
-      acHighlight = Math.min(acHighlight + 1, links.length - 1);
-      links.forEach(function (l, i) { l.style.background = i === acHighlight ? 'rgba(180,140,60,0.1)' : ''; });
-      links[acHighlight].scrollIntoView({ block: 'nearest' });
-    } else if (e.key === 'ArrowUp') {
-      e.preventDefault();
-      acHighlight = Math.max(acHighlight - 1, 0);
-      links.forEach(function (l, i) { l.style.background = i === acHighlight ? 'rgba(180,140,60,0.1)' : ''; });
-      links[acHighlight].scrollIntoView({ block: 'nearest' });
-    } else if (e.key === 'Enter' && acHighlight >= 0) {
-      e.preventDefault();
-      links[acHighlight].click();
-    } else if (e.key === 'Escape') {
-      acDropdown.classList.add('hidden');
-    }
-  });
+    search.addEventListener('keydown', function (e) {
+      if (!acDropdown) return;
+      var links = acDropdown.querySelectorAll('a[data-ac-idx]');
+      if (acDropdown.classList.contains('hidden') || links.length === 0) return;
+      if (e.key === 'ArrowDown') {
+        e.preventDefault();
+        acHighlight = Math.min(acHighlight + 1, links.length - 1);
+        links.forEach(function (l, i) { l.style.background = i === acHighlight ? 'rgba(180,140,60,0.1)' : ''; });
+        links[acHighlight].scrollIntoView({ block: 'nearest' });
+      } else if (e.key === 'ArrowUp') {
+        e.preventDefault();
+        acHighlight = Math.max(acHighlight - 1, 0);
+        links.forEach(function (l, i) { l.style.background = i === acHighlight ? 'rgba(180,140,60,0.1)' : ''; });
+        links[acHighlight].scrollIntoView({ block: 'nearest' });
+      } else if (e.key === 'Enter' && acHighlight >= 0) {
+        e.preventDefault();
+        links[acHighlight].click();
+      } else if (e.key === 'Escape') {
+        acDropdown.classList.add('hidden');
+      }
+    });
+  }
 
   document.addEventListener('click', function (e) {
-    if (!e.target.closest('#ac-dropdown') && e.target !== search) acDropdown.classList.add('hidden');
+    if (acDropdown && !e.target.closest('#ac-dropdown') && e.target !== search) acDropdown.classList.add('hidden');
   });
-  sortEl.addEventListener('change', function () {
-    var params = new URLSearchParams(location.search);
-    params.set('sort', sortEl.value);
-    history.replaceState(null, '', location.pathname + '?' + params.toString());
-    applyFilters();
-  });
+  if (sortEl) {
+    sortEl.addEventListener('change', function () {
+      var params = new URLSearchParams(location.search);
+      params.set('sort', sortEl.value);
+      history.replaceState(null, '', location.pathname + '?' + params.toString());
+      if (loaded) applyFilters();
+    });
+  }
 
   function clearAllFilters() {
     for (var k in filters) delete filters[k];
     inputs.forEach(function (input) { input.checked = false; });
-    search.value = '';
+    if (search) search.value = '';
     hideStubs = false;
     sourcedOnly = false;
     if (hideStubsEl) hideStubsEl.checked = false;
     if (sourcedOnlyEl) sourcedOnlyEl.checked = false;
     currentPage = 1;
     syncURL();
-    applyFilters();
+    if (loaded) applyFilters();
   }
 
   if (filterToggle) filterToggle.addEventListener('click', function () {
@@ -395,7 +414,7 @@
       hideStubs = hideStubsEl.checked;
       currentPage = 1;
       syncURL();
-      applyFilters();
+      if (loaded) applyFilters();
     });
   }
   if (sourcedOnlyEl) {
@@ -403,9 +422,33 @@
       sourcedOnly = sourcedOnlyEl.checked;
       currentPage = 1;
       syncURL();
-      applyFilters();
+      if (loaded) applyFilters();
     });
   }
+
+  function showLoadError() {
+    if (countEl) countEl.textContent = 'Unable to load the directory. Please refresh and try again.';
+    grid.innerHTML = '';
+    if (emptyState) emptyState.hidden = true;
+    if (paginationEl) paginationEl.innerHTML = '';
+  }
+
   parseURL();
-  applyFilters();
+  if (countEl) countEl.textContent = 'Loading directory\u2026';
+  grid.innerHTML = '<div class="rounded-lg border border-gold-600/30 bg-ivory/70 p-8 text-center font-body text-ink-600">Loading saint profiles\u2026</div>';
+
+  fetch('/saints-index.json')
+    .then(function (res) {
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      return res.json();
+    })
+    .then(function (data) {
+      saints = Array.isArray(data) ? data : [];
+      loaded = true;
+      applyFilters();
+      if (search && search.value.trim()) renderAutocomplete(search.value.trim());
+    })
+    .catch(function () {
+      showLoadError();
+    });
 })();

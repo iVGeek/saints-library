@@ -248,7 +248,9 @@ const categories = [
       <SectionHeading
         label="The Church's year"
         title={`Saints of ${MONTHS[now.getMonth()]}`}
-        sub="Feast days in the month ahead, gathered from the General Roman Calendar and beyond."
+        sub={monthPreferred.length > 0
+          ? `Sourced feast-day profiles this month, with more commemorations in the full calendar.`
+          : `Feast days this month, gathered from the General Roman Calendar and beyond.`}
       />
       <div class="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
         {thisMonths.slice(0, 8).map((s, i) => (
@@ -295,16 +297,16 @@ const categories = [
         <SectionHeading
           label="Browse alphabetically"
           title="A door into the directory"
-          sub="Every profile includes biography, feast days, patronage, symbols, quotes, prayers, and sources."
+          sub="Profiles include biography, feast days, patronage, symbols, quotes, prayers, and references where verified sources are available."
         />
       </div>
       <div class="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
-        {all.slice(0, 8).map((s, i) => (
+        {(sourced.length >= 8 ? sourced : highlightPool).slice(0, 8).map((s, i) => (
           <SaintCard saint={s} index={i} />
         ))}
       </div>
       <div class="mt-10 text-center">
-        <a href="/saints" class="btn btn-gold">See all {all.length} saints</a>
+        <a href="/saints" class="btn btn-gold">Browse all {all.length} profiles</a>
       </div>
     </div>
   </section>

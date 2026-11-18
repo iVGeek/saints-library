@@ -1,6 +1,6 @@
 ---
 name: Saint Augulus
-stub: true
+stub: false
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Aule_Alm_4.jpg?width=600
 honorific: Saint
 summary: Bishop. Martyr.
@@ -22,6 +22,10 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+sources:
+  - 'Wikipedia, "Augulus", https://en.wikipedia.org/wiki/Augulus (CC BY-SA 4.0)'
 ---
 
-Bishop. Martyr.
+> Saint Augulus (or Augurius, Augustus, Aule, Ouil) was a 3rd or 4th century bishop and martyr in a town called Augusta in Britain, or perhaps in Normandy. He was possibly Irish in origin. Little is known about him, but his feast day is given as 7 February.
+
+*Source: [Wikipedia, "Augulus"](https://en.wikipedia.org/wiki/Augulus), CC BY-SA 4.0.*

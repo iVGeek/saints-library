@@ -1,22 +1,24 @@
 ---
-image: /og/saint-zoticus-of-comana.svg
-name: Saint Zoticus of Comana
-stub: false
-honorific: Saint
-summary: Bishop of Comana, Italy. Fought against the Montanist heresy. Martyred in the persecutions of Septimius Severus.
-deathYear: 204
-died: '204'
-region: Italy
-feastDay:
-  month: 7
-  day: 21
-canonizationStatus: Saint
-vocation:
-  - Bishop
-  - Priest
-  - Monk
-martyr: true
+image: /og/saint-zoticus-of-comana.svg
+name: Saint Zoticus of Comana
+stub: false
+honorific: Saint
+summary: Bishop of Comana, Italy. Fought against the Montanist heresy. Martyred in the persecutions of Septimius Severus.
+deathYear: 204
+died: '204'
+region: Italy
+feastDay:
+  month: 7
+  day: 21
+canonizationStatus: Saint
+vocation:
+  - Bishop
+  - Priest
+  - Monk
+martyr: true
 prayers: []
+sources:
+  - 'Wikipedia, "Zoticus of Comana", https://en.wikipedia.org/wiki/Zoticus_of_Comana (CC BY-SA 4.0)'
 ---
 
 Bishop of Comana, Italy. Fought against the Montanist heresy. Martyred in the persecutions of Septimius Severus.

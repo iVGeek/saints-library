@@ -1,32 +1,34 @@
 ---
 name: Venerable Felice Tantardini
-stub: false
-honorific: Venerable
-summary: >-
-  The sixth of eight children in his family. Brother in the Pontifical Institute for Foreign Missions, joining in 1921.
-  He worked in Burma (modern Myanmar), beginning in 1922 and serving for nearly 70 years. He travelled on horseback to
-  the missions in the mountains and jungles, pr
-image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Felice-Tantardini.jpg
-searchAliases:
-  - Blacksmith of God
-birthYear: 1898
-deathYear: 1991
-born: 28 June 1898 in Introbio, Como, Italy
-died: 23 March 1991 in Taunggyi, Shan, Myanmar of natural causes
-birthPlace: Como, Italy
-deathPlace: Shan, Myanmarnatural causes
-region: Japan
-feastDay:
-  month: 1
-  day: 1
-centuries:
-  - 19
-  - 20
-canonizationStatus: Venerable
-vocation:
-  - Missionary
-martyr: false
+stub: false
+honorific: Venerable
+summary: >-
+  The sixth of eight children in his family. Brother in the Pontifical Institute for Foreign Missions, joining in 1921.
+  He worked in Burma (modern Myanmar), beginning in 1922 and serving for nearly 70 years. He travelled on horseback to
+  the missions in the mountains and jungles, pr
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Felice-Tantardini.jpg
+searchAliases:
+  - Blacksmith of God
+birthYear: 1898
+deathYear: 1991
+born: 28 June 1898 in Introbio, Como, Italy
+died: 23 March 1991 in Taunggyi, Shan, Myanmar of natural causes
+birthPlace: Como, Italy
+deathPlace: Shan, Myanmarnatural causes
+region: Japan
+feastDay:
+  month: 1
+  day: 1
+centuries:
+  - 19
+  - 20
+canonizationStatus: Venerable
+vocation:
+  - Missionary
+martyr: false
 prayers: []
+sources:
+  - 'Wikipedia, "Felice Tantardini", https://en.wikipedia.org/wiki/Felice_Tantardini (CC BY-SA 4.0)'
 ---
 
 The sixth of eight children in his family. Brother in the Pontifical Institute for Foreign Missions, joining in 1921. He worked in Burma (modern Myanmar), beginning in 1922 and serving for nearly 70 years. He travelled on horseback to the missions in the mountains and jungles, preaching, teaching catechism, and working as a blacksmith, carpenter and electrician to help the locals. Worked with Blessed Clemente Vismara. Pipe smoker. He ministered to lepers, and was nearly killed several times when the Japanese bombed his area during World War II. At age 85, his superiors ordered him to slow down and scale back his work – so he travelled slower and spent less mission time working with his hands, more in leading rosaries.

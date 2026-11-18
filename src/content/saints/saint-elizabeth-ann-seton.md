@@ -16,6 +16,7 @@ birthYear: 1774
 born: '1774'
 centuries:
   - 18
+region: United States
 feastDay:
   month: 1
   day: 4

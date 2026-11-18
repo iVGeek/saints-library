@@ -16,6 +16,7 @@ born: '1850'
 birthPlace: Sant’Angelo Lodigiano
 centuries:
   - 19
+region: Italy
 feastDay:
   month: 12
   day: 22

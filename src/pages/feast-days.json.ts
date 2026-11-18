@@ -10,11 +10,11 @@ import { slug } from '../utils/slugs';
 export const GET: APIRoute = async () => {
   const saints = await getCollection('saints');
 
-  const byDay = new Map<string, { slug: string; name: string }[]>();
+  const byDay = new Map<string, { slug: string; name: string; sourced: boolean }[]>();
   for (const s of saints) {
     const key = `${s.data.feastDay.month}/${s.data.feastDay.day}`;
     const list = byDay.get(key) ?? [];
-    list.push({ slug: slug(s.id), name: s.data.name });
+    list.push({ slug: slug(s.id), name: s.data.name, sourced: (s.data.sources?.length ?? 0) > 0 });
     byDay.set(key, list);
   }
 

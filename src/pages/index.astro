@@ -12,28 +12,39 @@ const saints = await getCollection('saints');
 const all = [...saints].sort(
   (a, b) => a.data.name.localeCompare(b.data.name)
 );
+const sourced = all.filter((s) => (s.data.sources?.length ?? 0) > 0 && !s.data.stub);
+const highlightPool = sourced.length > 0 ? sourced : all.filter((s) => !s.data.stub).length > 0 ? all.filter((s) => !s.data.stub) : all;
 
-const featured = saints.find((s) => s.id === 'therese-of-lisieux') ?? all[0];
+const featured =
+  highlightPool.find((s) => s.id === 'therese-of-lisieux') ??
+  highlightPool[0] ??
+  saints.find((s) => s.id === 'therese-of-lisieux') ??
+  all[0];
 
 // Static fallbacks for build-time rendering; a small client script updates
 // these from /feast-days.json so they are always correct for the visitor.
 const now = new Date();
 const season = liturgicalSeason(now);
 
-const todaySaints = saints.filter(
+const todayAll = saints.filter(
   (s) => s.data.feastDay.month === now.getMonth() + 1 && s.data.feastDay.day === now.getDate()
 );
-const saintOfDay = todaySaints[0] ?? featured; // Fallback to featured saint
+const todayPreferred = todayAll.filter((s) => (s.data.sources?.length ?? 0) > 0);
+const todaySaints = todayPreferred.length > 0 ? todayPreferred : todayAll;
+const saintOfDay = todaySaints[0] ?? featured; // Fallback to featured/highlight saint
 
-const upcoming = saints
-  .filter((s) => !todaySaints.includes(s))
+const upcomingBase = highlightPool.filter((s) => !todayAll.includes(s));
+const upcomingPool = upcomingBase.length >= 5 ? upcomingBase : all.filter((s) => !todayAll.includes(s));
+const upcoming = upcomingPool
   .map((s) => ({ s, d: nextFeastDate(s.data.feastDay) }))
   .filter(({ d }) => d.getTime() >= new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime())
   .sort((a, b) => a.d.getTime() - b.d.getTime());
 
-const thisMonths = saints
+const monthAll = saints
   .filter((s) => s.data.feastDay.month === now.getMonth() + 1)
   .sort((a, b) => a.data.feastDay.day - b.data.feastDay.day);
+const monthPreferred = monthAll.filter((s) => (s.data.sources?.length ?? 0) > 0);
+const thisMonths = monthPreferred.length > 0 ? monthPreferred : monthAll;
 
 const categories = [
   { label: 'Browse by Vocation', to: '/saints?vocation=', hint: 'Popes, bishops, mystics, martyrs…' },
@@ -327,7 +338,7 @@ const categories = [
       if (label) label.textContent = `Saint of the day — ${now.toLocaleDateString('en-US', { month: 'long', day: 'numeric' })}`;
 
       if (today?.saints?.length) {
-        const s = today.saints[0];
+        const s = today.saints.find((x: { sourced?: boolean }) => x.sourced) || today.saints[0];
         const h = container.querySelector('h2');
         const link = container.querySelector('a.btn');
         if (h) h.textContent = s.name;

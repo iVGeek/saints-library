@@ -17,7 +17,9 @@ const buildYear = now.getFullYear();
 const buildMonth = now.getMonth() + 1;
 
 const monthData = buildCalendarMonth(saints, buildMonth);
-const todayEntries = monthData.days[String(now.getDate())] ?? [];
+const todayEntriesAll = monthData.days[String(now.getDate())] ?? [];
+const todayEntriesSourced = todayEntriesAll.filter((entry) => entry.sourced);
+const todayEntries = todayEntriesSourced.length > 0 ? todayEntriesSourced : todayEntriesAll;
 const currentSeason = liturgicalSeason(now);
 const currentTheme = seasonTheme(currentSeason);
 
@@ -246,6 +248,7 @@ const description = `Explore the feast days of ${stats.total.toLocaleString()} s
       <div class="mt-4 flex flex-wrap items-center gap-2 border-t border-gold-600/20 pt-4">
         <span class="label mr-1 !text-[10px]">Show</span>
         <button type="button" class="chip chip-active" data-filter="all" aria-pressed="true">All</button>
+        <button type="button" class="chip" data-filter="sourced" aria-pressed="false">Sourced</button>
         <button type="button" class="chip" data-filter="Saint" aria-pressed="false">Saints</button>
         <button type="button" class="chip" data-filter="Blessed" aria-pressed="false">Blesseds</button>
         <button type="button" class="chip" data-filter="Venerable" aria-pressed="false">Venerables</button>
@@ -840,7 +843,7 @@ const description = `Explore the feast days of ${stats.total.toLocaleString()} s
   } from '../data/calendar';
   import type { CalendarEntry, CalendarMonth } from '../utils/calendar-data';
 
-  type Filter = 'all' | 'Saint' | 'Blessed' | 'Venerable' | 'martyr';
+  type Filter = 'all' | 'sourced' | 'Saint' | 'Blessed' | 'Venerable' | 'martyr';
 
   interface DayView {
     day: number;
@@ -954,6 +957,7 @@ const description = `Explore the feast days of ${stats.total.toLocaleString()} s
 
   function matchesFilter(entry: CalendarEntry): boolean {
     if (state.filter === 'all') return true;
+    if (state.filter === 'sourced') return entry.sourced;
     if (state.filter === 'martyr') return entry.martyr;
     return entry.status === state.filter;
   }
@@ -1321,7 +1325,9 @@ const description = `Explore the feast days of ${stats.total.toLocaleString()} s
     const data = cache.get(today.getMonth() + 1);
     if (!data) return;
 
-    const entries = data.days[String(today.getDate())] ?? [];
+    const allEntries = data.days[String(today.getDate())] ?? [];
+    const sourcedEntries = allEntries.filter((entry) => entry.sourced);
+    const entries = sourcedEntries.length > 0 ? sourcedEntries : allEntries;
     todayDate.textContent = today.toLocaleDateString('en-GB', {
       weekday: 'long',
       day: 'numeric',
@@ -1347,7 +1353,7 @@ const description = `Explore the feast days of ${stats.total.toLocaleString()} s
       todayOpen.textContent = 'No entries today';
       todayOpen.disabled = true;
     } else if (entries.length <= 4) {
-      todayOpen.textContent = 'Open today’s saints';
+      todayOpen.textContent = sourcedEntries.length > 0 ? 'Open sourced saints' : 'Open today’s saints';
       todayOpen.disabled = false;
     } else {
       todayOpen.textContent = `See all ${entries.length.toLocaleString()}`;

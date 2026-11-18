@@ -30,6 +30,8 @@ const until = daysUntil(next);
 const pageImage = imageSrc(data.image, 1200);
 
 const pageSlug = slug(saint.id);
+const hasCitedSources = data.sources.length > 0;
+const showResearchNotice = data.stub || !hasCitedSources;
 
 const breadcrumbJsonLd = {
   '@context': 'https://schema.org',
@@ -167,6 +169,18 @@ const personJsonLd = {
     <div class="grid gap-12 lg:grid-cols-[1fr_320px]">
       <article class="min-w-0">
         <h2 class="sr-only">Life of {data.name}</h2>
+
+        {showResearchNotice && (
+          <div class="mb-8 rounded-md border border-gold-600/40 bg-gold-600/10 px-5 py-4">
+            <p class="label !text-[10px] text-gold-700">Research in progress</p>
+            <p class="mt-2 font-body text-base leading-relaxed text-ink-700">
+              {data.stub
+                ? 'This is a stub profile. Details may be incomplete while sources are gathered and verified.'
+                : 'This profile does not yet list cited sources in its references. It is being reviewed and improved as reliable sources are verified.'}
+            </p>
+          </div>
+        )}
+
         <div class="saint-prose">
           <Content />
         </div>
@@ -306,10 +320,21 @@ const personJsonLd = {
         sub="Biographies are original compositions drawing on public-domain works and official Church documents."
       />
       <div class="mt-8">
-        <SourcesList
-          sources={data.sources}
-          note="Dates and feast days follow the General Roman Calendar; where tradition and history differ, the distinction is noted in the text."
-        />
+        {hasCitedSources ? (
+          <SourcesList
+            sources={data.sources}
+            note="Dates and feast days follow the General Roman Calendar; where tradition and history differ, the distinction is noted in the text."
+          />
+        ) : (
+          <div class="rounded-md border border-gold-600/30 bg-ivory/70 p-6">
+            <p class="font-body text-base leading-relaxed text-ink-700">
+              No cited sources are listed for this profile yet. Use this information with care while references are being added and verified.
+            </p>
+            <p class="mt-3 font-body text-sm text-ink-500">
+              Dates and feast days follow the General Roman Calendar; where tradition and history differ, the distinction is noted in the text.
+            </p>
+          </div>
+        )}
       </div>
     </section>
   </div>

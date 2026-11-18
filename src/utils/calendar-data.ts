@@ -17,6 +17,8 @@ export interface CalendarEntry {
   rank: string | null;
   /** Present when a profile overrides the display label of its feast. */
   label: string | null;
+  /** True when the profile includes at least one cited source. */
+  sourced: boolean;
 }
 
 export interface CalendarMonth {
@@ -63,6 +65,7 @@ export function toCalendarEntry(saint: CollectionEntry<'saints'>): CalendarEntry
     patronage: saint.data.patronage,
     rank: saint.data.liturgicalRank ?? null,
     label: saint.data.feastDayLabel ?? null,
+    sourced: (saint.data.sources?.length ?? 0) > 0,
   };
 }
 

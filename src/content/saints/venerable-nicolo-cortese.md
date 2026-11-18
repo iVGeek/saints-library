@@ -1,6 +1,6 @@
 ---
 name: Venerable Nicolò Cortese
-stub: true
+stub: false
 honorific: Venerable
 summary: Professed priest in the Friars Minor Conventual.
 image: https://commons.wikimedia.org/wiki/Special:FilePath/PlacidoCortese1933.jpg?width=600
@@ -24,6 +24,10 @@ vocation:
 religiousOrder: Franciscan
 martyr: false
 prayers: []
+sources:
+  - 'Wikipedia, "Nicolò Cortese", https://en.wikipedia.org/wiki/Nicol%C3%B2_Cortese (CC BY-SA 4.0)'
 ---
 
-Professed priest in the Friars Minor Conventual.
+> Nicolò Cortese (7 March 1907 – c. 3 November 1944) - in religious Placido - was an Italian Catholic priest and professed member from the Order of Friars Minor Conventual. He served as both a parish priest and as the director for the "Il Messaggero di Sant'Antonio" magazine in Padua before and during World War II. It was in that conflict that he set up an elaborate network designed to protect Jewish people as well as British prisoners of war and Yugoslavs. But the Nazis soon discovered his plans and organized his arrest in October 1944 before killing him some weeks later after brutal tortures in their interrogations. The process for his beatification opened in 2002 and he became titled as a Servant of God. He has also been referred to as the "Italian Father Kolbe" in reference to the saint.
+
+*Source: [Wikipedia, "Nicolò Cortese"](https://en.wikipedia.org/wiki/Nicol%C3%B2_Cortese), CC BY-SA 4.0.*

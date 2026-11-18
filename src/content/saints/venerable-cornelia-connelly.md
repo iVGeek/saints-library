@@ -1,6 +1,6 @@
 ---
 name: Venerable Cornelia Connelly
-stub: true
+stub: false
 honorific: Venerable
 summary: Founder of the Society of the Holy Child Jesus.
 image: https://upload.wikimedia.org/wikipedia/commons/1/19/Cornelia_Connelly.jpg
@@ -21,6 +21,10 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+sources:
+  - 'Wikipedia, "Cornelia Connelly", https://en.wikipedia.org/wiki/Cornelia_Connelly (CC BY-SA 4.0)'
 ---
 
-Founder of the Society of the Holy Child Jesus.
+> Cornelia Augusta Connelly SHCJ (née Peacock; January 15, 1809 – April 18, 1879) was an American Roman Catholic nun, educational reformer and founder of the Society of the Holy Child Jesus. In 1846, she founded the first of many Holy Child schools in England. In 1992, Connelly was proclaimed as venerable by Pope John Paul II.
+
+*Source: [Wikipedia, "Cornelia Connelly"](https://en.wikipedia.org/wiki/Cornelia_Connelly), CC BY-SA 4.0.*

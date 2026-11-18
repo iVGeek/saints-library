@@ -1,6 +1,6 @@
 ---
 name: Venerable Emilie Engel
-stub: true
+stub: false
 honorific: Venerable
 summary: Consecrated member of the Secular Institute of the Schönstatt Sisters of Mary.
 birthYear: 1893
@@ -22,6 +22,10 @@ vocation:
   - Religious
 martyr: false
 prayers: []
+sources:
+  - 'Wikipedia, "Emilie Engel", https://en.wikipedia.org/wiki/Emilie_Engel (CC BY-SA 4.0)'
 ---
 
-Consecrated member of the Secular Institute of the Schönstatt Sisters of Mary.
+> Emilie Engel (born 6 February 1893 in Drolshagen – died 20 November 1955 in Koblenz) was a German Catholic teacher and nun. as provincial superior of the schoenstatt sisters of mary, she became a leading figure in the Schoenstatt Apostolic Movement. she died "with a reputation for holiness." a process for her beatification was initiated in 1999. On 10 May 2012, Pope Benedict XVI recognized her heroic virtue, granting her the title “Venerable.”
+
+*Source: [Wikipedia, "Emilie Engel"](https://en.wikipedia.org/wiki/Emilie_Engel), CC BY-SA 4.0.*

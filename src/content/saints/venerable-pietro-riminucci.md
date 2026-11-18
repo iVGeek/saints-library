@@ -1,6 +1,6 @@
 ---
 name: Venerable Pietro Riminucci
-stub: true
+stub: false
 honorific: Venerable
 summary: Franciscan Capuchin friar.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Pietro-Riminucci.jpg
@@ -24,6 +24,10 @@ vocation: []
 religiousOrder: Franciscan
 martyr: false
 prayers: []
+sources:
+  - 'Wikipedia, "Pietro Riminucci", https://en.wikipedia.org/wiki/Pietro_Riminucci (CC BY-SA 4.0)'
 ---
 
-Franciscan Capuchin friar.
+> Pietro Riminucci, also known as Serafino of Pietrarubbia, (Pietrarubbia, Pesaro e Urbino, Italy, 25 April 1875 – Macerata, Italy, 17 March 1960) was a lay brother professed in the Order of Friars Minor Capuchin. He was declared Venerable on March 15, 2008 by Pope Benedict XVI.
+
+*Source: [Wikipedia, "Pietro Riminucci"](https://en.wikipedia.org/wiki/Pietro_Riminucci), CC BY-SA 4.0.*

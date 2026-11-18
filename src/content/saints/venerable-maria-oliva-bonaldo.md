@@ -1,6 +1,6 @@
 ---
 name: Venerable Maria Oliva Bonaldo
-stub: true
+stub: false
 honorific: Venerable
 summary: Founded the Institute of the Daughters of the Church.
 searchAliases:
@@ -24,6 +24,10 @@ image: https://upload.wikimedia.org/wikipedia/commons/0/05/Maria_Oliva_Bonaldo.j
 vocation: []
 martyr: false
 prayers: []
+sources:
+  - 'Wikipedia, "Maria Oliva Bonaldo", https://en.wikipedia.org/wiki/Maria_Oliva_Bonaldo (CC BY-SA 4.0)'
 ---
 
-Founded the Institute of the Daughters of the Church.
+> Maria Oliva Bonaldo, religious name Maria Oliva Bonaldo of the Mystical Body, (26 March 1893, Castelfranco Veneto – 10 July 1976, Rome) was an Italian religious sister in the Roman Catholic Church. The founder and Superior General of the Daughters of the Church was declared venerable by Pope Francis.
+
+*Source: [Wikipedia, "Maria Oliva Bonaldo"](https://en.wikipedia.org/wiki/Maria_Oliva_Bonaldo), CC BY-SA 4.0.*

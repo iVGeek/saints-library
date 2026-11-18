@@ -1,28 +1,30 @@
 ---
 name: Blessed Humbert III of Savoy
-stub: false
-honorific: Blessed
-summary: >-
-  Son of Count Amadeus III of Savoy and Matilda of Vienna. Educated by Blessed Amadeus of Lausanne. Count of Savoy from
-  age 13 when his father died. Married several times; widower several times. Joined the Carthusian monastery at
-  Haute-Combe, but was obliged to resume political cha
-image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Humbert-III-of-Savoy.jpg
-birthYear: 1136
-deathYear: 1189
-born: 1136 at Avigliana, Italy
-died: 1189 at Chambéry, France
-birthPlace: Italy
-deathPlace: France
-region: Austria
-feastDay:
-  month: 3
-  day: 4
-canonizationStatus: Blessed
-vocation:
-  - Priest
-  - Monk
-martyr: false
+stub: false
+honorific: Blessed
+summary: >-
+  Son of Count Amadeus III of Savoy and Matilda of Vienna. Educated by Blessed Amadeus of Lausanne. Count of Savoy from
+  age 13 when his father died. Married several times; widower several times. Joined the Carthusian monastery at
+  Haute-Combe, but was obliged to resume political cha
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Humbert-III-of-Savoy.jpg
+birthYear: 1136
+deathYear: 1189
+born: 1136 at Avigliana, Italy
+died: 1189 at Chambéry, France
+birthPlace: Italy
+deathPlace: France
+region: Austria
+feastDay:
+  month: 3
+  day: 4
+canonizationStatus: Blessed
+vocation:
+  - Priest
+  - Monk
+martyr: false
 prayers: []
+sources:
+  - 'Wikipedia, "Humbert III of Savoy", https://en.wikipedia.org/wiki/Humbert_III_of_Savoy (CC BY-SA 4.0)'
 ---
 
 Son of Count Amadeus III of Savoy and Matilda of Vienna. Educated by Blessed Amadeus of Lausanne. Count of Savoy from age 13 when his father died. Married several times; widower several times. Joined the Carthusian monastery at Haute-Combe, but was obliged to resume political charge of the Savoy. Eventually assumed a Cistercian habit.

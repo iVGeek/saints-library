@@ -1,29 +1,31 @@
 ---
 name: Blessed Ferdinando Maria Baccilieri
-stub: false
-honorific: Blessed
-summary: >-
-  Raised in a pious family, he was educated by the Barnabites in Bologna, Italy and the Jesuits in Ferrara, Italy.
-  Jesuit novice in Rome, Italy in 1838, but health problems force him to drop out and return home. When he improved, he
-  studied theology in Ferrara, and was ordained in
-image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ferdinando-Maria-Baccilieri.jpg
-birthYear: 1821
-deathYear: 1893
-born: 14 May 1821 in Campodoso (modern Modena), Italy
-died: 13 July 1893 of natural causes
-birthPlace: Italy
-region: Korea
-feastDay:
-  month: 7
-  day: 13
-canonizationStatus: Blessed
-vocation:
-  - Bishop
-  - Priest
-  - Religious
-religiousOrder: Jesuit
-martyr: false
+stub: false
+honorific: Blessed
+summary: >-
+  Raised in a pious family, he was educated by the Barnabites in Bologna, Italy and the Jesuits in Ferrara, Italy.
+  Jesuit novice in Rome, Italy in 1838, but health problems force him to drop out and return home. When he improved, he
+  studied theology in Ferrara, and was ordained in
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ferdinando-Maria-Baccilieri.jpg
+birthYear: 1821
+deathYear: 1893
+born: 14 May 1821 in Campodoso (modern Modena), Italy
+died: 13 July 1893 of natural causes
+birthPlace: Italy
+region: Korea
+feastDay:
+  month: 7
+  day: 13
+canonizationStatus: Blessed
+vocation:
+  - Bishop
+  - Priest
+  - Religious
+religiousOrder: Jesuit
+martyr: false
 prayers: []
+sources:
+  - 'Wikipedia, "Ferdinando Maria Baccilieri", https://en.wikipedia.org/wiki/Ferdinando_Maria_Baccilieri (CC BY-SA 4.0)'
 ---
 
 Raised in a pious family, he was educated by the Barnabites in Bologna, Italy and the Jesuits in Ferrara, Italy. Jesuit novice in Rome, Italy in 1838, but health problems force him to drop out and return home. When he improved, he studied theology in Ferrara, and was ordained in 1844.

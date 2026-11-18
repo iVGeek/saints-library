@@ -1,22 +1,24 @@
 ---
 name: Saint Mateus Moreira
-stub: false
-honorific: Venerable
-summary: Layman in the archdiocese of Natal, Brazil. One of the Martyrs of Brazil murdered by Calvinist fanatics.
-image: https://upload.wikimedia.org/wikipedia/commons/4/46/Mateus_Moreira.jpg
-deathYear: 1645
-died: hacked to death on 3 October 1645 in Uruaçu, Rio Grande do Norte, Brazil
-deathPlace: Rio Grande do Norte, Brazil
-region: Brazil
-feastDay:
-  month: 10
-  day: 3
-centuries:
-  - 17
-canonizationStatus: Venerable
-vocation: []
-martyr: true
+stub: false
+honorific: Venerable
+summary: Layman in the archdiocese of Natal, Brazil. One of the Martyrs of Brazil murdered by Calvinist fanatics.
+image: https://upload.wikimedia.org/wikipedia/commons/4/46/Mateus_Moreira.jpg
+deathYear: 1645
+died: hacked to death on 3 October 1645 in Uruaçu, Rio Grande do Norte, Brazil
+deathPlace: Rio Grande do Norte, Brazil
+region: Brazil
+feastDay:
+  month: 10
+  day: 3
+centuries:
+  - 17
+canonizationStatus: Venerable
+vocation: []
+martyr: true
 prayers: []
+sources:
+  - 'Wikipedia, "Mateus Moreira", https://en.wikipedia.org/wiki/Mateus_Moreira (CC BY-SA 4.0)'
 ---
 
 Layman in the archdiocese of Natal, Brazil. One of the Martyrs of Brazil murdered by Calvinist fanatics.

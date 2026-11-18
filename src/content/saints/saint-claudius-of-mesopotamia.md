@@ -7,6 +7,7 @@ searchAliases:
   - Claudianus of Mesopotamia
 born: Persian
 died: repeatedly slashed with a knife in Mesopotamia
+region: Persia
 feastDay:
   month: 4
   day: 5

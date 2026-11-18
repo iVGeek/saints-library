@@ -75,14 +75,15 @@ const personJsonLd = {
 >
   <script is:inline type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)}></script>
   <!-- ===== HERO ===== -->
-  <section class="navy-bg border-b border-gold-600/30">
-    <div class="mx-auto max-w-6xl px-4 py-10 sm:px-6">
+  <section class="navy-bg cinema-scene border-b border-gold-600/30">
+    <div class="cinema-light" aria-hidden="true"></div>
+    <div class="mx-auto max-w-6xl px-4 py-12 sm:px-6 sm:py-16">
       <Breadcrumbs
         dark
         crumbs={[{ label: 'Home', href: '/' }, { label: 'Directory', href: '/saints' }, { label: data.name }]}
       />
 
-      <div class="mt-4 grid items-start gap-10 lg:grid-cols-[1.15fr_1fr]">
+      <div class="mt-6 grid items-start gap-10 lg:grid-cols-[1.15fr_1fr]">
         <div>
           <div class="flex flex-wrap items-center gap-3">
             <span class="label-dark">{data.honorific}</span>
@@ -95,14 +96,15 @@ const personJsonLd = {
             {data.martyr && <span class="chip !border-gold-500/50 !text-gold-300">Martyr</span>}
           </div>
 
-          <h1 class="mt-3 font-display text-4xl font-semibold leading-tight text-ivory sm:text-5xl">{data.name}</h1>
+          <h1 class="cinema-title mt-4 font-display text-4xl font-semibold leading-tight tracking-[0.02em] text-ivory sm:text-5xl lg:text-6xl">{data.name}</h1>
           {data.title && (
-            <p class="mt-2 font-heading text-2xl italic text-gold-400/90">{data.title}</p>
+            <p class="cinema-subtitle mt-3 font-heading text-2xl italic text-gold-400/90 sm:text-3xl">{data.title}</p>
           )}
+          <div class="cinema-rule mt-6 max-w-md" aria-hidden="true"></div>
 
-          {data.summary && <p class="mt-5 max-w-xl font-body text-lg leading-relaxed text-parchment-100/85">{data.summary}</p>}
+          {data.summary && <p class="mt-6 max-w-xl font-body text-lg leading-relaxed text-parchment-100/85 sm:text-xl">{data.summary}</p>}
 
-          <dl class="mt-6 flex flex-wrap gap-x-8 gap-y-3">
+          <dl class="mt-8 flex flex-wrap gap-x-8 gap-y-4">
             <div>
               <dt class="label-dark !text-[10px]">Feast day</dt>
               <dd class="mt-1 font-heading text-xl text-ivory">
@@ -127,7 +129,7 @@ const personJsonLd = {
           </dl>
 
           {patronKeys.length > 0 && (
-            <div class="mt-6 flex flex-wrap gap-2">
+            <div class="mt-7 flex flex-wrap gap-2">
               <span class="label-dark !text-[10px] mr-1">Patronages</span>
               {patronKeys.map((p) => (
                 <a href={`/saints?patronage=${p.key}`} class="chip !border-gold-500/50 !text-gold-300 hover:!bg-gold-600/20">
@@ -143,7 +145,7 @@ const personJsonLd = {
             src={data.image}
             name={data.name}
             symbol={data.symbols[0]}
-            className="w-72 sm:w-80"
+            className="cinema-portrait w-72 sm:w-80"
             vintage
           />
           {data.imageCredit && (
@@ -171,7 +173,7 @@ const personJsonLd = {
         <h2 class="sr-only">Life of {data.name}</h2>
 
         {showResearchNotice && (
-          <div class="mb-8 rounded-md border border-gold-600/40 bg-gold-600/10 px-5 py-4">
+          <div class="cinema-panel mb-8 rounded-md border border-gold-600/40 bg-gradient-to-r from-gold-600/10 via-ivory/70 to-gold-600/5 px-5 py-4">
             <p class="label !text-[10px] text-gold-700">Research in progress</p>
             <p class="mt-2 font-body text-base leading-relaxed text-ink-700">
               {data.stub

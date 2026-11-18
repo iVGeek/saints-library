@@ -6,6 +6,7 @@ honorific: Saint
 summary: One of a group of four martyrs executed together. No details about them have survived.
 died: Dorostorum, Mysia, Asia Minor
 deathPlace: Mysia, Asia Minor
+region: Bulgaria
 feastDay:
   month: 5
   day: 25

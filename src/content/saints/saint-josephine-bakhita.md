@@ -18,6 +18,7 @@ born: '1868'
 birthPlace: Oglassa
 centuries:
   - 19
+region: Africa
 feastDay:
   month: 2
   day: 8

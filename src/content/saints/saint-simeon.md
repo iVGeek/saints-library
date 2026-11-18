@@ -13,6 +13,7 @@ birthYear: 1814
 born: '1814'
 centuries:
   - 19
+region: France
 feastDay:
   month: 3
   day: 7

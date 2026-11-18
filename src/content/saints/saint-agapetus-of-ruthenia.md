@@ -7,6 +7,7 @@ searchAliases:
   - Agapitus
 deathYear: 1100
 died: c.1100 of natural causes
+region: Ukraine
 feastDay:
   month: 6
   day: 1

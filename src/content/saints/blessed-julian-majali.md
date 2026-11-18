@@ -8,6 +8,7 @@ summary: >-
   popes.
 deathYear: 1470
 died: '1470'
+region: Italy
 feastDay:
   month: 10
   day: 4

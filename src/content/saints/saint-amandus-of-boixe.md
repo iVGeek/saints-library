@@ -11,6 +11,7 @@ searchAliases:
   - Amantius
   - Amant
   - Amand
+region: France
 feastDay:
   month: 3
   day: 1

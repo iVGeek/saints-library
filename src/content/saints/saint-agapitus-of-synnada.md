@@ -3,6 +3,7 @@ name: Saint Agapitus of Synnada
 stub: true
 honorific: Saint
 summary: Third century bishop of Synnada, Phrygia.
+region: Turkey
 feastDay:
   month: 3
   day: 24

@@ -9,6 +9,7 @@ summary: >-
   c.1262.
 deathYear: 1280
 died: 1280 of natural causes
+region: France
 feastDay:
   month: 4
   day: 20

@@ -12,6 +12,7 @@ searchAliases:
   - Aldegrim
 deathYear: 939
 died: 939 of natural causes
+region: France
 feastDay:
   month: 6
   day: 4

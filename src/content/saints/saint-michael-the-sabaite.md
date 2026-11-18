@@ -9,6 +9,7 @@ summary: >-
 searchAliases:
   - Michael of Saint Sabas
 died: beheaded
+region: Holy Land
 feastDay:
   month: 7
   day: 19

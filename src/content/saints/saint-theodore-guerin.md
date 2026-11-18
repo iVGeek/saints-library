@@ -17,6 +17,7 @@ born: '1798'
 birthPlace: Etables-sur-Mer
 centuries:
   - 18
+region: France
 feastDay:
   month: 10
   day: 3

@@ -5,6 +5,7 @@ honorific: Saint
 summary: Martyr.
 died: Ptolemais, Phoenicia
 deathPlace: Phoenicia
+region: Israel
 feastDay:
   month: 3
   day: 4

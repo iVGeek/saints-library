@@ -9,6 +9,7 @@ summary: >-
 searchAliases:
   - Machuta
   - Madge
+region: Wales
 feastDay:
   month: 1
   day: 1

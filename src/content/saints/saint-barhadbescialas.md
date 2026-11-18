@@ -8,6 +8,7 @@ searchAliases:
   - Barhadbesciabas
 deathYear: 354
 died: '354'
+region: Persia
 feastDay:
   month: 7
   day: 21

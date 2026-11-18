@@ -22,7 +22,7 @@ export const GET: APIRoute = async () => {
     sy: s.data.symbols[0] ?? '',
     stb: s.data.stub,
     hs: s.data.sources.length > 0 ? 1 : 0,
-    sh: [s.data.name, ...s.data.searchAliases, ...s.data.patronage, ...s.data.causes, s.data.summary ?? ''].join(' ').toLowerCase(),
+    sh: [s.data.name, ...s.data.searchAliases, ...s.data.patronage, ...s.data.causes, (s.data.summary ?? '').slice(0, 240)].join(' ').toLowerCase(),
   }));
 
   return new Response(JSON.stringify(data), {

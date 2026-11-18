@@ -21,6 +21,10 @@ martyr: false
 patronage:
   - Kil-Faile, County Galway, Ireland
   - Kilgolgan, County Galway, Ireland
+sources:
+  - >-
+    Our Sunday Visitor's Encyclopedia of Saints, s.v. "Foila (Faile, Fallena, Follenna), St." (Our Sunday Visitor,
+    2003).
 prayers: []
 ---
 
